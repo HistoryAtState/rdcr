@@ -1,0 +1,194 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Nicaragua</title>
+                <title type="short">Nicaragua</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Nathaniel Smith, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>
+                    <placeName key="ni">Nicaragua</placeName> and the United States first
+                    established diplomatic relations in 1824 while Nicaragua was joined with
+                    Guatemala, Honduras, Costa Rica, and El Salvador within the Federation of
+                    Central American States. The United States recognized independent Nicaragua in
+                    1849. </p>
+                <figure>
+                    <graphic url="nicaragua-flag.jpg"/>
+                    <head>Modern Flag of Nicaragua</head>
+                </figure>
+                <div type="section" xml:id="recognition">
+                    <head>Recognition</head>
+                    <div type="timeline">
+                        <head>United States Recognition of the Federation of Central American
+                            States, <date when="1824">1824</date>.</head>
+                        <p> Following its independence from Spain and the Mexican Empire, Nicaragua
+                            joined the Federation of Central American States in 1823 along with
+                            Guatemala, Honduras, Costa Rica, and El Salvador. The United States
+                            recognized the Federation when President <persName>James
+                                Monroe</persName> received <persName>Antonio José Cañaz</persName>
+                            as Envoy Extraordinary and Minister Plenipotentiary on August 4, 1824.
+                        </p>
+                    </div>
+                    <div type="timeline">
+                        <head>United States Recognition of Nicaragua, <date when="1849">1849</date>.</head>
+                        <p> Nicaragua withdrew from the Federation of Central American States on
+                            November 5, 1838. The United States recognized independent Nicaragua on
+                            December 24, 1849 when President <persName>James K. Polk</persName>
+                            received Nicaraguan Chargé d’Affaires, <persName>Eduardo
+                                Carcache</persName>.</p>
+                    </div>
+                </div>
+                <div type="section" xml:id="consular-presence">
+                    <head>Consular Presence</head>
+                    <div type="timeline">
+                        <head/>
+                        <p/>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations with the Federation of Central
+                            American States, <date when="1824">1824</date>. </head>
+                        <p>The United States established diplomatic relations with the Federation of
+                            Central American States when President <persName>James Monroe</persName>
+                            received <persName>Antonio José Caña</persName>z as Envoy Extraordinary
+                            and Minister Plenipotentiary on August 4, 1824.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations with Nicaragua, <date when="1849">1849</date>.</head>
+                        <p> Nicaragua withdrew from the Federation of Central American States on
+                            November 5, 1838. Diplomatic relations were established between
+                            Nicaragua and the United States on December 24, 1849, when President
+                            James K. Polk received Nicaraguan Chargé d’Affaires, <persName>Eduardo
+                                Carcache</persName>. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Establishment of U.S. Diplomatic Mission, <date when="1851">1851</date>.</head>
+                        <p> The First U.S. diplomatic mission in Nicaragua was established on
+                            February 18, 1851, when Chargé d’Affaires <ref target="/departmenthistory/people/kerr-john-bozman">John B.
+                                Kerr</ref> presented his credentials.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Diplomatic Relations Severed by the United States, <date when="1909">1909</date>.</head>
+                        <p> The United States severed diplomatic relations with Nicaragua on
+                            December 1, 1909, when Secretary of State <persName>Philander Chase
+                                Knox</persName> returned the passport of the Nicaraguan Chargé
+                            d’Affaires. Nicaraguan President <persName>José Santos
+                                Zelaya</persName>, facing an armed rebellion, had ordered the execution
+                            of U.S. citizens <persName>Leonard Croce</persName> and <persName>Lee
+                                Roy Cannon</persName> who had aided the revolutionaries lead by
+                            Liberal General <persName>Juan J. Estrada</persName>. U.S. Marines
+                            landed in Bluefields soon after the break of diplomatic relations.
+                            Zelaya resigned on December 17, 1909. The Marines remained stationed in
+                            Nicaragua until 1932, aside from a nine-month period in 1925-26. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Diplomatic Relations Re-established by the United States, <date when="1911">1911</date>. </head>
+                        <p>The United States re-established diplomatic relations with Nicaragua on
+                            February 21, 1911, when Envoy Extraordinary and Minister Plenipotentiary
+                            <persName>Elliot Northcott</persName> presented his credentials to
+                            the government of President Estrada.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Normal Relations Interrupted, <date when="1926">1926</date>.</head>
+                        <p> On October 25, 1925, General <persName>Emiliano Chamorro
+                            Vargas</persName> began insurgent operations in Managua against the
+                            government of Carlos José Solórzano. <ref target="/departmenthistory/people/eberhardt-charles-christopher">Charles C. Eberhardt</ref>, U.S. Envoy Extraordinary and Minister
+                            Plenipotentiary, immediately informed Chamorro that the United States
+                            would not recognize any government that assumed power by force. Chamorro
+                            claimed the Presidency on January 17, 1926 and failed to win U.S.
+                            recognition. On October 30, 1926, Chamorro deposited the presidency upon
+                            Senator <persName>Sebastián Uriza</persName>. The U.S. Department of
+                            State deemed the Uriza regime <quote>“merely a transition between the
+                                Chamorro regime and a government which can be recognized.”</quote>
+                        </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Normal Relations Resumed, <date when="1926">1926</date>.</head>
+                        <p> A reconstituted Congress, including Senators and Deputies who had been
+                            expelled by General Chamorro, elected <persName>Adolfo Díaz</persName>
+                            as President Designate on November 11, 1926. Díaz took the oath of
+                            office on November 14. On November 17, the U.S. Chargé d’Affaires,
+                            <persName>Lawrence Dennis</persName>, delivered a note to the
+                            Nicaraguan Minister of Foreign Affairs extending U.S. recognition of the
+                            Díaz government. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Legation Raised to Embassy, <date when="1942">1942</date>.</head>
+                        <p> The Legation at Managua was raised to an Embassy on March 27, 1943, when
+                            U.S. Envoy Extraordinary and Minister Plenipotentiary to Nicaragua <ref target="/departmenthistory/people/stewart-james-bolton">James B.
+                                Stewart</ref> was promoted to Ambassador Extraordinary and
+                            Plenipotentiary.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Diplomatic Relations Severed by the United States, <date when="1947">1947</date>.</head>
+                        <p> On May 25-26, 1947, former President <persName>Anastasio Somoza
+                            García</persName> seized control of the country from President
+                            <persName>Leonardo Argüello Barreto</persName>. When Nicaraguan
+                            Ambassador to the United States, <persName>Guillermo Sevilla
+                                Sacasa</persName> called at the U.S. Department of State on June 5
+                            he was received in his private capacity and informed that the U.S.
+                            Government <quote>“would not be disposed to enter into official
+                                relations with the regime then in power in Nicaragua.”</quote>
+                        </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Diplomatic Relations Reestablished, <date when="1948">1948</date>.</head>
+                        <p>
+                            <persName>Víctor Manuel Román y Reyes</persName> was elected on August
+                            15, 1947. He was the fourth Head of State within 6 months. The U.S.
+                            State Department cited a resolution of the Ninth Inter-American
+                            Conference that underscored the desirability of continuity of diplomatic
+                            relations among the American republics and announced, on May 6, 1948,
+                            that the U.S. government was prepared to appoint a new Ambassador to
+                            Nicaragua. <ref target="/departmenthistory/people/shaw-george-price">George P. Shaw</ref>, U.S. Ambassador Extraordinary and
+                            Plenipotentiary, presented his credentials on September 1, 1948. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Ambassadors Expelled, <date when="1988">1988</date>.</head>
+                        <p> On July 11, 1988 the Nicaraguan Government expelled the American
+                            Ambassador to Nicaragua, <persName>Richard Melton</persName>, along with
+                            seven other members of the American Embassy at <placeName key="managua">Managua</placeName>. The Sandinista Government decried U.S. support
+                            of the opposition. The following day President Ronald Reagan ordered the
+                            departure of the Nicaraguan Ambassador to the United States, Dr.
+                            <persName>Carlos Tunnerman</persName>, and seven other Nicaraguan
+                            Embassy members for abusing their privileges of residence. The American
+                            Embassy in Managua remained open under <ref target="/departmenthistory/people/godard-ronald-d">Ronald D.
+                                Godard</ref> as Chargé d'Affaires <hi rend="italic">ad
+                                    interim</hi>.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Ambassadorial Relations Resumed, <date when="1990">1990</date>. </head>
+                        <p>
+                            <ref target="/departmenthistory/people/shlaudeman-harry-walter">Harry W.
+                                Shlaudeman</ref> presented his credentials as U.S. Ambassador to
+                            Nicaragua on June 21, 1990. </p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1850.htm">Nicaragua</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/nu/index.htm">Nicaragua</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

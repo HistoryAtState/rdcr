@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Slovakia</title>
+                <title type="short">Slovakia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Aaron Marrs, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>In July 1992, Slovakia declared itself a sovereign state and began negotiations
+                    with the <ref target="/countries/czech-republic">Czech Republic</ref> to disband
+                    the country that had been <ref target="/countries/czechoslovakia">Czechoslovakia</ref>. Once parliament approved, on January 1, 1993,
+                    Slovakia and the Czech Republic became two separate autonomous countries. The
+                    United States formally recognized the establishment of <placeName key="sk">Slovakia</placeName> on that same date. <figure>
+                        <graphic url="slovakia-flag.jpg"/>
+                        <head>Modern Flag of Slovakia</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Slovak Independence, <date when="1993">1993</date>.</head>
+                    <p>On January 1, 1993, the U.S. formally recognized both the Slovak and Czech
+                        Republic as separate, sovereign states. A public statement was made
+                        indicating that an ambassador to the Slovak Republic would be appointed
+                        shortly thereafter.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in
+                        Bratislava, <date when="1993">1993.</date>
+                    </head>
+                    <p>Diplomatic relations and the U.S. Embassy in <placeName key="bratislava">Bratislava</placeName> were established on January 4, 1993, with the
+                        appointment of <persName>Paul Hacker</persName> as Chargé d'Affaires <hi rend="italic">ad interim</hi>. The first U.S. Ambassador to Slovakia,
+                        <ref target="/departmenthistory/people/russell-theodore-e">Theodore E.
+                            Russell</ref>, presented his credentials on November 22, 1993.</p>
+                    <div type="appendix">
+                        <head>Resources</head>
+                        <listBibl>
+                            <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3430.htm ">Slovakia</ref>
+                            </bibl>
+                            <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/lo/ ">Slovakia</ref>
+                            </bibl>
+                        </listBibl>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

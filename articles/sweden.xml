@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Sweden</title>
+                <title type="short">Sweden</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by David Nickles, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>
+                    <placeName key="se">Sweden</placeName> recognized the United States in 1783 by
+                    signing a treaty negotiated by Benjamin Franklin. Diplomatic relations were
+                    established in 1818 and have remained unbroken since that time.<figure>
+                        <graphic url="sweden-flag.jpg"/>
+                        <head>Modern Flag of Sweden</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Swedish Recognition of the United States, <date when="1783">1783</date>.</head>
+                    <p>Sweden recognized the United States on April 3, 1783, when the Treaty of
+                        Amity and Commerce between the United States and Sweden was signed in
+                        Paris.</p>
+                    <p>The United States had appointed <ref target="/departmenthistory/people/franklin-benjamin">Benjamin
+                        Franklin</ref> as Minister Plenipotentiary to Sweden on September 28,
+                        1782. Franklin did not proceed to Sweden, but remained in Paris, where he
+                        was already serving as Minister Plenipotentiary to France. The Swedish
+                        minister in Paris approached Franklin in 1782 with the suggestion of
+                        concluding a treaty between the two entities, remarking that he hoped it
+                        would be remembered that <quote>“Sweden was the first power in Europe which
+                            had voluntarily and without solicitation offered its friendship to the
+                            United States.” </quote>Franklin informed Congress of this initiative
+                        and was then empowered to negotiate with Sweden. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular_presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>Establishment of Swedish Consular Relations in the United States, <date when="1783">1783</date>.</head>
+                    <p>Sweden appointed its first consul to the United States, <persName>Charles
+                        Hellstedt</persName>, on September 22, 1783, who was accredited on
+                        December 3, 1784.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of Consular Relations, <date when="1818">1818</date>.</head>
+                    <p>The United States named <persName>David Erskine</persName> as the first
+                        Consul to <placeName key="stockholm">Stockholm</placeName> on May 22,
+                        1818.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1818">1818.</date>
+                    </head>
+                    <p>Diplomatic relations were established on April 29, 1818, when <ref target="/departmenthistory/people/russell-jonathan">Jonathan
+                        Russell</ref> presented his credentials as American Minister
+                        Plenipotentiary to Sweden. Russell resided in Stockholm while he was
+                        minister at the court of Sweden and Norway (which were not then separate
+                        countries).</p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of U.S. Legation to Embassy Status, <date when="1947">1947.</date>
+                    </head>
+                    <p>On September 20, 1947, <ref target="/departmenthistory/people/matthews-harrison-freeman">H. Freeman
+                        Matthews</ref> was appointed to be the first U.S. Ambassador to Sweden.
+                        Mathews presented his credentials on December 5, 1947.</p>
+                </div>
+                <div type="section" xml:id="treaties_agreements">
+                    <head>Treaties and Agreements</head>
+                    <div type="timeline">
+                        <head>Treaty of Amity and Commerce, <date when="1784">1784</date>. </head>
+                        <p>The United States and Sweden signed a Treaty of Amity and Commerce on
+                            April 3, 1783 in Paris. Following ratification by both countries,
+                            ratifications were exchanged at Paris on February 6, 1784.</p>
+                    </div>
+                    <div type="appendix">
+                        <head>Resources</head>
+                        <listBibl>
+                            <bibl>Bevans, Charles I. ed. <hi rend="italic">Treaties and Other
+                                International Agreements of the United States of America,
+                                1776-1949</hi>. Department of State, 1974, Vol. 11, pp.
+                                710-722.</bibl>
+                            <bibl>Curtis, William Eleroy. <hi rend="italic">The United States and
+                                Foreign Powers</hi>. NY: Charles Scribner’s Sons, 1899.</bibl>
+                            <bibl>
+                                <hi rend="italic">The Diplomatic Correspondence of the United States
+                                    of America</hi>. Washington, D.C.: Blair and Rives, 1837.</bibl>
+                            <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2880.htm ">Sweden</ref>
+                            </bibl>
+                            <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/sw/index.htm ">Sweden</ref>
+                            </bibl>
+                        </listBibl>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

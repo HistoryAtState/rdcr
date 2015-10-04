@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Tonga</title>
+                <title type="short">Tonga</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Aaron Marrs, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The Tongan islands were united in 1845 under King <persName>George Tupou
+                    I</persName> and became a constitutional monarchy in 1875. Although Tonga was
+                    recognized by the United States in 1886, it entered into a protectorship
+                    agreement with the British Empire in 1900. This agreement maintained Tongan
+                    autonomy, but placed sole control of its foreign affairs with the British
+                    Foreign Office. <placeName xml:id="to">Tonga</placeName> hosted U.S. military forces during <ref target="/milestones/1937-1945">World War II</ref> in <placeName xml:id="tongatapu">Tongatapu</placeName>, which became
+                    a major transit hub for the Allies’ shipping lanes during the war. After Tonga
+                    withdrew from its British protectorate agreement in 1970, the United States
+                    accredited the U.S. Ambassador to <placeName>New Zealand</placeName>,
+                    <placeName>Fiji</placeName>, and <placeName>Western Samoa</placeName> to
+                    Tonga. Since then, the United States and Tonga have enjoyed close cooperation on
+                    a range of international issues. The United States does not have an embassy in
+                    the Tongan capital of Nuku’alofa; instead, since 1979 the U.S. Ambassador to
+                    Fiji is also accredited to Tonga and resident in Suva. <figure>
+                        <graphic url="tonga-flag.jpg"/>
+                        <head>Modern Flag of Tonga</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Tonga, <date when="1886">1886</date>.</head>
+                    <p>The United States and the King of Tonga signed a Treaty of Amity, Commerce
+                        and Navigation in Nuku’alofa on October 2, 1886. The treaty entered into
+                        force in 1888 but was terminated on July 28, 1920, by the British Foreign
+                        Office on behalf of the King of Tonga.</p>
+                    <p>In 1900 when Tonga became a protectorate of Great Britain, the British
+                        Foreign Office undertook control over all Tongan external affairs, and the
+                        U.S. ceased to appoint consul-generals to Nuku’alofa. </p>
+                </div>
+                <div type="timeline">
+                    <head>U.S. Recognition of Tongan Independence, <date when="1972">1972</date>.</head>
+                    <p>The United States appointed <ref target="/departmenthistory/people/franzheim-kenneth">Kenneth Franzheim
+                        II</ref> as Ambassador Extraordinary and Plenipotentiary to Tonga on
+                        October 4, 1972, thus recognizing Tongan independence and sovereignty.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular_presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <p>The first U.S. Consul-General to Nuku’alofa, <persName>Church
+                        Howe</persName>, was appointed on June 30, 1897 and replaced by
+                        <persName>Luther W. Osborn</persName> on July 26, 1897. The post was
+                        resident in Apia, Samoa, and closed in 1901.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1972">1972.</date>
+                    </head>
+                    <p>Tonga became an independent and sovereign nation within the British
+                        Commonwealth on June 4, 1970. On October 4, 1972, the United States
+                        accredited its Ambassador to New Zealand, Fiji, and Western Samoa, Kenneth
+                        Franzheim II, to Tonga; however, Franzheim resigned from his post in
+                        Wellington before he presented his credentials to Tonga on November 6, 1972.
+                        He resigned as U.S. Ambassador to Tonga shortly thereafter in January 1973.
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>Change from Wellington to Suva, <date when="1979">1979.</date>
+                    </head>
+                    <p>Beginning in 1979, the U.S. Ambassador to Fiji has also been accredited to
+                        Tonga, resident in Suva. On April 11, 1979, <ref target="/departmenthistory/people/condon-john-peter">John P.
+                            Condon</ref> presented his credentials to the Tongan government. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties_agreements">
+                <head>Treaties &amp; Agreements</head>
+                <div type="timeline">
+                    <head>Treaty of 1886 Terminated, <date when="1920">1920</date>.</head>
+                    <p>The treaty signed in 1886 was terminated on July 28, 1920, with the exception
+                        of the article which allowed ships of war from each country to enter the
+                        other’s ports.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="key_diplomatic_events">
+                <head>Key Diplomatic Events</head>
+                <div type="timeline">
+                    <head>Treaty of Friendship and Protectorship, <date when="1900">1900</date>.</head>
+                    <p>In 1900 the King of Tonga signed a Treaty of Friendship and Protectorship
+                        with Great Britain. The treaty delegated sole authority of Tongan foreign
+                        relations to the British Foreign Office, although it maintained Tongan
+                        autonomy. Subsequent amendments to this agreement gave further powers over
+                        internal Tongan affairs to the British, thus eroding the true autonomy of
+                        Tonga.</p>
+                    <div type="timeline">
+                        <head>Entry of Tonga into the British Commonwealth, <date when="1970">1970</date>.</head>
+                        <p>On June 4, 1970, Tonga officially withdrew from its protectorship
+                            agreement with Great Britain and instead became a part of the British
+                            Commonwealth. </p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/16092.htm">Tonga</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/tn/index.htm">Tonga</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back> </back>
+    </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Korea</title>
+                <title type="short">Korea</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2011</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, August 2011</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Recognition, <date when="1882">1882</date>.</head>
+                    <p>The United States and the Kingdom of Choson (Korea) engaged in their first
+                        official diplomatic interaction on May 22, 1882, when representatives of the
+                        two states signed a treaty of amity and commerce at Chemulpo, Korea. The
+                        treaty had been negotiated with the assistance of Chinese officials, since
+                        China had for many years had influence in Korea’s foreign affairs due to a
+                        historical tributary relationship between the two countries. In fact, Korea
+                        was an independent state and this fact was acknowledged in the treaty. It
+                        was the first treaty Korea signed with a Western nation.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and Legation in Korea, <date when="1883">1883</date>.</head>
+                    <p>Diplomatic relations and the American Legation at Seoul were established on
+                        May 20, 1883, when Envoy Extraordinary and Minister Plenipotentiary <ref target="/departmenthistory/people/foote-lucius-harwood">Lucius H.
+                            Foote</ref> presented his credentials to the King of Korea.</p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations Ended, <date when="1905">1905</date>.</head>
+                    <p>Japan assumed direction of Korean foreign relations on November 17, 1905, and
+                        U.S. Envoy <ref target="/departmenthistory/people/morgan-edwin-vernon">Edwin
+                            Morgan</ref> closed the Legation on November 28, 1905.</p>
+                </div>
+            </div>
+            <!--<div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                        target="http://www.state.gov/r/pa/ei/bgn/18902.htm">China</ref> </bibl>
+                    <bibl>Department of State Country Information: <ref
+                        target="http://www.state.gov/p/eap/ci/ch/index.htm">China</ref> </bibl>
+                </listBibl>
+            </div>-->
+        </body>
+    </text>
+</TEI>

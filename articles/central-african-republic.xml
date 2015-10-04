@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Central African
+                    Republic</title>
+                <title type="short">Central African Republic</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Chris Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized the Central African Republic on August 13, 1960, in
+                    a congratulatory message from President <persName>Dwight D.
+                        Eisenhower</persName> to Prime Minister <persName>David
+                    Dacko</persName>.</p>
+                <figure>
+                    <graphic url="central-african-flag.jpg"/>
+                    <head>Modern Flag of the Central African Republic</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Central African Republican Independence, <date when="1960">1960</date>.</head>
+                    <p>The United States recognized the Central African Republic on August 13, 1960,
+                        in a congratulatory message from President <persName>Dwight D.
+                            Eisenhower</persName> to Prime Minister <persName>David
+                        Dacko</persName>. On that date, the independence of the Central African
+                        Republic from French Equatorial Africa was proclaimed. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1960">1960.</date>
+                    </head>
+                    <p>Diplomatic relations were established on August 13, 1960, when the American
+                        Consul at Brazzaville, <ref target="/departmenthistory/people/lukens-alan-wood">Alan W.
+                        Lukens</ref>, presented his letter of credence as Charge d’Affaires.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Embassy in the Central African Republic,
+                            <date when="1961">1961.</date>
+                    </head>
+                    <p>Embassy <placeName key="bangui">Bangui</placeName> was established on
+                        February 10, 1961, with <ref target="/departmenthistory/people/lukens-alan-wood">Alan W. Lukens</ref>
+                        as resident Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/4007.htm">Central African
+                            Republic</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/cv">Central African Republic</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

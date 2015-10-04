@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Iceland</title>
+                <title type="short">Iceland</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Following the April 9, 1940, German occupation of Denmark, Iceland took control
+                    of its own foreign relations. In July and December of that year Icelandic
+                    officials asked the United States to place Iceland under U.S. protection in
+                    accordance with the <ref target="/milestones/1801-1829/monroe">Monroe
+                        Doctrine</ref> to forestall a feared German invasion of the island. The
+                    United States was initially unenthusiastic about this proposal, but ultimately
+                    concluded that Icelandic occupation was a matter of national defense and
+                    occupied Iceland on July 7, 1941.<figure>
+                        <graphic url="iceland.jpg"/>
+                        <head>Modern Flag of Iceland</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Icelandic Independence, <date when="1944">1944</date>.</head>
+                    <p>When German forces occupied <placeName>Denmark</placeName> in 1940, Iceland
+                        assumed control over its own foreign affairs and gradually moved toward
+                        complete independence from Denmark. Following a plebiscite, Iceland formally
+                        became an independent republic on <date when="1944-06-17">June 17,
+                            1944</date>. That same day, the United States recognized Iceland in
+                        public statements of congratulation by President <persName>Franklin D.
+                            Roosevelt</persName> and Secretary of State <ref target="/departmenthistory/people/hull-cordell">Cordell Hull</ref>.</p>
+                </div>
+                <div type="section" xml:id="diplomatic_relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Legation in
+                            Iceland, <date when="1941">1941.</date>
+                        </head>
+                        <p>Diplomatic relations and the American Legation at <placeName key="reykjavik">Reykjavik</placeName> were established on September
+                            30, 1941, when Envoy Extraordinary and Minister Plenipotentiary <ref target="/departmenthistory/people/macveagh-lincoln">Lincoln
+                                MacVeagh</ref> presented credentials and elevated the American
+                            Consulate to Legation status. Iceland had taken over full control of its
+                            foreign relations on April 10, 1940, although the country had not yet
+                            declared itself independent from Denmark, which was then under German
+                            occupation.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Elevation of American Legation to Embassy Status, <date when="1955">1955.</date>
+                        </head>
+                        <p>The American Legation was elevated to Embassy status on November 3, 1955,
+                            when <ref target="/departmenthistory/people/muccio-john-joseph">John J.
+                                Muccio</ref> presented his credentials as Ambassador Extraordinary
+                            and Plenipotentiary. </p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3396.htm">Iceland</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/ic">Iceland</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

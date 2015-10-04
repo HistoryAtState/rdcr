@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Union of Soviet Socialist Republics (USSR)</title>
+                <title type="short">Union of Soviet Socialist Republics*</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2010</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Lindsay Krasnoff, February 2010</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The 1917 Russian Revolution overthrew the old Russian Empire, which had
+                    recognized the United States in 1803 and established diplomatic relations in
+                    1809. Normal diplomatic relations between the United States and Russia were
+                    interrupted in 1917 and were resumed on November 16, 1933, when President
+                    Franklin Roosevelt informed Soviet Foreign Minister <persName>Maxim Litvinov</persName> that the
+                    United States recognized the Government of the Union of Soviet Socialist
+                    Republics (USSR) and wished to establish normal diplomatic relations. Litvinov on the
+                    same day replied that his government was glad to establish normal diplomatic
+                    relations and exchange ambassadors. With the dissolution of the USSR in
+                    1991, the United States considered the Russian Federation as the successor state
+                    of the USSR. Please view the country entry for <ref target="/countries/russia">Russia</ref>. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

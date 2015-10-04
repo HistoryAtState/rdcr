@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Papal States</title>
+                <title type="short">Papal States*</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Chris Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>In existence for over a thousand years, the Papal States, also referred to as the
+                    Pontifical States, were ruled by the Pope (a temporal ruler) at the time that
+                    the United States declared independence from Great Britain in 1776. The first
+                    official contact between the two entities occurred in 1784, the first U.S.
+                    consul was sent to Rome in 1797, and diplomatic relations were established when
+                    the first U.S. diplomatic representative was accredited to the Papal States in
+                    1848. The U.S. maintained a legation in Rome until the Papal States were
+                    incorporated into the Kingdom of Italy in 1870.</p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Papal States Recognize the United States, <date when="1784">1784</date>. </head>
+                    <p> The first act of official recognition by the Papal States of the United
+                        States occurred on December 15, 1784, when American representatives in Paris
+                        were approached by the papal nuncio and told that the Papal States “opened
+                        the ports of Civita Vecchia on the Mediterranean and Ancona on the Adriatic,
+                        to the ships of the young republic of America.” </p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular_presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>The first U.S. consul at Rome, John Baptiste Sartori, was appointed on
+                            <date when="1797-06-26">June 26, 1797</date>. </head>
+                    <p> Although U.S. representation in <placeName xml:id="rome">Rome</placeName>
+                        was not elevated to diplomatic status for nearly a half century, U.S.
+                        consuls enjoyed unusual privileges in the Papal States. According to Howard
+                        R. Murrow, historian of U.S.-Italian diplomatic relations, U.S. consuls in
+                        Rome “were received at all formal functions on the same footing with full
+                        diplomatic representatives of other nations.” </p>
+                </div>
+                <div type="timeline">
+                    <head>The first representative of the Papal States in the United States.</head>
+                    <p>The first representative of the Papal States in the United States was
+                            <persName>Count Ferdinando Lucchesi</persName>, who was also the first
+                        representative of the Two Sicilies in the United States, and whose exequatur
+                        as Consul General of the Papal States at Washington D.C. was signed by U.S.
+                        President <persName>John Quincy Adams</persName> on <date when="1826-05-30">May 30, 1826</date>. Consular officers from the Papal States were
+                        stationed in various parts of the United States down to at least 1867. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1848">1848</date>.</head>
+                    <p> The United States established diplomatic relations with the Papal States
+                        when <persName>Jacob L. Martin</persName> was received in Rome on August 19,
+                        1848, as the first U.S. Chargé d’Affaires Near the Papal States.
+                        Unfortunately, he died shortly thereafter, and <persName>Lewis
+                            Cass</persName> was accredited on November 19, 1849, as the new U.S.
+                        Chargé d’Affaires. On November 9, 1854, Cass presented his credentials as
+                        U.S. Minister Resident to the Pontifical States.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Legation in Rome, <date when="1848">1848</date>.</head>
+                    <p>The U.S. Legation in Rome was established in 1848 when the first U.S. Chargé
+                        d’Affaires Jacob L. Martin presented his credentials on August 19, 1848.
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>Cessation of Relations and Closure of the American Legation in Rome, <date when="1867">1867</date>.</head>
+                    <p> The American mission to the Papal States closed in 1867 after Congress
+                        refused to fund the mission any longer. There were several reasons for this,
+                        ranging from religious feeling to domestic politics in the United States to
+                        American sympathies for the Italian unification movement. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="key-events">
+                <head>Key Diplomatic Events</head>
+                <div type="timeline">
+                    <head>Proclamation of the Kingdom of Italy, <date when="1861">1861</date>.</head>
+                    <p> The aftermath of the Franco-Austrian War brought about a series of
+                        plebiscites in the northern Italian states. By going to the ballot box, the
+                        states voted to join Piedmont-Sardinia, with the ultimate goal of unifying
+                        the entire peninsula. It should be noted that Piedmont-Sardinia was one of
+                        the more powerful states in the peninsula, as well as having one of the most
+                        liberal political systems. Garibaldi’s march to “liberate” the Kingdom of
+                        the Two Sicilies in 1860 brought the southern peninsula into the fold, and
+                        the new Kingdom of Italy was proclaimed on March 17, 1861, with the royal
+                        family of Piedmont-Sardinia as the new ruling monarchs of Italy.</p>
+                </div>
+                <div type="timeline">
+                    <head>U.S. Recognition of Italian Independence, <date when="1861">1861</date>. </head>
+                    <p> The United States officially recognized the Kingdom of Italy when it
+                        accepted the credentials of <persName>Chevalier Joseph Bertinatti</persName>
+                        as Minister Plenipotentiary of the Kingdom of Italy on April 11, 1861.</p>
+                </div>
+                <div type="timeline">
+                    <head>Incorporation of Rome into the Kingdom of Italy, <date when="1870">1870</date>.</head>
+                    <p> French troops were the main barrier to Italian occupation of the Papal
+                        States after 1867; however, when Prussia declared war upon France in the
+                        summer of 1870, the Italians took advantage of the situation. With French
+                        resources allocated to the struggle of the Franco-Prussian War (1870-71),
+                        Napoleon III ordered his troops out of the Italian peninsula. The Italians
+                        entered the Papal States in September 1870 and, through the backing of a
+                        plebiscite held in early October, annexed the Papal States and Rome to the
+                        Kingdom of Italy.</p>
+                </div>
+                <div type="timeline">
+                    <head>U.S. Legation to the Kingdom of Italy moves to <placeName xml:id="florence">Florence</placeName> and then Rome, <date when="1871">1865-71</date>.</head>
+                    <p> When the Kingdom of Italy moved its seat of government from Turin to
+                        Florence in 1865, the U.S. Legation followed. During the summer of 1871, the
+                        Italian capital moved from Florence to Rome, reflecting the completion of
+                        unification. George P. Marsh, as U.S. Minister Plenipotentiary, oversaw the
+                        move of the U.S. Legation from Turin to Florence in 1865 and from Florence
+                        to Rome in 1871.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="issues">
+                <head>Issues Relevant to U.S. Foreign Diplomacy</head>
+                <div type="timeline">
+                    <head>Religion.</head>
+                    <p> It is important to note that when the first U.S. diplomatic representatives
+                        arrived in Rome, the United States was one of the few countries represented
+                        that did not have ties to the Pope as spiritual head of the nation. (i.e.
+                        the U.S. was one of the few secular powers with diplomats in Rome.)
+                        Then-U.S. Secretary of State <persName>James Buchanan</persName> wrote to
+                        the U.S. Chargé d’Affaires in 1848 that <quote>“Your efforts, therefore,
+                            will be devoted exclusively to the cultivation of the most friendly
+                            civil relations with the papal government, and to the extension of the
+                            commerce between the two countries. You will carefully avoid even the
+                            appearance of interfering in ecclesiastical questions, whether these
+                            relate to the United States or any other portion of the world. It might
+                            be proper, should you deem it advisable, to make these views known, on
+                            some suitable occasion, to the papal government, so that there may be no
+                            mistake or misunderstanding on the subject.”</quote>
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>Trade and Commerce.</head>
+                    <p> During the early years of the republic, the United States sought to promote
+                        trade abroad and to ensure that American vessels, both public and private,
+                        would be welcomed in ports around the world. Therefore, the Papal States’
+                        recognition of the United States early-on was beneficial to U.S. trade and
+                        commerce.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Pietro Orsi. <hi rend="italic">Cavour and the Making of Modern Italy,
+                            1810-1861.</hi> (New York: G.P. Putnam’s Sons, 1914).</bibl>
+                    <bibl>Denis Mack Smith. <hi rend="italic">Modern Italy: A Political
+                            History.</hi> (Ann Arbor, MI: The University of Michigan Press,
+                        1997).</bibl>
+                    <bibl>Howard R. Marraro. <hi rend="italic">Diplomatic Relations Between the
+                            United States and the Kingdom of the Two Sicilies. Volume I:
+                            1816-1850.</hi> (New York: S.F. Vanni (Ragusa), 1951.</bibl>
+                    <bibl>Chiefs of Mission: <ref target="http://history.state.gov/departmenthistory/people/chiefsofmission/va">Papal States</ref>. </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

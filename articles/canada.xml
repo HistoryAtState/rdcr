@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Canada</title>
+                <title type="short">Canada</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Chris Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The Dominion of Canada formed in 1867, but as an integral part of the British
+                    Empire its foreign relations remained under the control of London. Over the next
+                    six decades Canada gradually won greater control over its external affairs,
+                    spurred in part by the demands of managing its relationship with the United
+                    States. American and Canadian government officials increasingly interacted
+                    through joint commissions and military cooperation, and the two governments even
+                    negotiated a bilateral fisheries treaty in 1923. It was not until 1926, however,
+                    that the United Kingdom acknowledged that Canada was fully autonomous in the
+                    conduct of its foreign affairs.<figure>
+                        <graphic url="canada-flag.jpg"/>
+                        <head>Modern Flag of Canada</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Canadian Independence, <date when="1927">1927</date>.</head>
+                    <p>The United States recognized Canada as an independent state with autonomous
+                        control over its foreign relations on <date when="1927-02-18">February 18,
+                            1927</date>, when <persName>Vincent Massey</persName> presented his
+                        credentials in Washington as Canadian Envoy Extraordinary and Minister
+                        Plenipotentiary. This action followed the 1926 British Imperial Conference
+                        that produced the <ref target="/milestones/1945-1952/creation-israel">Balfour
+                            Declaration</ref>, which stated the United Kingdom and the Dominions
+                            <quote>“are autonomous Communities within the British Empire, equal in
+                            status, in no way subordinate one to another in any aspect of their
+                            domestic or external affairs.”</quote>
+                    </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1927">1927.</date>
+                    </head>
+                    <p>Diplomatic relations were established on February 18, 1927, when
+                            <persName>Vincent Massey</persName> presented his credentials in
+                        Washington as Canadian Envoy Extraordinary and Minister Plenipotentiary.
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of American Legation in Ottawa, <date when="1927">1927.</date>
+                    </head>
+                    <p>The American Legation in <placeName key="ottawa">Ottawa</placeName> was
+                        established on June 1, 1927, when <ref target="/departmenthistory/people/phillips-william">William
+                            Phillips</ref> presented his credentials as Envoy Extraordinary and
+                        Minister Plenipotentiary. </p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of Legation to Embassy Status, <date when="1943">1943.</date>
+                    </head>
+                    <p>The American Legation in Ottawa was elevated to Embassy status on November
+                        19, 1943, when <ref target="/departmenthistory/people/atherton-ray">Ray
+                            Atherton</ref> presented his credentials as Ambassador Extraordinary and
+                        Plenipotentiary. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html">Canada</ref>
+                    </bibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2089.htm">Canada</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/ca">Canada</ref>
+                    </bibl>
+                    <bibl>Langer, William L. <hi rend="italic">An Encyclopedia of World
+                        History</hi>. Boston: Houghton Mifflin Company, 1968.</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

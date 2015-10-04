@@ -1,0 +1,82 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Bangladesh</title>
+                <title type="short">Bangladesh</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and Written by David Nickles, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States had limited contact with <placeName>Bangladesh</placeName> when
+                    it was a British colony, but established consular relations there after the
+                    formation of <placeName>Pakistan</placeName>. On April 4, 1972, the United
+                    States recognized Bangladesh.</p>
+                <figure>
+                    <graphic url="bangladesh.jpg"/>
+                    <head>Modern Flag of Bangladesh</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Bangladeshi Independence, <date when="1972">1972</date>.</head>
+                    <p>The United States recognized Bangladesh on April 4, 1972, in a press
+                        statement from Secretary of State <ref target="/departmenthistory/people/rogers-william-pierce">William
+                            Rogers</ref>. In addition, <ref target="/departmenthistory/people/spivack-herbert-daniel">Herbert
+                            Spivack</ref>, the principal U.S. officer in Dhaka, delivered a message
+                        from President <persName>Richard Nixon</persName> to Bangladeshi Prime
+                        Minister Sheikh <persName>Mujibur Rahman</persName> informing him that the
+                        United States government wished to establish diplomatic relations at the
+                        ambassadorial level. Mujibur Rahman sent a letter to Nixon on April 9 in
+                        which he acknowledged the recognition accorded his country. The territory
+                        that became the state of Bangladesh previously was the eastern part of
+                            <placeName>Pakistan</placeName>.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-relations">
+                <head>Consular Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Consular Relations, <date when="1949">1949</date>. </head>
+                    <p>The United States established a consulate in <placeName key="dhaka">Dhaka</placeName> (then referred to as “Dacca”) on August 29, 1949,
+                        when what is now called “Bangladesh” was the eastern part of Pakistan.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="relations">
+                <head>History of Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy at Dhaka,
+                            <date when="1972">1972</date>.</head>
+                    <p>Diplomatic relations and the American Embassy at <placeName key="dhaka">Dhaka</placeName> were established on May 18, 1972, with Herbert D.
+                        Spivack as Chargé d'Affaires <hi rend="italic">ad interim</hi>. The first
+                        Ambassador Extraordinary and Plenipotentiary was <ref target="/departmenthistory/people/boster-davis-eugene">Davis Eugene
+                            Boster</ref>, who presented his credentials on April 13, 1974.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/bg.html">Bangladesh</ref>
+                    </bibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3452.htm">Bangladesh</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/sca/ci/bg/index.htm">Bangladesh</ref>
+                    </bibl>
+                    <bibl>Library of Congress Country Study: <ref target="http://memory.loc.gov/frd/cs/bdtoc.html">Bangladesh</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

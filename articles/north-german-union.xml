@@ -1,0 +1,102 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: North German
+                    Union</title>
+                <title type="short">North German Union*</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2010</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Lindsay Krasnoff, January 2010</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The <placeName xml:id="qn">North German Union (Confederation)</placeName> was the
+                    product of the 1866 Austro-Prussian War. It was a federal state that comprised
+                    21 German states in addition to the Kingdom of Prussia. The German states that
+                    did not join the North German Confederation were Wurttemberg, Baden, Bavaria,
+                    Austria, and Southern Hesse. The United States recognized the North German
+                    Confederation (referred to by the U.S. Government at the time as the North
+                    German Union) in 1867, and established diplomatic relations. When the German
+                    Empire was created in 1871, it made the North German Confederation obsolete.
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of the North German Confederation, <date when="1867">1867</date>.</head>
+                    <p> Following the establishment of the North German Confederation on July 1,
+                        1867, on November 20, 1867, the U.S. Minister to Prussia, <persName>George
+                            Bancroft</persName>, informed Secretary of State <ref target="/departmenthistory/people/seward-william-henry">William H.
+                            Seward</ref> that he had attended the opening of the North German
+                        Parliament. He requested, however, that the Secretary formally notify him of
+                        the intentions of the U.S. Government concerning the question of the
+                        recognition of the North German Confederation. On December 9, 1867,
+                        Secretary Seward approved of Bancroft’s decision to attend the opening of
+                        the North German Parliament since he was the officially-accredited U.S.
+                        Minister to the Prussian <persName>King Wilhelm I</persName>, who was also
+                        the hereditary President of the North German Confederation. Furthermore,
+                        Seward informed Bancroft that he would disseminate a description of the
+                        Confederation’s flag so that its ships would be welcomed in American waters.
+                        This exchange between Seward and Bancroft implicitly signified a formal
+                        recognition of the North German Confederation by the United States. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1868">1868</date>.</head>
+                    <p> The U.S. sent <ref target="/departmenthistory/people/bancroft-george">George
+                            Bancroft</ref> to serve as Minister of the North German Confederation,
+                        in addition to Bancroft’s 1867 commission as U.S. Minister to Prussia. On
+                        February 22, 1868, Bancroft concluded the Naturalization Convention with the
+                        North German Union to <quote>“regulate the citizenship of those persons who
+                            emigrate from the North German Confederation to the United States of
+                            America, and from the United States of America to the territory of the
+                            North German Confederation.”</quote>
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>Cessation of Diplomatic Relations with the North German Union, <date when="1871">1871</date>.</head>
+                    <p> When the North German Union was abolished by the creation of the German
+                        Empire in 1871, the United States recognized the legitimacy of and
+                        established diplomatic relations with the German Empire. At this point the
+                        North German Union was defunct. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="key-events">
+                <head>Key Diplomatic Events</head>
+                <div type="timeline">
+                    <head>German Unification.</head>
+                    <p>The North German Confederation was part of the general process of German
+                        unification of the mid-nineteenth century. (See “<ref target="/countries/issues/german-unification">Unification of German
+                            States</ref>” for greater detail.)</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>William M. Malloy, <hi rend="italic">Treaties, Conventions, International
+                            Acts, Protocols, and Agreements Between The United States of American
+                            and Other Powers, 1776-1909</hi> (Washington DC: Government Printing
+                        Office, 1910).</bibl>
+                    <bibl>John Bassett Moore, <hi rend="italic">A Digest of International Law</hi>
+                        (Washington, D.C.: Government Printing Office, 1906).</bibl>
+                    <bibl>John Bassett Moore, <hi rend="italic">Four Phases of American
+                            Development</hi> (Baltimore: Johns Hopkins Press, 1912).</bibl>
+                    <bibl>Elmer Plischke, <hi rend="italic">U.S. Department of State: A Reference
+                            Book</hi> (Greenport, CT: Westwood Press, 1999).</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

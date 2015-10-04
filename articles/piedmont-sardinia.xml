@@ -1,0 +1,194 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776:
+                    Piedmont-Sardinia</title>
+                <title type="short">Piedmont-Sardinia*</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2010</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Lindsay Krasnoff, January 2010</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>When the United States declared independence from Great Britain in 1776, the
+                        <placeName xml:id="qp">Kingdom of Piedmont-Sardinia</placeName> was an
+                    independent and sovereign state. The entity referred to commonly in U.S. foreign
+                    policy correspondence as the Kingdom of Sardinia is more commonly known as the
+                    Kingdom of Piedmont-Sardinia, as Piedmont and Sardinia were politically joined
+                    after 1720. </p>
+                <p> Ruled by the House of Savoy out of the capital of Turin, Piedmont-Sardinia sided
+                    with Austria when war broke out between Austria and Revolutionary France in
+                    1792. The French triumphed and descended into the Italian peninsula, bringing
+                    with them revolutionary ideas about government and society, and overthrowing the
+                    old established ruling orders. In 1799 the Austrian and Russian armies pushed
+                    the French out of the Italian peninsula, which spelled the demise of the
+                    fledgling republics. After Napoleon’s rise to power, the Italian peninsula was
+                    once again conquered by the French. The House of Savoy fled to Sardinia while
+                    Piedmont was annexed directly to the French Empire during the early years of the
+                    nineteenth century. Following the Congress of Vienna of 1815, the Kingdom of
+                    Piedmont-Sardinia was reconstituted and enlarged to include Genoa. </p>
+                <p> The first act of mutual recognition between the United States and the Kingdom of
+                    Piedmont-Sardinia occurred in 1802 and diplomatic relations were established in
+                    1839. As Piedmont-Sardinia industrialized during the 1840s and 1850s, trade
+                    between the two states developed. When the Kingdom of Italy was founded in 1861,
+                    the King of Piedmont-Sardinia, <persName>Victor Emmanuel II</persName>, became
+                    King of Italy. At this time, the United States appointed its first Envoy
+                    Extraordinary and Minister Plenipotentiary to Italy. The capital of the new
+                    kingdom was located in Turin (the old seat of government for the Kingdom of
+                    Piedmont-Sardinia). During the next ten years, the seat of government for the
+                    new Kingdom of Italy moved twice, first to <placeName key="florence">Florence</placeName> (in 1865) and finally to <placeName key="rome">Rome</placeName> (in 1871), and with it, the American Legation. </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Mutual Recognition, <date when="1802">1802</date>.</head>
+                    <p>In an act of mutual recognition, the Kingdom of Piedmont-Sardinia accepted
+                        the U.S. Consular Agent at Cagliari, <persName>François de
+                        Navoni</persName>, in 1802.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>The earliest U.S. consulates in the Kingdom of Piedmont-Sardinia were at
+                        Cagliari and Genoa.</head>
+                    <p>The first U.S. consulate in Piedmont-Sardinia opened at <placeName xml:id="cagliari">Cagliari</placeName> in 1802 with François de Navoni
+                        as U.S. Consul. However, the oldest U.S. consulate in the Kingdom of
+                        Piedmont-Sardinia was <placeName xml:id="xo">Genoa</placeName>, which was
+                        incorporated into Piedmont-Sardinia as a result of the Congress of Vienna in
+                        1815. A third U.S. Consulate opened at <placeName xml:id="nice">Nice</placeName> in 1818 with Victor Adolphus Sasserno as U.S. Consul. </p>
+                    <p> Piedmont-Sardinia’s first consul in the United States <persName>Gaspare
+                            Deabbate</persName> was accredited on May 18, 1820, as Consul General at
+                        Philadelphia. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Expansion of Relations, <date when="1839">1839</date>.</head>
+                    <p>The United States established full diplomatic relations with
+                        Piedmont-Sardinia on February 7, 1839, when United States accepted the
+                        credentials of <persName>Count August Avogadro de Collobiano</persName> as
+                        the first Chargé d’Affaires at Washington from the Kingdom of
+                        Piedmont-Sardinia. </p>
+                    <p> The United States established a legation to the Kingdom of Sardinia at Turin
+                        in 1840. The first U.S. Chargé d’Affaires to the Kingdom of
+                        Piedmont-Sardinia was <persName>Hezekiah Gold Rogers</persName>, who
+                        presented his credentials on September 15, 1840. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Legation in Turin, <date when="1840">1840</date>.</head>
+                    <p> The American Legation at Turin was established when U.S. Chargé d’Affaires
+                            <persName>Hezekiah Gold Rogers</persName> was accredited on September
+                        15, 1840.</p>
+                </div>
+                <div type="timeline">
+                    <head>Cessation of Relations, <date when="1861">1861</date>. </head>
+                    <p> When the King of Piedmont-Sardinia, <persName>Victor Emmanuel II</persName>,
+                        was proclaimed King of Italy on March 17, 1861, <persName>George Perkins
+                            Marsh</persName> was appointed U.S. Minister to the King of Italy at
+                        Turin on April 26, 1861. That year, the Chargé d’Affaires from
+                        Piedmont-Sardinia, <persName>Joseph Bertinatti</persName>, was promoted to
+                        Italian minister-resident. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties-agreements">
+                <head>Treaties and Agreements</head>
+                <div type="timeline">
+                    <head>Treaty of Commerce and Navigation, <date when="1838">1838</date>.</head>
+                    <p> On November 26, 1838, the United States signed a Treaty of Commerce and
+                        Navigation with the King of Sardinia in Genoa. The agreement was signed by
+                        U.S. Special Agent to the Kingdom of Sardinia <persName>Nathaniel
+                            Niles</persName> and <persName>Count Clement Solar de la
+                            Marguerite</persName>, First Secretary of State for Foreign Affairs of
+                        the King of Sardinia. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="key-events">
+                <head>Key Diplomatic Events</head>
+                <div type="timeline">
+                    <head>Franco-Austrian War, <date when="1859">1859</date>. </head>
+                    <p> After striking an alliance with <persName>Napoleon III</persName>’s France,
+                        Piedmont-Sardinia provoked Austria to declare war in 1859, thus launching
+                        the conflict that served to unify the northern Italian states together
+                        against their common enemy: the Austrian Army. The Austrians suffered
+                        military defeats at Magenta and Solferino, and a ceasefire was agreed to at
+                        Villafranca. In the peace negotiations, Austria ceded Lombardy to France,
+                        which then ceded it to Piedmont-Sardinia.</p>
+                </div>
+                <div type="timeline">
+                    <head>Proclamation of the Kingdom of Italy, <date when="1861">1861</date>.</head>
+                    <p> The aftermath of the Franco-Austrian War brought about a series of
+                        plebiscites in the northern Italian states. By going to the ballot box, the
+                        states voted to join Piedmont-Sardinia, with the ultimate goal of unifying
+                        the entire peninsula. It should be noted that Piedmont-Sardinia was one of
+                        the more powerful states in the peninsula, as well as having one of the most
+                        liberal political systems. Garibaldi’s march to “liberate” the Kingdom of
+                        the Two Sicilies in 1860 brought the southern peninsula into the fold, and
+                        the new Kingdom of Italy was proclaimed on March 17, 1861, with the royal
+                        family of Piedmont-Sardinia as the new ruling monarchs of Italy.</p>
+                </div>
+                <div type="timeline">
+                    <head>U.S. Recognition of Italian Independence, <date when="1861">1861.</date>
+                    </head>
+                    <p> The United States officially recognized the Kingdom of Italy when it
+                        accepted the credentials of Chevalier <persName>Joseph Bertinatti</persName>
+                        as Minister Plenipotentiary of the Kingdom of Italy on April 11, 1861.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="issues">
+                <head>Issues Relevant to U.S. Foreign Diplomacy</head>
+                <div type="timeline">
+                    <head>Trade and Commerce.</head>
+                    <p> Talks to open full diplomatic relations between the United States and the
+                        Kingdom of Piedmont-Sardinia began in 1837. The original motivation was to
+                        stimulate trade and commercial ties between the two states. The United
+                        States wanted to modify duties imposed upon its tobacco exports to the
+                        kingdom. Moreover, it was hoped that by establishing diplomatic relations
+                        and developing trade, both countries would benefit. In addition to tobacco,
+                        the United States wanted an export market for raw cotton, fish, timber, and
+                        other manufactured items, while it sought to import the silk and cotton
+                        fabrics manufactured by Piedmont-Sardinia. </p>
+                </div>
+                <div type="timeline">
+                    <head>Naval Port.</head>
+                    <p> Another issue at stake in diplomatic relations between the United States and
+                        the Kingdom of Piedmont-Sardinia was the U.S. desire for a Mediterranean
+                        port at which the U.S. Navy could refuel and restock. In June 1848 the
+                        Government of Piedmont-Sardinia granted permission for the United States to
+                        establish a naval depot at the port town of <placeName xml:id="spezia">Spezia</placeName>. The United States used Spezia until 1868, when
+                        Piedmont-Sardinia re-took Spezia for use for its own naval depot. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Pietro Orsi, <hi rend="italic">Cavour and the Making of Modern Italy,
+                            1810-1861,</hi> (New York: G.P. Putnam’s Sons, 1914).</bibl>
+                    <bibl>Denis Mack Smith. <hi rend="italic">Modern Italy: A Political
+                            History.</hi> (Ann Arbor, MI: The University of Michigan Press,
+                        1997).</bibl>
+                    <bibl>Howard R. Marraro, <hi rend="italic">Diplomatic Relations Between the
+                            United States and the Kingdom of the Two Sicilies. Volume I:
+                            1816-1850,</hi> (New York: S.F. Vanni (Ragusa), 1951.</bibl>
+                    <bibl>Howard R. Marraro, “Spezia” An American Naval Base, 1848-68,” <hi rend="italic">Military Affairs,</hi> Vol. 7, No. 4 (Winter, 1943),
+                        202-208.</bibl>
+                    <bibl>Sister Mary Philip Trauth, “Italo-American Diplomatic Relations 1861-1882:
+                        The Mission of George Perkins Marsh, First American Minister to the Kingdom
+                        of Italy,” Washington, D.C.: The Catholic University of America Press,
+                        1958.</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

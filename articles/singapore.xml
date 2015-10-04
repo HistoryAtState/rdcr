@@ -1,0 +1,78 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Singapore</title>
+                <title type="short">Singapore</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Evan Dawley, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> Informal relations between the United States and <placeName key="sg">Singapore</placeName> began when U.S. merchants engaged in the
+                    <placeName>China</placeName> trade began to visit the port on their way to
+                    and from China. As Singapore became one of the most important ports in the
+                    region, U.S.-Singaporean interaction increased through the 19th and 20th
+                    centuries.</p>
+                <figure>
+                    <graphic url="singapore-flag.jpg"/>
+                    <head>Modern Flag of Singapore</head>
+                </figure>
+                <div type="section" xml:id="recognition">
+                    <head>Recognition</head>
+                    <div type="timeline">
+                        <head>U.S. Recognition of Singapore, <date when="1965">1965</date>.</head>
+                        <p> On August 11, 1965, the United States recognized the newly independent
+                            and sovereign state of Singapore in a letter from Secretary of State
+                            <ref target="/departmenthistory/people/rusk-david-dean">Dean
+                                Rusk</ref> to Singaporean Foreign Minister <persName>Sinnathamby
+                                    Raja Ratnam</persName>. Singapore previously had been under the
+                            sovereignty of the British Empire since the early 19th century. After
+                            gaining its independence from the British Empire in 1963, Singapore
+                            briefly joined the Federation of Malaysia, before breaking away for
+                            independent sovereignty in 1965.</p>
+                    </div>
+                </div>
+                <div type="section" xml:id="consular-presence">
+                    <head>Consular Presence</head>
+                    <div type="timeline">
+                        <head>Establishment of Consular Relations, <date when="1836">1836</date>. </head>
+                        <p> The United States established a Consulate in Singapore when it appointed
+                            <persName>Joseph Balestier</persName> to the post on July 4,
+                            1836.</p>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Embassy in
+                            Singapore, <date when="1966">1966</date>. </head>
+                        <p> Diplomatic relations and the American Embassy were established on April
+                            4, 1966, when the United States opened its embassy in Singapore under
+                            with <ref target="/departmenthistory/people/donald-richard-hempstead">Richard H. Donald</ref> as Chargé d’Affaires <hi rend="italic">ad
+                                    interim</hi>.</p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2798.htm">Singapore</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/sn/">Singapore</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

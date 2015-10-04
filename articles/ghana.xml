@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Ghana</title>
+                <title type="short">Ghana</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized <placeName>Ghana</placeName> on March 6, 1957, when
+                    the Department of State issued a press statement to that effect.</p>
+                <figure>
+                    <graphic url="ghana-flag.jpg"/>
+                    <head>Modern Flag of Ghana</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Ghanaian Independence, <date when="1957">1957</date>.</head>
+                    <p>The United States recognized <placeName>Ghana</placeName> on March 6, 1957,
+                        when the Department of State issued a press statement to that effect. On
+                        that date, Ghana, formerly known as the Gold Coast, was proclaimed
+                        independent from the British Empire. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in Ghana,
+                        <date when="1957">1957</date>.</head>
+                    <p>Diplomatic relations and the American Embassy in Ghana were established on
+                        March 6, 1957, when the Consulate General at <placeName key="accra">Accra</placeName> was elevated to Embassy status, with Consul General
+                        <ref target="/departmenthistory/people/lamm-donald-wakeham">Donald W.
+                            Lamm</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2860.htm">Ghana</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/gh">Ghana</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

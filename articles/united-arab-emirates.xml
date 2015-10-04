@@ -1,0 +1,83 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: The United Arab
+                    Emirates</title>
+                <title type="short">The United Arab Emirates</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Kelly McFarland, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> Prior to 1971, the Trucial Sheikdoms of Abu Dhabi, Dubai, Sharja, Ajman, Umm
+                    al-Qaiwain, Fujairah, and Ras al-Khaimah were under a British protectorate. As
+                    such, the Untied States had a very limited relationship with the sheikdoms.
+                    Relations became more regular when these sheikdoms formed the <placeName xml:id="ae">United Arab
+                        Emirates</placeName> and gained independence in 1971. Since then, relations became more
+                    regular and have grown stronger over the years.</p>
+                <figure>
+                    <graphic url="united-arab-emirate-flag.jpg"/>
+                    <head>Modern Flag of The United Arab Emirates</head>
+                </figure>
+                <div type="section" xml:id="recognition">
+                    <head>Recognition</head>
+                    <div type="timeline">
+                        <head>U.S. Recognition of the United Arab Emirates’ Independence, <date when="1971">1971</date>.</head>
+                        <p> The UAE declared its independence on December 2, 1971, following the
+                            completion of treaties with Great Britain. The United States recognized
+                            the United Arab Emirates the next day on December 3. </p>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations, <date when="1972">1972</date>.</head>
+                        <p> Diplomatic relations were established on March 20, 1972, when American
+                            Envoy Extraordinary and Minister Plenipotentiary <ref target="/departmenthistory/people/stoltzfus-william-a">William A.
+                                Stoltzfus, Jr.</ref> presented his credentials to the government of
+                            the United Arab Emirates. Stoltzfus was also accredited to a number of
+                            other Persian Gulf states and he resided in Kuwait.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Establishment of the American Embassy in the United Arab Emirates,
+                            <date when="1974">1974.</date>
+                        </head>
+                        <p> The United States Embassy in <placeName xml:id="abu-dhabi">Abu Dhabi</placeName> was established on June 24, 1974,
+                            when the first American Ambassador in residence, <ref target="/departmenthistory/people/sterner-michael-edmund">Michael
+                                Edmund Sterner</ref>, presented his credentials to United Arab
+                            Emirates’ officials.</p>
+                    </div>
+                    <div type="timeline">
+                        <head/>
+                        <p/>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State, <ref target="frus1969-76v24">
+                            <hi rend="italic">Foreign Relations of the United
+                        States</hi>, 1969-1976, Volume XXIV, Middle East Region and Arabian Peninsula, 1969–1972; Jordan, September 1970</ref> (Washington, DC: United States
+                        Government Printing Office, 2008).</bibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5444.htm">United Arab Emirates</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/c2422.htm">United Arab Emirates</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back> </back>
+    </text>
+</TEI>

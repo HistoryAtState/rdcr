@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Afghanistan</title>
+                <title type="short">Afghanistan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Chris Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized <placeName key="af">Afghanistan</placeName>, then
+                    under the rule of <persName>King Amanullah</persName>, in 1921, and established
+                    diplomatic relations in 1935. </p>
+                <figure>
+                    <graphic url="afghan-flag.jpg"/>
+                    <head>Modern Flag of Afghanistan</head>
+                </figure>
+                <p>Following the Soviet invasion of Afghanistan in <date when="1979">1979</date>,
+                    the <placeName>United States</placeName> supported both the Afghan resistance
+                    fighters and diplomatic efforts to achieve a Soviet withdrawl. As the Taliban
+                    rose to national authority in the post-Soviet power vacuum they provided
+                    sanctuary for <persName>Osama bin Laden</persName>. Following the Taliban’s
+                    repeated refusal to expel bin Laden and his associates and end its support for
+                    international terrorism, the United States and its coalition partners began a
+                    military campaign on <date when="2001-10-07">October 7, 2001</date>, that
+                    targeted terrorist facilities and Taliban military and political assets.
+                        <placeName key="kabul">Kabul</placeName> fell on November 13, 2001. </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Afghanistan, <date when="1921">1921</date>.</head>
+                    <p>The United States recognized Afghanistan on <date when="1921-07-21">July 26,
+                            1921</date>, when President <persName>Warren G. Harding</persName>
+                        received a mission of the Afghan Government at the White House. The
+                        Department of State had been notified by British authorities on August 9,
+                        1919, that Afghanistan was “officially free and independent in its
+                            affairs.”
+                    </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1935">1935.</date>
+                    </head>
+                    <p>Diplomatic relations were established on May 4, 1935, when <ref target="/departmenthistory/people/hornibrook-william-harrison">William
+                            H. Hornibrook</ref> presented his credentials to the Afghan government.
+                        Hornibrook also was accredited to <placeName>Persia</placeName> and was
+                        resident at Tehran. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of American Legation in Afghanistan, <date when="1942">1942.</date>
+                    </head>
+                    <p>The American Legation at <placeName key="kabul">Kabul</placeName> was
+                        established on June 6, 1942, with <ref target="/departmenthistory/people/thayer-charles-wheeler">Charles W.
+                            Thayer</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of American Legation to Embassy Status, <date when="1948">1948.</date>
+                    </head>
+                    <p>The American Legation was elevated to Embassy status on June 5, 1948, when
+                            <ref target="/departmenthistory/people/palmer-ely-eliot">Ely E.
+                            Palmer</ref> presented his credentials to the Afghan government. </p>
+                </div>
+                <div type="timeline">
+                    <head>Assassination of the American Ambassador, <date when="1979">1979.</date>
+                    </head>
+                    <p>The American Ambassador at Kabul, <ref target="/departmenthistory/people/dubs-adolph">Adolph Dubs</ref>, was
+                        assassinated at post on February 14, 1979. Following the death of Ambassador
+                        Dubs, the American Mission at Kabul was headed by a Chargé d'Affaires <hi rend="italic">ad interim</hi> or Chargé d'Affaires.</p>
+                </div>
+                <div type="timeline">
+                    <head>Closure of the American Embassy in Afghanistan, <date when="1989">1989.</date>
+                    </head>
+                    <p>The American Embassy at <placeName>Kabul</placeName> was closed on January
+                        30, 1989, due to concerns that the new regime would not be able to maintain
+                        security and protect diplomats following the final departure of Soviet
+                        forces from the country.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Liaison Office in Kabul, <date when="2001">2001.</date>
+                    </head>
+                    <p>The U.S. Liaison Office in Kabul opened on December 17, 2001, with Ambassador
+                            <ref target="/departmenthistory/people/dobbins-james-f">James
+                            Dobbins</ref> serving as Director. The United States recognized the
+                        Interim Authority in Afghanistan on December 22, 2001, when it assumed the
+                        authority to represent Afghanistan in its external relations. </p>
+                </div>
+                <div type="timeline">
+                    <head>Re-opening of the American Embassy in Afghanistan, <date when="2002">2002.</date>
+                    </head>
+                    <p>The American Embassy at Kabul was re-opened on January 17, 2002, when the
+                        U.S. Liaison Office was re-designated as an embassy, with <ref target="/departmenthistory/people/crocker-ryan-clark">Ryan Crocker</ref>
+                        as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5380.htm">Afghanistan</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/sca/ci/af/">Afghanistan</ref>
+                    </bibl>
+                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/af.html">Afghanistan</ref>
+                    </bibl>
+                    <bibl>Library of Congress Country Study: <ref target="http://memory.loc.gov/frd/cs/aftoc.html">Afghanistan</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

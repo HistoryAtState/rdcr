@@ -1,0 +1,71 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Tajikistan</title>
+                <title type="short">Tajikistan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> The United States and <placeName xml:id="tj">Tajikistan</placeName> have consistently maintained a cooperative
+                    relationship in order to boost living standards in Tajikistan and cooperate on
+                    matters of concern to both nations, such as the stabilization of Afghanistan,
+                    the fight against terrorism, and interdiction of the opium trade. </p>
+                <figure>
+                    <graphic url="tajikistan-flag.jpg"/>
+                    <head>Modern Flag of Tajikistan</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Tajikistan, <date when="1991">1991</date>.</head>
+                    <p> The United States recognized Tajikistan’s independence on December 25, 1991,
+                        when President <persName>George H.W. Bush</persName> announced the decision
+                        in an address to the nation regarding the dissolution of the Soviet Union.
+                        Tajikistan previously had been a constituent republic of the USSR. </p>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations, <date when="1992">1992</date>.</head>
+                        <p> Diplomatic relations were established on February 19, 1992, when
+                            President George H.W. Bush announced the decision in a press statement.
+                        </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Establishment of the American Embassy in Dushanbe, <date when="1992">1992</date>.</head>
+                        <p> The American Embassy in Embassy <placeName xml:id="dushanbe">Dushanbe</placeName> was established March 13, 1992,
+                            with <persName>Edmund McWilliams</persName> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5775.htm">Tajikistan</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/sca/ci/ti/">Tajikistan</ref>
+                    </bibl>
+                    <bibl>Library of Congress Country Study: <ref target="http://lcweb2.loc.gov/frd/cs/tjtoc.html">Tajikistan</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back>
+            
+        </back>
+    </text>
+</TEI>

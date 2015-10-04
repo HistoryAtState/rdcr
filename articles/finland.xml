@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Finland</title>
+                <title type="short">Finland</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>After the upheavals of Finnish independence in 1917 and a civil war, the United
+                    States and Finland enjoyed friendly diplomatic relations. The two countries
+                    entered into several agreements regarding trade, debt, extradition and other
+                    commercial and cultural ties during the 1920s. During the <ref target="/milestones/great-depression">Great Depression</ref> of the
+                    1930’s, Finland was the only nation to continue to pay off debts it owed to the
+                    United States from <ref target="/milestones/1914-1920/wwi">World War
+                        I</ref>.</p>
+                <p>Following the 1939 Soviet attack on Finland and subsequent “Winter War,” Finland
+                    allied with <placeName>Germany</placeName> to obtain supplies and military
+                    assistance in continued conflict with the <placeName>Soviet Union</placeName>.
+                    This alliance led the United States to sever diplomatic relations with Finland
+                    in June 1944, though informal relations were reestablished a few months later
+                    and formally reinstated within one year. Between World War II and the
+                    dissolution of the Soviet Union in 1991, Finland pursued a strict policy of <ref target="/departmenthistory/short-history/worldin1945">Cold War</ref>
+                    neutrality. The United States, aware of Finland’s precarious geographical
+                    position, supported Finnish neutrality while maintaining and reinforcing Finnish
+                    ties with the West. <figure>
+                        <graphic url="finland-flag.jpg"/>
+                        <head>Modern Flag of Finland</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Finnish Independence, <date when="1919">1919</date>.</head>
+                    <p>Finland declared its independence from the Russian Empire on December 6,
+                        1917, shortly after the Bolshevik Revolution. The United States recognized
+                        Finland on May 7, 1919, in a letter from Secretary of State <ref target="/departmenthistory/people/lansing-robert">Robert Lansing</ref>
+                        to Finnish Foreign Minister <persName>Rudolf Holsti</persName>. The United
+                        States had delayed its decision due to concerns over Finland’s political
+                        instability and ties with Germany.</p>
+                </div>
+                <div type="section" xml:id="diplomatic_relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations, <date when="1919">1919</date>.</head>
+                        <p>The United States established diplomatic relations with Finland on May
+                            27, 1919, when Acting Secretary of State <ref target="/departmenthistory/people/polk-frank-lyon">Frank L.
+                                Polk</ref> recognized Armas <persName>Herman Saastamoinen</persName>
+                            as provisional Envoy Extraordinary and Minister Plenipotentiary of the
+                            de facto Government of Finland as U.S. President <persName>Woodrow
+                                Wilson</persName> was still in Europe for the Paris Peace
+                            Conference. Saastamoinen was recognized as Envoy Extraordinary and
+                            Minister Plenipotentiary on August 21, 1919, upon the return of
+                            President Wilson.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Establishment of the American Legation in Helsingfors, <date when="1920">1920</date>.</head>
+                        <p>U.S. Legation in <placeName key="helsingfors">Helsingfors</placeName> was
+                            established on March 19, 1920, when Chargé d’Affaires pro tem <ref target="/departmenthistory/people/magruder-alexander-richardson">Alexander R. Magruder</ref> presented his credentials.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>United States Severs Diplomatic Relations, <date when="1944">1944.</date>
+                        </head>
+                        <p>The United States severed diplomatic relations with Finland on June 30,
+                            1944, and closed the legation on the same day. A statement by the
+                            Department of State noted that this action was taken in response to the
+                            Finnish government’s formal admission of a military partnership with
+                            Nazi Germany to fight against the Allies of the United States.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Establishment of American Mission at Helsinki, <date when="1945">1945.</date>
+                        </head>
+                        <p>After Finland signed an armistice with American allies in September 1944
+                            and expelled German nationals from its territory, the United States
+                            established a Special Mission at <placeName key="helsinki">Helsinki</placeName> on January 16, 1945. Foreign Service officer
+                            <ref target="/departmenthistory/people/hamilton-maxwell-mcgaughey">Maxwell M. Hamilton</ref> was appointed Minister at the Mission.
+                            This was not a resumption of formal diplomatic relations.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Reestablishment of Diplomatic Relations and the American Legation in
+                            Finland, <date when="1945">1945.</date>
+                        </head>
+                        <p>Diplomatic relations and the American Legation in Helsinki were
+                            reestablished on September 1, 1945, with <persName>Benjamin M.
+                                Hulley</persName> as Chargé d'Affaires <hi rend="italic">ad
+                                    interim</hi>.</p>
+                        <div type="timeline">
+                            <head>Elevation of the American Legation to Embassy Status, <date when="1952">1952</date>.</head>
+                            <p>The U.S. elevated its legation in Helsinki to Embassy status when
+                                <ref target="/departmenthistory/people/mcfall-jack-kirkham">Jack
+                                    K. McFall</ref> presented his credentials as Ambassador
+                                Extraordinary and Plenipotentiary on November 15, 1952. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3238.htm">Finland</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/fi">Finland</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

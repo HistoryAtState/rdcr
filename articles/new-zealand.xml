@@ -1,0 +1,97 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: New Zealand</title>
+                <title type="short">New Zealand</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Kathleen Rasmussen, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> On September 26, 1907, the constitutional status of the colony of <placeName key="nz">New Zealand</placeName> was elevated to that of a self-governing
+                    Dominion in the British Empire. While the new nation was sovereign when it came
+                    to its domestic affairs, the United Kingdom maintained control over its
+                    relations with the wider world. Over the next four decades, New Zealand
+                    gradually gained control over its external policy. The Balfour Declaration of
+                    1926, issued at the end of the Imperial Conference held in London that year,
+                    recognized that the United Kingdom and the Dominions were <quote>“autonomous
+                        Communities within the British Empire, equal in status, in no way
+                        subordinate one to another in any aspect of their domestic or external
+                        affairs.”</quote> In December 1931, the United Kingdom codified this
+                    relationship in the Statute of Westminster, which specified, however, that its
+                    provisions would not come into effect until formally adopted by the government
+                    of New Zealand. On November 25, 1947, New Zealand’s Statute of Westminster
+                    Adoption Act 1947 became law. </p>
+                <figure>
+                    <graphic url="new-zealand-flag.jpg"/>
+                    <head>Modern Flag of New Zealand</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of New Zealand’s Independence, <date when="1942">1942</date>.</head>
+                    <p> The United States recognized New Zealand as an independent state with
+                        autonomous control over its foreign relations on February 16, 1942, when New
+                        Zealand’s Envoy Extraordinary and Minister Plenipotentiary <persName>Walter
+                            Nash</persName> presented his credentials to President
+                        <persName>Franklin Roosevelt</persName>. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the New Zealand Legation in the
+                        United States, <date when="1942">1942</date>.</head>
+                    <p>Diplomatic relations and the New Zealand Legation in Washington were
+                        established on February 16, 1942, when Walter Nash presented his credentials
+                        as Envoy Extraordinary and Minister Plenipotentiary to President Franklin
+                        Roosevelt.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Legation in New Zealand, <date when="1942">1942</date>.</head>
+                    <p> The United States established its legation in <placeName key="wellington">Wellington</placeName> on April 1, 1942, under the charge of <ref target="/departmenthistory/people/hurley-patrick-jay">Patrick
+                        Hurley</ref>. On April 24, Hurley presented his credentials as Envoy
+                        Extraordinary and Minister Plenipotentiary to the Government of New
+                        Zealand.</p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of New Zealand Legation in the United States to Embassy Status,
+                        <date when="1948">1948</date>.</head>
+                    <p> On December 1, 1948, Sir Carl Berendsen, who had been serving as Envoy
+                        Extraordinary and Minister Plenipotentiary since July 12, 1944, presented
+                        his credentials as Ambassador Extraordinary and Plenipotentiary to President
+                        <persName>Harry S. Truman</persName>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of American Legation in New Zealand to Embassy Status, <date when="1948">1948</date>.</head>
+                    <p> On November 1, 1948, <ref target="/departmenthistory/people/scotten-robert-mcgregor">Robert
+                        Scotten</ref>, whose credentials as Envoy Extraordinary and Minister
+                        Plenipotentiary had been accepted on April 7, 1948, was appointed Ambassador
+                        Extraordinary and Plenipotentiary. On December 22, 1948, Scotten presented
+                        his credentials as Ambassador to the Government of New Zealand.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35852.htm">New Zealand</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/nz/index.htm">New Zealand</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

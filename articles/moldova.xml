@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Moldova</title>
+                <title type="short">Moldova</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized <placeName key="md">Moldova</placeName>’s
+                    independence on December 25, 1991, when President <persName>George H.W.
+                        Bush</persName> announced the decision in an address to the nation regarding
+                    the dissolution of the Soviet Union. </p>
+                <figure>
+                    <graphic url="moldova-flag.jpg"/>
+                    <head>Modern Flag of Moldova</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Moldova, <date when="1991">1991</date>.</head>
+                    <p> The United States recognized Moldova’s independence on December 25, 1991,
+                        when President <persName>George H.W. Bush</persName> announced the decision
+                        in an address to the nation regarding the dissolution of the Soviet Union.
+                        Moldova previously had been a constituent republic of the USSR. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1992-02-29">1992</date>.</head>
+                    <p>Diplomatic relations were established on February 29, 1992, when officials
+                        from the U.S. Embassy in Moscow transmitted a diplomatic note to the
+                        Moldovan Ministry of Foreign Affairs confirming the United States’
+                        establishment of a diplomatic presence there in accordance with President
+                            <persName>George H.W. Bush</persName> and Moldovan President
+                            <persName>Mircea Snegur</persName>’s agreement during a February 18,
+                        1992, meeting at the White House in Washington D.C.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Embassy in Chisinau, <date when="1992-03-13">1992</date>. </head>
+                    <p> The American Embassy in <placeName key="chisinau">Chisinau</placeName> was
+                        established on March 13, 1992, with <persName>Howard Steers</persName> as
+                        Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5357.htm">Moldova</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/md">Moldova</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

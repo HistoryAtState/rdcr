@@ -1,0 +1,76 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Vanuatu</title>
+                <title type="short">Vanuatu</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> Prior to the 1980s, citizens of the United States had only very occasional
+                    contact with residents of the <placeName>Pacific islands</placeName> that
+                    comprise what is now the Republic of <placeName xml:id="vu">Vanuatu</placeName>.</p>
+                <figure>
+                    <graphic url="vanuatu-flag.jpg"/>
+                    <head>Modern Flag of Vanuatu</head>
+                </figure>
+                <div type="section" xml:id="recognition">
+                    <head>Recognition</head>
+                    <div type="timeline">
+                        <head>U.S. Recognition of Vanuatu, <date when="1980">1980</date>.</head>
+                        <p> The United States recognized the Republic of Vanuatu soon after it
+                            gained its independence on July 30, 1980, when President <persName>Jimmy
+                                Carter </persName>sent a message to that effect to the Government of
+                            Vanuatu. Vanuatu previously had been under the joint sovereignty of a
+                            condominium between <placeName>France</placeName> and the
+                                <placeName>United Kingdom</placeName>.</p>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations, <date when="1986">1986</date>. </head>
+                        <p> The United States established diplomatic relations with Vanuatu on
+                            September 30, 1986, when representatives of both states signed an
+                            agreement to that effect.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Establishment of Ambassadorial Relations, <date when="1987">1987</date>.</head>
+                        <p> Although no U.S. diplomatic mission has yet been established at the
+                            capital of <placeName xml:id="port-vila">Port Vila</placeName>, Ambassadorial relations commenced when U.S.
+                            Ambassador to Papua New Guinea <ref target="/departmenthistory/people/bierman-everett-e">Everett E.
+                                Bierman</ref> presented his credentials to the Government of Vanuatu
+                            on April 10, 1987. Since that time, the Ambassadors to Vanuatu have also
+                            been accredited to <placeName>Papua New Guinea</placeName> and the
+                                <placeName>Solomon Islands</placeName> and have been resident at
+                            Port Moresby.</p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2815.htm">Vanuatu</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/nh/index.htm">Vanuatu</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back>
+        
+        </back>
+    </text>
+</TEI>

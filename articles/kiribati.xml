@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Kiribati</title>
+                <title type="short">Kiribati</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States established a consular presence at <placeName key="butaritari">Butaritari</placeName> in the Gilbert Islands (present-day Kiribati) to
+                    protect U.S. trade in the region, appointing Commercial Agent <persName>Adolph
+                        Rick</persName> on May 25, 1888. With the Ellice Islands (present-day
+                    <placeName>Tuvalu</placeName>), the Gilbert Islands became a British
+                    protectorate in 1892 and the entire island group was made a British colony in
+                    1916. </p>
+                <p>The Japanese occupied several of the Gilbert Islands during World War II, after
+                    which the island chain reverted to its former colonial status. The British began
+                    expanding self-government in the islands during the 1960s, clearing the way for
+                    the Gibert and Ellice Islands splitting in 1975. Kiribati eventually became
+                    independent on July 12, 1979. <figure>
+                        <graphic url="kiribati-flag.jpg"/>
+                        <head>Modern Flag of Kiribati</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Kiribati Independence, <date when="1979">1979</date>.</head>
+                    <p>The United States recognized the Republic of Kiribati (formerly the Gilbert
+                        Islands) on September 20, 1979, when the two nations signed a Treaty of
+                        Friendship. The Gilbert Islands, previously a British colony, had gained
+                        independence on July 12, 1979, under the name of Kiribati. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1980">1980.</date>
+                    </head>
+                    <p>The United States and Kiribati agreed to establish diplomatic relations on
+                        August 12, 1980.</p>
+                </div>
+                <div type="timeline">
+                    <head>U.S. Ambassador Appointed, <date when="1980">1980.</date>
+                    </head>
+                    <p>
+                        <ref target="/departmenthistory/people/bodde-william-jr">William Bodde,
+                            Jr.</ref> was appointed Envoy Extraordinary and Minister Plenipotentiary
+                        to Kiribati on September 26, 1980. Bodde was stationed at Suva,
+                        <placeName>Fiji</placeName>, as no diplomatic facilities exist on
+                        Kiribati. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1836.htm">Kiribati</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/kr/index.htm">Kiribati</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

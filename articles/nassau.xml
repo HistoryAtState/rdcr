@@ -1,0 +1,107 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Nassau</title>
+                <title type="short">Nassau*</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2010</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Lindsay Krasnoff, January 2010</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>When the United States announced its independence from Great Britain in 1776,
+                        <placeName xml:id="qm">Nassau</placeName> was a sovereign, independent
+                    state. With the 1806 dissolution of the Holy Roman Empire, Nassau was enlarged
+                    and elevated to duchy status. In 1815 the Duchy of Nassau became part of the
+                    German Confederation. The first act of mutual recognition between the Duchy of
+                    Nassau and the United States occurred in 1846 when the two states signed a
+                    convention to abolish emigration taxes. During the Austro-Prussian War of 1866,
+                    the Duchy of Nassau fought on the side of Austria. On the losing side, the Duchy
+                    of Nassau was annexed to Prussia on October 3, 1866, and ceased to be an
+                    independent, sovereign state.</p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Mutual Recognition, <date when="1846">1846</date>.</head>
+                    <p>The first known act of mutual recognition between the United States and the
+                        Duchy of Nassau was on May 27, 1846 with the signing of a Convention for the
+                        Mutual Abolition of the <hi rend="italic">Droit d’Aubaine</hi> and Taxes on
+                        Emigration. This convention was concluded in Berlin between U.S. Minister to
+                        Prussia <persName>Henry Wheaton</persName> and Nassau’s Minister to Prussia
+                        Col. and Chamberlain <persName>Otto Wilhelm Carl von Roeder</persName>.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>The first U.S. Consul appointed to the Duchy of Nassau was John B. Muller
+                        Melchiors on <date when="1853-11-01">November 1, 1853</date>.</head>
+                    <p>The first U.S. Consul appointed to the Duchy of Nassau was <persName>John B.
+                            Muller Melchiors</persName> on November 1, 1853.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations.</head>
+                    <p> The United States and the Duchy of Nassau never established diplomatic
+                        relations.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties-agreements">
+                <head>Treaties and Agreements</head>
+                <div type="timeline">
+                    <head>Convention Abolishing Droit d’Aubaine and Emigration Taxes, <date when="1846">1846</date>.</head>
+                    <p> On May 27, 1846, U.S. Minister to Prussia <persName>Henry Wheaton</persName>
+                        and Nassau’s Minister to Prussia Col. and Chamberlain <persName>Otto Wilhelm
+                            Carl von Roeder</persName> signed the Convention for the Mutual
+                        Abolition of the <hi rend="italic">Droit d’Aubaine</hi> and Taxes on
+                        Emigration.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="key-events">
+                <head>Key Diplomatic Events</head>
+                <div type="timeline">
+                    <head>The Austro-Prussian War of <date when="1866">1866</date>. </head>
+                    <p> In 1866 Prussia and her allies launched a war against Austria and her allied
+                        German states. The war, also commonly referred to as the Seven Weeks’ War
+                        for the rapidity with which the Prussians triumphed, enabled the Kingdom of
+                        Prussia to absorb some of the smaller states that had sided with Austria –
+                        in this case, the Duchy of Nassau.</p>
+                </div>
+                <div type="timeline">
+                    <head>German Unification.</head>
+                    <p>Nassau participated in German unification during the mid-nineteenth century.
+                        (See “<ref target="/countries/issues/german-unification">Unification of German
+                            States</ref>” for greater detail.)</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>William M. Malloy, <hi rend="italic">Treaties, Conventions, International
+                            Acts, Protocols, and Agreements Between The United States of American
+                            and Other Powers, 1776-1909</hi> (Washington DC: Government Printing
+                        Office, 1910).</bibl>
+                    <bibl>John Bassett Moore, <hi rend="italic">A Digest of International Law</hi>
+                        (Washington, D.C.: Government Printing Office, 1906).</bibl>
+                    <bibl>John Bassett Moore, <hi rend="italic">Four Phases of American
+                            Development</hi> (Baltimore: Johns Hopkins Press, 1912).</bibl>
+                    <bibl>Elmer Plischke, <hi rend="italic">U.S. Department of State: A Reference
+                            Book</hi> (Greenport, CT: Westwood Press, 1999).</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

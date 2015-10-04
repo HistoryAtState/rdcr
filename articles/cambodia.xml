@@ -1,0 +1,124 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Cambodia</title>
+                <title type="short">Cambodia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and Written by Evan Dawley, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> Before 1950, citizens of the United States had very limited interaction with
+                    residents of what is today the nation of Cambodia. Relations became more regular
+                    only after Cambodia gained its independence from the French Empire following
+                    World War II. </p>
+                <figure>
+                    <graphic url="cambodian-flag.jpg"/>
+                    <head>Modern Flag of Cambodia</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Cambodian Independence, <date>1950</date>.</head>
+                    <p> The United States recognized the Kingdom of Cambodia on <date when="1950-02-07">February 7, 1950</date>, when the Department of State
+                        made an announcement to that effect. Cambodia previously had been part of
+                        Indochina as a Protectorate of France and had become an independent state as
+                        part of the French Union in 1949. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1950">1950</date>.</head>
+                    <p> Diplomatic relations were established on July 11, 1950, when American Envoy
+                        Extraordinary and Minister Plenipotentiary <ref target="/departmenthistory/people/heath-donald-read">Donald R.
+                            Heath</ref> presented his credentials to the government of the Kingdom
+                        of Cambodia. Heath was resident at <placeName>Saigon</placeName>. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Legation in Cambodia, <date when="1950">1950</date>.</head>
+                    <p> The American Legation in <placeName key="phnom-penh">Phnom Penh</placeName>
+                        opened on November 14, 1950, under Chargé d’Affaires <hi rend="italic">ad
+                            interim</hi>
+                        <ref target="/departmenthistory/people/catlett-don-valentine">Don V.
+                            Catlett</ref>. </p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of Status of Legation in Phnom Penh to Embassy, <date when="1952">1952</date>. </head>
+                    <p> Following a joint announcement by the United States and Cambodia on June 6,
+                        1952, the United States Legation in Phnom Penh was raised to Embassy status
+                        on June 24, 1952, when Ambassador <ref target="/departmenthistory/people/heath-donald-read">Donald R.
+                            Heath</ref> received confirmation of his appointment from the United
+                        States Senate. Ambassador Heath remained resident at Saigon. The first
+                        Ambassador resident at Phnom Penh was <ref target="/departmenthistory/people/mcclintock-robert-mills">Robert M.
+                            McClintock</ref>, who presented his credentials on October 2, 1954. </p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations Severed, <date when="1965">1965</date>.</head>
+                    <p> Cambodia severed diplomatic relations with the United States on May 3, 1965.
+                        The Government of Cambodia stated that it held the United States responsible
+                        for recent cross-border air attacks by <placeName>South Vietnam</placeName>
+                        that had killed Cambodian citizens. </p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations Reestablished, <date when="1969">1969</date>. </head>
+                    <p> The United States and Cambodia reestablished diplomatic relations on July 2,
+                        1969, according to a Department of State Press Release of that date. </p>
+                </div>
+                <div type="timeline">
+                    <head>American Embassy in Cambodia Reopened, <date when="1969">1969</date>.</head>
+                    <p> The United States Embassy in Phnom Penh was reopened on August 16, 1969,
+                        under Chargé d’Affaires <hi rend="italic">ad interim</hi>
+                        <ref target="/departmenthistory/people/rives-lloyd-michael">Lloyd M.
+                            Rives</ref>.</p>
+                </div>
+                <div type="timeline">
+                    <head>U.S. Embassy Closed and Normal Relations Interrupted, <date when="1975">1975</date>.</head>
+                    <p> The United States closed its Embassy in Phnom Penh on April 12, 1975,
+                        following the evacuation of all U.S. personnel due to the deteriorating
+                        military situation in fighting between government forces and communist
+                        insurgents. President <persName>Gerald Ford</persName> on April 17, 1975,
+                        acknowledged the fall of the Government of the Khmer Republic (Cambodia) and
+                        Secretary of State <ref target="/departmenthistory/people/kissinger-henry-a">Henry Kissinger</ref> subsequently explained in a press conference that
+                        the new government had refused to establish diplomatic relations with any
+                        country. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of U.S. Mission in Phnom Penh, <date when="1991">1991</date>.</head>
+                    <p> The United States established a U.S. mission to the Kingdom of Cambodia on
+                        November 11, 1991, with <ref target="/departmenthistory/people/twining-charles-h">Charles H.
+                            Twining</ref> as its Representative. </p>
+                </div>
+                <div type="timeline">
+                    <head>U.S. Embassy in Phnom Penh Reestablished and Normal Relations Resumed,
+                            <date when="1994">1994</date>.</head>
+                    <p> The U.S. Embassy in Cambodia was reopened and normal relations were resumed
+                        on May 17, 1994, when Ambassador <ref target="/departmenthistory/people/twining-charles-h">Charles H.
+                            Twining</ref> presented his credentials in <placeName>Phnom
+                            Pehn</placeName>. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2732.htm">Cambodia</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/cb/index.htm ">Cambodia</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

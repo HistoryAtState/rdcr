@@ -1,0 +1,61 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Georgia</title>
+                <title type="short">Georgia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> The United States recognized Georgia’s independence on December 25, 1991, when
+                    President <persName>George H.W. Bush</persName> announced the decision in an
+                    address to the nation regarding the dissolution of the Soviet Union. Georgia
+                    previously had been a constituent republic of the USSR. </p>
+                <figure>
+                    <graphic url="georgia-flag.jpg"/>
+                    <head>Modern Flag of Georgia</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1992">1992</date>.</head>
+                    <p>Diplomatic relations were established on March 24, 1992, when President
+                        George H.W. Bush announced the decision in a press statement. <hi n="1">“Statement by Press Secretary Fitzwater…,” March 24, 1992, <hi rend="italic">Public Papers of the Presidents, George Bush</hi>,
+                            1992-1993, Vol. 1, 502-503.</hi>
+                    </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relation">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of the American Embassy in <placeName>T’bilisi</placeName>,
+                            <date when="1992">1992</date>. </head>
+                    <p>The American Embassy in T'bilisi was established April 23, 1992, with <ref target="/departmenthistory/people/cavanaugh-carey">Carey
+                        Cavanaugh</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5253.htm">Georgia</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/gg">Georgia</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

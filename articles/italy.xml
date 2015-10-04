@@ -1,0 +1,185 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Italy</title>
+                <title type="short">Italy</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Louise Woodroofe, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> The formation of the modern Italian state began in 1861 with the unification of
+                    most of the peninsula under the House of Savoy (Piedmont-Sardinia) into the
+                    Kingdom of Italy. Italy incorporated Venetia and the former Papal States
+                    (including Rome) by 1871 following the Franco-Prussian War (1870-71). Prior to
+                    Italian unification (also known as the Risorgimento), the United States had
+                    diplomatic relations with the main entities of the Italian peninsula: the
+                    Kingdom of Sardinia, the Kingdom of the Two Sicilies, and the Papal States. </p>
+                <p> With the exception of the World War II years when Benito Mussolini’s government
+                    declared war upon the United States (1941-43), the United States has had warm
+                    relations with the Kingdom of Italy and, after 1946, its successor, the Republic
+                    of Italy. Currently, the United States and Italy share strong bilateral
+                    relations. Italy is a member of NATO and is a founding member of the European
+                    Union. </p>
+                <figure>
+                    <graphic url="italy-flag.jpg"/>
+                    <head>Modern Flag of Italy</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Italian Independence, <date when="1861">1861</date>. </head>
+                    <p> The United States officially recognized the Kingdom of Italy when it
+                        accepted the credentials of <persName>Chevalier Joseph Bertinatti
+                        </persName>as Minister Plenipotentiary of the Kingdom of Italy on April 11,
+                        1861.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>U.S. Consulate Generals.</head>
+                    <p>Prior to the Risorgimento of 1861, the Italian peninsula was fragmented into
+                        different kingdoms, city-states, duchies, etc. The U.S. established a
+                        presence at virtually every seaport because trade, shipping, and seamen
+                        protection were all major functions in protecting and enhancing American
+                        interests. This explains why there were numerous U.S. Consulates General,
+                        from the late eighteenth century through the mid-nineteenth century,
+                        scattered throughout the region. Below is a list of U.S. Consulate Generals
+                        that were located within what today would be the borders of Italy. </p>
+                    <list>
+                        <item> Leghorn (1794-1941)</item>
+                        <item> Genoa (1797-1993)</item>
+                        <item> Trieste (1797-1966)</item>
+                        <item> Rome (1797-1965)</item>
+                        <item> Venice (1797-1963)</item>
+                        <item> Messina (1805-1934)</item>
+                        <item> Palermo (1805-1994)</item>
+                        <item> Florence (1823-current)</item>
+                        <item> Ancona (1840-1907)</item>
+                        <item> Ravenna (1844-1867)</item>
+                        <item> Carrara (1852-1916)</item>
+                        <item> Spezzia (1856-1876)</item>
+                        <item> Otranto (1861-1867)</item>
+                        <item> Taranto (1861-1872)</item>
+                        <item> Civita Vecchia (1861-1907)</item>
+                        <item> Porto D-Anzio (1862-?)</item>
+                        <item> Capriano (1863-?)</item>
+                        <item> Gallipoli (1864-1866)</item>
+                        <item> Turin (1864-1967)</item>
+                        <item> Ostia (1864-?)</item>
+                        <item> Milan (1865-current)</item>
+                        <item> Naples (1796-current)</item>
+                        <item> Gioja (1868-?)</item>
+                        <item> Castellamare (1869-1908)</item>
+                        <item> Trapani (1869-1907)</item>
+                        <item> Salerno (1871-?)</item>
+                        <item> Pozzouli (1873-1884)</item>
+                        <item> Girgenti (1875-1907)</item>
+                        <item> Bari (1878-1953)</item>
+                        <item> Rodi Garganico (1878-1907)</item>
+                        <item> Verona (1880-?)</item>
+                        <item> Milazzo (1880-1895)</item>
+                        <item> Bologna (1881-1910)</item>
+                        <item> Carini (1882-1907)</item>
+                        <item> Catania (1883-1927)</item>
+                        <item> San Remo (1883-1909)</item>
+                        <item> Sorrento (1893-1908)</item>
+                        <item> Reggio, Calabria (1895-1907)</item>
+                        <item> Capri (1901-1914)</item>
+                        <item> Aegean Sea Islands (1931-1938)</item>
+                        <item> Brindisi (1864-1880)</item>
+                    </list>
+                    <p>The United States currently has Consulate Generals in Florence, Milan and
+                        Naples.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1861">1861</date>.</head>
+                    <p> The United States established diplomatic relations with the Kingdom of Italy
+                        in 1861 when it accepted the credentials of Chevalier Joseph Bertinatti as
+                        Minister Plenipotentiary of the Kingdom of Italy on April 11, 1861.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of American Legations in the Italian Peninsula, <date from="1831" to="1848">1831-48</date>.</head>
+                    <p> Prior to the 1861 unification of Italy, the Italian peninsula was fragmented
+                        into several kingdoms, duchies, and city-states. As such, since the early
+                        nineteenth century, the United States maintained several legations which
+                        served the larger Italian states. In 1831 the United States established a
+                        legation to the Two Sicilies at Naples in 1831, while in 1840 the United
+                        States established a legation to the Kingdom of Sardinia at Turin. Finally,
+                        in 1848, the United States established a legation to the Papal States (later
+                        the Pontifical States) in Rome. </p>
+                </div>
+                <div type="timeline">
+                    <head>Legation of the Kingdom of Sardinia becomes the Legation of the Kingdom of
+                        Italy, <date when="1861">1861</date>. </head>
+                    <p> On April 11, 1861, following Italy’s unification, former Minister
+                        Plenipotentiary of the Kingdom on Sardinia, Chevalier Joseph Bertinatti,
+                        presented his credentials to the United States as Minister Plenipotentiary
+                        of the Kingdom of Italy.</p>
+                </div>
+                <div type="timeline">
+                    <head>U.S. Legation to the Kingdom of Italy moves to Florence and then Rome,
+                        <date from="1865" to="1871">1865-71</date>.</head>
+                    <p> During the period of Italian unification, George P. Marsh, as Minister
+                        Plenipotentiary, oversaw the move of the U.S. Legation from Turin to
+                        Florence in 1865 and from Florence to Rome in 1871.</p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of American Legation to Embassy Status, <date when="1893">1893</date>. </head>
+                    <p> The legation was elevated to an embassy when James J. Van Allen was
+                        appointed ambassador on October 23, 1893, though he declined the
+                        appointment. <ref target="/departmenthistory/people/macveagh-isaac-wayne">Wayne MacVeagh</ref> became the first official U.S. Ambassador to Italy
+                        when he presented his credentials in Rome on March 11, 1894.</p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of the Italian Legation to the Italian Embassy, <date when="1893">1893</date>. </head>
+                    <p> The Italian Legation to the United States became the Italian Embassy to the
+                        United States when Rome elevated Minister Baron Saverio de Fava to the rank
+                        of Ambassador on June 14, 1893.</p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations Severed, <date when="1941">1941</date>.</head>
+                    <p> Diplomatic relations were severed and the American Embassy in Rome was
+                        closed on December 11, 1941, after Italy declared war on the United
+                        States.</p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations Re-established, <date when="1944">1944</date>.</head>
+                    <p> Diplomatic relations were reestablished on October 16, 1944, when the Acting
+                        Secretary of State announced the decision in a statement released to the
+                        press.</p>
+                </div>
+                <div type="timeline">
+                    <head>American Embassy in Italy Re-opened, 1945.</head>
+                    <p> Ambassador <ref target="/departmenthistory/people/kirk-alexander-comstock">Alexander C. Kirk </ref>re-opened the U.S. Embassy in Rome when he
+                        presented his credentials on January 8, 1945.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/4033.htm">Italy</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/it/ ">Italy</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

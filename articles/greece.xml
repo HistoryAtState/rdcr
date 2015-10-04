@@ -1,0 +1,142 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Greece</title>
+                <title type="short">Greece</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by David Nickles, March 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> The United States recognized the independence of Greece with its decision on
+                    November 7, 1837 to empower the American minister at London to negotiate a
+                    treaty with that country. </p>
+                <figure>
+                    <graphic url="greece-flag.jpg"/>
+                    <head>Modern Flag of Greece</head>
+                </figure>
+                <div type="section" xml:id="recognition">
+                    <head>Recognition</head>
+                    <div type="timeline">
+                        <head>U.S. Recognition of Greek Independence, <date when="1837">1837</date>. </head>
+                        <p> On April 26, 1837, the Greek Minister at London sent a note to <ref target="/departmenthistory/people/stevenson-andrew">Andrew
+                            Stevenson</ref>, the U.S. Envoy Extraordinary and Minister
+                            Plenipotentiary at London, expressing a desire to establish relations of
+                            navigation with the United States. In response, the United States
+                            government on November 7, 1837, empowered Stevenson, <quote>“to enter
+                                upon the negotiation of a treaty of commerce and navigation between
+                                the United States and his Majesty the King of Greece.”</quote>
+                        </p>
+                        <p>In an earlier episode in April 1833, <placeName>Great
+                            Britain</placeName>, <placeName>France</placeName>, and
+                                <placeName>Russia</placeName> sent the United States an invitation
+                            to acknowledge Prince <persName>Otho</persName> (or Otto) of Bavaria as
+                            King of Greece. In response, Secretary of State <ref target="/departmenthistory/people/livingston-edward"> Edward
+                                Livingston</ref> sent an ambiguous reply on April 30, 1833,
+                            expressing willingness to recognize Prince Otho without actually doing
+                            so: <quote> “This note has been laid before the President of the United
+                                States, who has directed the Undersigned to inform the Ministers
+                                Plenipotentiary of the said three Powers that it has been the
+                                principle, and the invariable practice of the U.S. to recognize that
+                                as the legal Government of another nation, which, by its
+                                establishment in the actual exercise of political power might be
+                                supposed to have received the express or implied assent of the
+                                people, and that he is therefore happy that the assurance given by
+                                the three mediating powers, that they were duly authorized to make
+                                the arrangement they announce, by the people of Greece, will enable
+                                him on the part of the United States, without departing from their
+                                known principles in similar cases, to acknowledge the Prince Otho of
+                                Bavaria, as the King of Greece, and to comply with the request of
+                                the high mediating powers, on his reception by the people of that
+                                country as their Sovereign.”</quote>
+                        </p>
+                    </div>
+                </div>
+                <div type="section" xml:id="consular-presence">
+                    <head>Consular Presence</head>
+                    <div type="timeline">
+                        <head>Establishment of Consular Relations, <date when="1837">1837</date>.</head>
+                        <p> On June 27, 1837, the United States appointed <persName>Gregory A.
+                            Perdicaris</persName> to be its first Consul to Greece. He took up
+                            his post at <placeName key="athens">Athens</placeName> on January 7,
+                            1838.</p>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Legation in
+                            Greece, <date when="1868">1868</date>. </head>
+                        <p> On March 11, 1868, the United States appointed <ref target="/departmenthistory/people/tuckerman-charles-keating">Charles
+                            K. Tuckerman</ref> as its first Minister Resident in Athens. He
+                            presented his credentials on June 16, 1868.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Closure of American Legation in Athens and Opening of Legation in
+                            London, <date when="1941">1941</date>. </head>
+                        <p> The United State closed its Legation in Athens on July 14, 1941, due to
+                            the German occupation of Greece. <ref target="/departmenthistory/people/biddle-anthony-joseph-drexel-jr">Anthony J. Drexel Biddle, Jr.</ref>, who was appointed Envoy
+                            Extraordinary and Minister Plenipotentiary to Greece on November 13,
+                            1941, served near the Government of Greece established in England. He
+                            was also commissioned to the exile governments of Belgium,
+                            Czechoslovakia, Luxembourg, the Netherlands, Norway, Poland, and
+                            Yugoslavia. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Elevation of American Legation to Embassy Status, <date when="1942">1942</date>.</head>
+                        <p> The United States promoted <ref target="/departmenthistory/people/biddle-anthony-joseph-drexel-jr">Anthony J. Drexel Biddle, Jr.</ref>, to be the new Ambassador
+                            Extraordinary and Plenipotentiary to the Government of Greece on
+                            September 29, 1942. Biddle had previously served as Envoy Extraordinary
+                            and Minister Plenipotentiary of the United States to that government.
+                            Biddle presented his credentials on October 30, 1942.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>American Embassy Moved to Cairo, <date when="1943">1943</date>.</head>
+                        <p> The Government of Greece relocated from Great Britain to Egypt. <ref target="/departmenthistory/people/kirk-alexander-comstock">Alexander
+                            C. Kirk</ref> was appointed Ambassador Extraordinary and
+                            Plenipotentiary to Greece on June 4, 1943, and resided in Cairo in order
+                            to be near the Government of Greece established in Greece. Kirk was also
+                            accredited to Egypt and Saudi Arabia. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>American Embassy Returned to Athens, <date when="1944">1944</date>.</head>
+                        <p>
+                            <ref target="/departmenthistory/people/macveagh-lincoln">Lincoln
+                                MacVeagh</ref>, who was appointed the Ambassador Extraordinary and
+                            Plenipotentiary to Greece on November 12, 1943, initially resided in
+                            Cairo, but transferred the Embassy to <placeName>Athens</placeName> on
+                            October 27, 1944.</p>
+                    </div>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties-agreements">
+                <head>Treaties &amp; Agreements</head>
+                <div type="timeline">
+                    <head>Treaty of Commerce and Navigation, <date when="1837">1837</date>.</head>
+                    <p> On December 22, 1837, the United States and Greece signed a Treaty of
+                        Commerce and Navigation.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3395.htm">Greece</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/gr/index.htm">Greece</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

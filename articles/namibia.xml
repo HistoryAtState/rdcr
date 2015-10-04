@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Namibia</title>
+                <title type="short">Namibia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized <placeName key="na">Namibia</placeName> on March 21,
+                    1990, when the U.S. Liaison Office at <placeName key="windhoek">Windhoek</placeName> was elevated to Embassy status with <ref target="/departmenthistory/people/mcguire-roger-a">Roger A. McGuire</ref> as
+                    Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                <figure>
+                    <graphic url="namibia.jpg"/>
+                    <head>Modern Flag of Namibia</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Namibia’s Independence, <date when="1990">1990</date>.</head>
+                    <p>The United States recognized <placeName>Namibia</placeName> on March 21,
+                        1990, when the U.S. Liaison Office at Windhoek was elevated to Embassy
+                        status with <ref target="/departmenthistory/people/mcguire-roger-a">Roger A.
+                            McGuire</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>,
+                        upon Namibia’s attainment of independence on that date. Namibia previously
+                        had been under South African sovereignty. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in Namibia,
+                        <date when="1990">1990</date>.</head>
+                    <p> Diplomatic relations were established on March 21, 1990, when the U.S.
+                        Liaison Office at Windhoek was elevated to Embassy status with <ref target="/departmenthistory/people/mcguire-roger-a">Roger A.
+                            McGuire</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.
+                    </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/wa.html">Namibia</ref>
+                    </bibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5472.htm">Namibia</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/wa">Namibia</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

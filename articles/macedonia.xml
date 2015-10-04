@@ -1,0 +1,79 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Macedonia</title>
+                <title type="short">Macedonia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and Written by Aaron Marrs, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>
+                    <placeName key="mk">Macedonia</placeName> achieved independence in 1991 with the
+                    peaceful breakup of Yugoslavia. Recognition was delayed because of Greece’s
+                    objection to Macedonia’s use of “Macedonia,” and the country was initially
+                    recognized as the “Former Yugoslav Republic of Macedonia.” The United States
+                    recognized FRYM in 1994 under the provisional designation and began referring to
+                    Macedonia by its constitutional name, Republic of Macedonia, in 2004.</p>
+                <figure>
+                    <graphic url="macedonia-flag.jpg"/>
+                    <head>Modern Flag of Macedonia</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Former Yugoslav Republic of Macedonia, <date when="1994">1994</date>. </head>
+                    <p> The United States recognized the Former Yugoslav Republic of Macedonia on
+                        February 9, 1994. At the same time, the United States announced its intent
+                        to establish full diplomatic relations with the Former Yugoslav Republic of
+                        Macedonia. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="relations">
+                <head>History of Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of the U.S. Mission (or Liaison Office) in Skopje, 1993. </head>
+                    <p> The United States established a Liaison Office in <placeName key="skopje">Skopje</placeName> on December 3, 1993. <persName>Robert L.
+                        Norman</persName> was the Acting Principal Officer. </p>
+                </div>
+                <div type="timeline">
+                    <head> Establishment of Diplomatic Relations, <date when="1995">1995</date>.</head>
+                    <p>On September 13, 1995, U.S. President <persName>William J. Clinton</persName>
+                        announced that he had been in correspondence with President of the Former
+                        Yugoslav Republic of Macedonia <persName>Kiro Gligorov</persName> to
+                        establish diplomatic relations, and announced that <quote>“I have received
+                            his positive response and can confirm that diplomatic relations now
+                            exist between our two countries.”</quote>
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of American Legation to Embassy Status, <date when="1996">1996</date>.</head>
+                    <p> On July 29, 1996, <ref target="/departmenthistory/people/hill-christopher-robert">Christopher
+                        R. Hill</ref> presented his credentials as the first U.S. Ambassador to
+                        the Former Yugoslav Republic of Macedonia. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/26759.htm">Macedonia</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/mk/index.htm">Macedonia</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

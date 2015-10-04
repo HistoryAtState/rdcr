@@ -1,0 +1,107 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Laos</title>
+                <title type="short">Laos</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Evan Dawley, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summaryy">
+                <head>Summary</head>
+                <p> Before 1950, citizens of the United States had, at most, very limited relations
+                    with residents of what is today the nation of <placeName key="la">Laos</placeName>. Relations became more regular only after Laos gained its
+                    independence from the French Empire following World War II </p>
+                <figure>
+                    <graphic url="laos-flag.jpg"/>
+                    <head>Modern Flag of Laos</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Laotian Independence, <date when="1950">1950</date>.</head>
+                    <p>The United States recognized the Kingdom of Laos on February 7, 1950, when
+                        the U.S. Department of State made an announcement to that effect. Laos
+                        previously had been a Protectorate of France and had become an independent
+                        state as part of the French Union in 1949.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>Establishment of Consular Relations, <date when="1950">1950</date>.</head>
+                    <p>The United States opened consular relations with Laos with the assignment of
+                        <persName>Charles J. Baker</persName> as Vice Consul at <placeName key="vientiane">Vientiane</placeName> on April 25, 1950. The first
+                        Consul assigned to Laos was <persName>Alfred T. Willborn</persName>, who was
+                        assigned to Vientiane on December 7, 1952. These consular officials had
+                        multiple postings and were also assigned to Saigon, Vietnam, and Phnom Penh,
+                        Cambodia.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1950">1950</date>.</head>
+                    <p> Diplomatic relations were established on July 29, 1950, when American Envoy
+                        Extraordinary and Minister Plenipotentiary <ref target="/departmenthistory/people/heath-donald-read">Donald R.
+                            Heath</ref> presented his credentials to the King of Laos. Heath was
+                        also accredited to Cambodia and Viet-Nam and was resident at Saigon.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Legation in Laos, <date when="1950">1950</date>.</head>
+                    <p>The American Legation in Vientiane was established on August 22, 1950, when
+                        it opened under Chargé d’Affaires <hi rend="italic">ad interim</hi>
+                        <ref target="/departmenthistory/people/guest-paul-lynn">Paul L.
+                            Guest</ref>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of Status of Legation in <placeName key="vientiane">Vientiane</placeName> to Embassy, <date when="1955">1955</date>.</head>
+                    <p> According to a joint announcement by the Governments of the United States
+                        and Laos on August 10, 1955, the United States elevated its diplomatic
+                
+                mission in <placeName key="vientiane">Vientiane</placeName> from a Legation
+                        to an Embassy. Prior to this, on July 27, 1955, the United States Senate
+                        confirmed <ref target="/departmenthistory/people/yost-charles-woodruff">Charles W. Yost</ref>, who was then Minister to Laos, for the post of
+                        Ambassador to Laos. He presented his credentials soon after the joint
+                        announcement of August 10 of that year.</p>
+                </div>
+                <div type="timeline">
+                    <head>Relations Altered, <date when="1975">1975</date>.</head>
+                    <p> After the proclamation of the founding of the <placeName>Lao People’s
+                        Democratic Republic (LPDR)</placeName> in December 1975, the United
+                        States downgraded its chief of mission in Vientiane from Ambassador to
+                        Chargé d’Affaires <hi rend="italic">ad interim</hi>. On January 9, 1987,
+                        this position was designated as Chargé d’Affaires.</p>
+                </div>
+                <div type="timeline">
+                    <head>Ambassadorial Relations Restored, <date when="1992">1992</date>.</head>
+                    <p>The United States posted its first Ambassador to the LPDR when Ambassador
+                        <ref target="/departmenthistory/people/salmon-charles-b">Charles B.
+                            Salmon Jr.</ref> presented his credentials to the Lao Government on
+                        August 6, 1992.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2770.htm">Laos</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/la/index.htm">Laos</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back> </back>
+    </text>
+</TEI>

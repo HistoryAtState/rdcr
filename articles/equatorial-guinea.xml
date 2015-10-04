@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Equatorial
+                    Guinea</title>
+                <title type="short">Equatorial Guinea</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Chris Morrison, March 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Under Spanish colonial rule for most of the modern era, Equatorial Guinea gained
+                    independence in 1968. At the time of independence, Equatorial Guinea had one of
+                    the highest per capita incomes and the highest literacy rates in Africa. Since
+                    independence, Equatorial Guinea has attracted investment from U.S. companies and
+                    the United States Government. With the increased U.S. investment presence,
+                    relations between the U.S. and the Government of Equatorial Guinea have been
+                    characterized by a positive, constructive relationship. <figure>
+                        <graphic url="equatorial-flag.jpg"/>
+                        <head>Modern Flag of Equatorial Guinea</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>United States Recognition of Equatorial Guinea, <date when="1968">1968</date>.</head>
+                    <p>On October 12, 1968, Equatorial Guinea gained independence from Spain. The
+                        United States recognized the independence of Equatorial Guinea when U.S.
+                        President <persName>Lyndon Johnson</persName> appointed <ref target="/departmenthistory/people/sherer-albert-william">Albert W.
+                            Sherer</ref>, Ambassador to Togo, to also act as Ambassador to
+                        Equatorial Guinea on October 28, 1968.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1968">1968.</date>
+                    </head>
+                    <p>Diplomatic relations were established on November 21, 1968, when Ambassador
+                        <persName>Albert W. Sherer</persName> presented his credentials to the
+                        government of Equatorial Guinea. Sherer also was accredited to Togo and was
+                        resident at <placeName>Lomé</placeName>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Embassy in Malabo, <date when="1969">1969.</date>
+                    </head>
+                    <p>The American Embassy at <placeName key="santa-isabel ">Santa
+                        Isabel</placeName> (now Malabo) was established on August 1, 1969, with
+                        <persName>Albert N. Williams</persName> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Suspension of Diplomatic Relations by the United States, <date when="1976">1976.</date>
+                    </head>
+                    <p>The United States suspended diplomatic relations with Equatorial Guinea on
+                        March 14, 1976. The Department of State announced that the action had been
+                        taken after it learned the U.S. Ambassador, <ref target="/departmenthistory/people/spiro-herbert-john">Herbert J.
+                            Spiro</ref>, and the U.S. Consul, had been declared <hi rend="italic">personae non gratae</hi>, in what the Department termed an “unwarranted
+                        affront” to the two individuals and the U.S. government. </p>
+                </div>
+                <div type="timeline">
+                    <head>Resumption of Normal Diplomatic Relations, <date when="1979">1979.</date>
+                    </head>
+                    <p>Normal relations were resumed on December 19, 1979, when <ref target="/departmenthistory/people/smythe-mabel-murphy">Mable Murphy
+                        Smythe</ref> presented her credentials as American Ambassador.</p>
+                </div>
+                <div type="timeline">
+                    <head>American Embassy in Equatorial Guinea Reestablished, <date when="1981">1981.</date>
+                    </head>
+                    <p>The American Embassy in Malabo was reestablished on June 11, 1981, with <ref target="/departmenthistory/people/thompson-joanne-m">Joanne
+                        Thompson</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>Closure of American Embassy in Equatorial Guinea, <date when="1995">1995.</date>
+                    </head>
+                    <p>Embassy Malabo was closed on October 31, 1995, and its functions were
+                        transferred to the Embassy in <placeName>Yaounde</placeName> November 1,
+                        1995.</p>
+                </div>
+                <div type="timeline">
+                    <head>Reopening of the American Embassy in Malabo, <date when="2006">2006.</date>
+                    </head>
+                    <p>Recognizing the U.S.’s growing economic and political interests, the U.S.
+                        Government reopened Embassy Malabo in 2006. U.S. Ambassador Extraordinary
+                        and Plenipotentiary <ref target="/departmenthistory/people/johnson-donald-c">Donald J. Johnson</ref> presented his credentials on November 23, 2006,
+                        becoming the first resident ambassador in over ten years.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/7221.htm">Equatorial
+                        Guinea</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/ek/">Equatorial Guinea</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

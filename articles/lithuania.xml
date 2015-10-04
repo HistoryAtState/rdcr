@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Lithuania</title>
+                <title type="short">Lithuania</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States first established diplomatic relations with <placeName key="lt">Lithuania</placeName> on July 28, 1922. The U.S. representative to
+                    Lithuania was stationed at the Legation in Riga, Latvia until Legation
+                    <placeName key="kovno">Kovno</placeName> was established May 31, 1930. The
+                    Soviet invasion and annexation of Lithuania and the other Baltic States of
+                    Estonia and Latvia in 1940 forced the closure of the American legation, but
+                    Lithuanian representation in the United States continued uninterrupted. The
+                    United States never recognized the forcible incorporation of Lithuania into the
+                    Soviet Union and views the present Government of Lithuania as a legal
+                    continuation of the interwar republic.</p>
+                <figure>
+                    <graphic url="lithuania-flag.jpg"/>
+                    <head>Modern Flag of Lithuania</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>United States Recognition of Lithuania, <date when="1922">1922</date>.</head>
+                    <p>The United States recognized Lithuania on July 28, 1922, when the U.S.
+                        Commissioner at Riga, <ref target="/departmenthistory/people/young-evan-erastus">Evan Young</ref>,
+                        informed the Foreign Office of Lithuania of the United States’ decision.
+                        Secretary of State <ref target="/departmenthistory/people/hughes-charles-evans">Charles Evans
+                            Hughes</ref> had instructed Young in a telegram dated July 25, 1922, to
+                        advise the Foreign Offices of Estonia, Latvia, and Lithuania of this
+                        decision on the 28th. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1922">1922</date>.</head>
+                    <p>Diplomatic relations were established on July 28, 1922, when U.S.
+                        Commissioner at Riga, Evan Young, informed the Foreign Office of Lithuania
+                        that the United States’ recognized its independence and that he would
+                        continue as the American representative to the three Baltic States, with the
+                        new rank of Minister. </p>
+                </div>
+                <div type="timeline">
+                    <head>American Legation established at <placeName key="kovno">Kovno</placeName>
+                        (later Kaunas), <date when="1922">1922</date>.</head>
+                    <p>The U.S. Legation at Kovno was established on May 31, 1930, with
+                        <persName>Hugh S. Fullerton</persName> as Charge d’Affaires <hi rend="italic">ad interim</hi>. Previous U.S. diplomatic representatives
+                        to Lithuania also had been accredited to Estonia and Latvia, and had resided
+                        in Riga. </p>
+                </div>
+                <div type="timeline">
+                    <head>Legation at <placeName key="kovno">Kaunas</placeName> Closed, <date when="1940">1940</date>.</head>
+                    <p>The U.S. Legation at Kaunas was closed on September 5, 1940, after the USSR
+                        occupied and annexed Lithuania, as well as Estonia and Latvia, in August
+                        1940. Although the Soviet actions forced the closure of the American
+                        Legation and ended the de facto independence of Lithuania, the United States
+                        never recognized the state’s forcible incorporation into the Soviet Union.
+                        The U.S. Government permitted Lithuanian representatives accredited by the
+                        last independent government to remain in the United States with diplomatic
+                        status, and the U.S. position remained that diplomatic relations continued
+                        uninterrupted.</p>
+                </div>
+                <div type="timeline">
+                    <head>Recognition of Lithuanian Independence from the USSR, <date when="1991">1991</date>.</head>
+                    <p>The U.S. recognized the restoration of Lithuania’s independence on September
+                        2, 1991, in an announcement by President <persName>George H.W.
+                            Bush</persName>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Resumption of Normal Relations, <date when="1991">1991</date>.</head>
+                    <p>The United States and Lithuania resumed normal diplomatic relations on
+                        September 6, 1991, when U.S. Deputy Assistant Secretary of State <ref target="/departmenthistory/people/kamman-curtis-w">Curtis Kamman</ref>
+                        and the Lithuanian First Deputy Minister of Foreign Affairs,
+                        <persName>Valdemaras Katkus</persName>, signed a memorandum of
+                        understanding concerning diplomatic relations.</p>
+                </div>
+                <div type="timeline">
+                    <head>American Embassy at <placeName>Vilnius</placeName> Opened, <date when="1991">1991</date>.</head>
+                    <p>The American Embassy at <placeName key="vilnius">Vilnius</placeName> was
+                        established October 2, 1991, with <ref target="/departmenthistory/people/johnson-darryl-norman">Darryl N.
+                            Johnson</ref> as Chargé d'Affaires <hi rend="italic">ad interim.</hi>
+                    </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5379.htm">Lithuania</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/lh/">Lithuania</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

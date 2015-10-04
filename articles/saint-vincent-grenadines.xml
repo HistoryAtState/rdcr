@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Saint Vincent and the
+                    Grenadines</title>
+                <title type="short">Saint Vincent and the Grenadines</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Present-day <placeName key="vc">Saint Vincent</placeName> was ceded to Great
+                    Britain in 1763 and was briefly under French rule from 1779 until 1796.
+                    Following a return to British rule, Saint Vincent passed through a variety of
+                    stages as a colony and Commonwealth state. After a 1979 referendum it eventually
+                    became the last of the Windward Islands to achieve independence.</p>
+                <p>Today the United States and Saint Vincent have solid bilateral relations. Both
+                    countries have signed a series of treaties combating the cultivation and
+                    shipment of narcotics.<figure>
+                        <graphic url="saint-vincent-grenadines-flag.jpg"/>
+                        <head>Modern Flag of St. Vincent and the Grenadines</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of St. Vincent's Independence, <date when="1981">1981</date>.</head>
+                    <p>St. Vincent and the Grenadines achieved full independence on October 27,
+                        1979. The United States had previously informally recognized St. Vincent as
+                        a federated state in the British Commonwealth but did not formally recognize
+                        its independence until the appointment of <ref target="/departmenthistory/people/bish-milan-d">Milan D. Bish</ref> as
+                        American Ambassador to Saint Vincent on November 23, 1981. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular_presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <p>The United States maintains no official presence in St. Lucia. The Ambassador
+                        and Embassy officers are resident in <placeName>Barbados</placeName> and
+                        frequently travel to St. Vincent.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>U.S. Special Representative to Saint Vincent Appointed, <date when="1977">1977.</date>
+                    </head>
+                    <p>
+                        <ref target="/departmenthistory/people/ortiz-francis-vincent">Frank V.
+                            Oritz, Jr.</ref> was appointed United States Special Representative to
+                        the States of <placeName>Antigua</placeName>,
+                        <placeName>Dominica</placeName>, <placeName>St.
+                            Christopher-Nevis-Anguilla</placeName>, <placeName>St.
+                                Lucia</placeName>, and <placeName>St. Vincent</placeName> on September 1,
+                        1977. The appointment was concurrent to his positions as Ambassador to
+                        <placeName>Barbados</placeName> and to
+                        <placeName>Grenada</placeName>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations Established, <date when="1981">1981.</date>
+                    </head>
+                    <p>Diplomatic relations were established on December 8, 1981, when St. Vincent
+                        and the Grenadines Ambassador <persName>Hudson Kemul Tannis</persName>
+                        presented his credentials. American Ambassador <ref target="/departmenthistory/people/bish-milan-d">Milan D. Bish</ref>
+                        presented his credentials in Bridgetown that same day. He was concurrently
+                        Ambassador to Antigua and Barbuda, Barbados, Dominica, and St. Lucia and
+                        Special Representative to Saint Christopher and Nevis. All U.S. ambassadors
+                        to St. Vincent and the Grenadines have been resident at
+                        <placeName>Bridgeport</placeName>. </p>
+                </div>
+                <div type="appendix">
+                    <head>Resources</head>
+                    <listBibl>
+                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2345.htm">Saint Vincent and
+                            the Grenadines</ref>
+                        </bibl>
+                        <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/vc/index.htm">Saint Vincent
+                            and the Grenadines</ref>
+                        </bibl>
+                    </listBibl>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

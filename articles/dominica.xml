@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Dominica</title>
+                <title type="short">Dominica</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Following the independence of the Commonwealth of Dominica in 1978, the United
+                    States established friendly bilateral relations with the former British colony.
+                    The United States maintained diplomatic relations with Dominica as political
+                    discontent stemming from long-term domestic economic problems led to the
+                    establishment of an interim government in 1979.<figure>
+                        <graphic url="dominica.jpg"/>
+                        <head>Modern Flag of Dominica</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Dominican Independence, <date when="1978">1978</date>.</head>
+                    <p>Great Britain granted independence to the Commonwealth of Dominica on
+                        November 3, 1978. The United States recognized Dominica on that same day,
+                        with <ref target="/departmenthistory/people/ortiz-francis-vincent">Frank V.
+                            Ortiz, Jr.</ref>, American Ambassador to Barbados, in attendance at
+                        independence celebrations as Personal Representative of President
+                        <persName>Jimmy Carter</persName>. </p>
+                </div>
+                <div type="section" xml:id="consular_relations">
+                    <head>Consular Relations</head>
+                    <div type="timeline">
+                        <p>The United States maintains no official presence in Dominica. The
+                            Ambassador and the Embassy staff are resident at <placeName>Bridgetown,
+                                Barbados</placeName>. </p>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic_relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Appointment of First American Ambassador to Dominica, <date when="1979">1979.</date>
+                        </head>
+                        <p>Ambassador <ref target="/departmenthistory/people/shelton-sally-angela">Sally Angela Shelton</ref> presented
+                            credentials at <placeName>Bridgetown, Barbados</placeName>, where she
+                            remained resident. </p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2295.htm">Dominica</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/do">Dominica</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

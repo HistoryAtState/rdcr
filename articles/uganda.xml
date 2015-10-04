@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Uganda</title>
+                <title type="short">Uganda</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized Ugandan independence in 1962 by President
+                    <persName>John F. Kennedy</persName>. U.S.-Ugandan relations have, except
+                    for a period in the 1970s, remained strong. The United States currently works
+                    with <placeName xml:id="ug">Uganda</placeName> to promote economic development
+                    of its abundant natural resources, and combat public-health risks such as HIV/
+                    AIDS. </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Ugandan Independence, <date when="1962">1962</date>.</head>
+                    <p>The United States recognized <placeName>Uganda</placeName> on October 9,
+                        1962, in a congratulatory message from President <persName>John F.
+                            Kennedy</persName> to Prime Minister A. Milton Obote. Uganda previously
+                        had been under British sovereignty. </p>
+                    <figure>
+                        <graphic url="uganda-flag.jpg"/>
+                        <head>Modern Flag of Uganda</head>
+                    </figure>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in Uganda,
+                        <date when="1962">1962</date>.</head>
+                    <p> Diplomatic relations were established on October 9, 1962, when the American
+                        consulate general at <placeName xml:id="kampala">Kampala</placeName> was
+                        raised to Embassy status with Olcott H. Deming as Chargé d'Affaires <hi rend="italic">ad interim</hi>. </p>
+                </div>
+                <div type="timeline">
+                    <head>Closure of American Embassy, <date when="1973">1973</date>.</head>
+                    <p>The American Embassy at Kampala was closed on November 10, 1973, when all
+                        U.S. diplomatic personnel were withdrawn from Uganda. The Department of
+                        State later cited as factors that prompted the closure persistent internal
+                        security problems, operating difficulties for American programs and
+                        personnel, repeated public threats against Embassy officials and other
+                        Americans by high Ugandan officials, and finally the abrupt expulsion of the
+                        U.S. Marine Security Guard that protected the Embassy. Diplomatic relations
+                        were not interrupted and Uganda maintained an embassy in Washington.
+                        American interests in Uganda were represented by the Federal Republic of
+                        Germany. </p>
+                </div>
+                <div type="timeline">
+                    <head>Re-establishment of American Embassy, <date when="1979">1979</date>.</head>
+                    <p>The American Embassy at Kampala was re-established on June 18, 1979, with
+                        David Halstead as Chargé d'Affaires <hi rend="italic">ad interim</hi>. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2963.htm">Uganda</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/ug/index.htm">Uganda</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back> </back>
+    </text>
+</TEI>

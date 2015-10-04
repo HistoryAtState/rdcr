@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Kenya</title>
+                <title type="short">Kenya</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>From 1895 until 1963, the area that later became modern Kenya was under British
+                    colonial rule as part of British East Africa. In 1998, the American Embassy in
+                    Kenya’s capital city <placeName key="nairobi">Nairobi</placeName> was the target
+                    of a terrorist bombing that killed 12 U.S. citizens, 32 Foreign Service
+                    Nationals (FSNs), and 247 Kenyan citizens. Approximately 5,000 Kenyans, 6 U.S.
+                    citizens, and 13 FSNs were injured. </p>
+                <figure>
+                    <graphic url="kenya-flag.jpg"/>
+                    <head>Modern Flag of Kenya</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>United States Recognition of Kenya, <date when="1963">1963</date>.</head>
+                    <p>The United States recognized <placeName>Kenya</placeName> when it gained its
+                        independence on December 12, 1963. On December 10, 1963, U.S. Secretary of
+                        the Interior <persName>Stewart Udall</persName>, Personal Representative of
+                        the President with the rank of Special Ambassador, delivered a message from
+                        President <persName>Lyndon B. Johnson</persName> to Kenyan Prime Minister
+                        <persName>Jomo Kenyatta</persName> in which Johnson  congratulated Kenya
+                        on its independence. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in Kenya,
+                        <date when="1964">1964</date>.</head>
+                    <p> Diplomatic relations and the American Embassy at
+                        <placeName>Nairobi</placeName> were established on March 2, 1964, when
+                        U.S. Ambassador <ref target="/departmenthistory/people/attwood-william-hollingsworth">William
+                            Attwood</ref> presented his credentials to the Kenyan government. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2962.htm">Kenya</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/ke">Kenya</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

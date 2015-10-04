@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Kuwait</title>
+                <title type="short">Kuwait</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Chris Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Under British protectorship since 1899, <placeName key="kw">Kuwait</placeName>
+                    became fully independent in June 1961. Strategic cooperation between the United
+                    States and Kuwait increased in 1987 with the implementation of a maritime
+                    protection regime that ensured the freedom of navigation through the Gulf for 11
+                    Kuwaiti tankers that were reflagged with U.S. markings. The U.S.-Kuwaiti
+                    strategic partnership intensified dramatically again after Iraq's August 2,
+                    1990, invasion of Kuwait. <figure>
+                        <graphic url="kuwait-flag.jpg"/>
+                        <head>Modern Flag of Kuwait</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Kuwaiti Independence, <date when="1961">1961</date>.</head>
+                    <p>On June 19, 1961, Kuwait became fully independent following an exchange of
+                        notes with the United Kingdom that terminated the Anglo-Kuwaiti Treaty of
+                        1899 and therefore provided for Kuwaiti independence. </p>
+                    <p>Despite the fact that Kuwait was technically still a British protectorate
+                        prior to June 1961, the Department of State noted in July 1961 that the
+                        United States had <quote>“for some time recognized Kuwait as a sovereign
+                            state as evidenced by U.S. consular officers in Kuwait receiving
+                            exequaturs from the Ruler of Kuwait, and by the conclusion in 1960 of an
+                            agreement respecting visas directly with the Government of
+                            Kuwait.”</quote> The United States opened its first consulate in Kuwait
+                        on June 27, 1951, and concluded a bilateral agreement with Kuwait on
+                        non-immigrant passport visas in an exchange of notes on December 11 and 27,
+                        1960. </p>
+                </div>
+                <div type="section" xml:id="consular_relations">
+                    <head>Consular Presence</head>
+                    <div type="timeline">
+                        <head>U.S. Consulate in Kuwait, <date when="1951">1951</date>, with
+                            interruptions.</head>
+                        <p>The United States opened its first consulate in Kuwait on June 27, 1951.
+                            It opened to the public on October 15, with <ref target="/departmenthistory/people/duncan-enoch-sevier">Enoch
+                                Duncan</ref> as U.S. Consul to Kuwait.</p>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic_relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Embassy in
+                            Kuwait, <date when="1961">1961</date>.</head>
+                        <p>Diplomatic relations were established on September 22, 1961, by agreement
+                            between the governments of both states. The American Embassy in Kuwait
+                            was established on the same date when the American consul in Kuwait,
+                            <ref target="/departmenthistory/people/mak-dayton-s">Dayton
+                                Mak</ref>, was designated Chargé d’Affaires.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Evacuation of American Embassy Staff, <date when="1990">1990</date>.</head>
+                        <p>American Ambassador <ref target="/departmenthistory/people/howell-w-nathaniel">W. Nathaniel
+                            Howell</ref> and the Embassy staff left Kuwait on December 13, 1990,
+                            in the wake of Iraq’s armed occupation of Kuwait that began on August 2,
+                            1990. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>American Embassy Reopened, <date when="1991">1991.</date>
+                        </head>
+                        <p>The American Embassy reopened on March 1, 1991, following the expulsion
+                            of Iraqi armed forces from Kuwait by the military forces of the United
+                            States and a multinational coalition. </p>
+                    </div>
+                </div>
+                <div type="appendix">
+                    <head>Resources</head>
+                    <listBibl>
+                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35876.htm">Kuwait</ref>
+                        </bibl>
+                        <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/ku/">Kuwait</ref>
+                        </bibl>
+                    </listBibl>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: The Republic of
+                    Genoa</title>
+                <title type="short">Republic of Genoa*</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2010</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Lindsay Krasnoff, January 2010</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The <placeName xml:id="xo">Republic of Genoa</placeName> was an independent and sovereign state in 1776 when the
+                    United States declared its independence from Great Britain. Genoa recognized the
+                    United States in 1791 when it appointed <persName>Joseph Ravara</persName> to act as Consul General
+                    for the Doge and Governors of the Republic of Genoa at Philadelphia. The U.S.
+                    sent its first consular official to Genoa in 1799; however, the relationship was
+                    short-lived as Genoa was annexed by France in 1805. Although it was briefly
+                    reconstituted in 1814 with the first defeat of <persName>Napoleon</persName>, the Congress of Vienna
+                    awarded Genoa to the Kingdom of Piedmont-Sardinia in 1815. </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Republic of Genoa’s Recognition of the United States, <date when="1791">1791</date>. </head>
+                    <p> The Republic of Genoa recognized the United States when it sent its first
+                        consular agent to the United States. Joseph Ravara was accredited by U.S.
+                        President <persName>George Washington</persName> on October 25, 1791, as Consul General of the
+                        Doge and Governors of the Republic of Genoa at Philadelphia. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>The first Genovese consulate in the United States was established at
+                        Philadelphia in October <date when="1791-10">1791</date>.</head>
+                    <p> Although the U.S. appointed its first Consul at Genoa on February 27, 1797,
+                        U.S. Department of State archival evidence suggests that the appointee never
+                        reached Genoa. The first U.S. consulate was established in Genoa in
+                        1799.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>No diplomatic relations established.</head>
+                    <p>The Republic of Genoa and the United States never established diplomatic
+                        relations.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties-agreements">
+                <head>Treaties and Agreements</head>
+                <div type="timeline">
+                    <head>No treaty or agreement signed.</head>
+                    <p>No bilateral treaty or agreement between the United States and the Republic
+                        of Genoa was ever signed prior to the republic’s incorporation into the
+                        Kingdom of Piedmont-Sardinia in 1815. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="key-events">
+                <head>Key Diplomatic Events</head>
+                <div type="timeline">
+                    <head>Incorporation of the Republic of Genoa into the Kingdom of
+                        Piedmont-Sardinia, <date when="1815">1815</date>.</head>
+                    <p> Although the Republic of Genoa was under the rule of France during the
+                        Napoleonic Wars, in the post-Napoleonic peace settlement, Genoa was given to
+                        the Kingdom of Piedmont-Sardinia in 1815.</p>
+                </div>
+                <div type="timeline">
+                    <head>Proclamation of the Kingdom of Italy, <date when="1861">1861</date>.</head>
+                    <p> The aftermath of the Franco-Austrian War brought about a series of
+                        plebiscites in the northern Italian states. By going to the ballot box, the
+                        states voted to join Piedmont-Sardinia, with the ultimate goal of unifying
+                        the entire peninsula. It should be noted that Piedmont-Sardinia was one of
+                        the more powerful states in the peninsula, as well as having one of the most
+                        liberal political systems. Garibaldi’s march to “liberate” the Kingdom of
+                        the Two Sicilies in 1860 brought the southern peninsula into the fold, and
+                        the new Kingdom of Italy was proclaimed on March 17, 1861, with the royal
+                        family of Piedmont-Sardinia as the new ruling monarchs of Italy.</p>
+                </div>
+                <div type="timeline">
+                    <head>U.S. Recognition of Italian Independence, <date when="1861">1861</date>.</head>
+                    <p> The United States officially recognized the Kingdom of Italy when it
+                        accepted the credentials of <persName>Chevalier Joseph Bertinatti</persName> as Minister
+                        Plenipotentiary of the Kingdom of Italy on April 11, 1861.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="relevant-issues">
+                <head>Issues Relevant to U.S. Foreign Diplomacy</head>
+                <div type="timeline">
+                    <head>Trade and Commerce.</head>
+                    <p> During the early years of the republic, the United States sought to promote
+                        trade abroad and to ensure that American vessels, both public and private,
+                        would be welcomed in ports around the world. As Genoa was one of the larger
+                        Mediterranean ports on the Italian peninsula in the late eighteenth century,
+                        Genovese recognition of the United States early-on was beneficial to U.S.
+                        trade and commerce. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Howard R. Marraro, <hi rend="italic">Diplomatic Relations Between the
+                            United States and the Kingdom of the Two Sicilies.</hi> Volume I:
+                        1816-1850, (New York: S.F. Vanni (Ragusa), 1951. </bibl>
+                    <bibl>History of U.S. Recognition and Relations: <ref target="/countries/italy">Italy </ref>
+                    </bibl>
+                    <bibl>A Century of Lawmaking: <ref target="http://memory.loc.gov/ammem/amlaw/lawhome.html">U.S.
+                            Congressional Documents, 1775-1874</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

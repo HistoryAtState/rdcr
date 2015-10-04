@@ -1,0 +1,108 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Egypt</title>
+                <title type="short">Egypt</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> When the United States became independent, Egypt was part of the Ottoman Empire
+                    and its foreign relations were conducted through the Sultan’s government at
+                    <placeName>Istanbul (Constantinople)</placeName>. In 1882, Great Britain
+                    established a protectorate over Egypt, which imposed effective British control
+                    over Egypt’s foreign affairs despite the fact that it continued to be nominally
+                    part of the Ottoman Empire. Beginning with Daniel Smith McCauley on March 17,
+                    1849, and until Egypt’s independence, the United States maintained a consular
+                    and quasi-diplomatic presence in Cairo through an “Agent and Consul
+                    General.”</p>
+                <figure>
+                    <graphic url="egypt-flag.jpg"/>
+                    <head>Modern Flag of Egypt</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Egyptian Independence, <date when="1922">1922</date>.</head>
+                    <p> The United States recognized Egypt’s independence on April 26, 1922, in a
+                        letter from President <persName>Warren G. Harding</persName> to King
+                        <persName>Ahmed Fuad</persName>, delivered by American Diplomatic Agent
+                        and Consul General at <placeName key="cairo">Cairo</placeName>, <ref target="/departmenthistory/people/howell-joseph-morton">J. Morton
+                            Howell</ref>. Egypt had been under British control as a protectorate.
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>Formation, Recognition, and Dissolution of the United Arab Republic, <date from="1958" to="1961">1958-1961</date>.</head>
+                    <p> Egypt and Syria united to form a new state, the <placeName>United Arab
+                        Republic (UAR</placeName>), on February 22, 1958. The United States
+                        recognized the UAR on February 25, 1958, when U.S. Ambassador <ref target="/departmenthistory/people/hare-raymond-arthur">Raymond
+                            Hare</ref> delivered a note to that effect to the UAR Ministry of
+                        Foreign Affairs. The UAR’s capital was established at
+                        <placeName>Cairo</placeName>, where the United States maintained its
+                        embassy, while the American Embassy in <placeName>Damascus</placeName> was
+                        reclassified as a Consulate General. Syria seceded from the Union in 1961;
+                        however, Egypt continued to be known officially as the "United Arab
+                        Republic" until 1971.</p>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Legation in
+                            Egypt, <date when="1922">1922</date>.</head>
+                        <p>Diplomatic relations were established on April 26, 1922, upon American
+                            recognition of Egyptian independence. American Diplomatic Agent and
+                            Consul General at Cairo, <persName>J. Morton Howell,</persName> had
+                            conducted unofficial relations with Egypt as a “semi-independent state”
+                            prior to this date, as had been U.S. practice since 1849. Upon
+                            recognition, Howell served as the American diplomatic representative to
+                            Egypt, and the position of Diplomatic Agent was raised to the rank of
+                            Envoy Extraordinary and Minister Plenipotentiary on June 24, 1922,
+                            thereby establishing the American Legation in Egypt.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Diplomatic Relations Severed by the United Arab Republic, <date when="1967">1967</date>. </head>
+                        <p> The United Arab Republic severed diplomatic relations with the United
+                            States on June 6, 1967, in the wake of the <ref target="/milestones/1961-1968/arab-israeli-war-1967">June 1967
+                                Arab-Israeli War</ref>. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Establishment of U.S. Interest Section in Cairo, <date when="1967">1967</date>.</head>
+                        <p>A U.S. Interests Section was established in the Spanish Embassy in Cairo
+                            on June 7, 1967. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Re-establishment of Diplomatic Relations and the American Embassy in
+                            Egypt, <date when="1974">1974</date>.</head>
+                        <p>The Governments of Egypt and the United States agreed to resume
+                            diplomatic relations on February 28, 1974, and the United States named
+                            Ambassador-designate <ref target="/departmenthistory/people/eilts-hermann-frederick">Hermann
+                                F. Eilts</ref> in charge of the American Embassy in Cairo, which was
+                            reopened on the same date.</p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5309.htm">Egypt</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/eg/index.htm">Egypt</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

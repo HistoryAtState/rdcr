@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Senegal</title>
+                <title type="short">Senegal</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>
+                    <placeName key="sn">Senegal</placeName> and the United States have enjoyed
+                    excellent relations since Senegal’s independence from France and the dissolution
+                    of the Mali Federation in 1960. Senegal works closely with both
+                    <abbr>USAID</abbr> and the Peace Corps to promote improvements in domestic
+                    living standards and economic development.</p>
+                <figure>
+                    <graphic url="senegal-flag.jpg"/>
+                    <head>Modern Flag of Senegal</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of the Republic of Senegal, <date when="1960">1960</date>.</head>
+                    <p>The United States recognized the <placeName>Republic of Senegal</placeName>
+                        on September 24, 1960, when the American Embassy at <placeName key="dakar">Dakar</placeName> (formerly accredited to the Federation of Mali) so
+                        informed the Foreign Minister of Senegal. The Republic of Senegal had
+                        withdrawn from the Federation of Mali and declared its independence on
+                        August 20, 1960 (see <ref target="/countries/mali">Mali</ref>). </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in Senegal,
+                        <date when="1960">1960</date>.</head>
+                    <p> Diplomatic relations were established with the Republic of Senegal on
+                        September 24, 1960, when the American Embassy at Dakar in the Republic of
+                        Senegal was established, with <ref target="/departmenthistory/people/mcclelland-roswell-dunlop">Roswell D.
+                            McClelland</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.
+                        The Embassy at Dakar had been accredited previously to the Federation of
+                        Mali, which no longer existed (see <ref target="/countries/mali">Mali</ref>). </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2862.htm">Senegal</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/sg/">Senegal</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

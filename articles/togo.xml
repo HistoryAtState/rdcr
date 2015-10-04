@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Togo</title>
+                <title type="short">Togo</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States established diplomatic relations with <placeName xml:id="tg">Togo</placeName> in 1960. It has
+                    maintained friendly relations with Togo since its independence from France.
+                    Although the United States does not have any significant economic ties to Togo,
+                    it nonetheless maintains a strong presence there, most notably in the form of
+                    the Peace Corps, in order to encourage economic and rural development. </p>
+                <figure>
+                    <graphic url="togo-flag.jpg"/>
+                    <head>Modern Flag of Togo</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recongition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Togo’s Independence, <date when="1960">1960</date>.</head>
+                    <p>The United States recognized the Republic of Togo on April 27, 1960, when
+                        Attorney General <persName>William Rogers</persName>, Acting as Personal Representative of
+                        President <persName>Dwight D. Eisenhower</persName>, delivered a message to
+                        that effect to Prime Minister <persName>Sylvanus Olympio</persName>. Togoland previously had been
+                        under French administration as a United Nations Trust Territory. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in Togo,
+                        <date when="1960">1960</date>.</head>
+                    <p> Diplomatic relations were established on April 27, 1960, when the American
+                        consulate at <placeName xml:id="lome">Lomé</placeName> was raised to Embassy status with
+                        <ref target="/departmenthistory/people/macknight-jesse-mackenzie">Jesse
+                            M. MacKnight</ref> as Chargé d'Affaires <hi rend="italic">ad
+                                interim</hi>. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5430.htm">Togo</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/to/">Togo</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back>
+            
+        </back>
+    </text>
+</TEI>

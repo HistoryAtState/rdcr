@@ -1,0 +1,108 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Kosovo</title>
+                <title type="short">Kosovo</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Derived from U.S. Department of State, Background Note, November 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="history">
+                <head>Historical Overview</head>
+                <p>
+                    <hi rend="italic">Early History:</hi> The Ottomans ruled Kosovo for more than
+                    four centuries, until Serbia acquired the territory during the First Balkan War
+                    in 1912-13. </p>
+                <figure>
+                    <graphic url="kosovo-flag.jpg"/>
+                    <head>Modern Flag of Kosovo</head>
+                </figure>
+                <p>
+                    <hi rend="italic">The 20th Century:</hi> First partitioned in 1913 between
+                    Serbia and Montenegro, Kosovo was then incorporated into the Kingdom of the
+                    Serbs, Croats, and Slovenes (later named Yugoslavia) after World War I. During
+                    World War II, parts of Kosovo were absorbed into Italian-occupied Albania. After
+                    the Italian capitulation, Nazi Germany assumed control over Kosovo until Tito's
+                    Yugoslav Partisans entered at the end of the war.</p>
+                <p> After World War II, Kosovo became an autonomous province of Serbia in the
+                    Socialist Federal Republic of Yugoslavia (S.F.R.Y.). The 1974 Yugoslav
+                    Constitution gave Kosovo (along with Vojvodina) the status of a Socialist
+                    Autonomous Province within Serbia. As such, it possessed nearly equal rights as
+                    the six constituent Socialist Republics of the S.F.R.Y. </p>
+                <p>In 1981, riots broke out and were violently suppressed after Kosovo Albanians
+                    demonstrated to demand that Kosovo be granted full Republic status. In the late
+                    1980s, Slobodan Milosevic propelled himself to power in Belgrade by exploiting
+                    the fears of the Serbian minority in Kosovo. In 1989, he eliminated Kosovo's
+                    autonomy and imposed direct rule from Belgrade. Belgrade ordered the firing of
+                    most ethnic Albanian state employees, whose jobs were then assumed by Serbs.</p>
+                <p> In response, Kosovo Albanian leaders began a peaceful resistance movement in the
+                    early 1990s, led by Ibrahim Rugova. They established a parallel government
+                    funded mainly by the Albanian diaspora. When this movement failed to yield
+                    results, an armed resistance emerged in 1997 in the form of the Kosovo
+                    Liberation Army (KLA). The KLA's main goal was to secure the independence of
+                    Kosovo.</p>
+                <p> In late 1998, Milosevic unleashed a brutal police and military campaign against
+                    the KLA, which included widespread atrocities against civilians. Milosevic's
+                    failure to agree to the Rambouillet Accords triggered a NATO military campaign
+                    to halt the violence in Kosovo. This campaign consisted primarily of aerial
+                    bombing of the Federal Republic of Yugoslavia (F.R.Y.), including Belgrade, and
+                    continued from March through June 1999. After 78 days of bombing, Milosevic
+                    capitulated. Shortly thereafter, the UN Security Council adopted Resolution 1244
+                    (1999), which suspended Belgrade's governance over Kosovo, and under which
+                    Kosovo was placed under the administration of the United Nations Interim
+                    Administration Mission in Kosovo (UNMIK), and which authorized a NATO
+                    peacekeeping force. Resolution 1244 also envisioned a political process designed
+                    to determine Kosovo's future status.</p>
+                <p> As ethnic Albanians returned to their homes, elements of the KLA conducted
+                    reprisal killings and abductions of ethnic Serbs and Roma in Kosovo. Thousands
+                    of ethnic Serbs, Roma, and other minorities fled from their homes during the
+                    latter half of 1999, and many remain displaced. </p>
+                <p>
+                    <hi rend="italic">The 21st Century:</hi> In November 2005, the Contact Group
+                    (France, Germany, Italy, Russia, the United Kingdom, and the United States)
+                    produced a set of "Guiding Principles" for the resolution of Kosovo's future
+                    status. Some key principles included: no return to the situation prior to 1999,
+                    no changes in Kosovo's borders, and no partition or union of Kosovo with a
+                    neighboring state. The Contact Group later said that Kosovo's future status had
+                    to be acceptable to the people of Kosovo. </p>
+                <p>Kosovo declared its independence from Serbia on February 17, 2008. In its
+                    declaration of independence, Kosovo committed to fulfilling its obligations
+                    under the Ahtisaari Plan, to embrace multi-ethnicity as a fundamental principle
+                    of good governance, and to welcome a period of international supervision. </p>
+                <p> The United States formally recognized Kosovo as a sovereign and independent
+                    state on February 18. To date, Kosovo has been recognized by a robust majority
+                    of European states, the United States, Japan, and Canada, and by other states
+                    from the Americas, Africa, and Asia. Shortly after independence, a number of
+                    states established an International Steering Group (ISG) for Kosovo that
+                    appointed Dutch diplomat Pieter Feith as Kosovo's first International Civilian
+                    Representative (ICR). </p>
+            </div>
+            <div type="section" xml:id="foreignrelations">
+                <head>Foreign Relations</head>
+                <p> In March 2008, Kosovo passed legislation to establish a foreign ministry. This
+                    legislation went into effect on June 15, 2008. The Government of Kosovo
+                    appointed Skender Hyseni as its first foreign minister.</p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition and Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Recognition and Establishment of Diplomatic Relations, <date when="2008">2008</date>.</head>
+                    <p>The United States recognized Kosovo’s independence and agreed to establish
+                        diplomatic relations on February 18, 2008, when Secretary of State
+                        Condoleezza Rice released a press statement announcing President George W.
+                        Bush’s decisions.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,268 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Germany</title>
+                <title type="short">Germany</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by Office of the Historian staff, November 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> From a conglomeration of more than 300 independent kingdoms, duchies,
+                    principalities, and free cities in the eighteenth century, the country that is
+                    today known as Germany took form in Central Europe throughout the course of the
+                    nineteenth century under the helmsmanship of one of its largest and strongest
+                    monarchies, Prussia. The establishment of the German Empire in 1871 recognized
+                    the Prussian King as the German Emperor. The history of U.S.-German relations in
+                    the first half of the twentieth century was rocky, reflecting the two world wars
+                    in which the United States and Germany fought on opposite sides. Since the end
+                    of World War II in 1945, U.S.-German relations have been a focal point of
+                    American involvement in Europe. This relationship has changed significantly over
+                    the past six decades, reflecting the tensions of the Cold War. The historic
+                    reunification of Germany in 1990 and the role the United States played in that
+                    process have served to strengthen ties between the two countries. Today,
+                    German-American political, economic, and security relationships continue to be
+                    based on close consultation and coordination at the most senior levels. </p>
+                <figure>
+                    <graphic url="germany-flag.jpg"/>
+                    <head>Modern Flag of Germany</head>
+                </figure>
+                <div type="section" xml:id="recognition">
+                    <head>Recognition</head>
+                    <div type="timeline">
+                        <head>Prussian Recognition of the Independence of the United States, <date when="1785">1785</date>. </head>
+                        <p> The Kingdom of Prussia recognized the United States when it signed the
+                            September 18, 1785 Treaty of Amity and Commerce with the United States.
+                        </p>
+                    </div>
+                </div>
+                <div type="section" xml:id="consular-presence">
+                    <head>Consular Presence</head>
+                    <div type="timeline">
+                        <head>Consular Convention in <placeName key="berlin">Berlin</placeName>,
+                            <date when="1871">1871</date>.</head>
+                        <p>On December 11, 1871, U.S. Minister to the German Empire <ref target="/departmenthistory/people/bancroft-george">George
+                            Bancroft</ref> and German Privy Councillor of the Legation
+                            <persName>Bernard König</persName> signed a Consular Convention in
+                            Berlin. The Convention was ratified by the Senate on January 18, 1872,
+                            and proclaimed by President <persName>Ulysses S. Grant</persName> on
+                            June 1, 1872.</p>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations with Prussia and the American
+                            Diplomatic Mission in Berlin, <date when="1797">1797</date>. </head>
+                        <p>On June 1, 1797, <ref target="/departmenthistory/people/adams-john-quincy">John Quincy
+                            Adams</ref> (the former U.S. Minister to the Netherlands and current
+                            Minister to Portugal) was nominated by U.S. President <persName>John
+                                Adams</persName> to serve as the Minister to Prussia. According to
+                            his instructions from the President, Adams’ task in Berlin was to renew
+                            the aforementioned 1785 Treaty of Amity and Commerce, which had expired
+                            in 1796. Unfortunately, Adams’ letters of credence had been addressed to
+                            King <persName>Frederick William II</persName>, who had died on November
+                            16, 1797, before Adams could have an audience with him. During a private
+                            audience on December 5, however, the new king, <persName>Frederick
+                                William III</persName>, formally recognized Adams as the accredited
+                            U.S. Minister to his father.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations with the German Empire, <date when="1871">1871.</date>
+                        </head>
+                        <p> On July 8, 1849, Secretary of State <ref target="/departmenthistory/people/clayton-john-middleton">John M.
+                            Middleton</ref> stated that the United States was prepared to
+                            recognize any unified, de facto German Government that <quote>“appeared
+                                capable of maintaining its power.”</quote> Therefore, following the
+                            establishment of the German Empire on January 18, 1871, the United
+                            States recognized the new German Empire by changing the accreditation of
+                            its Minister to Prussia to become Minister to the German Empire. On
+                            April 8, 1871, U.S. Envoy Extraordinary and Minister Plenipotentiary to
+                            Prussia <ref target="/departmenthistory/people/bancroft-george">George
+                                Bancroft</ref> presented the new German Emperor <persName>Wilhelm
+                                    I</persName> (who was concurrently King of Prussia) with letter from
+                            U.S. President <persName>Ulysses S. Grant</persName> dated March 16,
+                            1871. The letter from the President congratulated the Emperor on his
+                            assumption of the German throne and recognized him as the head-of-state
+                            of a federal Germany.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Elevation of American Legation to Embassy Status, <date when="1893">1893</date>. </head>
+                        <p> The United States raised the American Legation in Berlin to Embassy
+                            status when <persName>Theodore Runyo</persName>n, U.S. Minister to
+                            Germany, presented his credentials to the German regime as Ambassador
+                            Extraordinary and Minister Plenipotentiary on October 26, 1893.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Termination of Relations During the First World War, <date when="1917">1917</date>.</head>
+                        <p> Germany’s resumption of unrestricted submarine warfare in early 1917 led
+                            to the termination of diplomatic relations between Germany and the
+                            United States. On February 3, 1917, U.S. Secretary of State
+                            <persName>Robert Lansing</persName> informed the German Ambassador
+                            in Washington, D.C., <persName>Count Johann von Bernstorff</persName>
+                            that U.S. President <persName>Woodrow Wilson</persName> had severed
+                            diplomatic relations with Germany, that the U.S. Ambassador in Berlin
+                            (<persName>James W. Gerrard</persName>) had been withdrawn, and that
+                            the U.S. Government would be returning von Bernstorff’s passports.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>U.S. Declaration of War Against Germany, <date when="1917">1917</date>.</head>
+                        <p> Following a series of attacks against American merchant ships on the
+                            high seas by German U-boats, the receipt, on February, 24, 1917, by the
+                            U.S. Ambassador in London, <persName>Walter Hines Pages</persName>, of
+                            the infamous “Zimmerman telegram” from British Foreign Secretary
+                            <persName>Arthur Balfour</persName>, and the decision to abandon the
+                            plan to adopt “armed neutrality” by placing U.S. naval personnel on
+                            civilian ships to guard them against German attacks, President Wilson
+                            went before Congress on April 2 to ask for a declaration of war against
+                            Germany in order to make the world “safe for democracy.” Following the
+                            passage of a Joint Resolution by Congress on April 6, President Wilson
+                            issued on the same day a proclamation to the effect that a state of war
+                            existed between Germany and the United States.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Reestablishment of Diplomatic Relations, <date when="1921">1921</date>.</head>
+                        <p> Following the failure of the U.S. Senate in 1919-20 to ratify the
+                            Versailles Treaty with Germany that had been negotiated by President
+                            Wilson during the Paris Peace Conference of 1919, the U.S. Congress
+                            passed a Joint Resolution on July 2, 1921, stipulating an end to the
+                            state of war between the United States and Germany. On August 25, 1921,
+                            the United States High Commissioner to Germany, <persName>Ellis Loring
+                                Dresel</persName>, and the German Minister for Foreign Affairs,
+                            <persName>Dr. Friedrich Rosen</persName>, signed the “Treaty
+                            Restoring Friendly Relations” (the Treaty of Berlin). Full diplomatic
+                            relations were reestablished on December 10, 1921, when Dresel presented
+                            his credentials as U.S. Ambassador to Germany.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Withdrawal of Ambassadors following the Reichskristallnacht, <date when="1938">1938</date>.</head>
+                        <p> Following the murder of the Third Secretary of the German Embassy in
+                            Paris by a Polish Jew whose parents had been forcibly deported from
+                            Germany in October 1938, the Nazi Party orchestrated a nationwide pogrom
+                            against the German Jewish community during the night of November 9-10.
+                            In retaliation, President Franklin Roosevelt recalled his ambassador in
+                            Berlin, <ref target="/departmenthistory/people/wilson-hugh-robert">Hugh
+                                R. Wilson</ref>, on November 15 for consultation and did not
+                            dispatch another ambassador to take his place. One week after Ambassador
+                            Wilson’s recall, the German Ambassador in Washington, <persName>Hans
+                                Heinrich Dieckhoff</persName>, informed U.S. Secretary of State <ref target="/departmenthistory/people/hull-cordell">Cordell Hull</ref>
+                            that he had been recalled to Germany.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Diplomatic Relations Severed by Germany, <date when="1941">1941</date>.</head>
+                        <p> The German Government announced on December 11, 1941, that it had
+                            severed diplomatic relations and declared war on the United States.
+                            Following the German announcement, President <persName>Franklin
+                                Roosevelt</persName> sent a message to the U.S. Congress requesting
+                            that it <quote>“recognize a state of war between the United States and
+                                Germany….”</quote> Later that same day, the U.S. Congress resolved
+                            that <quote>“the state of war between the United States and [Germany]
+                                which has been thrust upon the United States is hereby formally
+                                declared,”</quote> and that the President was authorized to all
+                            military and government resources to bring to the war to a “successful
+                            termination.”</p>
+                    </div>
+                    <div type="timeline">
+                        <head>End of Hostilities between the United States and Germany, <date when="1951">1951</date>. </head>
+                        <p> On October 19, 1951, the U.S. Congress passed a Joint Resolution
+                            declaring that the state of war that had existed between the United
+                            States and Germany since December 11, 1941, was terminated upon the
+                            enactment of the aforementioned resolution.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Division of Germany and the Establishment of Diplomatic Relations with
+                            the German Federal Republic (FRG), <date from="1949" to="1955">1949-1955</date>. </head>
+                        <p> Following the German surrender to the Allied powers on May 8, 1945,
+                            Germany was occupied and divided into four zones. Each of the main
+                            Allied powers (the United States, the Soviet Union, Great Britain, and
+                            France) was responsible for the administration of its zone. In 1947, the
+                            United States and Great Britain merged their zones. After tensions arose
+                            between Soviets and the western powers, the German Federal Republic
+                            (FRG, commonly as West Germany) was created out of the American,
+                            British, and French zones on September 21, 1949. The Soviets then
+                            oversaw the creation of the German Democratic Republic (GDR, commonly
+                            known as East Germany) out of their zone of occupation on October 7,
+                            1949. The United States responded by stating its position that the GDR
+                            was “without any legal validity,” and that the United States would
+                            <quote>“continue to give full support to the Government of the
+                                German Federal Republic at <placeName key="bonn">Bonn</placeName> in
+                                its efforts to restore a truly free and democratic
+                                Germany.”</quote>
+                        </p>
+                        <p> As prospects for early reunification of Germany dimmed, the United
+                            States established full diplomatic relations with the FRG on May 6,
+                            1955, when the FRG Diplomatic Mission in Washington was raised to
+                            Embassy status under Ambassador <persName>Heinz L. Krekeler</persName>.
+                            The American Embassy in Bonn was established on May 14, 1955, when <ref target="/departmenthistory/people/conant-james-bryant">James
+                                Conant</ref>, U.S. High Commissioner, presented his credentials as
+                            the first U.S. Ambassador to the FRG. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Recognition of the German Democratic Republic, and the Establishment
+                            of Diplomatic Relations and the American Embassy in Berlin, <date when="1974">1974</date>.</head>
+                        <p> In response to the improvement of relations between the two German
+                            governments, representatives of the United States and GDR negotiated
+                            arrangements for U.S. recognition of the GDR and the establishment of
+                            diplomatic relations, which occurred on September 4, 1974, when the
+                            United States and East Germany released a joint communiqué to that
+                            effect. The American Embassy in <placeName key="berlin">Berlin</placeName> was established on December 9, 1974, with <ref target="/departmenthistory/people/grove-brandon-hambright-jr">Brandon H. Grove, Jr.</ref>, as Chargé d'Affaires <hi rend="italic">ad interim</hi>. <ref target="/departmenthistory/people/cooper-john-sherman">John Sherman
+                                Cooper</ref> presented his credentials as the first U.S. Ambassador
+                            to the GDR on December 20, 1974. Despite this step taken to deal with
+                            the reality of the German situation, the United States continued until
+                            German reunification in 1990 to view the FRG as the sole legitimate
+                            successor government of the historical German state and a future
+                            reunified Germany.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>International Recognition of Reunified Germany, <date from="1909" to="1991">1990-91</date>. </head>
+                        <p> Following the collapse of one-party rule in East Germany in late-1989,
+                            the signing of a Unification Treaty by East and West German Governments
+                            on August 31, 1990, and a series of meetings between the foreign
+                            ministers of East and West Germany, the United States, Great Britain,
+                            France, and the Soviet Union in Bonn, Berlin, Paris, and Moscow, a
+                            Treaty on the Final Settlement with Respect to Germany (the so-called
+                            “Two Plus Four Agreement”) was signed in Moscow on September 12, 1990. </p>
+                        <p> On September 25, 1990, President <persName>George H.W. Bush</persName>
+                            submitted the treaty for ratification, and the U.S. Senate obliged
+                            unanimously on October 10. The treaty finally went into effect on March
+                            15, 1991. Since the five constituent federal states of the German
+                            Democratic Republic were technically absorbed by the Federal Republic of
+                            Germany under the terms of Article 23 of the “Basic Law” (which was
+                            subsequently abolished under the terms of the Unification Treaty so as
+                            to limit any further changes to the borders of Germany), there was no
+                            reason for the United States to recognize the reunified Germany as a
+                            “new state.” The United States maintained its embassy in Bonn; however,
+                            it closed its embassy in Berlin on October 2, 1990. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>American Embassy Moves from Bonn to Berlin, <date when="1999">1999</date>. </head>
+                        <p>The United States moved its embassy in Germany from Bonn to Berlin on
+                            July 7, 1999. Upon this move, the former-Embassy Bonn became the U.S.
+                            Office Bonn, and finally closed on April 3, 2000.</p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3997.htm">Germany</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/gm">Germany</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back> </back>
+    </text>
+</TEI>

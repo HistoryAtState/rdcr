@@ -1,0 +1,170 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Bavaria</title>
+                <title type="short">Bavaria*</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2010</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Lindsay Krasnoff, January 2010</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>When the United States announced its independence from Great Britain in 1776,
+                        <placeName xml:id="xw"> Bavaria</placeName> was a sovereign, independent
+                    state. One of the largest German states (after Austria and Prussia), Bavaria was
+                    elevated from an electorate into a kingdom in 1806. In 1808, the King of Bavaria
+                    issued a constitution that granted basic rights, freedoms, and religious
+                    toleration, and the 1818 constitution established a bicameral legislature named
+                    the Stände-Versammlung. The first act of mutual recognition between the United
+                    States and the Kingdom of Bavaria occurred in 1833 and relations between the two
+                    countries expanded through 1871 when Bavaria joined the German Empire. From this
+                    point forward, foreign policy of the German Empire was made in Berlin, with the
+                    German Kaiser (who was also the King of Prussia) accrediting ambassadors of
+                    foreign nations. Relations were severed when the U.S. declared war upon Imperial
+                    Germany in 1917.</p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Mutual Recognition, <date when="1833">1833</date>.</head>
+                    <p> The first known act of mutual recognition between the United States and the
+                        Kingdom of Bavaria was the establishment of a U.S. Consulate in Bavaria. A
+                        letter from U.S. Consul <persName>Robert de Ruedorffer</persName> dated July
+                        4, 1833, informs U.S. Secretary of State <ref target="/departmenthistory/people/livingston-edward">Edward
+                            Livingston</ref> that Ruedorffer will discharge the duties of Consul for
+                        the United States in <placeName xml:id="munich">Munich</placeName>. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>The first U.S. Consulate in the Kingdom of Bavaria was opened in <date when="1833">1833</date>.</head>
+                    <p>The first U.S. Consulate to open in the Kingdom of Bavaria was in 1833. The
+                        second one opened on December 26, 1843. Other U.S. Consulates opened in the
+                        kingdom during the nineteenth century were: <placeName xml:id="augsburg">Augsburg</placeName>, which opened on June 26, 1846, and closed on July
+                        28, 1906; <placeName xml:id="rhenish">Rhenish</placeName>, which opened on
+                        August 4, 1862, and closed on April 21, 1870; <placeName xml:id="nuremberg">Nuremberg</placeName>, which opened on December 26, 1868, and closed on
+                        February 5, 1915; and <placeName xml:id="bamberg">Bamberg</placeName>, which
+                        opened on January 25, 1892, and closed on May 11, 1908. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Expansion of Relations, <date when="1868">1868</date>.</head>
+                    <p>The relationship between the United States and the Kingdom of Bavaria
+                        continued to expand through the 1860s. On May 26, 1868, specially accredited
+                        U.S. Minister Plenipotentiary <persName>George Bancroft</persName> signed a
+                        naturalization treaty with Bavaria. At the time, Bancroft was also
+                        accredited to Prussia and the North German Confederation and, after 1871, to
+                        the German Empire. Yet, although Bancroft was recalled from his position in
+                        Berlin in 1874 (at his own request), he was never officially recalled from
+                        the court of Bavaria. In 1895, four years after his death, Bancroft still
+                        “officially stood as the diplomatic representative of the United States to
+                        Bavaria.” (See entry on <ref target="/countries/issues/german-unification">German Unification</ref> for greater details.) </p>
+                </div>
+                <div type="timeline">
+                    <head>Cessation of Relations, <date when="1917">1917</date>.</head>
+                    <p>On February 3, 1917, U.S. President <persName>Woodrow Wilson</persName>
+                        instructed the Secretary of State to notify the German Ambassador to the
+                        United States that all diplomatic relations between the U.S. and the German
+                        Empire were severed. As the foreign affairs of Imperial Germany were run out
+                        of Berlin and decided upon by the Kaiser, this constituted the severance of
+                        relations with Bavaria, as part of the German Empire. On April 6, 1917,
+                        Wilson declared war upon Imperial Germany.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties-agreements">
+                <head>Treaties and Agreements</head>
+                <div type="timeline">
+                    <head>Convention Abolishing Droit D’Aubaine and Taxes on Emigration, <date when="1845">1845</date>.</head>
+                    <p> On January 21, 1845, the U.S. signed a convention to abolish droit d’aubaine
+                        and taxation upon emigration with the Kingdom of Bavaria. Droit d’aubaine
+                        was when a state would confiscate all territory and possessions, moveable or
+                        immoveable, of the deceased rather than the deceased’s heirs receiving the
+                        property. </p>
+                </div>
+                <div type="timeline">
+                    <head>Extradition Convention, <date when="1853">1853</date>.</head>
+                    <p> An Extradition Convention was signed between the Kingdom of Bavaria and the
+                        United States on September 12, 1853, in London by the U.S. Minister to
+                        Britain <persName>James Buchanan</persName> and the Bavarian Envoy
+                        Extraordinary and Minister Plenipotentiary at the Court of Her Majesty the
+                        Queen of the United Kingdom of Great Britain and Ireland <persName>Augustus
+                            Baron de Cetto</persName>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Naturalization Treaty, <date when="1868">1868</date>.</head>
+                    <p> On May 26, 1868, the U.S. signed a Naturalization Treaty with the Kingdom of
+                        Bavaria. The treaty was negotiated and signed by U.S. Minister to the
+                        Kingdom of Bavaria <persName>George Bancroft</persName> and his Bavarian
+                        counterpart, <persName>Dr. Otto, Baron of Völderndorff</persName>,
+                        Councillor of Ministry.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="key-events">
+                <head>Key Diplomatic Events</head>
+                <div type="timeline">
+                    <head>Bavaria Joins the German Empire, <date when="1871">1871</date>.</head>
+                    <p> The Kingdom of Bavaria was one of the founding states of the German Empire,
+                        which was proclaimed on January 18, 1871.</p>
+                </div>
+                <div type="timeline">
+                    <head>German Unification.</head>
+                    <p>Bavaria was one of the states involved in the process of German unification
+                        during the mid-nineteenth century. See “Unification of German States” for
+                        greater detail.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="issues">
+                <head>Issues Relevant to U.S. Foreign Diplomacy</head>
+                <div type="timeline">
+                    <head>The Second Reich, Trade, Citizenship, and Extradition.</head>
+                    <p>As with all of the German states that the United States had treaties with,
+                        after Bavaria joined the Second Reich in 1871 there were questions as to
+                        whether U.S. officials abided by treaties concluded with Bavaria or with
+                        Prussia in dealing with issues of trade, citizenship, or extradition with
+                        subjects of the Kingdom of Bavaria. It was decided that a variety of
+                        different circumstances would guide U.S. foreign policy towards German
+                        states. First, “where a State has lost its separate existence, as in the
+                        case of Hanover and Nassau, no questions can arise.” Second, “where no
+                        treaty has been negotiated with the Empire, the treaties with the various
+                        States which have preserved a separate existence have been resorted to.” </p>
+                    <p> Despite the Constitution of the German Empire of 1871, which stipulated that
+                        the Empire was responsible for treaties, alliances, and representing the
+                        Empire amongst nations, the smaller states still retained the right of
+                        legation. This included the right to legislate, to grant exequaturs to
+                        foreign consuls in their territories (though not to send German consuls
+                        abroad), and to enter into conventions with foreign nations as long as they
+                        did not concern matters already within the jurisdiction of the Empire or the
+                        Emperor. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>William M. Malloy, <hi rend="italic">Treaties, Conventions, International
+                            Acts, Protocols, and Agreements Between The United States of American
+                            and Other Powers, 1776-1909</hi> (Washington DC: Government Printing
+                        Office, 1910).</bibl>
+                    <bibl>John Bassett Moore, <hi rend="italic">A Digest of International Law</hi>
+                        (Washington, D.C.: Government Printing Office, 1906).</bibl>
+                    <bibl>John Bassett Moore, <hi rend="italic">Four Phases of American
+                            Development</hi> (Baltimore: Johns Hopkins Press, 1912).</bibl>
+                    <bibl>James J. Sheehan, <hi rend="italic">German History 1770-1866,</hi>
+                        (Oxford: Clarendon Press, 1989).</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

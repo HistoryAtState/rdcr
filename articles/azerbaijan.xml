@@ -1,0 +1,75 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Azerbaijan</title>
+                <title type="short">Azerbaijan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Located at the crossroads of European-Asian trading routes, <placeName key="az">Azerbaijan</placeName> was fought over by Russian, Persian and Ottoman
+                    forces for centuries. After the collapse of the Russian Empire in 1917,
+                    Azerbaijan briefly became an independent state that was de facto recognized by
+                    the Allies in January 1920, only to have independence terminated when the Red
+                    Army arrived in April of that year. </p>
+                <figure>
+                    <graphic url="azerbaijan-flag.jpg"/>
+                    <head>Modern Flag of Azerbaijan</head>
+                </figure>
+                <p> Since the collapse of the Soviet Union in 1991, the United States and Azerbaijan
+                    have established bilateral relations. The United States has paid special
+                    attention to encouraging peaceful, negotiated resolution to Azeri-Armenian
+                    territorial conflicts. </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Azerbaijan, <date when="1991">1991</date>.</head>
+                    <p>The United States recognized Azerbaijan’s independence on December 25, 1991,
+                        when President <persName>George H.W. Bush</persName> announced the decision
+                        in an address to the nation regarding the dissolution of the Soviet Union.
+                        Azerbaijan previously had been a constituent republic of the USSR. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1992">1992</date>.</head>
+                    <p>Diplomatic relations were established on February 19, 1992, when President
+                        George H.W. Bush announced the decision in a press statement. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Embassy in Baku, <date when="1992">1992</date>.</head>
+                    <p>The American Embassy in Embassy <placeName key="baku">Baku</placeName> was
+                        opened March 16, 1992, with <ref target="/departmenthistory/people/finn-robert-patrick-john">Robert
+                            Finn</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl> CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/aj.html">Azerbaijan</ref>
+                    </bibl>
+                    <bibl> Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2909.htm">Azerbaijan</ref>
+                    </bibl>
+                    <bibl> Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/aj/index.htm">Azerbaijan</ref>
+                    </bibl>
+                    <bibl>Library of Congress Country Study: <ref target="http://memory.loc.gov/frd/cs/aztoc.html">Azerbaijan</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

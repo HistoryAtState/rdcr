@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Botswana</title>
+                <title type="short">Botswana</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized <placeName>Botswana</placeName> on <date when="1966-09-30">September 30, 1966</date>, when the American Embassy at
+                        <placeName key="gaberones">Gaberones</placeName> (Gaborone) was established
+                    upon Botswana’s attainment of independence on that same date. </p>
+                <figure>
+                    <graphic url="botswana-flag.jpg"/>
+                    <head>Modern Flag of Botswana</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Botswana’s Independence, <date when="1966">1966</date>.</head>
+                    <p>The United States recognized <placeName>Botswana</placeName> on September 30,
+                        1966, when the American Embassy at Gaberones (Gaborone) was established upon
+                        Botswana’s attainment of independence on that same date. Botswana previously
+                        had been under British sovereignty as Bechuanaland. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in
+                        Botswana, <date when="1966">1966</date>.</head>
+                    <p> Diplomatic relations were established on September 30, 1966, when the
+                        American Embassy at <placeName>Gaberones</placeName> (Gaborone) was
+                        established with <ref target="/departmenthistory/people/pletcher-charles-hutchinson">Charles
+                            H. Pletcher</ref> as Chargé d'Affaires <hi rend="italic">ad
+                        interim</hi>.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1830.htm">Botswana</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/bc">Botswana</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

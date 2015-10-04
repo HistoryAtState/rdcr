@@ -1,0 +1,220 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: The
+                    Netherlands</title>
+                <title type="short">The Netherlands</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Derived from U.S. Department of State, Background Note, November 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="history">
+                <head>Historical Overview</head>
+                <p> In 1779, while still fighting for independence from Great Britain, the
+                    Continental Congress of the United States commissioned <persName>Henry
+                        Laurens</persName> as Minister to the Netherlands in order to negotiate a
+                    treaty and a loan. The British Navy captured Laurens en route to Europe while
+                    carrying a draft of a proposal for a treaty between the newly independent United
+                    States of America and the Republic of the Netherlands. Britain subsequently
+                    declared war on the Netherlands in 1780. </p>
+                <p> The Netherlands, though a republic at the time the two countries established
+                    relations, is now a constitutional monarchy, a long-time ally of the United
+                    States, and a member of <ref target="/milestones/1945-1952/nato">NATO</ref>. </p>
+                <figure>
+                    <graphic url="netherlands-flag.jpg"/>
+                    <head>Modern Flag of The Netherlands</head>
+                </figure>
+                <div type="section" xml:id="recognition">
+                    <head>Recognition</head>
+                    <div type="timeline">
+                        <head>Dutch Recognition of U.S. Independence, <date when="1782">1782</date>.</head>
+                        <p> The Republic of the Netherlands became the second nation to officially
+                            recognize the United States of America when The Hague accepted the
+                            credentials of Minister <ref target="/departmenthistory/people/adams-john">John Adams</ref> on
+                            April 19, 1782.</p>
+                    </div>
+                </div>
+                <div type="section" xml:id="consular-presence">
+                    <head>Consular Presence</head>
+                    <div type="timeline">
+                        <head>Establishment of Consular Relations, <date when="1789">1798</date>.</head>
+                        <p> The Netherlands acknowledged Sylvanus Bourne as Consul General in
+                            Amsterdam on January 2, 1798. The Netherlands also acknowledged
+                            <persName>Jan Beeldermaker</persName> as Consul of the United States
+                            of America in <placeName>Rotterdam</placeName> also on January 2, 1798.
+                        </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Closure of Consulate in Rotterdam, <date when="1986">1986</date>. </head>
+                        <p> The United States closed its consulate at Rotterdam in 1986. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Other Consulates.</head>
+                        <p> From 1821 until after the U.S. Civil War, the United States also had
+                            consular representatives in <placeName>Dordrecht</placeName>,
+                            <placeName>Harlingen</placeName>, <placeName>Den Helder</placeName>
+                            and <placeName>Zierikzee</placeName>.</p>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Legation in The
+                            Hague, <date when="1782">1782</date>.</head>
+                        <p> Diplomatic relations and the American Legation in <placeName>The
+                            Hague</placeName> were established on April 19, 1782, when U.S.
+                            Minister <ref target="/departmenthistory/people/adams-john">John
+                                Adams</ref> presented his credentials.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Establishment of the Dutch Legation to the United States, <date when="1783">1783</date>. </head>
+                        <p> The United States received <persName>Peter John Van Berckel</persName>
+                            of the Netherlands as Minister Plenipotentiary in October 1783. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Closure of American Legation in The Hague, <date when="1801">1801</date>. </head>
+                        <p> The U.S. closed its legation at The Hague in May 1801, so that, as
+                            Secretary of State <ref target="/departmenthistory/people/madison-james">James Madison</ref> explained, the U.S. Government could reduce
+                            expenditures. In reality, it was clear that, as an ally of France, Dutch
+                            foreign policy was increasingly run by Napoleon. On September 2, 1801,
+                            U.S. Minister <ref target="/departmenthistory/people/murray-william-vans">William Vans
+                                Murray</ref> departed the Batavian Republic, the last U.S. diplomat
+                            accredited to the Netherlands until 1814. During this time, American
+                            interests were overseen by <persName>Sylvanus Bourne</persName>, U.S.
+                            Consul in Amsterdam. Additionally, from time to time the U.S. minister
+                            in Paris would journey to the Batavian Republic/Kingdom of Holland in
+                            order to see to American interests. In 1802 the Dutch Minister to the
+                            United States <persName>R. G. van Polanen</persName> presented his
+                            letters of recall. For more details on the regime changes within the
+                            Netherlands between 1795 and 1814, please see “Key Diplomatic Events”
+                            below. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Netherlands Under French Control, <date from="1810" to="1814">1810-1814</date>.</head>
+                        <p>Starting with the 1810 abdication of <persName>Louis Bonaparte</persName>
+                            from the throne of the Kingdom of Holland, the Netherlands was annexed
+                            to the French Empire. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Re-Opening of Diplomatic Relations, <date when="1814">1814</date>. </head>
+                        <p>Dutch independence and full sovereignty were regained in 1814 with the
+                            defeat of Napoleon. On September 24, 1814, Dutch Minister to the U.S.
+                            <persName>François Daniel Changuion</persName> presented his
+                            credentials to U.S. President <ref target="/departmenthistory/people/madison-james">James
+                                Madison</ref>. On December 19, 1814, the U.S. accredited <ref target="/departmenthistory/people/eustis-william">William
+                                    Eustis</ref> to the Kingdom of the Netherlands, who presented his
+                            credentials on July 20, 1815.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>U.S. Legation moved to London, <date when="1940">1940</date>.</head>
+                        <p> The United States closed its legation to The Hague on July 15, 1940,
+                            after the German invasion of the Netherlands and reopened the legation
+                            in London near the Dutch government-in-exile on August 15, 1940.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Elevation of American Legation to Embassy Status, <date when="1942">1942</date>.</head>
+                        <p> The U.S. legation to the Kingdom of the Netherlands was elevated to the
+                            status of an embassy when Minister <ref target="/departmenthistory/people/biddle-anthony-joseph-drexel-jr">Anthony J. Drexel Biddle Jr.</ref> presented his new credentials as
+                            Ambassador to the government in exile in London on May 8, 1942.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>U.S. Embassy Returned to The Hague, <date when="1945">1945</date>. </head>
+                        <p> Ambassador <ref target="/departmenthistory/people/hornbeck-stanley-kuhl">Stanley Hornbeck</ref> oversaw the return of the US Embassy to the
+                            Netherlands from London to The Hague on August 17, 1945.</p>
+                    </div>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties_agreements">
+                <head>Treaties and Agreements</head>
+                <div type="timeline">
+                    <head>Treaty of Amity and Commerce, <date when="1782">1782</date>. </head>
+                    <p>On October 8, 1782, the Netherlands and the United States signed a Treaty of
+                        Amity and Commerce in The Hague.</p>
+                </div>
+                <div type="timeline">
+                    <head>Convention on Recaptured Vessels, <date when="1782">1782</date>. </head>
+                    <p>On October 8, 1782, the Netherlands and the United States signed a convention
+                        governing recaptured vessels in The Hague.</p>
+                </div>
+                <div type="timeline">
+                    <head>Treaty of Commerce and Navigation, <date when="1839">1839</date>. </head>
+                    <p>On January 19, 1839, the United States and the Kingdom of the Netherlands
+                        signed a Treaty of Commerce and Navigation negotiated by U.S. Secretary of
+                        State John Forsyth and the Dutch Chargé d’Affaires near the United States,
+                        Evert Marius Adrian Martini.</p>
+                </div>
+                <div type="timeline">
+                    <head>Convention on Commerce, <date when="1852">1852</date>. </head>
+                    <p>On August 26, 1852, the United States and the Kingdom of the Netherlands
+                        signed a Convention on Commerce, designed to supplement the 1839 Treaty of
+                        Commerce and Navigation. </p>
+                </div>
+                <div type="timeline">
+                    <head>Convention on Consuls, <date when="1855">1855</date>. </head>
+                    <p>A convention regulating the rights, duties, and privileges of U.S. and Dutch
+                        consuls in the Netherlands and the United States respectively was signed at
+                        The Hague on January 22, 1855.</p>
+                </div>
+                <div type="timeline">
+                    <head>Convention on Rights, Privileges, and Immunities of Consular Officers,
+                        <date when="1878">1839</date>. </head>
+                    <p>On May 23, 1878, a Convention on the Rights, Privileges, and Immunities of
+                        Consular Officers was signed in Washington, D.C., by the U.S. Secretary of
+                        State William M. Evarts and the Dutch Minister Resident in the United States
+                        Rudolph Alexander August Eduard von Pestel.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_event">
+                <head>Key Diplomatic Events</head>
+                <div type="timeline">
+                    <head>Establishment of the Batavian Republic, <date when="1795">1795</date>. </head>
+                    <p>In January 1795 the United Provinces of the Netherlands was overthrown and
+                        replaced with a new regime, known as the Batavian Republic, to which a young
+                        John Quincy Adams was assigned as U.S. minister. Adams believed the new
+                        republic to be an agent of French power. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the Kingdom of Holland, <date when="1806">1806</date>. </head>
+                    <p>In 1806 the Batavian Republic became the Kingdom of Holland, and Napoleon
+                        Bonaparte’s brother, Louis Bonaparte, was installed as king. At the height
+                        of Napoleon’s domination of the European continent, in 1810 Holland was
+                        annexed to the French Empire. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the Kingdom of the Netherlands, <date when="1814">1814</date>. </head>
+                    <p>With the defeat of the French in 1814, the Dutch regained independence and
+                        full sovereignty, and in 1814 the Kingdom of the Netherlands was proclaimed.
+                    </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3204.htm ">The
+                        Netherlands</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/nl/ ">The Netherlands</ref>
+                    </bibl>
+                    <bibl>Hoekstra, Peter. <hi rend="italic">Thirty-Seven Years of Holland-American
+                        Relation, 1803-1840</hi>, (Paterson, N.J.: Eerdmans-Sevensma Co.,
+                        1917).</bibl>
+                    <bibl>van Minnen, Cornelis A. <hi rend="italic">American Diplomats in the
+                        Netherlands, 1815-50</hi>, (New York; St. Martin’s Press, 1993).</bibl>
+                    <bibl>Westermann, Johannes Cornelis. <hi rend="italic">The Netherlands and the
+                        United States: Their Relations in the Beginning of the Nineteenth
+                        Century, </hi>(The Hague: Martinus Nyhoff, 1935).</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

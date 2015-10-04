@@ -1,0 +1,86 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Malaysia</title>
+                <title type="short">Malaysia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Evan Dawley and Christopher Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> Relations between the United States and what is now the <placeName key="my">Federation of Malaya</placeName> go
+                    back to the 19th century, when U.S. merchants traded at several Malaysian ports.
+                    However, it was not until the 20th century, particularly after Malaysian
+                    independence in 1957, that U.S.-Malaysian relations grew beyond this small-scale
+                    commerce.</p>
+                <figure>
+                    <graphic url="malaysia-flag.jpg"/>
+                    <head>Modern Flag of Malaysia</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Malaysian Independence, <date when="1957">1957</date>.</head>
+                    <p> The United States recognized the Federation of Malaya on August 31, 1957, in
+                        a letter from Secretary of State <ref target="/departmenthistory/people/dulles-john-foster">John Foster
+                            Dulles</ref> to Prime Minister Tunku Abdul Rahman. Malaya had previously
+                        been a part of the British Empire.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>Establishment of Consular Relations, <date when="1918">1918</date>.</head>
+                    <p> The United States commenced consular relations with what is now Malaysia
+                        when it appointed a Consul to <placeName key="penang">Penang</placeName> in 1918.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of Consular Posts, <date when="1948">1948</date> &amp;
+                        <date when="1964">1964</date>.</head>
+                    <p> The United States also established consular posts in <placeName key="kuala-lumpur">Kuala Lumpur</placeName> (1948) and
+                        <placeName key="kuching">Kuching</placeName> (1964).</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1957">1957</date>.</head>
+                    <p> Diplomatic relations were established on August 31, 1957, when the United
+                        States elevated its Consulate General in Kuala Lumpur to the status of
+                        Embassy. Then Consul General <ref target="/departmenthistory/people/wright-thomas-kenneth">Thomas K.
+                            Wright</ref> was placed in charge of the Embassy as Charge
+                        d’Affaires.</p>
+                </div>
+                <div type="timeline">
+                    <head>Change in Accreditation, <date when="1963">1963</date>.</head>
+                    <p> In 1963, the Federation of Malaya joined with
+                        <placeName>Singapore</placeName>, <placeName>Sarawak</placeName>, and
+                        <placeName>Borneo</placeName> to form the Federation of Malaysia.
+                        Henceforth all U.S. Ambassadors were accredited to the federation of
+                        Malaysia, and resident at Kuala Lumpur.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2777.htm">Malaysia</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/my/">Malaysia</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

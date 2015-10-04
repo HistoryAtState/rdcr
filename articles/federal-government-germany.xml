@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Federal Government of
+                    Germany (1848-49)</title>
+                <title type="short">Federal Government of Germany (1848-49)*</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Chris Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The revolutionary year 1848 did not bypass the German states. Once news of the
+                    February 1848 revolution in Paris spread, many felt that the time was finally at
+                    hand for German unification. Rural riots broke out in Central Europe that spring
+                    and spread to the urban areas. Throughout the German states revolutionaries
+                    advocated for freedom of the press, a national militia, a national German
+                    parliament, and trial by jury. Other ideas that were championed during the heady
+                    days of 1848 were the abolition of privilege of the aristocracy, constitutions
+                    in several of the German states that still lacked such, a more fair system of
+                    taxation, and freedom of religion.</p>
+                <p> On May 18, 1848, the German National Assembly met at <placeName xml:id="frankfurt">Frankfurt</placeName> am Main, representing the first
+                    assembly to be freely elected by the German people. Yet, despite electing an
+                    imperial vice regent (Reichsverweser), the government was flawed from the
+                    beginning by its lack of a strong executive power. </p>
+                <p>In September 1848, U.S. Minister to Prussia <ref target="/departmenthistory/people/donelson-andrew-jackson">Andrew J.
+                        Donelson</ref> presented credentials as the new U.S. Minister to the Federal
+                    Government of Germany. However, with the revolution’s disintegration and failure
+                    by the autumn of 1849, Donelson presented his notice of recall, fully
+                    terminating any relations with and recognition of the Federal Government of
+                    Germany. </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of the German Federation, <date when="1848">1848</date>.</head>
+                    <p> On July 8, 1848, Secretary of State <ref target="/departmenthistory/people/clayton-john-middleton">John M.
+                            Middleton</ref> informed the former U.S. Minister to Prussia and current
+                        Minister to the German Federal Parliament at Frankfurt, Andrew J. Donelson,
+                        that the United States was prepared to recognize any unified, de facto
+                        German Government that <quote>“appeared capable of maintaining its
+                            power.</quote>” The United States recognized the Federal Government of
+                        Germany on August 9, 1848, when Donelson was commissioned as the new U.S.
+                        Minister to the Federal Government of Germany.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1848">1848</date>.</head>
+                    <p> On August 9, 1848, U.S. Minister to Prussia Andrew J. Donelson was
+                        commissioned as the new U.S. Minister to the Federal Government of Germany,
+                        reflecting the developments of that revolutionary year. Donelson presented
+                        his credentials on September 13, 1848.</p>
+                </div>
+                <div type="timeline">
+                    <head>Termination of Diplomatic Relations, <date when="1849">1849</date>.</head>
+                    <p> Donelson served as U.S Minister until November 2, 1849, when he was recalled
+                        following the dissolution of the German revolutionary movement. This
+                        constituted full termination of diplomatic relations with the Federal
+                        Government of Germany, the U.S. having already accredited a new minister to
+                        Prussia, <ref target="/departmenthistory/people/hannegan-edward-a">Edward A.
+                            Hannegan</ref>, on March 22, 1849.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="key-events">
+                <head>Key Diplomatic Events</head>
+                <div type="timeline">
+                    <head>German Unification. </head>
+                    <p>The Federal Government of Germany was an early stepping stone in the process
+                        of German unification during the mid-nineteenth century. See “<ref target="/countries/issues/german-unification">Unification of German
+                            States</ref>” for greater detail.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>John Bassett Moore, <hi rend="italic">A Digest of International Law
+                        </hi>(Washington, D.C.: Government Printing Office, 1906). </bibl>
+                    <bibl>Charles I. Beavans, Treaties and Other International Agreements of the
+                        United States of America, 1776-1949, (Department of State: Washington, DC,
+                        1971), Volume 8. </bibl>
+                    <bibl>Mark R. Cheathem, <hi rend="italic">Old Hickory’s Nephew: The Political
+                            and Private Struggles of Andrew Jackson Donelson</hi> (Louisiana State
+                        University Press, 2007).</bibl>
+                    <bibl>William M. Malloy, <hi rend="italic">Treaties, Conventions, International
+                            Acts, Protocols, and Agreements Between The United States of American
+                            and Other Powers, 1776-1909</hi> (Washington DC: Government Printing
+                        Office, 1910). </bibl>
+                    <bibl>History of Recognition and Relations: <ref target="/countries/germany">Germany</ref>
+                    </bibl>
+                    <bibl>History of Recognition and Relations: <ref target="/countries/issues/german-unification">German Unification</ref>
+                    </bibl>
+                    <bibl>A Century of Lawmaking: <ref target="http://memory.loc.gov/ammem/amlaw/lawhome.html">U.S.
+                            Congressional Documents, 1775-1874.</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

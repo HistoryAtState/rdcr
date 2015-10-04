@@ -1,0 +1,228 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Hawaii</title>
+                <title type="short">Hawaii*</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2010</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Lindsay Krasnoff, January 2010</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The <placeName xml:id="xl">Hawaiian Islands</placeName> were first discovered by
+                    the West in 1778 by Captain <persName>James Cook</persName>. At the time, Cook
+                    named the island chain the Sandwich Islands after the British Earl of Sandwich.
+                    Hawaiian <persName>King Kamehameha </persName>I placed the not-yet-united
+                    Hawaiian Kingdom under British protection during the British naval expeditions
+                    led by <persName>George Vancouver</persName> from 1792 to 1794. However, the
+                    British government took no formal action to enforce its sovereignty over Hawaii.
+                    In 1810, Kamehameha I united the Hawaiian Islands under his rule when the island
+                    of Kauai came under his suzerainty. </p>
+                <p> In 1827, a council meeting to formulate a Hawaiian legal code decided to refrain
+                    from seeking British approval for the new code, after which point the Hawaiian
+                    government ceased to engage in formal actions which would place it under British
+                    suzerainty. Great Britain issued a formal joint declaration with France on
+                    November 28, 1843, guaranteeing Hawaiian independence. </p>
+                <p> The United States pursued an independent policy with regards to Hawaii. In a
+                    treaty signed December 23, 1826, the United States formally recognized Hawaiian
+                    independence. The U.S. established diplomatic relations with Hawaii in 1853;
+                    however, such relations and Hawaiian independence ended with the kingdom’s
+                    annexation to the United States on August 12, 1898, following the Senate passage
+                    of a joint Congressional resolution on July 6, which was signed by U.S.
+                    President William McKinley the next day.</p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Hawaiian Independence, <date when="1826">1826</date>. </head>
+                    <p> On December 23, 1826, the U.S. signed a treaty with the Kingdom of Hawaii
+                        thus indirectly recognizing Hawaiian independence. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>Port of Honolulu, <date when="1820-09-19">September 19,
+                        1820</date>.</head>
+                    <p>
+                        <persName>John Coffin Jones, Jr.</persName> (also known in Hawaiian documents
+                        as John Aluli) was appointed Agent for Commerce and Seamen on September 19,
+                        1820. He began to serve in October of 1820, at the <placeName xml:id="honolulu">port of Honolulu</placeName>. The
+                        post of commercial agent was raised to consul effective July 5, 1844, and
+                        held by <persName>Peter A. Brinsmade</persName>, who had already been
+                        appointed commercial agent on April 13, 1838. </p>
+                </div>
+                <div type="timeline">
+                    <head>
+                        <placeName xml:id="hilo">Hilo</placeName>.</head>
+                    <p> Earliest Date: <date when="1852-08-31">August 31, 1852</date>. Latest Date:
+                            <date when="1898-09-12">August 12, 1898</date> (date of annexation).</p>
+                </div>
+                <div type="timeline">
+                    <head>Honolulu.</head>
+                    <p> Earliest Date: <date when="1820-10">October, 1820.</date> Latest Date: <date when="1863-06-19">June 19, 1863</date> (seems to indicate the elevation
+                        of Consulate to Legation. Consular functions continued, with the last extant
+                        consular officer date of June 1, 1897.)</p>
+                </div>
+                <div type="timeline">
+                    <head>
+                        <placeName xml:id="kahului">Kahului</placeName>.</head>
+                    <p> Earliest Date: <date when="1880-09-20">August 20, 1880</date>. Latest Date:
+                            <date when="1898-09-12">August 12, 1898</date>. Kahului is located on
+                        the island of Maui.</p>
+                </div>
+                <div type="timeline">
+                    <head>
+                        <placeName xml:id="lahaina">Lahaina</placeName> (Rahaina).</head>
+                    <p> Earliest Date: <date when="1850-04-22">April 22, 1850</date> (confirmation
+                        of appointment of consul) Latest Date: <date when="1869-04-09">April 9,
+                            1869</date> (confirmation of appointment of consul). Before 1845,
+                        Lahaina was the capital of Hawaii. Lahaina is located on the island of
+                        Maui.</p>
+                </div>
+                <div type="timeline">
+                    <head>
+                        <placeName xml:id="mahukona">Mahukona</placeName>. </head>
+                    <p> Earliest Date: <date when="1882-09-15">September 15, 1882</date>. Latest
+                        Date: <date when="1898-09-12">August 12, 1898</date> (date of annexation).
+                        Mahukona is located on the island of Hawaii. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Legation at
+                        Honolulu, <date when="1853">1853</date>.</head>
+                    <p>
+                        <ref target="/departmenthistory/people/gregg-david-l">David L. Gregg</ref>
+                        presented his credentials as U.S. Commissioner to the Kingdom of Hawaii on
+                        December 20, 1853. Gregg referred to the Mission at Honolulu as a Legation
+                        in his first dispatch from Hawaii on December 27, 1853. </p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of the U.S. Representative to the Kingdom of Hawaii to Minister,
+                            <date when="1863">1863</date>.</head>
+                    <p> The first U.S. Minister Resident to the Kingdom of Hawaii was <ref target="/departmenthistory/people/mcbride-james">James McBride</ref>,
+                        who presented his credentials on June 19, 1863. The first U.S. Envoy
+                        Extraordinary and Minister Plenipotentiary to the Kingdom of Hawaii was <ref target="/departmenthistory/people/stevens-john-leavitt">John L.
+                            Stevens</ref>, who presented his credentials on September 8, 1890.</p>
+                </div>
+                <div type="timeline">
+                    <head>Cessation of Relations and Closure of the American Legation, <date when="1898">1898</date>.</head>
+                    <p> Hawaiian independence ended with the formal U.S. annexation of Hawaii on
+                        August 12, 1898, following the Senate passage of a joint Congressional
+                        resolution on July 6, which was signed by U.S. President <persName>William
+                            McKinley</persName> the next day. Owing to U.S. annexation of Hawaii,
+                        the legation ceased to exist on August 12, 1898. <ref target="/departmenthistory/people/sewall-harold-marsh">Harold
+                            Sewall</ref>, the last Envoy Extraordinary and Plenipotentiary, became
+                        Special Agent.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties-agreements">
+                <head>Treaties and Agreements</head>
+                <div type="timeline">
+                    <head>Treaty of Friendship, Commerce, and Navigation Between the United States
+                        and the Sandwich Islands (Hawaii), <date when="1826">1826</date>.</head>
+                    <p> On December 23, 1826, the U.S. signed articles of arrangement in the typical
+                        form of a treaty of friendship, commerce, and navigation with the Kingdom of
+                        Hawaii in Honolulu, which confirmed the peace and friendship between the
+                        peoples of the two countries. The agreement was signed by the captain of the
+                        U.S. sloop of war Peacock Thomas ap Catesby Jones, who was appointed by the
+                        U.S., and Guardians of Kauikeaouli, King of the Sandwich Islands: Elisabeta
+                        Kaahumanu, the Queen Regent; Karaimoku, the Prime Minister; Boki, Governor
+                        of Oahu and personal guardian of the King; Howapili, guardian of Nahienaena,
+                        sister of the King; and Lidia Namahana, who was a dowager queen of
+                        Kamehameha I. This was the first treaty that the Kingdom of Hawaii signed
+                        with any foreign power. It was never ratified by Congress, although both
+                        countries acted in accordance with its articles. </p>
+                </div>
+                <div type="timeline">
+                    <head>Treaty of Friendship, Commerce, and Navigation and Extradition, <date when="1849">1849</date>.</head>
+                    <p> On December 20, 1849, the U.S. and the Kingdom of Hawaii signed a Treaty of
+                        Friendship, Commerce, and Navigation and Extradition. The treaty, negotiated
+                        by U.S. Secretary of State <ref target="/departmenthistory/people/clayton-john-middleton">John M.
+                            Clayton</ref> and the Hawaiian special Commissioner to the Government of
+                        the United States <persName>James Jackson Jarves</persName>, was signed in
+                        Washington, D.C.</p>
+                </div>
+                <div type="timeline">
+                    <head>Treaty of Reciprocity, <date when="1875">1875</date>.</head>
+                    <p> On January 30, 1875, United States Secretary of State <ref target="/departmenthistory/people/fish-hamilton">Hamilton Fish</ref> and
+                        the Kingdom of Hawaii’s Envoy Extraordinary and Minister Plenipotentiary to
+                        the United States <persName>Elisha H. Allen</persName> signed a Treaty of
+                        Reciprocity. This treaty provided for duty-free import of Hawaiian
+                        agricultural products into the United States. Conversely, the Kingdom of
+                        Hawaii allowed U.S. agricultural products and manufactured goods to enter
+                        Hawaiian ports duty-free. This treaty was originally intended to last for a
+                        duration of seven years.</p>
+                </div>
+                <div type="timeline">
+                    <head>Reciprocity Convention, <date when="1884">1884</date>.</head>
+                    <p> On December 6, 1884, the United States and the Kingdom of Hawaii signed a
+                        Reciprocity Convention, pertaining to commercial reciprocity, which was an
+                        extension of the 1875 Treaty of Reciprocity. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="relevant-issues">
+                <head>Issues Relevant to U.S. Foreign Diplomacy</head>
+                <div type="timeline">
+                    <head>Whaling Industry.</head>
+                    <p> By the 1820s, the U.S. whaling industry established itself in the Hawaiian
+                        Islands, as there were greater numbers of whales to be found in the Pacific
+                        than the Atlantic Ocean. By the 1860s, however, the whaling industry on the
+                        whole was in decline, which meant that there were fewer American vessels
+                        scouting the oceans for whales and less need for American whaling vessel
+                        depots in Hawaii. The decline of the U.S. whaling industry in the Hawaiian
+                        Islands coincided with the discovery of petroleum in Pennsylvania, and the
+                        start of the first age of oil. Also, by the latter half of the nineteenth
+                        century, whale bones were no longer used as widely in manufactured goods
+                        (such as corsets) thanks to the invention of steel during the Second
+                        Industrial Revolution (1870-1914).</p>
+                </div>
+                <div type="timeline">
+                    <head>Missionary Work.</head>
+                    <p> During the 1820s, American missionaries began to descend on the Hawaiian
+                        Islands. The earliest American missionaries to settle in the Hawaiian
+                        Islands were Protestants from New England. They were followed by Roman
+                        Catholic missionaries. </p>
+                </div>
+                <div type="timeline">
+                    <head>Sugar Trade.</head>
+                    <p> The climate and soil of the Hawaiian Islands were ideal for producing sugar
+                        cane; thus an entire industry was encouraged by American commercial trade in
+                        the Hawaiian Islands. This was especially so after the demise of the whaling
+                        industry in the 1860s; by the 1870s the sugar cane industry started to
+                        supplant it as one of the more profitable commercial trades between the U.S.
+                        and the Hawaiian Islands. Of note, from the late 1860s through the 1898 U.S.
+                        annexation of Hawaii, there was a significant inflow of Japanese workers
+                        into the Hawaiian Islands to work the sugar cane fields. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Edmund Janes Carpenter, <hi rend="italic">America in Hawaii: A History of
+                            United States Influence in the Hawaiian Islands .</hi> (Boston: Small,
+                        Maynard &amp; Company, 1899).</bibl>
+                    <bibl>Richard Simpson Kuykendall, <hi rend="italic">The Hawaiian Kingdom, vol.
+                            1: Foundation and Transformation.</hi>( Honolulu: University of Hawaii
+                        Press, 1938, reprinted 1968). </bibl>
+                    <bibl>Hunter Miller, ed. <hi rend="italic">Treaties and Other International Acts
+                            of the United States of America</hi> (Washington: State Department,
+                        1933), III, 249-260. </bibl>
+                    <bibl>George H. Stauffer, “The Hawai’i-United States Treaty of 1826,” <hi rend="italic">Hawaiian Journal of History</hi>, 17(1983), 40-63.</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

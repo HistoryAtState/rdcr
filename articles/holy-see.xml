@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Holy See</title>
+                <title type="short">Holy See</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Louise Woodroofe, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The Holy See is the diplomatic representative of the Roman Catholic Church and
+                    the Pope with its headquarters in <placeName key="vatican-city">Vatican
+                        City</placeName>. The United States maintained a presence in Rome throughout
+                    the nineteenth century. The United States at different times had a Minister to
+                    the Papal States, Minister to the Pontifical States, and finally, a Minister to
+                    Rome from 1848 until Kingdom of Italy conquered Rome in 1870. Throughout much of
+                    the twentieth century, successive U.S. Presidents sent a Personal Representative
+                    to the Holy See.</p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of the Independence of the Holy See, <date when="1984">1984</date>.</head>
+                    <p>The United States formally recognized the Holy See on January 10, 1984, when
+                        President <persName>Ronald Reagan</persName> and <persName>Pope John Paul
+                            II</persName> agreed to the establishment of diplomatic relations.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular_presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>U.S. Consular Relations with the Papal States, <date from="1797" to="1870">1797-1870.</date>
+                    </head>
+                    <p> The United States maintained consular relations with the Papal States from
+                        1797 to 1870. Currently, there are no Consulate Generals in Vatican
+                        City.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1984">1984.</date>
+                    </head>
+                    <p>The United States and the Holy See established diplomatic relations by
+                        agreement between President Ronald Reagan and Pope John Paul II on January
+                        10, 1984. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of American Embassy at the Holy See, <date when="1984">1984.</date>
+                    </head>
+                    <p>The United States established an embassy to the Holy See on April 9, 1984,
+                        when <ref target="/departmenthistory/people/wilson-william-a">William A.
+                            Wilson</ref> presented his credentials to the Pope, elevating his
+                        position from Personal Representative of the President to U.S. Ambassador to
+                        the Holy See.</p>
+                </div>
+                <div type="appendix">
+                    <head>Resources</head>
+                    <listBibl>
+                        <bibl> Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3819.htm">Holy See</ref>
+                        </bibl>
+                        <bibl> Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/vt/">Holy See</ref>
+                        </bibl>
+                    </listBibl>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Bahrain</title>
+                <title type="short">Bahrain</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>In 1968, when the British Government announced its decision (reaffirmed in March
+                    1971) to end the treaty relationships with the Persian Gulf sheikdoms, Bahrain
+                    initially joined the other eight states (Qatar and the seven Trucial Sheikhdoms
+                    now the United Arab Emirates) under British protection in an effort to form a
+                    union of Arab emirates. The nine sheikhdoms still had not agreed on terms of
+                    union by 1971, however, prompting Bahrain to declare itself fully independent on
+                    August 15, 1971.<figure>
+                        <graphic url="bahrain-flag.jpg"/>
+                        <head>Modern Flag of Bahrain</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Bahraini Independence, <date when="1971">1971</date>.</head>
+                    <p>The United States recognized the State of Bahrain on August 15, 1971, when
+                        the Department of State issued a press release to that effect. </p>
+                </div>
+                <div type="section" xml:id="diplomatic_relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relationsand the American Embassy in
+                            Bahrain, <date when="1971">1971.</date>
+                        </head>
+                        <p>Embassy Manama was opened on September 21, 1971, with <ref target="/departmenthistory/people/gatch-john-newton-jr">John N.
+                                Gatch, Jr.</ref> as Chargé d'Affaires <hi rend="italic">ad
+                                interim</hi>. Ambassador <persName>William A. Soltzfus, Jr.
+                            </persName>presented credentials to the government of Bahrain on
+                            February 17, 1972 and was resident at Kuwait for the duration of his
+                            posting. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Installation of American Ambassador at Manama, <date when="1974">1974.</date>
+                        </head>
+                        <p>Ambassador <ref target="/departmenthistory/people/twinam-joseph-wright">Joseph W. Twinam</ref> presented credentials to the government of
+                            Bahrain on June 10, 1974, and became the first American ambassador
+                            resident at Embassy <placeName key="manama">Manama</placeName>. </p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/26414.htm">Bahrain</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/ba/index.htm">Bahrain</ref>
+                    </bibl>
+                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/ba.html">Bahrain</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: South Sudan</title>
+                <title type="short">South Sudan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2011</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Tiffany Cabrera, November 2011</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Since achieving its independence from British and Egyptian rule in 1956, Sudan
+                    experienced recurring civil wars primarily between North and South. The 2005
+                    signing of the Comprehensive Peace Agreement (CPA) officially ended the
+                    North-South conflict and set the date for a referendum on South Sudan’s
+                    self-determination in January 2011. Voters overwhelmingly chose independence and
+                    the Republic of South Sudan declared independence on July 9, 2011. The United
+                    States recognized the Republic of South Sudan that same day.<figure>
+                        <graphic url="south-sudan-flag.png"/>
+                        <head>Flag of South Sudan</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Recognition, <date when="1882">2011</date>.</head>
+                    <p>President Barack Obama declared that the United States formally recognized
+                        the Republic of South Sudan as a sovereign and independent state on July 9,
+                        2011. This followed the historic January referendum on self-determination
+                        for Southern Sudan, demonstrating full implementation of the 2005
+                        Comprehensive Peace Agreement between the North and South. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular_relations">
+                <head>Consular Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Consular Relations, <date when="2005">2005</date>.</head>
+                    <p>After the signing of the Comprehensive Peace Agreement in 2005, the U.S.
+                        government established a consulate in Juba to reinforce its partnership with
+                        the South Sudanese people.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="2011-07-09">2011</date>.</head>
+                    <p>Following its declaration of independence, the United States established full
+                        diplomatic relations with the Republic of South Sudan, upgrading the U.S.
+                        Consulate General in Juba to a U.S. Embassy on July 9, 2011. The United
+                        States appointed Ambassador Barrie Walkley, the U.S. Consul General in Juba,
+                        to serve as Chargé d’Affaires pending the appointment of a U.S. Ambassador
+                        to Juba. Susan D. Page was confirmed as the Ambassador Designate to the
+                        Republic of South Sudan on October 18, 2011.</p>
+                </div>
+                <div type="timeline">
+                    <head>Consulate Elevated to Embassy, <date when="2011-07-09">2011</date>.
+                    </head>
+                    <p>The U.S. Consulate at Juba was elevated to Embassy status on July 9, 2011
+                        when U.S. Ambassador to the United Nations Susan Rice officially transformed
+                        the U.S. Consulate General into the United States Embassy in the new
+                        Republic of South Sudan.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/171718.htm">South Sudan</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/od/index.htm">South Sudan</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

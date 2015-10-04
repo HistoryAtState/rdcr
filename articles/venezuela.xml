@@ -1,0 +1,89 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Venezuela</title>
+                <title type="short">Venezuela</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Tiffany Hamelin, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>
+                    <placeName xml:id="ve">Venezuela</placeName> effectively achieved its
+                    independence from Spain by 1819 as part of the <placeName>Republic of
+                        Colombia</placeName>, and the United States recognized the Colombian
+                    federation in 1822. After Venezuela separated from Colombia in 1830, the United
+                    States recognized and established diplomatic relations with
+                        <placeName>Venezuela</placeName> in 1835.</p>
+                <figure>
+                    <graphic url="venezuela-flag.jpg"/>
+                    <head>Modern Flag of Venezuela</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Venezuela, <date when="1835">1835</date>.</head>
+                    <p>The United States recognized Venezuela on February 28, 1835 by issuing an
+                        exequatur to <persName>Nicholas D.C. Moller</persName> as the Venezuelan
+                        Consul in New York. Venezuala had become independence from the Colombian
+                        federation in 1830.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>Establishment of Consulate in <placeName xml:id="maracaibo">Maracaibo</placeName>, <date when="1824">1824</date>.</head>
+                    <p>The first U.S. consulate in the present-day territory of Venezuela
+                        established in the Caribbean port city of <placeName>Maracaibo</placeName>
+                        in 1824. The post closed in 1994.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1835">1835</date>.</head>
+                    <p>Diplomatic relations were established on June 30, 1835, when U.S. Chargé
+                        d’Affaires <ref target="/departmenthistory/people/williamson-john-gustavus-adolphus">John G.A. Williamson</ref> presented his credentials to the Venezuelan
+                        Government.</p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of Status of Legation in <placeName xml:id="caracas">Caracas</placeName> to Embassy, <date when="1939">1939</date>.</head>
+                    <p>The U.S. Legation in Venezuela was raised to the rank of Embassy in 1939.
+                            <ref target="/departmenthistory/people/corrigan-francis-patrick">Frank
+                            P. Corrigan</ref> became the first U.S. Ambassador to Venezuela.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties-agreements">
+                <head>Treaties &amp; Agreements</head>
+                <div type="timeline">
+                    <head>Treaty of Peace, Friendship, Navigation, and Commerce, <date when="1836">1836</date>.</head>
+                    <p>The first commercial treaty between the United States and the Republic of
+                        Venezuela was signed on January 20, 1836. Ratifications were exchanged on
+                        May 31, 1836, and it became effective on June 20 of that year.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35766.htm">Venezuela</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/ve/index.htm">Venezuela</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back> </back>
+    </text>
+</TEI>

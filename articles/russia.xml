@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Russia</title>
+                <title type="short">Russia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>
+                    <persName>Francis Dana</persName>, a prominent member of the Continental
+                    Congress and secretary to the American legation at <placeName>Paris</placeName>,
+                    was appointed Minister to <placeName key="ru">Russia</placeName> in <date when="1780">1780</date>; however, the Russian Government refused to accept
+                    his credentials when he arrived in <placeName key="st-petersburg">St.
+                        Petersburg</placeName> in August 1781. Dana nevertheless remained in Russia
+                    as a private citizen for two years to promote the American revolutionary cause.
+                    In 1795, the Russian Government again declined to receive officially an
+                    appointed representative of the United States, when it refused to accept the
+                    credentials of John Miller Russell as American Consul at St. Petersburg. </p>
+                <figure>
+                    <graphic url="russia-flag.jpg"/>
+                    <head>Modern Flag of Russia</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Russian Recognition of the United States, <date when="1803">1803</date>.</head>
+                    <p> Russia recognized the United States on October 28, 1803, when <persName>Czar
+                        Alexander I</persName> issued a ukase declaring his decision to
+                        recognize <persName>Levett Harris</persName> as American Consul at St.
+                        Petersburg. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1809">1809</date>.</head>
+                    <p>Diplomatic relations were established formally on July 14, 1809, when
+                        <persName>Andrei Dashkov</persName> presented his credentials as Russian
+                        Chargé d’Affaires to President <persName>James Madison</persName>. </p>
+                    <p>The process of establishing diplomatic relations between the United States
+                        and Russia began in August 1807, when the American Minister at London,
+                        <persName>James Monroe</persName>, discussed with the Russian Special
+                        Envoy at London, <persName>Maksim Alopeus</persName>, the possibility of
+                        establishing diplomatic ties between the two states. In December 1807,
+                        Alopeus informed the new American Minister-Designate at London,
+                        <persName>William Pinkney</persName>, that Emperor <persName>Alexander
+                            I</persName> was prepared to send a Minister to the United States as
+                        soon as the American government determined the rank of Minister it would in
+                        turn send to Russia. On August 30, 1808, Emperor Alexander issued
+                        credentials for Andrei Dashkov as Chargé d'Affaires and Consul General at
+                        Philadelphia. Meanwhile, the U.S. Senate rejected President <persName>Thomas
+                            Jefferson</persName>’s nominee as U.S. Minister to Russia, and also
+                        rebuffed newly inaugurated President James Madison, when he nominated
+                        <persName>John Quincy Adams</persName> as Minister to Russia in March
+                        1809. Madison later resubmitted Adams' nomination and it won Senate
+                        confirmation on June 27, 1809. Soon after, the first accredited diplomatic
+                        representative between the United States and Russia took up his post when
+                        Chargé Dashkov presented his credentials to President Madison on July 14,
+                        1809. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Legation in Russia, <date when="1809">1809</date>.</head>
+                    <p> The American Legation in <placeName key="st-petersburg">St.
+                        Petersburg</placeName> was established on November 5, 1809, when U.S.
+                        Minister to Russia <persName>John Quincy Adams</persName> presented his
+                        credentials to Emperor Alexander I. </p>
+                </div>
+                <div type="timeline">
+                    <head>American Legation Raised to Embassy, <date when="1898">1898</date>.</head>
+                    <p>The American Legation in St. Petersburg was raised to an Embassy on February
+                        11, 1898, when <ref target="/departmenthistory/people/hitchcock-ethan-allen">Ethan A. Hitchcock</ref> was appointed Ambassador to Russia.</p>
+                </div>
+                <div type="timeline">
+                    <head>Normal Diplomatic Relations Interrupted, <date when="1917">1917</date>.</head>
+                    <p> Normal diplomatic relations were interrupted following the November 7, 1917,
+                        Bolshevik Revolution in Russia. After the abdication of Tsar
+                        <persName>Nicholas II</persName> during the February Revolution earlier
+                        that year, Ambassador to Russia, <ref target="/departmenthistory/people/francis-david-rowland">David R.
+                            Francis</ref>, had informed the new Provisional Government that the
+                        United States recognized the new government and would maintain diplomatic
+                        relations with Russia. On December 6, 1917, following the Bolshevik October
+                        Revolution that overthrew the Provisional Government, President
+                        <persName>Woodrow Wilson</persName> instructed all American diplomatic
+                        representatives in Russia to refrain from any direct communication with
+                        representatives of the Bolshevik Government. Although diplomatic relations
+                        with Russia never were formally severed, the United States refused to
+                        recognize or have any formal relations with the Bolshevik/Soviet governments
+                        until 1933. (The Russian Ambassador accredited to the United States by the
+                        defunct Provisional Government, Boris A. Bakhmeteff, remained in the United
+                        States until June 30, 1922, at which time he resigned his position on the
+                        rationale that the government that had accredited him no longer existed and
+                        he had, to the extent possible, liquidated pre-Bolshevik Russian government
+                        debts.) </p>
+                </div>
+                <div type="timeline">
+                    <head>American Embassy Moved Twice, <date when="1918">1918</date>.</head>
+                    <p> On February 27, 1918, the American Embassy and the missions of several other
+                        states moved from St. Petersburg to <placeName key="vologda">Vologda</placeName>, due to the close proximity of German troops to St.
+                        Petersburg. On August 9, 1918, the American Embassy moved to <placeName key="archangel">Archangel</placeName>, after several embassies in
+                        Vologda were harassed by Bolshevik authorities pressuring them to move to
+                        <placeName key="moscow">Moscow</placeName>. </p>
+                </div>
+                <div type="timeline">
+                    <head>American Embassy Closed, <date when="1919">1919</date>.</head>
+                    <p>The American Embassy at <placeName key="archangel">Archangel</placeName> was
+                        closed on September 14, 1919. </p>
+                </div>
+                <div type="timeline">
+                    <head>Normal Diplomatic Relations Resumed, <date when="1933">1933</date>.</head>
+                    <p> Normal diplomatic relations were resumed on November 16, 1933, when
+                        President <persName>Franklin Roosevelt</persName> informed Soviet Foreign
+                        Minister <persName>Maxim Litvinov</persName> that the United States
+                        recognized the Government of the Union of Soviet Socialist Republics and
+                        wished to establish normal diplomatic relations. Litvinov on the same day
+                        replied that his government was glad to establish normal diplomatic
+                        relations and exchange ambassadors. </p>
+                </div>
+                <div type="timeline">
+                    <head>American Embassy Established in <placeName key="moscow">Moscow</placeName>, <date when="1933">1933</date>.</head>
+                    <p> On December 13, 1933, <persName>William Bullitt</persName> presented his
+                        credentials to President <persName>Kalinin</persName> in Moscow as the U.S.
+                        Ambassador to the Soviet Union. </p>
+                </div>
+                <div type="timeline">
+                    <head>Dissolution of the Soviet Union and Recognition of the Russian Federation,
+                        <date when="1991">1991</date>.</head>
+                    <p> The United States recognized the Russian Federation as the successor to the
+                        Soviet Union on December 25, 1991, when President <persName>George H.W.
+                            Bush</persName> announced the decision in an address to the nation. Bush
+                        also stated that the Embassy in Moscow would remain in place as the American
+                        Embassy to Russia. On December 8, 1991, the leaders of Russia, Belarus, and
+                        Ukraine had declared that the Soviet Union ceased to exist and proclaimed a
+                        "Commonwealth of Independent States" (CIS) that eleven former Soviet
+                        Republics joined on December 21. The formal dissolution of the Soviet Union
+                        was completed when <persName>Mikhail Gorbachev</persName> resigned as
+                        President on December 25, 1991. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations with Russia, <date when="1991">1991</date>.</head>
+                    <p> The United States and the Russian Federation established diplomatic
+                        relations on December 31, 1991, when Russian President <persName>Boris
+                            Yeltsin</persName> responded positively to President Bush’s proposal to
+                        do so. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3183.htm">Russia</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/rs">Russia</ref>
+                    </bibl>
+                    <bibl>Kennedy, Charles Stuart. <hi rend="italic">The American Consul: A History
+                        of the United States Consular Service, 1776-1914</hi>. New York:
+                        Greenwood Press, 1990.</bibl>
+                    <bibl>Langer, William L. <hi rend="italic">An Encyclopedia of World
+                        History</hi>. Boston: Houghton Mifflin Company, 1968.</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

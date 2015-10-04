@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Barbados</title>
+                <title type="short">Barbados</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States maintained a consular presence in Barbados beginning June 11,
+                    1823, when Barbados was still a British colony. Following widespread Caribbean
+                    decolonization throughout the 1960s and 1970s, the United States has used
+                        <placeName key="bridgetown">Bridgetown</placeName> as a base for diplomatic
+                    relations with Barbados and the region.<figure>
+                        <graphic url="barbados-flag.jpg"/>
+                        <head>Modern Flag of Barbados</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Barbados’ Independence, <date when="1966">1966</date>.</head>
+                    <p>Following a June 1966 constitutional conference with Great Britain at which
+                        Barbados negotiated its independence, Barbados because an independent state
+                        within the British Commonwealth on November 30, 1966. The United States
+                        recognized Barbados’ independence that same day when it opened the American
+                        Embassy in <placeName key="bridgetown">Bridgetown.</placeName>
+                    </p>
+                </div>
+                <div type="section" xml:id="diplomatic_relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Embassy in
+                            Barbados, <date when="1966">1966.</date>
+                        </head>
+                        <p>The U.S. Embassy at <placeName>Bridgetown</placeName> was established on
+                            November 30, 1966, with <ref target="/departmenthistory/people/dolgin-george">George Dolgin</ref>
+                            as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/bb.html">Barbados</ref>
+                    </bibl>
+                    <bibl>Department of State Country Fact Sheet <ref target=" http://www.state.gov/r/pa/ei/bgn/26507.htm">Barbados</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information <ref target="http://www.state.gov/p/wha/ci/bb">Barbados</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

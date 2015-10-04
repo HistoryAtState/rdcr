@@ -1,0 +1,96 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Lew Chew
+                    (Loochoo)</title>
+                <title type="short">Lew Chew (Loochoo)*</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2010</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Lindsay Krasnoff, January 2010</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>
+                    <placeName xml:id="xr">Lew Chew</placeName> (sometimes referred to as Loochoo,
+                    more commonly known as Ryukyu) is a series of islands in the Pacific Ocean off
+                    of the Asian coast. Today it is known as Okinawa, and is one of the island
+                    chains that constitute modern-day <placeName xml:id="jp">Japan</placeName>. In
+                    the mid-nineteenth century, however, Lew Chew was an independent kingdom that
+                    specialized in trade between Japan and mainland Asia. </p>
+                <p>
+                    <persName>U.S. Commodore Matthew Perry</persName> signed a treaty with Lew Chew
+                    on July 11, 1854. Other European powers followed with similar trade agreements,
+                    which led to increased unease from Lew Chew’s northern neighbor, Japan. In late
+                    1874, Japan started to more closely incorporate the Lew Chew islands into the
+                    Meiji Empire. In 1875 Japan posted a military garrison in Lew Chew. The Japanese
+                    Government annexed Lew Chew in 1879, abolished the Lew Chew monarchy, and made
+                    it the southern frontier of the Japanese islands. By 1882 China recognized
+                    Japan’s hold over the Lew Chew islands as de facto. .</p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head> Mutual Recognition, <date when="1854">1854</date>.</head>
+                    <p> The first formal act of recognition between the United States and Lew Chew
+                        occurred on July 11, 1854, when U.S. Commodore Matthew Perry signed a
+                        treaty. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations.</head>
+                    <p> The United States and the Kingdom of Lew Chew never established diplomatic
+                        relations. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties-agreements">
+                <head>Treaties and Agreements</head>
+                <div type="timeline">
+                    <head>1854 Compact.</head>
+                    <p> This treaty allowed for courtesy and friendship to be shown to all U.S.
+                        citizens who visited Lew Chew, as well as for hospitality provided to
+                        shipwrecked U.S. vessels off of the Lew Chew coast. The compact also
+                        stipulated that U.S. vessels could hire a Lew Chew pilot to guide them
+                        safely past the reefs and not (or out of) the harbor for $5.00. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="issues">
+                <head>Issues Relevant to U.S. Foreign Diplomacy</head>
+                <div type="timeline">
+                    <head>Potential Conflict of Interests with Japan.</head>
+                    <p> One of the issues raised by the U.S. treaty with Lew Chew was that, as the
+                        Government of Japan aggregated greater control over the islands, they began
+                        to insist that all business by foreign governments pertaining to Lew Chew be
+                        conducted through the Japanese Department of Foreign Affairs. The position
+                        of the United States on these orders was that the independence of the
+                        islands <quote>“was a disputed matter in which the United States could not
+                        interfere unless its rights under treaty stipulations with any of the powers
+                        concerned in the controversy be endangered.”</quote> This question was negated when
+                        Japan directly took over the Lew Chew islands in 1879, making them a part of
+                        Japan. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>John Bassett Moore, <hi rend="italic">A Digest of International Law</hi>
+                        (Washington, D.C.: Government Printing Office, 1906).</bibl>
+                    <bibl>Payson J. Treat, <hi rend="italic">Japan and the United States,
+                            1853-1921</hi> (Stanford, Calif.: Stanford University Press,
+                        1929).</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

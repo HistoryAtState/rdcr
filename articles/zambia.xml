@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Zambia</title>
+                <title type="short">Zambia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States and <placeName xml:id="zm">Zambia</placeName> have enjoyed good relations since Zambia’s
+                    independence from Great Britain. Despite high levels of poverty, Zambia
+                    successfully made the transition from one-party rule to democracy in 1991 and
+                    provides a safe haven to refuges from throughout Africa, while the United States
+                    has sought to bolster Zambia’s prospects through economic and humanitarian
+                    assistance.</p>
+                <figure>
+                    <graphic url="zambia-flag.jpg"/>
+                    <head>Modern Flag of Zambia</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Zambian Independence, <date when="1964">1964</date>.</head>
+                    <p>The United States recognized <placeName>Zambia</placeName> on October 24,
+                        1964, when the American consulate at <placeName>Lusaka</placeName> was
+                        elevated to Embassy status upon Zambia’s attainment of independence on the
+                        same date. Zambia previously had been under British sovereignty as Northern
+                        Rhodesia.</p>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>U.S. Recognition of Zambian Independence, <date when="1964">1964</date>.</head>
+                        <p>The United States recognized <placeName>Zambia</placeName> on October 24,
+                            1964, when the American consulate at <placeName xml:id="lusaka">Lusaka</placeName> was
+                            elevated to Embassy status upon Zambia’s attainment of independence on
+                            the same date. Zambia previously had been under British sovereignty as
+                            Northern Rhodesia.</p>
+                    </div>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in Zambia,
+                            <date when="1964">1964</date>.</head>
+                    <p> Diplomatic relations were established on October 24, 1964, when the American
+                        consulate at Lusaka was elevated to Embassy status with <ref target="/departmenthistory/people/foulon-robert-cartwright">Robert C.
+                            Foulon</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.
+                    </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2359.htm">Zambia</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/za/">Zambia</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back> </back>
+    </text>
+</TEI>

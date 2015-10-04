@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Samoa</title>
+                <title type="short">Samoa</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Evan Dawley, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States began to interact with what is now <placeName key="ws">Samoa</placeName> during the first half of the 19th century, when U.S.
+                    merchants stopped at the islands on their trips across the Pacific Ocean. Formal
+                    relations did not begin until after Samoan independence in the early 1960s. <figure>
+                        <graphic url="samoa-flag.jpg"/>
+                        <head>Modern Flag of Samoa</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Western Samoa, <date when="1962">1962</date>.</head>
+                    <p>The United States recognized the independence of the State of Western Samoa
+                        on January 1, 1962, when Senator <persName>Oren Long</persName> delivered a
+                        congratulatory message from President <persName>John F. Kennedy</persName>
+                        to Their Excellencies, <persName>Tupua Tamesese Mea’ole</persName> and
+                        <persName>Malietoa Tanumafili II</persName>, Head of State of Western
+                        Samoa. Western Samoa previously had been a Trust Territory administered by
+                        <placeName>New Zealand</placeName>. Western Samoa changed its official
+                        name to the Independent State of Samoa in 1997.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular_presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>Establishment of Consular Relations, <date when="1856">1856</date>.</head>
+                    <p>The United States established its first consulate in what is now Samoa at
+                        <placeName key="apia">Apia</placeName> when <persName>Jonathan S.
+                            Jenkins</persName> took up the post of Consul there on May 17, 1856. He
+                        had been appointed on December 31, 1855. Prior to this, the United States
+                        had a Commercial Agent at Apia as early as 1844. This office closed on
+                        September 23, 1927.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of Consular Posts.</head>
+                    <p>The United States also sent a Commercial Agent to <placeName key="pago-pago">Pago Pago</placeName> in 1878, and a Consular Agent to <placeName key="leone">Leone</placeName> in 1879. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1971">1971.</date>
+                    </head>
+                    <p>The United States and Samoa established diplomatic relations when Ambassador
+                        <ref target="/departmenthistory/people/franzheim-kenneth">Kenneth
+                            Franzheim II</ref> presented his credentials to the Government of Samoa
+                        at Apia on July 14, 1971. Since that time the U.S. Ambassador to Samoa has
+                        also been accredited to <placeName>New Zealand</placeName>,
+                        <placeName>Fiji</placeName>, and <placeName>Tonga</placeName>, and has
+                        remained resident at <placeName>Wellington, New Zealand</placeName>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of U.S. Embassy in Apia, <date when="1988">1988.</date>
+                    </head>
+                    <p>The United States established an Embassy in Apia on November 15, 1988.
+                        However, the Ambassador has always remained resident at Wellington, and the
+                        Embassy has been under the leadership of a Chargé d’Affaires.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1842.htm">Samoa</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/ws">Samoa</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

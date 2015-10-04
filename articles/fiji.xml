@@ -1,0 +1,90 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Fiji</title>
+                <title type="short">Fiji</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="history">
+                <head>Summary</head>
+                <p> The United States maintained a consular presence in Fiji before the island chain
+                    became a Crown colony within the British Empire in 1874. Fiji gained
+                    independence from British rule in October 1970 and established a parliamentary
+                    democracy. In 1987, however, intra-country clashes between political parties
+                    representing the majority ethnic Fijian population and ethnic minority
+                    communities, most notably Indo-Fijian, led to a military coup d’état. This was
+                    the beginning of what many now refer to as the “coup cycle.” </p>
+                <figure>
+                    <graphic url="fiji-flag.jpg"/>
+                    <head>Modern Flag of Fiji</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Fiji’s Independence, <date when="1970">1970</date>.</head>
+                    <p> The United States recognized Fiji’s independence on October 10, 1970, in a
+                        statement by <ref target="/departmenthistory/people/yost-charles-woodruff">Charles W. Yost,</ref> U.S. Representative in the UN Security Council.
+                        Fiji became independent from the British Commonwealth on that date.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>Establishment of Consul at <placeName key="lauthala">Lauthala</placeName>,
+                        <date when="1844">1844</date>.</head>
+                    <p>Commercial Agent John B. Williams was appointed the first Consul to the Fiji
+                        Islands on August 19, 1844. He was resident at <placeName>Auckland, New
+                            Zealand</placeName>. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1971">1971</date>.</head>
+                    <p> Diplomatic relations were established on July 22, 1971, when Ambassador of
+                        Fiji, <persName>Semesa K. Sikivou</persName>, presented his credentials to
+                        President <persName>Richard M. Nixon</persName>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Embassy in Fiji, <date when="1971">1971</date>.</head>
+                    <p> The American Embassy at <placeName key="suva">Suva</placeName> established
+                        on November 1, 1971, with <ref target="/departmenthistory/people/skiff-robert-woltz">Robert W. Skiff
+                        </ref>as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                </div>
+                <div type="timeline">
+                    <head>American Ambassador Resident at Suva, <date when="1978">1978</date>.</head>
+                    <p> Ambassador <ref target="/departmenthistory/people/condon-john-peter">John P.
+                        Condon</ref> became the first U.S. Ambassador to Fiji to be resident at
+                        Suva when he presented credentials there on April 11, 1978. Previous
+                        Ambassadors had been resident at <placeName>Wellington</placeName>, New
+                        Zealand. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/fj.html ">Fiji</ref>
+                    </bibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1834.htm">Fiji</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/fj/index.htm">Fiji</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back> </back>
+    </text>
+</TEI>

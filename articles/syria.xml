@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Syria</title>
+                <title type="short">Syria</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Chris Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>When the United States became independent, <placeName key="sy">Syri</placeName>a
+                    was part of the Ottoman Empire and its foreign relations were conducted through
+                    the Sultan’s government at Istanbul (Constantinople). In 1922, after the
+                    collapse of the Ottoman Empire, the <ref target="/milestones/1914-1920/league">League of Nations</ref> approved a French Mandate for Syria and Lebanon,
+                    which gave France exclusive control over their foreign relations. The United
+                    States appointed <persName>George Wadsworth</persName> as “Agent and Consul
+                    General” on October 9, 1942, to provide a quasi-diplomatic presence in Damascus
+                    until the United States determined that Syria achieved effective independence in 1944.<figure>
+                        <graphic url="syria-flag.jpg"/>
+                        <head>Modern Flag of Syria</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Syrian Independence, <date when="1944">1944</date>.</head>
+                    <p>The United States recognized Syria as an independent state on September 8,
+                        1944, when the Syrian Minister of Foreign Affairs, <persName>Jamil Mardam
+                            Bey</persName>, informed the United States that Syria fully recognized
+                        and would protect existing rights of the United States and its nationals.
+                        This Syrian assurance was in response to a letter sent on September 7, 1944,
+                        by the American Diplomatic Agent and Consul General in Syria that offered
+                        “full and unconditional recognition” upon receipt of such written
+                        assurances.</p>
+                </div>
+                <div type="timeline">
+                    <head>Formation and Recognition of the United Arab Republic, <date when="1958">1958</date>.</head>
+                    <p>Egypt and Syria united to form a new state, the United Arab Republic (UAR),
+                        on February 22, 1958. The United States recognized the UAR on February 25,
+                        1958, when U.S. Ambassador to Egypt <ref target="/departmenthistory/people/hare-raymond-arthur">Raymond
+                            Hare</ref> delivered a note to that effect to the UAR Ministry of
+                        Foreign Affairs in Cairo. </p>
+                </div>
+                <div type="timeline">
+                    <head>Dissolution of the United Arab Republic and Recognition of Syria, <date when="1961">1961</date>.</head>
+                    <p>Syria seceded from the UAR on September 28, 1961, and reestablished the
+                        independent Syrian Arab Republic (<placeName>Egypt</placeName> continued to
+                        be known officially as the "United Arab Republic" until 1971). The United
+                        States recognized Syria on October 10, 1961, in a press release on that
+                        date. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Legation in Syria,
+                        <date when="1944">1944.</date>
+                    </head>
+                    <p>The United States established diplomatic relations with Syria when <ref target="/departmenthistory/people/wadsworth-george">George
+                        Wadsworth</ref> presented his credentials as Envoy Extraordinary and
+                        Minister Plenipotentiary on November 17, 1944. Wadsworth had been serving as
+                        Diplomatic Agent and Consul General to Syria and
+                        <placeName>Lebanon</placeName> while the United States considered them
+                        to be “semi-independent” states.</p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations with Syria Relations Ended, Embassy in Damascus
+                        Downgraded, and Relations Established with the United Arab Republic, <date when="1958">1958.</date>
+                    </head>
+                    <p>Diplomatic relations with Syria ended and the American Embassy in <placeName key="damascus">Damascus</placeName> was reclassified as a Consulate
+                        General on February 25, 1958, after Syria joined Egypt to form the new
+                        state, the United Arab Republic. The UAR’s capital was established at Cairo,
+                        where the United States maintained its embassy. </p>
+                </div>
+                <div type="timeline">
+                    <head>Reestablishment of Diplomatic Relations and the American Embassy in Syria,
+                        <date when="1961">1961.</date>
+                    </head>
+                    <p>The United States reestablished diplomatic relations with the Syrian Arab
+                        Republic and the American Consulate General at Damascus was raised to
+                        Embassy Status on October 10, 1961, with <ref target="/departmenthistory/people/knight-ridgway-brewster">Ridgway B.
+                            Knight</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.
+                        This action followed Syrian withdrawal from the United Arab Republic on
+                        September 28, 1961. </p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations Severed, <date when="1967">1967.</date>
+                    </head>
+                    <p>Syria severed diplomatic relations with the United States on June 6, 1967 in
+                        the wake of the <ref target="/milestones/1961-1968/arab-israeli-war-1967">June
+                            1967 Arab-Israeli War</ref>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of U.S. Interests Section, <date when="1974">1974.</date>
+                    </head>
+                    <p>A U.S. Interests Section in Syria was established on February 8, 1974, in the
+                        Italian Embassy with <ref target="/departmenthistory/people/scotes-thomas-james">Thomas J.
+                            Scotes</ref> as Principal Officer.</p>
+                </div>
+                <div type="timeline">
+                    <head>Reestablishment of Diplomatic Relations and American Embassy, <date when="1974">1974.</date>
+                    </head>
+                    <p>Diplomatic relations and the American Embassy in Damascus were reestablished
+                        on June 16, 1974, with Scotes as Chargé d'Affaires <hi rend="italic">ad
+                            interim</hi>.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3580.htm">Syria</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/sy">Syria</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back> </back>
+    </text>
+</TEI>

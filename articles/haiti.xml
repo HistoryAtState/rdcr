@@ -1,0 +1,75 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Haiti </title>
+                <title type="short">Haiti </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Tiffany Hamelin</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> Haiti is the second-oldest republic in the Western Hemisphere, after the United
+                    States. Though it won independence from <placeName>France</placeName> in 1804,
+                    Haiti did not receive U.S. recognition until 1862. Haiti experienced numerous
+                    periods of intense political and economic disorder, prompting U.S. military
+                    intervention in 1915. Following a 19-year occupation, U.S. military forces were
+                    withdrawn in 1934, and Haiti regained sovereign rule. </p>
+                <figure>
+                    <graphic url="haiti.jpg"/>
+                    <head>Modern Flag of Haiti</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Haitian Independence, <date when="1862">1862</date>.</head>
+                    <p> The United States recognized Hayti (Haiti) on July 12, 1862, when President
+                        <persName>Abraham Lincoln</persName> commissioned <ref target="/departmenthistory/people/whidden-benjamin-f">Benjamin F.
+                            Whidden</ref> was to act as a U.S. diplomatic representative to Hayti
+                        under the title “commissioner and consul-general.” </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Legation in Haiti,
+                        <date when="1862">1862</date>.</head>
+                    <p> Diplomatic relations and the American Legation in <placeName key="port-au-prince">Port-au-Prince</placeName> were established on
+                        October 1, 1862, when Commissioner and Consul General <persName>Benjamin F.
+                            Whidden</persName> presented his credentials to the Government of the
+                        Republic of Haiti. </p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of American Legation to Embassy Status, <date when="1943">1943</date>.</head>
+                    <p> Following a joint announcement on March 23, 1943, between the United States
+                        and seven American Republics that included Haiti, the Legations in the
+                        respective nations and the United States were raised to the status of
+                        Embassy. <ref target="/departmenthistory/people/white-john-campbell">John
+                            Campbell White</ref> was promoted to Ambassador Extraordinary and
+                        Plenipotentiary and presented his credentials to the Government of Haiti on
+                        March 14, 1943.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1982.htm">Haiti</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/ha/index.htm">Haiti</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

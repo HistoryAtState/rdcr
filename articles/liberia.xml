@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Liberia</title>
+                <title type="short">Liberia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Chris Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized the <placeName key="lr">Republic of
+                    Liberia</placeName> on September 23, 1862, when the American Minister to
+                    England <persName>Charles F. Adams</persName> was empowered to conclude a treaty
+                    of commerce and navigation with the Republic of Liberia.</p>
+                <figure>
+                    <graphic url="liberia-flag.jpg"/>
+                    <head>Modern Flag of Liberia</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Liberia, <date when="1862">1862</date>.</head>
+                    <p>The United States recognized the Republic of Liberia on September 23, 1862,
+                        when the American Minister to England <persName>Charles F. Adams</persName>
+                        was empowered to conclude a treaty of commerce and navigation with the
+                        Republic of Liberia. The treaty was signed by Adams and the President of
+                        Liberia on October 25, 1862. </p>
+                    <p>The state that became Liberia originated in 1822 when the American
+                        Colonization Society founded a settlement for freedmen and recaptured
+                        slaves. In 1847 the settlement constituted itself as a republic and
+                        subsequently was recognized by several European states. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and American Legation in Liberia,
+                        <date when="1864">1864.</date>
+                    </head>
+                    <p>Diplomatic relations and the American Legation at <placeName key="monrovia">Monrovia</placeName> were established on February 23, 1864, when
+                        American Commissioner and Consul General <ref target="/departmenthistory/people/hanson-abraham">Abraham Hanson</ref>
+                        presented his credentials to the Liberian government. </p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of Legation to Embassy Status, <date when="1949">1949.</date>
+                    </head>
+                    <p>The American Legation at Monrovia was elevated to Embassy status on May 6,
+                        1949, when Ambassador <ref target="/departmenthistory/people/dudley-edward-richard">Edward R.
+                            Dudley</ref> presented his credentials to the Liberian government. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/6618.htm">Liberia</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/li">Liberia</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

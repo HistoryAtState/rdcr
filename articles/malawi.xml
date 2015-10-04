@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Malawi</title>
+                <title type="short">Malawi</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized <placeName key="mw">Malawi</placeName> on July 6,
+                    1964, when the American consulate at <placeName key="blantyre">Blantyre</placeName> was elevated to Embassy status upon Malawi’s
+                    attainment of independence on the same date.</p>
+                <figure>
+                    <graphic url="malawi-flag.jpg"/>
+                    <head>Modern Flag of Malawi</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Malawian Independence, <date when="1964">1964</date>.</head>
+                    <p>The United States recognized <placeName>Malawi</placeName> on July 6, 1964,
+                        when the American consulate at Blantyre was elevated to Embassy status upon
+                        Malawi’s attainment of independence on the same date. Malawi previously had
+                        been under British sovereignty as <placeName>Nyasaland</placeName>. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in Malawi,
+                        <date when="1964">1964</date>.</head>
+                    <p> Diplomatic relations were established on July 6, 1964, when the American
+                        consulate at Blantyre was elevated to Embassy status (designated as Zomba,
+                        Malawi until 1970, but physically at Blantyre) with <ref target="/departmenthistory/people/holmes-edward-warren">Edward W.
+                            Holmes</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>Relocation of the American Embassy in Malawi, <date when="1976">1976</date>.</head>
+                    <p>The American Embassy at Blantyre was moved to <placeName key="lilongwe">Lilongwe</placeName> on April 1, 1976. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/7231.htm">Malawi</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/mi">Malawi</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Mauritania</title>
+                <title type="short">Mauritania</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized the <placeName key="mr">Islamic Republic of
+                    Mauritania</placeName> on November 28, 1960, in a congratulatory message
+                    from President <persName>Dwight D. Eisenhower</persName> to Prime Minister
+                    <persName>Daddah</persName>.</p>
+                <figure>
+                    <graphic url="mauritania-flag.jpg"/>
+                    <head>Modern Flag of Mauritania</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Mauritanian Independence, <date when="1960">1960</date>.</head>
+                    <p>The United States recognized the Islamic Republic of Mauritania on November
+                        28, 1960, in a congratulatory message from President <persName>Dwight D.
+                            Eisenhower</persName> to Prime Minister Daddah. Mauritania had been
+                        previously under French sovereignty.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1960">1960</date>.</head>
+                    <p>Diplomatic relations were established on November 28, 1960, when Ambassador
+                        <ref target="/departmenthistory/people/villard-henry-serrano">Henry S.
+                            Villard</ref> presented his credentials to Prime Minister Daddah.
+                        American Ambassadors to Mauritania also were accredited to
+                        <placeName>Senegal</placeName>, and were resident at
+                        <placeName>Dakar</placeName>. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Embassy in Mauritania, <date when="1962">1962</date>.</head>
+                    <p>The American Embassy at <placeName key="nouakchott">Nouakchott</placeName>
+                        was established on July 14, 1962, with <ref target="/departmenthistory/people/eagleton-william-lester-jr">William L.
+                            Eagleton, Jr.</ref>, as Chargé d'Affaires <hi rend="italic">ad
+                                interim.</hi>
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations Severed by Mauritania, <date when="1967">1967</date>.</head>
+                    <p>Mauritania severed diplomatic relations with the United States on June 7,
+                        1967, in the wake of the June <ref target="/milestones/1961-1968/arab-israeli-war-1967">1967 Arab-Israeli
+                            War</ref>. </p>
+                </div>
+                <div type="timeline">
+                    <head>Resumption of Diplomatic Relations, <date when="1969">1969</date>.</head>
+                    <p>The United States and Mauritania resumed diplomatic relations on December 22,
+                        1969, when they announced the decision in a joint communiqué. </p>
+                </div>
+                <div type="timeline">
+                    <head>Reestablishment of the American Embassy in Mauritania, <date when="1970">1970</date>.</head>
+                    <p>Embassy Nouakchott was reopened on March 4, 1970, with <ref target="/departmenthistory/people/stein-robert-andrew">Robert A.
+                        Stein</ref> as Chargé d'Affaires <hi rend="italic">ad interim.</hi>
+                    </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5467.htm">Mauritania</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/mr">Mauritania</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

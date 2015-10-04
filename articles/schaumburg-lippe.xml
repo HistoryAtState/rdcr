@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776:
+                    Schaumburg-Lippe</title>
+                <title type="short">Schaumburg-Lippe*</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2010</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Lindsay Krasnoff, February 2010</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>When the United States announced its independence from Great Britain in 1776,
+                    Schaumburg-Lippe was a small independent country within the Holy Roman Empire.
+                    In 1807 the rulers of Schaumburg-Lippe joined the Confederation of the Rhine. In
+                    return, Schaumburg-Lippe was elevated to the status of principality. Retaining
+                    its independence and sovereignty after the Napoleonic Wars, the Principality of
+                    Schaumburg-Lippe joined the German Confederation in 1815. The first official act
+                    of mutual recognition between Schaumburg-Lippe and the United States came in
+                    1854. </p>
+                <p> Schaumburg-Lippe originally sided with Austria during the 1866 Austro-Prussian
+                    War but changed allegiances and joined Prussia. Schaumburg-Lippe subsequently
+                    joined the North German Confederation in 1867, and in 1871 Schaumburg-Lippe
+                    became part of the German Empire. From this point forward, foreign policy of the
+                    German Empire was made in Berlin, with the German Kaiser (who was also the King
+                    of Prussia) accrediting ambassadors of foreign nations. Relations with Imperial
+                    Germany were severed when the U.S. declared war in 1917. </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Mutual Recognition, <date when="1854">1854</date>.</head>
+                    <p> On June 7, 1854, Schaumburg-Lippe signed the Declaration of Accession to the
+                        Convention for the Extradition of Criminals, Fugitive from Justice, of June
+                        16, 1852 between the United States and Prussia and Other States of the
+                        Germanic Confederation in Buckeburg. This agreement provided for the
+                        reciprocal extradition of fugitive criminals in special cases between
+                        Schaumburg-Lippe and the United States. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations.</head>
+                    <p> The United States and the Principality of Schaumburg-Lippe never established
+                        diplomatic relations.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties-agreements">
+                <head>Treaties and Agreements</head>
+                <div type="timeline">
+                    <head>Declaration of Accession to the Convention for the Extradition of
+                        Criminals, Fugitive from Justice, of June 16, 1852, between the United
+                        States and Prussia and other States of the German Confederation, <date when="1854">1854</date>.</head>
+                    <p> On June 7, 1854, the Government of the Prince of Schaumburg-Lippe declared
+                        its accession to the convention providing for reciprocal extradition of
+                        fugitive criminals in special cases between the United States, Prussia, and
+                        other states of the German Confederation. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="key-events">
+                <head>Key Diplomatic Events</head>
+                <div type="timeline">
+                    <head>Schaumburg-Lippe Joins the North German Confederation, <date when="1867">1867</date>.</head>
+                    <p>Schaumburg-Lippe Joins the North German Confederation, 1867. Following the
+                        Austro-Prussian War of 1866, the Principality of Schaumburg-Lippe joined the
+                        North German Confederation in 1867 when it was created as a federal
+                        state.</p>
+                </div>
+                <div type="timeline">
+                    <head>Schaumburg-Lippe Joins the German Empire, <date when="1871">1871</date>.</head>
+                    <p> The Principality of Schaumburg-Lippe joined the German Empire, which was
+                        proclaimed on January 18, 1871.</p>
+                </div>
+                <div type="timeline">
+                    <head>German Unification. </head>
+                    <p> The Principality of Schaumburg-Lippe was one of the states involved in the
+                        process of German unification during the mid-nineteenth century. See “<ref target="/countries/issues/german-unification">Unification of German
+                            States</ref>” for greater detail.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>William M. Malloy, <hi rend="italic">Treaties, Conventions, International
+                            Acts, Protocols, and Agreements Between The United States of American
+                            and Other Powers, 1776-1909</hi> (Washington DC: Government Printing
+                        Office, 1910).</bibl>
+                    <bibl>John Bassett Moore, <hi rend="italic">A Digest of International Law</hi>
+                        (Washington, D.C.: Government Printing Office, 1906).</bibl>
+                    <bibl>John Bassett Moore, <hi rend="italic">Four Phases of American
+                            Development</hi> (Baltimore: Johns Hopkins Press, 1912).</bibl>
+                    <bibl>James J. Sheehan, <hi rend="italic">German History 1770-1866</hi>,
+                        (Oxford: Clarendon Press, 1989).</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

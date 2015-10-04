@@ -1,0 +1,80 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Indonesia</title>
+                <title type="short">Indonesia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> U.S.-Indonesian interaction has a long history, dating back to the early 19th
+                    century when sufficient numbers of U.S. traders and others stopped in the
+                    then-Dutch colony to warrant the establishment of a consular post. However,
+                    relations remained on an informal level until after Indonesian independence
+                    following World War II.</p>
+                <figure>
+                    <graphic url="indonesia.jpg"/>
+                    <head>Modern Flag of Indonesia</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Indonesian Independence, <date when="1949">1949</date>. </head>
+                    <p> The United States recognized the Republic of the United States of Indonesia
+                        on December 28, 1949, when U.S. Ambassador <ref target="/departmenthistory/people/cochran-horace-merle">H. Merle
+                            Cochran</ref> presented his credentials and a message of congratulations
+                        on Indonesian independence from President <persName>Harry S.
+                            Truman</persName> to <persName>President Sukarno</persName> of
+                        Indonesia. Indonesia had been under the sovereignty of the Kingdom of the
+                        Netherlands.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>Establishment of Consular Relations, <date when="1801">1801</date>. </head>
+                    <p> The United States established its first consular post in what is now
+                        Indonesia in the city of <placeName key="jakarta">Jakarta</placeName> when
+                        it appointed <persName>Thomas Hewes</persName> on November 24, 1801. At the
+                        time, the territory was a Dutch colony and the city was known as
+                        Batavia.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1949">1949</date>.</head>
+                    <p> Diplomatic relations were established on December 28, 1949, when U.S.
+                        Ambassador <ref target="/departmenthistory/people/cochran-horace-merle">H.
+                            Merle Cochran</ref> presented his credentials to President Sukarno.
+                        Ambassador Cochran had previously been the U.S. representative to the United
+                        Nations Commission for Indonesia.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2748.htm ">Indonesia</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/id/">Indonesia</ref>
+                    </bibl>
+                    <bibl>Library of Congress Country Study: <ref target="http://lcweb2.loc.gov/frd/cs/idtoc.html">Indonesia</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

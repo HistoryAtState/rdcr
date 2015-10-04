@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Monaco</title>
+                <title type="short">Monaco</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Lindsay Krasnoff, March 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>When the United States announced its independence from Great Britain in 1776, the
+                        <placeName key="mc">Principality of Monaco</placeName> was a sovereign,
+                    independent country under the military protection of the King of France,
+                        <persName>Louis XVI</persName>. Although Monaco was directly annexed to the
+                    First French Republic in 1793 during the French Revolution, it regained its
+                    independence and sovereignty in 1814, both of which were reaffirmed by the 1815
+                    Treaty of Vienna. From 1815-1861 Monaco had the protectorship of the Kingdom of
+                    Piedmont-Sardinia, and since 1861 it has been under the military safeguard of
+                    France.</p>
+                <p>Monaco and the United States exchanged their first consular agents in the years
+                    following the U.S. Civil War. Since then, the two countries have had overlapping
+                    ties, strengthened early-on by <persName>Prince Albert I</persName> of Monaco
+                    who travelled the United States three times between 1868 and 1921. During World
+                    War I, the principality hosted American soldiers. The marriage of Philadelphia
+                    native <persName>Grace Kelly</persName> to Monaco’s <persName>Prince Rainier
+                        III</persName> in 1956 further cemented the bond between Monaco and the
+                    United States. </p>
+                <p>Monaco joined the United Nations in 1993 and the Council of Europe in October
+                    2004. In 2005 France and Monaco renegotiated the 1918 Franco-Monégasque Treaty.
+                    Under the new provisions, which reaffirmed the independence and sovereignty of
+                    Monaco, full direct diplomatic relations between Monaco and other countries has
+                    occurred and Monaco began to receive foreign Ambassadors. <figure>
+                        <graphic url="monaco-flag.jpg"/>
+                        <head>Modern Flag of Monaco</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>First Official State-to-State Interaction, <date when="1865">1865</date>.</head>
+                    <p>It was in the years following the U.S. Civil War that the United States and
+                        Monaco, both established states, began commercial relations. Although the
+                        Prince of Monaco appointed <persName>Louis Borg</persName> to serve as his
+                        consul to the United States in New York on May 19, 1865, nearly another year
+                        passed before Borg was able to present his official credentials to the
+                        United States Government. Borg, already serving in New York as the
+                        Chancellor of the French Consulate, had to obtain special authority from the
+                        Emperor of the French <persName>Napoleon III</persName> to also hold the
+                        post of Monégasque consul. This dispensation was granted, and in May 1866
+                        Borg was fully accredited by the United States as consul for the
+                        Principality of Monaco. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular_relations">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>Establishment of U.S. Consul in Monaco, <date when="1874">1874</date>.</head>
+                    <p>The late-1860s was an era of increased tourism for Monaco, due to the
+                        construction of railways to provide greater access to the principality, as
+                        well as the establishment of the casino in <placeName key="monte-carlo">Monte Carlo</placeName>. Consequently, the United States appointed its
+                        first consular representative to Monaco, <persName>Emile de Loth</persName>,
+                        on January 30, 1874, as Consular Agent. De Loth was accredited by the Prince
+                        of Monaco on February 22, 1874. This post was ordered closed on February 16,
+                        1906, and moved to Nice.</p>
+                </div>
+                <div type="section" xml:id="diplomatic_relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Full Diplomatic Relations, <date when="2006">December
+                                2006.</date>
+                        </head>
+                        <p>The United States and Monaco established full diplomatic relations on
+                            December 8, 2006, when the first Monégasque ambassador to the United
+                            States, <persName>Gilles Noghès</persName>, presented his letters of
+                            credence to President <persName>George W. Bush</persName>. U.S.
+                            Ambassador to Monaco <persName>Craig Stapleton</persName> presented his
+                            credentials to <persName>Prince Albert II</persName> on December 13,
+                            2006. Stapleton was resident in Paris. </p>
+                    </div>
+                </div>
+                <div type="section" xml:id="treaties_agreements">
+                    <head>Treaties and Agreements</head>
+                    <div type="timeline">
+                        <head>Treaty of Extradition, <date when="1939">1939.</date>
+                        </head>
+                        <p>On February 15, 1939, a treaty of extradition was signed between the
+                            United States and the Principality of Monaco. This treaty was ratified
+                            on August 30, 1939. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Agreement on Passport Visas, <date when="1952">1952.</date>
+                        </head>
+                        <p>An agreement on passport visas for United States and Monégasque citizens
+                            entered into force on March 31, 1952.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Tax Information Exchange Agreement, <date when="2009">2009.</date>
+                        </head>
+                        <p>On September 8, 2009, the United States and the Principality of Monaco
+                            signed a Tax Information Exchange Agreement. The agreement provides for
+                            the exchange of information relating to tax matters, and was signed in
+                            Washington, D.C., by the Honorable Neal S. Wolin, Deputy Secretary, U.S.
+                            Department of The Treasury, and H.E. Franck Biancheri, Government
+                            Councilor for External Relations and for International Economic and
+                            Financial Affairs for the Principality of Monaco. The agreement entered
+                            into force on March 11, 2010. (View the 
+                            <ref target="http://www.state.gov/documents/organization/140168.pdf">text of the agreement</ref>.)
+                        </p>
+                    </div>
+                    <div type="section" xml:id="diplomatic_event">
+                        <head>Key Diplomatic Events</head>
+                        <div type="timeline">
+                            <head>Reception of Monégasque Prince by U.S. President, <date when="1913">1913.</date>
+                            </head>
+                            <p>On October 20, 1913, <persName>Prince Albert I</persName> of Monaco
+                                was received at the White House by U.S. President <persName>Woodrow
+                                    Wilson</persName>. This was Prince Albert’s second trip to the
+                                United States, one that took him through the Midwest and Western
+                                states, where he met with <persName>Col. William Frederick
+                                    Cody</persName>, commonly known as "Buffalo Bill."</p>
+                        </div>
+                        <div type="timeline">
+                            <head>Franco-Monégasque Treaty Signed, <date when="1918">1918.</date>
+                            </head>
+                            <p>The Franco-Monégasque Treaty, later confirmed by the Treaty of
+                                Versailles (Article 436), stated that France would defend the
+                                independence and sovereignty of Monaco. In return, Monaco was not to
+                                conduct a foreign policy at odds with that of the French Republic.
+                            </p>
+                        </div>
+                        <div type="timeline">
+                            <head>Marriage of Grace Kelly to Prince Rainier III, <date when="1956">1956.</date>
+                            </head>
+                            <p>American actress and Philadelphia native Grace Kelly married Monaco’s
+                                Prince Rainier III on April 18, 1956, an act that brought the two
+                                states closer together. </p>
+                        </div>
+                    </div>
+                    <div type="appendix">
+                        <head>Resources</head>
+                        <listBibl>
+                            <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3397.htm">Monaco</ref>
+                            </bibl>
+                            <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/mn">Monaco</ref>
+                            </bibl>
+                            <bibl>Grinda, Georges. <hi rend="italic">The Principality of Monaco:
+                                    State, International Status, Institutions</hi>. The Hague:
+                                T.M.C. Asser Press, 2006.</bibl>
+                        </listBibl>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

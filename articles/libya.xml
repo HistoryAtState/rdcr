@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Libya</title>
+                <title type="short">Libya</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and Written by Christopher Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="history">
+                <head>Summary</head>
+                <p>Prior to its independence in 1951, the territory comprising present-day
+                        <placeName key="ly">Libya</placeName> (Tripoli) had been a semi-independent
+                    province of the Ottoman Empire from 1711 to 1835, an Italian colony from 1912
+                    until 1947, and was under British and French occupation from 1943 to 1951. The
+                    United States was recognized by Tripoli in 1796, but permanent diplomatic
+                    relations were not established until modern Libya’s independence following World
+                    War II. From 1980 until 2006, the U.S. did not have an open Embassy in Libya,
+                    although relations were not formally severed.</p>
+                <figure>
+                    <graphic url="libya-flag.png"/>
+                    <head>Modern Flag of Libya</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Tripolitan Recognition of the United States, <date from="1786-02" to="1796-11-04">1786-1796</date>.</head>
+                    <p>U.S. Minister to Great Britain <ref target="/departmenthistory/people/adams-john">John Adams</ref> entered
+                        into treaty negotiations with <persName>Abdurrahman</persName>, the
+                        Tripolitan diplomat stationed in London in February of 1786, but the
+                        negotiations were inconclusive. Abdurrahman stated that without a treaty,
+                        the Tripolitan government would regard the United States and Tripoli to be
+                        at war with one another. The Tripolitan government formally recognized U.S.
+                        independence by the signing of a peace treaty in Tripoli on November 4,
+                        1796. The treaty was subsequently also signed by the Dey of Algiers, who
+                        claimed authority over Tripolitan affairs, although this authority was
+                        denied by Pasha <persName>Yusuf Qaramanli</persName>. The subsequent treaty
+                        between the United States and Tripoli, signed on June 10, 1805, was
+                        concluded without Algerian supervision.</p>
+                </div>
+                <div type="timeline">
+                    <head>Tripoli/Libya under Ottoman and Italian Control, <date when="1835" to="1947">1835-1947</date>.</head>
+                    <p>Tripolitan authority to conduct international relations ended when the
+                        Ottoman Empire chose to reassert its formerly nominal suzerainty over its
+                        Libyan provinces in 1835. The Ottoman Empire formally ceded Libya to Italy
+                        under the Treaty of Ouchy on October 18, 1912. Libya formally remained an
+                        Italian colony until 1947, when Italy relinquished its claims upon Libya,
+                        which had been under joint Franco-British occupation since 1943.</p>
+                </div>
+                <div type="timeline">
+                    <head>U.S. Recognition of Libyan Independence, <date when="1951">1951</date>.</head>
+                    <p>The United States recognized the United Kingdom of Libya on December 24,
+                        1951, in a congratulatory message sent by President <persName>Harry
+                            Truman</persName> to <persName>King Idris I</persName>. Libya declared
+                        its independence on this date after the former Italian colony had been
+                        administered jointly by France and Great Britain following World War II.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-relations">
+                <head>Consular Relations</head>
+                <div type="timeline">
+                    <head>Consulate at Tripoli and Italian Libya, <date when="1799-04-05" to="1949-07-01">1799-1949</date> (with interruptions).</head>
+                    <p>
+                        <persName>James Leander Cathcart</persName> arrived in Tripoli to assume his
+                        duties as U.S. Consul on April 5, 1799. <persName>Yusuf
+                        Qaramanli</persName>, Pasha of Tripoli, formally accepted Cathcart’s
+                        credentials between that date and April 15, when he stated his acceptance of
+                        Cathcart in a letter to U.S. President <persName>John Adams</persName>. The
+                        Consulate closed on May 14, 1801 owing to the beginning of the Tripolitan
+                        War. <persName>Tobias Lear</persName>, who conducted the 1805 peace
+                        negotiations, appointed <persName>John Ridgely</persName> “U.S. agent” for
+                        Tripoli, but it is unclear if this was a consular position, or if it meant
+                        Ridgely was a signatory to the treaty. The Consulate had re-opened by 1807,
+                        when <persName>George Davis</persName> was U.S. consul at Tripoli. Although
+                        Tripoli ceased to be an independent state after 1835, the consulate remained
+                        open until July 22, 1882, when it was closed by order of Congress. The
+                        office re-opened on June 10, 1908, closed again on August 15, 1916, reopened
+                        April 24, 1935, closed again March 15, 1937, then reestablished June 6,
+                        1948. The office was raised to the rank of Consulate General July 1,
+                        1949.</p>
+                </div>
+                <div>
+                    <head>Other Consulates in Libya</head>
+                    <p>
+                        <list>
+                            <item>Al-Baydā’ (Baida, Beida). Earliest extant date July 6, 1964; last
+                                extant date June 20, 1996.</item>
+                            <item>Benghazi (Banghāzī, Bengazi, Berenice). Earliest extant date July
+                                31, 1950; last extant date September 26, 1966.</item>
+                        </list>
+                    </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Legation in Libya,
+                            <date when="1951-12-24">1951</date>.</head>
+                    <p>Diplomatic relations and the American Legation in Libya were established on
+                        December 24, 1951, when the American Consulate General was elevated to a
+                        Legation with <ref target="/departmenthistory/people/lynch-andrew-green">
+                            <persName>Andrew Lynch</persName>
+                        </ref> designated as Charge
+                        d’Affaires <hi rend="italic">ad interim</hi>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Legation in Libya was raised to Embassy status, <date when="1954-11-16">1954</date>
+                    </head>
+                    <p>
+                        <ref target="/departmenthistory/people/gatch-john-newton-jr">
+                            <persName>John
+                                N. Gatch, Jr.</persName>
+                        </ref>, was serving as Chargé d'Affaires <hi rend="italic">ad interim</hi> when the Legation in Libya was raised to
+                        Embassy status, September 25, 1954. <ref target="/departmenthistory/people/tappin-john-lindsley">
+                            <persName>John
+                                L. Tappin</persName>
+                        </ref> was appointed Ambassador on the same day,
+                        and presented his credentials on November 16, 1954.</p>
+                </div>
+                <div type="timeline">
+                    <head>Relations from <date from="1980-02-08" to="2004-02-08">1980 to
+                        2004</date>.</head>
+                    <p>U.S. Chargé d’Affaires <persName>William Eagleton, Jr.</persName> was
+                        recalled February 8, 1980, and the U.S. Embassy at Tripoli closed May 2,
+                        1980, and the Libyan People’s Bureau in Washington closed on May 6, 1981.
+                        Relations were not formally severed during this time.</p>
+                </div>
+                <div type="timeline">
+                    <head>United States Interests Section and Liaison Office Established, <date when="2004-02-08">2004</date>.</head>
+                    <p>The United States established an Interests Section at the Belgian Embassy in
+                        Tripoli, February 8, 2004. It became the U.S. Liaison Office on June 28,
+                        with <ref target="/departmenthistory/people/berry-gregory-l">
+                            <persName>Gregory L. Berry</persName>
+                        </ref> as the Principal
+                        Officer. Libyan diplomats reestablished a presence in Washington on July 8,
+                        2004, when they opened the Libyan Interests Section as part of the United
+                        Arab Emirates Embassy, Libya’s protecting power.</p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of Liaison Office to Embassy Status and Resumption of Full
+                        Diplomatic Relations, <date when="2006-05-31">2006</date>.</head>
+                    <p>On May 31, 2006, the United States resumed full diplomatic relations with
+                        Libya, and the Liaison Office in Tripoli became an Embassy, with <ref target="/departmenthistory/people/berry-gregory-l">
+                            <persName>Gregory L.
+                                Berry</persName>
+                        </ref> became Charge d'Affaires <hi rend="italic">ad
+                            interim</hi>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Suspension of U.S. Embassy Tripoli Operations, <date when="2011-02-25">2011</date>
+                    </head>
+                    <p> United States relations with Libya deteriorated sharply when Mu'ammar
+                        al-Qadhafi tried to suppress an uprising against his regime in 2011. On
+                        February 25, 2011, the United States suspended Embassy operations in
+                        Tripoli. On March 16, the United States ordered the Libyan Government to
+                        suspend its Embassy operations in Washington.</p>
+                </div>
+                <div type="timeline">
+                    <head>Resumption of U.S. Embassy Tripoli Operations, <date when="2011-09-22">2011</date>.</head>
+                    <p>The United States appointed a Special Representative to the Transitional
+                        National Council in Benghazi in March 2011 and maintained a diplomatic
+                        presence there from April 2011 to September 2012. The U.S. Government
+                        officially recognized the Transitional National Council (TNC) as the
+                        legitimate government of Libya on July 15, 2011. On September 22, 2011, the
+                        U.S. Embassy in Tripoli resumed operations.</p>
+                </div>
+                <div type="timeline">
+                    <head>Assassination of the American Ambassador, <date when="2012-09-11">2012</date>.</head>
+                    <p>The U.S. Ambassador to Libya, <ref target="/departmenthistory/people/stevens-john-christopher">
+                            <persName>J.
+                                Christopher Stevens</persName>
+                        </ref> and three other American
+                        colleagues were killed on September 11, 2012, during an attack on the U.S.
+                        Mission in Benghazi. Following the death of Ambassador Stevens, the American
+                        Embassy in Tripoli was headed by Chargé <persName>Greg Hicks</persName>.
+                    </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/p/nea/ci/ly/index.htm">Libya</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/ba/index.htm">Libya</ref>
+                    </bibl>
+                    <bibl>Irwin, Ray W. <hi rend="italic">The Diplomatic Relations of the United
+                            States with the Barbary Powers, 1776-1816</hi>. Chapel Hill: University
+                        of North Carolina Press, 1931.</bibl>
+                    <bibl>Kitzen, Michael L. S. <hi rend="italic">Tripoli and the United States at
+                            War: a History of American Relations with the Barbary States,
+                            1785-1805</hi>. McFarland, 1993.</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

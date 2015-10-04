@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Sierra Leone</title>
+                <title type="short">Sierra Leone</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States has traditionally maintained amicable relations with <placeName key="sl">Sierra Leone</placeName>. It also supported international efforts
+                    to end a brutal, decade-long civil war in Sierra Leone, and prevent the illegal
+                    sale of diamonds from that country. At present, the United States is seeking
+                    promote peace and stability in Sierra Leone by providing economic and
+                    humanitarian aid. </p>
+                <figure>
+                    <graphic url="sierra-leone-flag.jpg"/>
+                    <head>Modern Flag of Sierra Leone</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Sierra Leone’s Independence, <date when="1961">1961</date>.</head>
+                    <p>The United States recognized <placeName>Sierra Leone</placeName> when it
+                        became independent on April 27, 1961, in a congratulatory message from
+                        President <persName>John F. Kennedy</persName> to the Government and People
+                        of Sierra Leone dated April 26, 1961. Sierra Leone had been previously under
+                        British sovereignty. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in
+                        <placeName>Sierra Leone</placeName>, <date when="1961">1961</date>.</head>
+                    <p>Diplomatic relations were established on April 27, 1961, when the American
+                        Consulate General at <placeName key="freetown">Freetown</placeName> was
+                        elevated to Embassy status, with <ref target="/departmenthistory/people/reiner-herbert">Herbert Reiner,
+                            Jr.</ref>, as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5475.htm">Sierra Leone</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/sl">Sierra Leone</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Djibouti</title>
+                <title type="short">Djibouti</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized the <placeName>Republic of Djibouti</placeName> on
+                    June 27, 1977, in a congratulatory message from President <persName>Jimmy
+                        Carter</persName> to President <persName>Hassan Gouled
+                    Aptidon</persName>.</p>
+                <figure>
+                    <graphic url="djibouti-flag.jpg"/>
+                    <head>Modern Flag of Djibouti</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Djibouti’s Independence, <date when="1977">1977</date>.
+                    </head>
+                    <p>The United States recognized the <placeName>Republic of Djibouti</placeName>
+                        on June 27, 1977, in a congratulatory message from President <persName>Jimmy
+                            Carter</persName> to President <persName>Hassan Gouled
+                            Aptidon</persName>. The territory that became Djibouti previously had
+                        been under French sovereignty.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in
+                        Djibouti, <date when="1977">1977</date>.</head>
+                    <p>Diplomatic relations were established on June 27, 1977, when the American
+                        Consulate General to the former French Territory of Afars and Issas became
+                        the American Embassy at Djibouti, with <ref target="/departmenthistory/people/clarke-walter-sheldon">Walter S.
+                            Clarke</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5482.htm">Djibouti</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/dj">Djibouti</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

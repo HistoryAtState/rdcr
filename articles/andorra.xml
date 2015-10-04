@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Andorra</title>
+                <title type="short">Andorra</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The Principality of <placeName key="ad">Andorra</placeName> is a co-principality,
+                    with the Bishop of Urgell (<placeName>Spain</placeName>) serving as one of its
+                    co-princes and the French president serving as the other. The governing
+                    arrangement dates back centuries and helps to explain why, in conjunction with
+                    its geographic location, Andorra has traditionally been isolated from European
+                    and international affairs. This began to change, however, with the ratification
+                    of its constitution in 1993, which established Andorra’s sovereignty as a
+                    “modern” representative democracy. </p>
+                <figure>
+                    <graphic url="andorran-flag.jpg"/>
+                    <head>Modern Flag of Andorra</head>
+                </figure>
+                <p> Since then the principality has become progressively more active within the
+                    international community. The United States and Andorra established diplomatic
+                    relations in 1995. All Ambassadors to Andorra have also been accredited to Spain
+                    and resident in <placeName>Madrid</placeName>. United States Consulate General
+                    Officials based in Barcelona are responsible for day-to-day conduct of relations
+                    with Andorra. </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Andorra</head>
+                    <p>Andorra has considered itself independent since medieval times, and therefore
+                        was already independent when the United States declared independence from
+                        the British Empire in 1776. Unlike many other independent states in the late
+                        eighteenth century, Andorra never signed a bilateral treaty with the United
+                        States, which would have legally constituted recognition of the new
+                        republic. </p>
+                    <p>Andorra ratified a modern constitution on March 14, 1993, which provided for
+                        its independence and sovereignty as a “modern” representative democracy.
+                    </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1995">1995.</date>
+                    </head>
+                    <p>The United States established diplomatic relations with Andorra on February
+                        21, 1995, with an exchange of letters between the Andorran government
+                        (requesting to establish full diplomatic relations) and the U.S. Secretary
+                        of State. Secretary of State <ref target="/departmenthistory/people/christopher-warren-minor">Warren
+                            Christopher</ref> reciprocated by appointing the U.S. Consul General in
+                            <placeName>Barcelona</placeName> to also represent the United States to
+                        Andorra for diplomatic and consular affairs. </p>
+                    <p>The first U.S. Ambassador to Andorra, <ref target="/departmenthistory/people/romero-edward-l">Edward L.
+                            Romero</ref>, presented his credentials on October 30, 1998. All
+                        Ambassadors to Andorra have also been accredited to
+                            <placeName>Spain</placeName> and resident in
+                            <placeName>Madrid</placeName>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of Andorran Embassy, <date when="1996">1996.</date>
+                    </head>
+                    <p>On February 6, 1996, <persName>Juli F. Minoves-Triquell</persName> presented
+                        credentials as Ambassador Extraordinary and Plenipotentiary to the United
+                        States. Ambassador Minoves-Triquell, at 26 years old, was the youngest
+                        ambassador on record to represent a foreign country at the time and was also
+                        accredited to the <ref target="/milestones/1937-1945/un">United
+                            Nations</ref>. The Andorran mission to the United Nations serves as the
+                        Andorran Embassy in the United States.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl> Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3164.htm">Andorra</ref>
+                    </bibl>
+                    <bibl> Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/an/">Andorra</ref>
+                    </bibl>
+                    <bibl> CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/an.html">Andorra</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

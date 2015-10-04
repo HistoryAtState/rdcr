@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Montenegro</title>
+                <title type="short">Montenegro</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Nathaniel Smith, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> The Great Powers of Europe recognized an independent and sovereign Principality
+                    of <placeName key="me">Montenegro</placeName> at the Congress of Berlin in 1878.
+                    Diplomatic relations between the United States and Montenegro began at the
+                    opening of the twentieth century on October 30, 1905. Following World War I, the
+                    Kingdom of Montenegro was subsumed into the Kingdom of Serbs, Croats, and
+                    Slovenes, and President <persName>Woodrow Wilson</persName> decided to withdraw
+                    recognition of independent Montenegro in 1920.</p>
+                <figure>
+                    <graphic url="montenegro-flag.jpg"/>
+                    <head>Modern Flag of Montenegro</head>
+                </figure>
+                <p> Following the dissolution of the <placeName>Federation of Yugoslavia</placeName>
+                    in 1989, Montenegrin independence returned when the Republic of Montenegro
+                    declared independence from the State Union of Serbia and Montenegro on June 3,
+                    2006. The United States recognized the Republic of Montenegro on June 13, 2006,
+                    and established relations with it on August 15, 2006. </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>United States Recognition of Montenegro, <date when="1905">1905</date>.</head>
+                    <p> The United States recognized the Republic of Montenegro on March 3, 1905,
+                        when President <persName>Theodore Roosevelt</persName> approved the
+                        Diplomatic and Consular Act, which assigned the U.S. Mission to
+                        <placeName>Greece</placeName> responsibility for American representation
+                        in Montenegro. </p>
+                </div>
+                <div type="timeline">
+                    <head>Recognition of Independent Montenegro Withdrawn by the United States,
+                        <date from="1920" to="1921">1920-21</date>.</head>
+                    <p> President Woodrow Wilson made the decision to withdraw recognition of
+                        independent Montenegro on December 30, 1920, and on January 21, 1921, Acting
+                        Secretary of State <ref target="/departmenthistory/people/davis-norman-hezekiah">Norman H.
+                            Davis</ref> informed Montenegro’s Honorary Consul-General,
+                        <persName>William F. Dix</persName>, that <quote>“in view of the present
+                            status of Montenegro, this Government no longer considers it necessary
+                            to accord recognition to her diplomatic and consular officers.”</quote>
+                        The United States followed the lead of European powers in withdrawing
+                        recognition. Montenegro had sided with the Allied Powers in <ref target="/departmenthistory/short-history/worldin1914">World War I</ref>,
+                        but was occupied by Austria-Hungary for a period and <persName>King
+                            Nikola</persName> was forced into exile. With the departure of
+                        Austria-Hungary’s forces in 1918, French, Italian, and Serbian troops
+                        arrived to occupy Montenegro. Serbian leaders quickly convoked a “National
+                        Assembly” that voted to depose King Nikola and merge Montenegro into the
+                        Kingdom of Serbs, Croats, and Slovenes. One of President Wilson’s Fourteen
+                        Points called for the evacuation of Montenegro and other Balkan states, as
+                        well as international guarantees for their independence. The <ref target="/milestones/1914-1920/paris-peace">1919 Paris Peace
+                            Conference</ref> failed to reach a decision on Montenegro, however, and
+                        the Allies remained unwilling to intervene against the de facto occupation
+                        by Serbian forces.</p>
+                </div>
+                <div type="timeline">
+                    <head>United States Recognition of Montenegro, <date when="2006">2006</date>.</head>
+                    <p> The United States recognized the Republic of Montenegro on June 13, 2006,
+                        when Secretary of State <ref target="/departmenthistory/people/rice-condoleezza">Condoleezza
+                            Rice</ref> released a public statement to that effect. From World War I
+                        until 2006, Montenegro had been a constituent part of various incarnations
+                        of the state of Yugoslavia. Following the dissolution of the Federation of
+                        Yugoslavia in 1989, Montenegro had been part of Yugoslavia’s successor state
+                        (named the State Union of Serbia &amp; Montenegro in 2003) until
+                        declaring independence on June 3, 2006.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Diplomatic Relations Established, <date when="1905">1905.</date>
+                    </head>
+                    <p> Diplomatic relations were established on October 30, 1905, when <ref target="/departmenthistory/people/jackson-john-brinkerhoff">John B.
+                        Jackson</ref>, U.S. Envoy Extraordinary and Minister Plenipotentiary,
+                        presented his credentials to <persName>Prince Nikola</persName>. Jackson and
+                        his successors resided in Athens, Greece and made annual visits to
+                        <placeName key="cetinje">Cetinje</placeName>, the Montenegrin capitol.
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations Ended, <date from="1920" to="1921">1920-21</date>.</head>
+                    <p> Diplomatic relations ended on December 30, 1920, when President Woodrow
+                        Wilson withdrew recognition of Montenegro as an independent state (see
+                        Recognitions above).</p>
+                </div>
+                <div type="timeline">
+                    <head>Re-establishment of Diplomatic Relations, <date when="2006">2006</date>.</head>
+                    <p> Diplomatic relations were established on August 15, 2006, with an exchange
+                        of letters between President <persName>George W. Bush</persName> and
+                        Montenegrin President <persName>Filip Vujanovic</persName>. The United
+                        States had recognized the independence of the Republic of Montenegro on June
+                        13, 2006. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Embassy in Podgorica, <date when="2006">2006</date>. </head>
+                    <p>The American Embasy in <placeName key="podgorica">Podgorica</placeName> was
+                        established on October 5, 2006, when the U.S. Consulate became an embassy,
+                        with <ref target="/departmenthistory/people/ferrill-arlene">Arlene
+                            Ferrill</ref> as Charge d'Affaires <hi rend="italic">ad
+                                interim</hi>.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/70949.htm">Montenegro</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/mj/index.htm">Montenegro</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

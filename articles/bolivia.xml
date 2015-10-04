@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Bolivia</title>
+                <title type="short">Bolivia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Tiffany Hamelin, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Bolivia declared its independence from Spain on <date when="1825-08-06">August 6,
+                        1825</date>. The United States recognized the Peru-Bolivian Confederation on
+                    March 16, 1837, by the appointment of <ref target="/departmenthistory/people/thornton-james-b">James B. Thornton</ref>
+                    as Chargé d’Affaires. Thornton was commissioned to Peru but received by the
+                    Peru-Bolivian Confederation. The Confederation dissolved in 1839, but it was not
+                    until <date when="1848-05-30">May 30, 1848</date> that the United States
+                    recognized Bolivia as a separate state and established diplomatic relations by
+                    the appointment of <ref target="/departmenthistory/people/appleton-john">John
+                        Appleton</ref> as Chargé d’Affaires. <figure>
+                        <graphic url="bolivia-flag.jpg"/>
+                        <head>Modern Flag of Bolivia</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Bolivian Independence, <date when="1848">1848</date>.</head>
+                    <p>Though Bolivia was indirectly recognized as part of the Peru-Bolivian
+                        Confederation from 1837 to 1839, the United States officially recognized the
+                        Republic of Bolivia on May 30, 1848, when the Department of State appointed
+                            <persName>John Appleton</persName> as Chargé d’Affaires. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1849">1849.</date>
+                    </head>
+                    <p>Diplomatic relations were established on January 3, 1849, when American
+                        Chargé d’Affaires <persName>John Appleton</persName> presented his
+                        credentials to the Government of the Republic of Bolivia. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Legation in La Paz, <date when="1849">1849.</date>
+                    </head>
+                    <p>The American Legation in <placeName key="la-paz">La Paz</placeName> opened on
+                            <date when="1849-01-03">January 3, 1849</date>, under Chargé d’Affaires
+                            <persName>John Appleton</persName>. </p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of American Legation to Embassy Status, <date when="1942">1942.</date>
+                    </head>
+                    <p>Following a joint announcement by the Government of Bolivia and the
+                        Government of the United States on January 4, 1942, the Legation of Bolivia
+                        in the United States and the Legation of the United States in Bolivia were
+                        both raised to the rank of Embassy. The change in status became effective on
+                        March 31, 1942, when the Ambassador of Bolivia, <persName>Señor Dr. Don Luis
+                            Fernando Guachalla</persName>, presented his letters of credence to the
+                        United States Government. U.S. Ambassador <ref target="/departmenthistory/people/boal-pierre-de-lagarde">Pierre de L.
+                            Boal</ref> presented his credentials to the Government of Bolivia on May
+                        23, 1942</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35751.htm">Bolivia</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/bl">Bolivia</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Belize</title>
+                <title type="short">Belize</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States established a consulate in British Honduras (now Belize) on
+                        <date when="1847-03-03">March 3, 1847</date>. Prior to independence Belize
+                    had been a British colony since 1862, changing its name to Belize from British
+                    Honduras in June 1973. </p>
+                <p>In the 1960s the United States sought and ultimately failed to mediate a dispute
+                    between Belize and <placeName>Guatemala</placeName> over contested Belizean
+                    territory dating back to an 1859 treaty between Imperial
+                        <placeName>Spain</placeName> and <placeName>Great Britain</placeName>. <figure>
+                        <graphic url="belize-flag.jpg"/>
+                        <head>Modern Flag of Belize</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Belizean Independence, <date when="1981">1981</date>.</head>
+                    <p>The United States recognized Belizean independence on <date when="1981-10-29">October 29, 1981</date>, when Consulate General Belize was raised to
+                        Embassy status with Principal Officer <ref target="/departmenthistory/people/barnebey-malcolm-r">Malcolm R.
+                            Barnebey</ref> serving as Chargé d'Affaires <hi rend="italic">ad
+                            interim</hi>. After several months of negotiations with Great Britain
+                        and Guatemala, Belize achieved full independence from the United Kingdom on
+                        September 21, 1981. </p>
+                </div>
+                <div type="section" xml:id="diplomatic_relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Embassy in
+                            Belize, <date when="1981">1981.</date>
+                        </head>
+                        <p>Diplomatic relations and the American Embassy were established on October
+                            29, 1981, when Consulate General Belize was raised to Embassy status
+                            with Principal Officer <ref target="/departmenthistory/people/barnebey-malcolm-r">Malcolm R.
+                                Barnebey</ref> serving as Chargé d'Affaires <hi rend="italic">ad
+                                interim</hi>.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Embassy Moved to Belmopan, <date when="2006">2006.</date>
+                        </head>
+                        <p>On December 11, 2006, the American Embassy at <placeName key="belize-city">Belize City</placeName> officially relocated to
+                            present-day capital <placeName key="belmopan">Belmopan</placeName>. </p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1955.htm"> Belize</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/bh/">Belize</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Switzerland</title>
+                <title type="short">Switzerland</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Lindsay Krasnoff, March 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The Congress of Vienna of 1815 re-established the independence and neutrality of
+                    <placeName key="ch">Switzerland</placeName>. Since the 1820s the United
+                    States and Switzerland have enjoyed consular relations. In 1847, the United
+                    States and Switzerland concluded a Convention on the Disposal of Property, and
+                    in 1853 the United States established a Legation in Switzerland.<figure>
+                        <graphic url="switzerland-flag.jpg"/>
+                        <head>Modern Flag of Switzerland</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Switzerland, <date when="1829">1829</date>.</head>
+                    <p>The Government of Switzerland sent honorary consuls to the United States as
+                        early as 1822, one located in Washington, DC, and the other in New York
+                        City. However, the first official record of United States’ recognition of
+                        Switzerland appears to have been the appointment of <persName>John Godfrey
+                            Boeker</persName> as American Consul General at <placeName key="basel">Basel</placeName> on November 30, 1829. He assumed his post in October
+                        1830.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular_relations">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>Establishment of Consular Relations, <date when="1829">1829</date>.</head>
+                    <p>
+                        <persName>John Godfrey Boeker</persName> was appointed Consul General at
+                        Basel on November 30, 1829 and began serving in October 1830.</p>
+                </div>
+                <div type="section" xml:id="diplomatic_relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Legation in
+                            Switzerland, <date when="1853">1853.</date>
+                        </head>
+                        <p>Diplomatic relations and the American Legation in Switzerland were
+                            established on June 29, 1853, when <ref target="/departmenthistory/people/fay-theodore-sedgwick">Theodore S.
+                                Fay</ref> presented his credentials as U.S. Minister Resident in
+                            Switzerland.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Elevation of Legation to Embassy Status, <date when="1953">1953.</date>
+                        </head>
+                        <p>
+                            <ref target="/departmenthistory/people/willis-frances-elizabeth">Frances
+                                E. Willis</ref> was appointed as the first U.S. Ambassador
+                            Extraordinary and Plenipotentiary to Switzerland on July 20, 1953. She
+                            presented her credentials on October 9, 1953.</p>
+                    </div>
+                </div>
+                <div type="section" xml:id="treaties_agreements">
+                    <head>Treaties and Agreements</head>
+                    <div type="timeline">
+                        <head>Convention for the Disposal of Property, <date when="1847">1847.</date>
+                        </head>
+                        <p>On May 18, 1847, representatives of the United States and Switzerland
+                            concluded a Convention for the Disposal of Property in Washington, D.C.
+                        </p>
+                    </div>
+                </div>
+                <div type="appendix">
+                    <head>Resources</head>
+                    <listBibl>
+                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3431.htm">Switzerland</ref>
+                        </bibl>
+                        <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/sz/ ">Switzerland</ref>
+                        </bibl>
+                        <bibl>
+                            <hi rend="italic">Treaties and Other International Acts of the United
+                                States of America</hi> , edited by Hunter Miller (Washington: US
+                            GPO, 1937), Vol. 5, Document 127, pp. 169-178.</bibl>
+                        <bibl>
+                            <hi rend="italic">Treaties and Other International Agreements of the
+                                United States of America, 1776-1949,</hi> Compiled under the
+                            direction of Charles I. Bevans, (DOS, 1974), vol. 11, pp.
+                            892-958.</bibl>
+                        <bibl>Documents Diplomatiques Suisses: <ref target="http://www.dodis.ch/f/home.asp">
+                            http://www.dodis.ch/f/home.asp</ref> .</bibl>
+                    </listBibl>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

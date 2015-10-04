@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Sudan</title>
+                <title type="short">Sudan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized the Republic of Sudan in 1956. </p>
+                <figure>
+                    <graphic url="sudan-flag.jpg"/>
+                    <head>Modern Flag of Sudan</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Sudanese Independence, <date when="1956">1956</date>.</head>
+                    <p>The United States recognized the <placeName key="sd">Republic of
+                        Sudan</placeName> on January 1, 1956, in a letter to that effect
+                        delivered by <ref target="/departmenthistory/people/beach-arthur-eugene">Arthur Beach</ref>, the U.S. Liaison Officer in <placeName key="khartoum">Khartoum</placeName>, to the President of the Supreme
+                        Commission of Sudan, <persName>Abdel Fattah Mohammed del
+                            Maghrabi</persName>. Sudan previously had been subject to foreign control
+                        under an Anglo-Egyptian condominium</p>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Embassy in
+                            Sudan, <date when="1956">1956.</date>
+                        </head>
+                        <p> Diplomatic relations were established on February 15, 1956, when the
+                            United States Liaison Office at <placeName>Khartoum</placeName> was
+                            elevated to Embassy status, with <ref target="/departmenthistory/people/beach-arthur-eugene">Arthur E.
+                                Beach</ref> as Chargé d'Affaires. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Closure of American Embassy, <date when="1967">1967</date>.</head>
+                        <p>The American Embassy in Khartoum was closed on June 6, 1967, after
+                            demonstrations and rock-throwing at the embassy following the outbreak
+                            of the <ref target="/milestones/1961-1968/arab-israeli-war-1967">Arab-Israeli
+                                war</ref>. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Diplomatic Relations Severed by Sudan, <date when="1967">1967</date>.</head>
+                        <p>Sudan severed diplomatic relations with the United States on June 7,
+                            1967, in the wake of the June <ref target="/milestones/1961-1968/arab-israeli-war-1967">1967 Arab-Israeli
+                                War</ref>. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Establishment of U.S. Interests Section, <date when="1967">1967</date>.</head>
+                        <p>A U.S. Interests Sections was established in the Netherlands Embassy at
+                            Khartoum on August 14, 1967. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Re-establishment of Diplomatic Relations and the American Embassy,
+                            <date when="1972">1972</date>.</head>
+                        <p> Diplomatic relations were re-established when the American Embassy in
+                            Khartoum was re-opened on July 25, 1972, with <ref target="/departmenthistory/people/moore-george-curtis">George C.
+                                Moore</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.
+                        </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Assassination of American Ambassador, <date when="1973">1973</date>.</head>
+                        <p>Ambassador <ref target="/departmenthistory/people/noel-cleo-allen">Cleo
+                            A. Noel, Jr.</ref> was assassinated at post on March 2, 1973. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Closure of American Embassy, <date when="1996">1996</date>.</head>
+                        <p>Embassy Khartoum was closed on February 7, 1996, although Ambassador
+                            Carney remained at <placeName>Nairobi</placeName> until November 30,
+                            1997. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Re-opening of American Embassy, <date when="2002">2002</date>.</head>
+                        <p>Embassy Khartoum was reopened on May 23, 2002, with <ref target="/departmenthistory/people/millington-jeffrey">Jeffrey
+                            Millington</ref> as Chargé d'Affaires <hi rend="italic">ad
+                                interim</hi>. </p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5424.htm">Sudan</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/su/">Sudan</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back> </back>
+    </text>
+</TEI>

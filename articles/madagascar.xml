@@ -1,0 +1,80 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Madagascar</title>
+                <title type="short">Madagascar</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Relations between <placeName key="mg">Madagascar</placeName> (formerly the
+                    Malagasy Republic) and the United States date to the middle 1800s. John P.
+                    Finkelmeier was appointed Commercial Agent in Tamatave on February 13, 1866. The
+                    two countries concluded a commercial convention in 1867 and a treaty of peace,
+                    friendship, and commerce in 1881. Finkelmeier was appointed Consul on June 17,
+                    1874. In 1890, France assumed sovereignty over Madagascar as a colony. The U.S.
+                    consulate moved from Tamatave to Tananarivo on or around July 8, 1916.</p>
+                <figure>
+                    <graphic url="madagascar-flag.jpg"/>
+                    <head>Modern Flag of Madagascar</head>
+                </figure>
+                <div type="section" xml:id="recognition">
+                    <head>Recognition</head>
+                    <div type="timeline">
+                        <head>U.S. Recognition of Malagasy Independence, <date when="1960"
+                                >1960</date>.</head>
+                        <p>The United States recognized the Malagasy Republic on June 25, 1960, when
+                            President <persName>Dwight D. Eisenhower</persName> sent a letter to
+                            that effect to President <persName>Philibert Tsiranana</persName>. The
+                            area that became the Malagasy Republic had been previously under French
+                            sovereignty.</p>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Elevation of U.S. Consulate to Embassy and Establishment of Diplomatic
+                            Relations, <date when="1960">1960</date>.</head>
+                        <p>With the establishment of the independent Malagasy Republic, the
+                            American Consulate at <placeName key="antananarivo">Tananarive (now
+                                Antananarivo)</placeName> was elevated to Embassy status on June 25,
+                            1960 with former Consul <persName>J. Roland Jacobs</persName> as Charge
+                            d’Affaires <hi rend="italic">ad interim</hi>. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>First U.S. Ambassador to the Malagasy Republic Appointed, <date
+                                when="1960">1960</date>.</head>
+                        <p>
+                            <ref target="/departmenthistory/people/bartlett-frederic-pearson"
+                                >Frederic P. Bartlett </ref>was appointed Ambassador to the Malagasy
+                            Republic on August 27, 1960.</p>
+                    </div>
+                  
+                </div>
+                <div type="appendix">
+                    <head>Resources</head>
+                    <listBibl>
+                        <bibl>Department of State Country Fact Sheet: <ref
+                                target="http://www.state.gov/r/pa/ei/bgn/5460.htm">Madagascar</ref>
+                        </bibl>
+                        <bibl>Department of State Country Information: <ref
+                                target="http://www.state.gov/p/af/ci/ma">Madagascar</ref>
+                        </bibl>
+                    </listBibl>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

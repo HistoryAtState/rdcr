@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Angola</title>
+                <title type="short">Angola</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne, March 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The Portuguese first landed in what is today northern <placeName key="ao">Angola</placeName> in 1482, encountering the Kingdom of the Congo
+                    stretching from modern-day Gabon in the north to the Kwanza River in the south.
+                    The Portuguese gradually took control of the coastal area by a series of
+                    treaties and wars throughout the 16th century, and their interest in Angola
+                    quickly turned to the slave trade. Many scholars agree that by the 19th century,
+                    Angola was the largest source of slaves for the Americas. Portugal eventually
+                    secured administrative control over the interior in the beginning of the 20th
+                    century. </p>
+                <p>As post-World War II decolonization progressed elsewhere in Africa, Portugal
+                    continued to treat its African colonies as overseas provinces. Consequently,
+                    three Angolan independence movements emerged. A 1974 military coup d’etat in
+                    Portugal established a military government that agreed, in the Alvor Accords, to
+                    hand power to a coalition of the three movements. Ideological clashes led to
+                    armed conflict between the movements, with the Eastern Bloc-backed Popular
+                    Movement for the Liberation of Angola (MPLA) eventually taking power when the
+                    Portuguese abandoned the capitol city Luanda in 1975. Angola remained aligned
+                    with the Soviet Union and Cuba for the duration of the Cold War. <figure>
+                        <graphic url="angolan-flag.jpg"/>
+                        <head>Modern Flag of Angola</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Response to Angolan Independence, <date when="1975">1975</date>.</head>
+                    <p>Portugal granted Angola independence on <date when="1975-11-11">November 11,
+                            1975</date>, at a time when multiple Angolan nationalist forces were
+                        fighting among themselves to establish control over the newly liberated
+                        state. Although the United States acknowledged the independence of the
+                        former Portuguese colony, the U.S. Government (like Portugal itself) did not
+                        recognize the Government of Angola declared by the <abbr>MPLA</abbr>. The
+                        United States continued to withhold recognition of a Government of Angola
+                        because of continuing concerns about the presence of Cuban combat troops in
+                        Angola and their involvement in regional conflicts. After years of civil
+                        war, Angola held its first multiparty elections in 1992. The elected
+                        government agreed to sign a peace agreement with <abbr>UNITA</abbr>, the
+                        party that had been in power prior to the election. In response, U.S.
+                        President <persName>Bill Clinton</persName> formally recognized the new
+                        Government of Angola on <date when="1993-05-19">May 19, 1993</date>, using
+                        his announcement to urge UNITA to accept a negotiated settlement.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head> U.S. Liaison Office Established at Luanda, <date when="1992">1992.</date>
+                    </head>
+                    <p>The U.S. Liaison Office in <placeName key="luanda">Luanda</placeName> was
+                        opened <date when="1992-01-10">January 10, 1992</date>, with <ref target="/departmenthistory/people/millington-jeffrey">Jeffrey
+                            Millington</ref> as Director. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in Angola,
+                            <date when="1994">1994.</date>
+                    </head>
+                    <p>Diplomatic relations were established on July 14, 1994, when American
+                        Ambassador <ref target="/departmenthistory/people/dejarnette-edmund-t">Edmund T. De Jarnette</ref> presented his credentials to Angolan
+                        authorities. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/6619.htm">Angola</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/ao/index.htm">Angola</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

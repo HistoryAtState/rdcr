@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: South Africa</title>
+                <title type="short">South Africa</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Chris Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>On May 31, 1910, four colonies were joined together to create the Union of
+                    <placeName key="za">South Africa</placeName>, a self-governing Dominion in
+                    the British Empire. While the new nation was sovereign when it came to its
+                    domestic affairs, the United Kingdom maintained control over its relations with
+                    the wider world. Over the next two decades, South Africa gradually gained
+                    control over its external policy. The Balfour Declaration of 1926, issued at the
+                    end of the Imperial Conference held in London that year, recognized that the
+                    United Kingdom and the Dominions were <quote>“autonomous Communities within the
+                        British Empire, equal in status, in no way subordinate one to another in any
+                        aspect of their domestic or external affairs.”</quote> In December 1931, the
+                    United Kingdom approved the Statute of Westminster, codifying this relationship.<figure>
+                        <graphic url="south-africa-flag.jpg"/>
+                        <head>Modern Flag of South Africa</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of South African Independence, <date when="1929">1929</date>.</head>
+                    <p>The United States recognized the Union of South Africa on November 5, 1929,
+                        when President <persName>Herbert Hoover</persName> accepted the credentials
+                        of <persName>Eric Hendrik Louw</persName> as Envoy Extraordinary and
+                        Minister Plenipotentiary of the Union of South Africa. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the South African Legation in
+                        the United States, <date when="1929">1929</date>.</head>
+                    <p>On November 5, 1929, the Union of South Africa established its legation in
+                        Washington with the presentation of the credentials of Eric Hendrik Louw as
+                        Envoy Extraordinary and Minister Plenipotentiary of the Union of South
+                        Africa to the Government of the United States. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of U.S. Legation in South Africa, <date when="1929">1929</date>.</head>
+                    <p>On December 19, 1929, the United States established a legation in <placeName key="cape-town">Cape Town</placeName> by appointing <ref target="/departmenthistory/people/totten-ralph-james">Ralph J.
+                            Totten</ref>, who was serving as Consul General, as Minister Resident;
+                        Totten presented his credentials as Minister Resident to the Government of
+                        the Union of South Africa on February 18, 1930. On June 20, 1930, the
+                        legation was relocated to <placeName key="pretoria">Pretoria</placeName> and
+                        Totten was appointed Envoy Extraordinary and Minister Plenipotentiary to the
+                        Government of the Union of South Africa. Totten presented his credentials to
+                        the Government of the Union of South Africa on September 8, 1930. </p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of Legations to Embassy Status, <date when="1949">1949.</date>
+                    </head>
+                    <p>On December 21, 1948, the Department of State announced the elevation of the
+                        South African and U.S. legations to embassy stratus, effective as of the
+                        date of the presentation of ambassadorial credentials. On March 3, 1949,
+                        <persName>H. T. Andrews</persName> presented his credentials as
+                        Ambassador Extraordinary and Plenipotentiary of the Union of South Africa to
+                        President <persName>Harry S. Truman</persName>. On March 23, 1949, <ref target="/departmenthistory/people/winship-north">North Winship</ref>
+                        presented his credentials as Ambassador Extraordinary and Plenipotentiary of
+                        the United States to the Government of the Union of South Africa. </p>
+                </div>
+                <div type="timeline">
+                    <head>The Republic of South Africa, <date when="1961">1961.</date>
+                    </head>
+                    <p>On May 31, 1961, the Government of the Union of South Africa declared that
+                        henceforth the country would be a republic. On that same day, U.S.
+                        Ambassador <ref target="/departmenthistory/people/satterthwaite-joseph-charles">Joseph
+                            C. Satterthwaite</ref> was reaccredited to the newly-formed Republic of
+                        South Africa through the transmission of new credentials to the South
+                        African Foreign Office. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2898.htm">South Africa</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/sf/index.htm">South Africa</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

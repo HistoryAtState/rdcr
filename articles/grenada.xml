@@ -1,0 +1,80 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Grenada</title>
+                <title type="short">Grenada</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> Grenada gained independence from the United Kingdom in 1974 and the United
+                    States recognized it that same year. The United States maintained diplomatic
+                    relations with Grenada through the 1983 joint American and Organization of
+                    Eastern Caribbean States military invasion of the island nation following the
+                    assassination of Grenada’s Prime Minister <persName>Maurice Bishop</persName>. </p>
+                <figure>
+                    <graphic url="grenada-flag.jpg"/>
+                    <head>Modern Flag of Grenada</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Grenadian Independence, <date when="1974">1974</date>.</head>
+                    <p>The United States recognized Grenada on February 7, 1974, on the occasion of
+                        Grenada attaining independence from the United Kingdom.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1974">1974</date>. </head>
+                    <p> Diplomatic relations were established on November 29, 1974, when Grenadian
+                        Ambassador <persName>Marie J. McIntyre</persName> presented her credentials
+                        to President <persName>Gerald R. Ford</persName>. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of American Diplomatic Mission to Grenada, <date when="1975">1975</date>.</head>
+                    <p> An American diplomatic mission to Grenada was established on February 25,
+                        1975, when Ambassador <ref target="departmenthistory/people/britton-theodore-roosevelt">Theodore R.
+                            Britton</ref> presented his in <placeName key="st-georges">St.
+                                George’s</placeName>, Grenada. He also was Ambassador to Barbados, and
+                        was resident at Bridgetown.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Embassy in Grenada, <date when="1984">1984</date>.</head>
+                    <p> The American Embassy in St. George’s was established on February 2, 1984,
+                        with <ref target="/departmenthistory/people/gillespie-charles-a">Charles A.
+                            Gillespie</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.
+                        The American Ambassador to Grenada is resident in Bridgetown, Barbados and
+                        the Embassy in Grenada is staffed by a Chargé d'Affaires who reports to the
+                        Ambassador in Bridgetown.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/gj.html">Grenada</ref>
+                    </bibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2335.htm">Grenada</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/gj/index.htm ">Grenada</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back> </back>
+    </text>
+</TEI>

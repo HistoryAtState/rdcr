@@ -1,0 +1,102 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Armenia</title>
+                <title type="short">Armenia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Between the 4th and the 19th centuries Armenia was conquered and ruled by, among
+                    others, Persians, Arabs, Byzantines, Mongols and Turks. While Armenia was under
+                    Ottoman rule the United States established a consulate in Ezerum, Armenia
+                    (present-day Ezurum, Turkey) in 1896. The consulate was transferred to
+                    Trebizond, Turkey in 1904. </p>
+                <figure>
+                    <graphic url="armenian-flag.jpg"/>
+                    <head>Modern Flag of Armenia</head>
+                </figure>
+                <p> For a brief period from 1918 to 1920 Armenia became an independent republic. In
+                    late 1920, local communists came to power following an invasion of Armenia by
+                    the Soviet Red Army, and in 1922, Armenia became part of the Trans-Caucasian
+                    Soviet Socialist Republic. In 1936, it became the Armenian Soviet Socialist
+                    Republic. The dissolution of the Soviet Union in 1991 created the opportunity
+                    for bilateral relations between Armenia and the United States. </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of the Armenian Republic, <date when="1920">1920</date>. </head>
+                    <p>The United States recognized the independence of the Armenian Republic on
+                            <date when="1920-04-23">April 23, 1920</date>, when Secretary of State
+                            <ref target="/departmenthistory/people/colby-bainbridge">Bainbridge
+                            Colby</ref> delivered a note to the Representative of the Armenian
+                        Republic (<persName>Pasdermadjian</persName>) in Washington, informing him
+                        of President <persName>Woodrow Wilson</persName>’s decision. The note
+                        specified that this recognition <quote>“in no way predetermines the
+                            territorial frontiers, which…are matters for later
+                        delimitation</quote>.” </p>
+                    <p> The territory expected to compose the independent Armenian Republic
+                        previously had been under the sovereignty of the Ottoman and Russian
+                        Empires. At the request of the <ref target="/milestones/1914-1920/paris-peace">Paris Peace Conference’s</ref>
+                        Supreme Council of the Allied Powers, President Wilson arbitrated the
+                        boundary to be set between Armenia and Turkey, and submitted his
+                        determinations to the Supreme Council on November 22, 1920. Prior to
+                        Wilson’s decisions, however, the territory expected to compose the Armenian
+                        Republic had been attacked by Turkish and Bolshevik troops. By the end of
+                        1920 the Armenian Republic had ceased to exist as an independent state, with
+                        its territory either seized by Turkey or established as the Armenian Soviet
+                        Republic, which subsequently joined the Soviet Union. </p>
+                </div>
+                <div type="timeline">
+                    <head>U.S. Recognition of Armenia, <date when="1991">1991</date>.</head>
+                    <p>The United States recognized Armenia’s independence on December 25, 1991,
+                        when President <persName>George H.W. Bush</persName> announced the decision
+                        in an address to the nation regarding the dissolution of the Soviet Union.
+                        Armenia previously had been a constituent republic of the USSR.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1991">1991</date>.</head>
+                    <p>Diplomatic relations were established on <date when="1991-12-25">December 25,
+                            1991</date>, when President <persName>George H.W. Bush</persName>
+                        announced the decision in an address to the nation regarding the dissolution
+                        of the <placeName>Soviet Union</placeName>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Embassy in Yerevan, <date when="1992">1992</date>.</head>
+                    <p>The American Embassy in <placeName key="yerevan">Yerevan</placeName> was
+                        opened on February 3, 1992, with <ref target="/departmenthistory/people/mann-steven-robert">Steven Mann</ref>
+                        as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl> Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5275.htm">Armenia</ref>
+                    </bibl>
+                    <bibl> Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/am ">Armenia</ref>
+                    </bibl>
+                    <bibl> CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/am.html">Armenia</ref>
+                    </bibl>
+                    <bibl>Library of Congress Country Study <ref target="http://memory.loc.gov/frd/cs/amtoc.html">Armenia</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

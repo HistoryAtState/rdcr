@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Cote D'Ivoire (Ivory
+                    Coast)</title>
+                <title type="short">Cote D'Ivoire (Ivory Coast)</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized the <placeName>Republic of the Ivory
+                        Coast</placeName> on August 7, 1960, when President <persName>Dwight D.
+                        Eisenhower</persName> sent a letter to that effect to Prime Minster
+                        <persName>Felix Houphouet-Boigny</persName>. </p>
+                <figure>
+                    <graphic url="cote-flag.jpg"/>
+                    <head>Modern Flag of Cote D'Ivoire</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of the Ivory Coast, <date when="1960">1960</date>.</head>
+                    <p>The United States recognized the <placeName>Republic of the Ivory
+                            Coast</placeName> on August 7, 1960, when President <persName>Dwight D.
+                            Eisenhower</persName> sent a letter to that effect to Prime Minister
+                        Felix Houphouet-Boigny. The area that became the Ivory Coast on that same
+                        date previously had been under French sovereignty. The state’s name changed
+                        from Ivory Coast to Cote d'Ivoire in 1986. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in the
+                        Ivory Coast, <date when="1960">1960</date>.</head>
+                    <p>Diplomatic relations were established on August 7, 1960, when the American
+                        consulate at <placeName key="abidjan">Abidjan</placeName> was elevated to
+                        Embassy status with former consul <ref target="/departmenthistory/people/norland-donald-richard">Donald R.
+                            Norland</ref> as Charge d’Affaires. </p>
+                </div>
+                <div type="appendix">
+                    <head>Resources</head>
+                    <listBibl>
+                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2846.htm">Cote
+                                D'Ivoire</ref>
+                        </bibl>
+                        <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/iv">Cote D'Ivoire</ref>
+                        </bibl>
+                    </listBibl>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

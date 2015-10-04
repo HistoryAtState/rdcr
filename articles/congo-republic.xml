@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Republic of the
+                    Congo</title>
+                <title type="short">Republic of the Congo</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Chris Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Prior to its independence in 1960, the Republic of Congo was part of French
+                    Equatorial Africa (AEF). During World War II, the AEF administration sided with
+                        <persName>Charles DeGaulle</persName>, and <placeName key="brazzaville">Brazzaville</placeName> became the symbolic capital of Free France during
+                    1940-43. </p>
+                <figure>
+                    <graphic url="congo-republic-flag.png"/>
+                    <head>Modern Flag of the Republic of Congo</head>
+                </figure>
+                <p> For the last two decades of the Cold War, the Republic of Congo allied
+                    principally with the Soviet Union and other Eastern bloc nations. Educational,
+                    economic, and foreign aid links between Congo and its Eastern bloc allies were
+                    extensive, with the Congolese military and security forces receiving significant
+                    Soviet, East German, and Cuban assistance. After the worldwide collapse of
+                    communism and Congo's adoption of multi-party democracy in 1991, Congo's
+                    relations with the United States improved and were cooperative. The United
+                    States has enthusiastically supported Congolese democratization efforts,
+                    contributing aid to the country's electoral process. Relations between the
+                    United States and the government of President <persName>Denis
+                        Sassou-Nguesso</persName> are strong, positive, and cooperative. </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of the Republic of Congo's Independence, <date when="1960">1960</date>.</head>
+                    <p>The United States recognized the Republic of the Congo on August 15, 1960, in
+                        a congratulatory message from President <persName>Dwight D.
+                            Eisenhower</persName> to President <persName>Fulbert Youlou</persName>.
+                        On that date, the Republic of the Congo’s independence from French
+                        Equatorial Africa was proclaimed.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head> Establishment of Diplomatic Relations and the American Embassy in
+                        Brazzaville, <date when="1960">1960.</date>
+                    </head>
+                    <p>Diplomatic relations were established on August 15, 1960, when Embassy
+                        Brazzaville was established with <ref target="/departmenthistory/people/lukens-alan-wood">Alan W. Lukens</ref>
+                        as Chargé d'Affaires <hi rend="italic">ad interim</hi>. </p>
+                </div>
+                <div type="timeline">
+                    <head>Suspension of Diplomatic Relations and the Closure of Embassy Brazzaville,
+                            <date when="1965">1965.</date>
+                    </head>
+                    <p>Diplomatic relations between the United States and Congo were disrupted
+                        during the most radical Congolese-Marxist period, 1965-77. The United States
+                        withdrew its diplomatic and consular representatives from the Republic of
+                        Congo (Brazzaville) in August 1965, citing instances of “serious
+                        mistreatment by the Congolese authorities of American diplomats and
+                        officials,” that included “arrest, detention, incommunicado interrogation,
+                        and forced departure.” Once the diplomatic and consular staff departed
+                        Brazzaville by August 15, 1965, <ref target="/departmenthistory/people/rives-lloyd-michael">Lloyd M.
+                            Rives</ref> served as Chargé d’Affaires <hi rend="italic">ad
+                            interim</hi> until the Embassy closed. The Republic of Congo closed
+                        their embassy in Washington (August 8, 1965), and relocated them to New
+                        York. </p>
+                </div>
+                <div type="timeline">
+                    <head>Resumption of Diplomatic Relations and Reopening of Embassy Brazzaville,
+                            <date when="1977">1977.</date>
+                    </head>
+                    <p>On June 7, 1977, the United States and the Republic of Congo agreed to resume
+                        diplomatic relations, hoping that <quote>“this step will strengthen
+                            relations between their countries and contribute substantially to
+                            bettering their mutual understanding and cooperation based upon the
+                            principles of reciprocal respect, sovereign equality, and
+                            non-interference in internal affairs.”</quote> The U.S. Embassy reopened
+                        on October 30, 1977, with <ref target="/departmenthistory/people/katzen-jay-kenneth">Jay Katzen</ref>
+                        as Chargé d'Affaires <hi rend="italic">ad interim</hi>. This marked the
+                        restoration of relations, which remained distant until the end of the
+                        socialist era. </p>
+                </div>
+                <div type="appendix">
+                    <head>Resources</head>
+                    <listBibl>
+                        <bibl>Boyd, John A. <hi rend="italic">Digest of United States Practice in
+                                International Law</hi>, (Washington, D.C.: Government Printing
+                            Office, 1979), 21-22.</bibl>
+                        <bibl> Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2825.htm">Republic of the
+                                Congo</ref>
+                        </bibl>
+                        <bibl> Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/cf/">Republic of the
+                                Congo</ref>
+                        </bibl>
+                    </listBibl>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

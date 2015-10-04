@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Kazakhstan</title>
+                <title type="short">Kazakhstan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2011</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Chris Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized <placeName key="kz">Kazakhstan’s</placeName> independence on December 25, 1991, when President George H.W. Bush announced the decision in an address to the nation regarding the dissolution of the Soviet Union.</p>
+                <figure>
+                    <graphic url="kazakh-flag.jpg"/>
+                    <head>Modern Flag of Kazakhstan</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Kazakhstan, <date when="1991-12-25">1991</date>.</head>
+                    <p>The United States recognized Kazakhstan’s independence on December 25, 1991, when President George H.W. Bush announced the decision in an address to the nation regarding the dissolution of the Soviet Union.  Kazakhstan previously had been a constituent republic of the USSR.
+                    </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1991-12-25">1991.</date>
+                    </head>
+                    <p>Diplomatic relations were established on December 25, 1991, when President George H.W. Bush announced the decision in an address to the nation regarding the dissolution of the Soviet Union.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Embassy in Alma-Ata (now Almaty), <date>1992</date>.
+                    </head>
+                    <p>The American Embassy in Alma-Ata (now Almaty) was established on February 3, 1992, with <ref target="/departmenthistory/people/courtney-william-harrison">William Harrison Courtney</ref> as Chargé d'Affaires ad interim.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5487.htm">Kazakhstan</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/sca/ci/kz/">Kazakhstan</ref>
+                    </bibl>
+                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/kz.html">Kazakhstan</ref>
+                    </bibl>
+                    <bibl>Library of Congress Country Study: <ref target="http://lcweb2.loc.gov/frd/cs/kztoc.html">Kazakhstan</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

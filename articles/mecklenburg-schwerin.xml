@@ -1,0 +1,122 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776:
+                    Mecklenburg-Schwerin</title>
+                <title type="short">Mecklenburg-Schwerin*</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2010</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Lindsay Krasnoff, January 2010</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>When the United States announced its independence from Great Britain in 1776,
+                        <placeName xml:id="xy">Mecklenburg-Schwerin</placeName> was a sovereign,
+                    independent duchy. Although it joined the Confederation of the Rhine in 1808, it
+                    later joined the states allied against Napoleon. Following the Congress of
+                    Vienna in 1815, Mecklenburg-Schwerin was elevated to a grand duchy and joined
+                    the German Confederation. Although it was a separate and independently sovereign
+                    state from its neighbor, Mecklenburg-Strelitz, both Mecklenburgs shared the same
+                    diet and constitution. </p>
+                <p> The Grand Duchy of Mecklenburg-Schwerin and the United States mutually
+                    recognized each other in 1816, but diplomatic relations between the two states
+                    were never established. In the 1866 Austro-Prussian War, Mecklenburg-Schwerin
+                    sided with Prussia and subsequently joined the North German Confederation. In
+                    1871, Mecklenburg-Schwerin became part of the German Empire. From this point
+                    forward, foreign policy of the German Empire was made in Berlin, with the German
+                    Kaiser (who was also the King of Prussia) accrediting ambassadors of foreign
+                    nations. Relations with Imperial Germany were severed when the U.S. declared war
+                    in 1917. </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Mutual Recognition, <date when="1816">1816</date>. </head>
+                    <p>The first known act of mutual recognition between the United States and the
+                        Grand Duchy of Mecklenburg-Schwerin was in 1816, when <persName>John M.
+                            Forbes</persName> established the first U.S. Consul in the Grand Duchy
+                        of Mecklenburg-Schwerin. Forbes was appointed to the post on January 22,
+                        1816.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations. </head>
+                    <p>The United States and the Grand Duchy of Mecklenburg-Schwerin never
+                        established diplomatic relations.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties-agreements">
+                <head>Treaties and Agreements</head>
+                <div type="timeline">
+                    <head>Declaration of Accession to the Stipulations and Provisions of the Treaty
+                        with Hanover of <date when="1847-06-10">June 10, 1846, 1847</date>.</head>
+                    <p> On December 9, 1847, the Grand Duchy of Mecklenburg-Schwerin signed the
+                        Declaration of Accession to the Stipulations and Provisions of the Treaty
+                        with Hanover of June 10, 1846. The agreement was signed in Schwerin by the
+                        Mecklenburg-Schwerin Minister, <persName>L. de Liitzow</persName>, and U.S.
+                        Special Agent <persName>A. Dudley Mann</persName>. </p>
+                </div>
+                <div type="timeline">
+                    <head>Declaration of Accession to the Convention for the Extradition of
+                        Criminals, Fugitive from Justice, of June 16, 1852, between the United
+                        States and Prussia and Other States of the Germanic Confederation, <date when="1853">1853</date>.</head>
+                    <p> On November 26, 1853, the Grand Duchy of Mecklenburg-Schwerin signed the
+                        Declaration of Accession to the Convention for the Extradition of Criminals,
+                        Fugitive from Justice, of June 16, 1852 Between the United States and
+                        Prussia and Other States of the Germanic Confederation to provide for the
+                            <quote>“reciprocal extradition of fugitive criminals, in special
+                            cases.”</quote>
+                    </p>
+                </div>
+            </div>
+            <div type="section" xml:id="key-events">
+                <head>Key Diplomatic Events</head>
+                <div type="timeline">
+                    <head>Mecklenburg-Schwerin Joins the North German Confederation, <date when="1867">1867</date>.</head>
+                    <p> Following the Austro-Prussian War of 1866, the Grand Duchy of
+                        Mecklenburg-Schwerin joined the North German Confederation in 1867 when it
+                        was created as a federal state.</p>
+                </div>
+                <div type="timeline">
+                    <head>Mecklenburg-Schwerin Joins the German Empire, <date when="1871">1871</date>.</head>
+                    <p> The Grand Duchy of Mecklenburg-Schwerin joined the German Empire, which was
+                        proclaimed on January 18, 1871.</p>
+                </div>
+                <div type="timeline">
+                    <head>German Unification. </head>
+                    <p> The Grand Duchy of Mecklenburg-Schwerin was one of the states involved in
+                        the process of German unification during the mid-nineteenth century. (See
+                            “<ref target="/countries/issues/german-unification">Unification of German
+                            States</ref>” for greater detail.) </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>William M. Malloy, <hi rend="italic">Treaties, Conventions, International
+                            Acts, Protocols, and Agreements Between The United States of American
+                            and Other Powers, 1776-1909</hi> (Washington DC: Government Printing
+                        Office, 1910).</bibl>
+                    <bibl>John Bassett Moore, <hi rend="italic">A Digest of International Law</hi>
+                        (Washington, D.C.: Government Printing Office, 1906).</bibl>
+                    <bibl>John Bassett Moore, <hi rend="italic">Four Phases of American
+                            Development</hi> (Baltimore: Johns Hopkins Press, 1912).</bibl>
+                    <bibl>James J. Sheehan, <hi rend="italic">German History 1770-1866,</hi>
+                        (Oxford: Clarendon Press, 1989).</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

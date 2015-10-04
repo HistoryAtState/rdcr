@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Ireland</title>
+                <title type="short">Ireland</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2010</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, February 2010</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Ireland gained independence from the <ref target="/countries/united-kingdom">United Kingdom</ref> on <date when="1921-12-06">December 6, 1921</date>,
+                    when representatives of the two states signed the Anglo-Irish Treaty. This
+                    agreement provided independence for 26 counties, constituted as the Irish Free
+                    State, while six counties of northeast Ulster chose to remain a part of the
+                    United Kingdom with limited self-government. Strong U.S.-Irish connections date
+                    to the mid-19th century when a large number of Irish immigrants came to the
+                    United States.</p>
+                <figure>
+                    <graphic url="ireland-flag.jpg"/>
+                    <head>Modern Flag of Ireland</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Ireland, <date when="1924-06-28">1924</date>.</head>
+                    <p>The United States recognized the Irish Free State as a state with autonomous
+                        control over its foreign relations on <date when="1924-06-28">June 28,
+                            1924</date>, when U.S. Secretary of State <ref target="/departmenthistory/people/hughes-charles-evans">Charles E.
+                            Hughes</ref> informed the British Ambassador in Washington that the
+                        President would be pleased to receive a duly accredited Minister
+                        Plenipotentiary of the Irish Free State. Hughes was responding to a letter
+                        the British Ambassador had sent on <date when="1924-06-24">June 24,
+                            1924</date>, in which the ambassador requested U.S. approval of the
+                        British government’s plan to have an Irish minister handle “matter as
+                        Washington exclusively relating to the Irish Free State.”</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1924-10-07">1924</date>.</head>
+                    <p>Diplomatic relations were established on <date when="1924-10-07">October 7,
+                            1924</date>, when <persName>Timothy A. Smiddy</persName> presented his
+                        credentials as Minister Plenipotentiary of the Irish Free State in
+                        Washington.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Legation in Dublin, <date when="1927-07-27">1927</date>.</head>
+                    <p>The American Legation in Dublin was established on <date when="1927-07-27">July 27, 1927</date>, when <persName>Frederick A. Sterling</persName>
+                        presented his credentials as American Envoy Extraordinary and Minister
+                        Plenipotentiary.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3180.htm">Ireland</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/ei/">Ireland</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

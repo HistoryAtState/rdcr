@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Kyrgyzstan</title>
+                <title type="short">Kyrgyzstan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Chris Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized Kyrgyzstan’s independence on December 25, 1991, when
+                    President <persName>George H.W. Bush</persName> announced the decision in an
+                    address to the nation regarding the dissolution of the <placeName>Soviet
+                        Union</placeName>.</p>
+                <figure>
+                    <graphic url="kyrgyzstan-flag.jpg"/>
+                    <head>Modern Flag of Kyrgyzstan</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Kyrgyzstan, <date when="1991">1991</date>.</head>
+                    <p>The United States recognized Kyrgyzstan’s independence on December 25, 1991,
+                        when President <persName>George H.W. Bush</persName> announced the decision
+                        in an address to the nation regarding the dissolution of the
+                        <placeName>Soviet Union</placeName>. Kyrgyzstan previously had been a
+                        constituent republic of the USSR. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1991">1991.</date>
+                    </head>
+                    <p>Diplomatic relations were established on December 25, 1991, when President
+                        <persName>George H.W. Bush</persName> announced the decision in an
+                        address to the nation regarding the dissolution of the Soviet Union.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Embassy in Bishkek, <date when="2004">2004.</date>
+                    </head>
+                    <p>The American Embassy in <placeName key="bishkek">Bishkek</placeName> was
+                        established on February 1, 1992, with <ref target="/departmenthistory/people/mcwilliams-edmund">Edmund
+                            McWilliams</ref> as Chargé d'Affaires <hi rend="italic">ad
+                                interim</hi>.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5755.htm">Kyrgyzstan</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/sca/ci/kg">Kyrgyzstan</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

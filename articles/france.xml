@@ -1,0 +1,218 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: France</title>
+                <title type="short">France</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and Written by Lindsay Krasnoff, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> France is one of the oldest U.S. allies, dating to 1778 when the French monarchy
+                    recognized the independence of the United States. <ref target="/milestones/1776-1783/french-alliance">French military and economic
+                        assistance during the American War of Independence</ref> (1775-81) was
+                    crucial to the American victory. Since then, relations between the two countries
+                    have remained active, despite periods that have tested this long friendship. <figure>
+                        <graphic url="france-flag.jpg"/>
+                        <head>Modern Flag of France</head>
+                    </figure>
+                </p>
+                <p>
+                    <ref target="/milestones/1784-1800/french-rev">The French Revolution</ref> began
+                    in May 1789 and eventually overthrew the government of Louis XVI. In 1792 <ref target="/departmenthistory/people/jefferson-thomas">Thomas Jefferson</ref>
+                    stated that the U.S. should <quote>“acknowledge any Government to be rightful,
+                        which is formed by the will of nation, substantially declared.”</quote> This
+                    has been U.S. policy ever since. Consequently, formal diplomatic relations with
+                    France were not broken upon the constitution of new French governments after
+                    1789 (the majority of which occurred during the nineteenth century). Each time
+                    this happened, the resident American diplomatic representative usually submitted
+                    new credentials to the appropriate authorities. </p>
+                <p>Today, relations between the United States and France are active and friendly.
+                    France and the United States share common values and have parallel policies on
+                    most political, economic, and security issues. Differences are discussed frankly
+                    and have not generally been allowed to impair the pattern of close cooperation
+                    that characterizes relations between the two countries. </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>French Recognition of the Independence of the United States, <date when="1778">1778</date>.</head>
+                    <p> France recognized the United States as an independent state on February 6,
+                        1778, when France’s Secretary of His Majesty’s Council of State,
+                        <persName>Conrad Alexandre Gérard</persName>, and American Commissioners
+                        <ref target="/departmenthistory/people/franklin-benjamin">Benjamin
+                            Franklin</ref>, <persName>Silas Deane</persName>, and <persName>Arthur
+                                Lee</persName> signed two treaties in Paris. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular_presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>First U.S. Consular Post Established in France, <date when="1778">1778</date>.</head>
+                    <p>The first U.S. consular post was established in <placeName key="bordeaux">Bordeaux</placeName>, France in March 1778. It was closed in 1996 and re-opened in 2000.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1778">1778</date>. </head>
+                    <p>Diplomatic relations were established on August 6, 1778, when Conrad
+                        Alexandre Gérard, presented to Congress his credentials as France’s
+                        Minister-Plenipotentiary and Consul-General. <ref target="/milestones/1776-1783/b-franklin">Benjamin Franklin</ref> was
+                        appointed as the first U.S. Minister Plenipotentiary to France on September
+                        14, 1778, and was accredited by the French Government on March 23, 1779.
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of American Diplomatic Mission in France, <date when="1779">1779</date>.</head>
+                    <p> An American diplomatic mission in Paris was first established on March 23,
+                        1779, when Benjamin Franklin presented to the French court his letter of
+                        credence as Minister-Plenipotentiary. </p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations Interrupted, <date when="1798">1798</date>.</head>
+                    <p>In July 7, 1798, following the so-called <ref target="/milestones/1784-1800/xyz">“XYZ affair,”</ref> the U.S. Congress
+                        abrogated the treaties of 1778 and a pre-existing consular convention. The
+                        French, however, did not accept the abrogation as legally-binding until
+                        after the ratification of the 1800 Treaty of Friendship and Commerce. </p>
+                </div>
+                <div type="timeline">
+                    <head>Resumption of Diplomatic and Cultural Relations with France, <date when="1801">1801</date>.</head>
+                    <p>Following the outbreak of the Quasi-War, the U.S. and France signed a Treaty
+                        of Friendship and Commerce on September 30, 1800 (also known as the Treaty
+                        of <placeName key="morfontaine">Morfontaine</placeName>), which was revised and
+                        then later ratified by both sides on July 31, 1801. </p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of American Legation to Embassy Status, <date when="1893">1893</date>.</head>
+                    <p>The American Legation in Paris was elevated to embassy status on April 8,
+                        1893. <ref target="/departmenthistory/people/eustis-james-biddle">James B.
+                            Eustis</ref>, who had served as Envoy Extraordinary and Minister
+                        Plenipotentiary since March 20, 1893, was the first American Ambassador to
+                        France. He continued to serve as ambassador until recalled on May 24, 1897.
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>American Ambassador Separated from the French Government, <date when="1940">1940</date>.</head>
+                    <p>Germany invaded France on May 15, 1940, and as French resistance collapsed,
+                        the French Government left Paris on June 10 to make its way to Bordeaux. The
+                        American Ambassador, <ref target="/departmenthistory/people/bullitt-william-christian">William C.
+                            Bullitt</ref>, remained in <placeName key="paris">Paris</placeName> to
+                        oversee the evacuation of American and British civilians, while the American
+                        Embassy staff followed the French government. U.S. Secretary of State <ref target="/departmenthistory/people/hull-cordell">Cordell Hull</ref>
+                        designated <ref target="/departmenthistory/people/biddle-anthony-joseph-drexel-jr">Anthony J. Drexel Biddle, Jr.</ref>, on June 13 as Deputy Ambassador of
+                        the U.S. Government near the seat of the French Government, a role that he
+                        filled until June 24, when the Department directed him to leave France and
+                        resume his duties as Ambassador to the Polish Government in exile. Following
+                        the occupation of Bordeaux, the Embassy staff moved with the French
+                        government to the vicinity of <placeName key="clermont-ferrand">Clermont-Ferrand</placeName>, where Bullitt rejoined it on or about
+                        June 29, before departing on July 11. </p>
+                </div>
+                <div type="timeline">
+                    <head>American Embassy Moved to Vichy, <date when="1940">1940</date>.</head>
+                    <p>On June 16, 1940, French Prime Minister <persName>Paul Reynaud</persName>
+                        resigned in favor of <persName>Marshal Henri Philippe Pétain</persName>, who
+                        requested terms for an armistice from Germany and oversaw France’s surrender
+                        on June 22, 1940. On July 10, 1940, the French Parliament met in <placeName key="vichy">Vichy</placeName> and granted full and extraordinary powers
+                        to Marshal Pétain, including the power to write a new Constitution. The
+                        American Embassy relocated near the seat of the new Vichy regime in the
+                        summer of 1940. <ref target="/departmenthistory/people/leahy-william-daniel">William D. Leahy</ref> presented his credentials as Ambassador
+                        Extraordinary and Plenipotentiary to the French Government in Vichy on
+                        January 8, 1941, a position he held until May 1, 1942.</p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations Severed by France, <date when="1942">1942</date>.</head>
+                    <p>Vichy France severed diplomatic relations with the United States on November 8,
+                        1942, when Prime Minister <persName>Pierre Laval</persName> informed the
+                        U.S. Chargé in Vichy, <ref target="/departmenthistory/people/tuck-somerville-pinkney">S. Pinkney
+                            Tuck</ref>, of his government’s decision. This French decision followed
+                        the Anglo-American invasion of French North Africa. </p>
+                </div>
+                <div type="timeline">
+                    <head>Limited U.S. Recognition of the French Committee of National Liberation,
+                        <date when="1943">1943</date>.</head>
+                    <p>On June 3, 1943, the French Committee of National Liberation (FCNL) was
+                        established in <placeName key="algiers">Algiers</placeName> under the
+                        leadership of co-Presidents <persName>Charles de Gaulle</persName> and
+                        <persName>Henri Giraud</persName>. On August 24, 1943, President
+                        Roosevelt instructed Acting-Secretary of State <ref target="/departmenthistory/people/berle-adolf-augustus">Adolf A.
+                            Berle</ref> to forward a message to U.S. Minister <ref target="/departmenthistory/people/murphy-robert-daniel">Robert D.
+                                Murphy</ref> (Roosevelt’s personal representative in Algiers) that was
+                        to be distributed to members of the FCNL two days later. The message
+                        announced that the U.S. Government <quote>“recognizes the French Committee
+                            of National Liberation as administering those territories which
+                            acknowledge its authority.”</quote> The message, however, did
+                        <quote>“not constitute recognition of a government of France or of the
+                            French Empire by the Government of the United States,” but rather
+                            signified “recognition of the French Committee of National Liberation as
+                            functioning within specific limitations during the war,” after which
+                            “the people of France… will proceed in due course to select their own
+                            government and their own officials to administer it.”</quote>
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>U.S. Recognition of the Provisional Government of the French Republic,
+                        <date when="1944">1944</date>.</head>
+                    <p>On May 16, 1944, the Acting American Representative to the FCNL at Algiers,
+                        Selden Chapin, informed Secretary Hull that the FCNL’s Provisional
+                        Consultative Assembly had passed a unanimous resolution to the effect that
+                        the FCNL would now be referred to as the Provisional Government of the
+                        French Republic (PGFR). On October 19, 1944, Secretary Hull informed the
+                        American Representative to the FCNL, <persName>Jefferson Caffery</persName>,
+                        that the President had decided to recognize the PGFR as <quote>“the de facto
+                            authority established in Paris under the leadership of General De
+                            Gaulle, at the time of [the] announcement by the French of the creation
+                            of a zone of the interior.”</quote> On October 23, 1944, the Department
+                        of State issued a press release announcing the recognition of the PGFR by
+                        the U.S. Government, and that Caffery would assume the position of U.S.
+                        Ambassador to France. On the same day, in Paris, Caffery and representatives
+                        from the British, Soviet, and Canadian Governments called on French Foreign
+                        Minister, <persName>Georges Bidault</persName>. They provided him with
+                        letters extending diplomatic recognition from their Governments and Bidault
+                        reciprocated by acknowledging them as duly-accredited ambassadors to France.
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>Reopening of American Embassy in Paris, <date when="1944">1944</date>.</head>
+                    <p>Following the liberation of Paris at the end of the Summer of 1944, the
+                        American Embassy in Paris was reopened to the public on December 1, 1944.
+                        <ref target="/departmenthistory/people/caffery-jefferson">Jefferson
+                            Caffery</ref> was appointed Ambassador to France on November 25, 1944,
+                        and was in charge pending presentation of his letter of credence, which
+                        occurred on December 30, 1944. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties_agreements">
+                <head>Treaties and Agreements</head>
+                <div type="timeline">
+                    <head>Treaty of Amity and Commerce, <date when="1778">1778</date>.</head>
+                    <p>The first U.S. treaty to be signed was a Treaty of Amity and Commerce with
+                        France that was signed in Paris on February 6, 1778. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3842.htm">France</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/fr/">France</ref>
+                    </bibl>
+                    <bibl>
+                        <hi rend="italic">The Papers of Benjamin Franklin</hi> (New Haven, 1959-),
+                        XXVII </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

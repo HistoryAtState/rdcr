@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Antigua and
+                    Barbuda</title>
+                <title type="short">Antigua and Barbuda</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne, January 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States has enjoyed friendly relations with <placeName key="ag">Antigua
+                        and Barbuda</placeName> since its independence within the British
+                    Commonwealth of Nations in <date when="1981">1981</date>. Because Antigua and
+                    Barbuda’s location near maritime transport lanes, the <placeName>U.S. Virgin
+                        Islands</placeName> and <placeName>Puerto Rico</placeName> make it an
+                    attractive site for international drug trafficking, the United States and
+                    Antigua and Barbuda established a series of counter-narcotic and counter-crime
+                    treaties and agreements in the 1990s.<figure>
+                        <graphic url="antiguan-flag.jpg"/>
+                        <head>Modern Flag of Antigua and Barbuda</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Antigua and Barbudan Independence, <date when="1981">1981</date>.</head>
+                    <p>Antigua and Barbuda became an independent state within the Commonwealth of
+                        Nations on November 1, 1981, with <persName>Queen Elizabeth</persName> as
+                        the first Queen of Antigua and Barbuda and Right Honourable <persName>Vere
+                            Cornwall Bird</persName> as its first prime minister. The United States
+                        recognized Antigua and Barbuda as an independent state on the same day, when
+                        it raised the Consulate General in <placeName key="st-johns">St.
+                            Johns</placeName> to Embassy status. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in St.
+                        Johns, <date when="1981">1981.</date>
+                    </head>
+                    <p>The United States established diplomatic relations with Antigua and Barbuda
+                        on <date when="1981-11-01">November 1, 1981</date>. <ref target="/departmenthistory/people/byrnes-paul-j">Paul Byrnes</ref> was
+                        Principal Officer when the Consulate General in <placeName key="st-johns">St. Johns</placeName> was raised to Embassy status. Ambassador <ref target="/departmenthistory/people/bish-milan-d">Milan D. Bish</ref>
+                        presented credentials on January 8, 1982 and was resident at <placeName key="bridgetown">Bridgetown, Barbados.</placeName>
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>American Embassy at St. Johns Closed, <date when="1994">1994.</date>
+                    </head>
+                    <p>The American Embassy at <placeName key="st-johns">St. Johns</placeName> was
+                        closed June 30, 1994. Subsequent Ambassadors to Antigua and Barbuda remained
+                        resident at <placeName key="bridgetown">Bridgetown</placeName>, Barbados.
+                        The United States maintained a consular presence in St. Johns to assist
+                        American citizens. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl> Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2336.htm ">Antigua and
+                            Barbuda</ref>
+                    </bibl>
+                    <bibl> Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/ac/index.htm ">Antigua and
+                            Barbuda</ref>
+                    </bibl>
+                    <bibl> CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/ac.html ">Antigua and Baruda</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

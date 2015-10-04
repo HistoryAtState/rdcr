@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Argentina</title>
+                <title type="short">Argentina</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Chris Morrison, March 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>After <placeName key="ar">Argentina</placeName> gained independence from the
+                    Spanish in 1816, the nation was paralyzed by tension between Centralist and
+                    Federalist forces. In 1854 the Federalist provinces ratified a constitution that
+                    established the Argentine Confederation, which Centralists in <placeName>Buenos
+                        Aires</placeName> repudiated while declaring themselves independent.
+                    Resistance forces expelled a brief Federalist incursion into Buenos Aires and
+                    the Confederation collapsed in 1861, paving way for the national rule under the
+                    Argentine Republic that same year.<figure>
+                        <graphic url="argentinian-flag.jpg"/>
+                        <head>Modern Flag of Argentina</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>United States Recognition of Buenos Ayres, <date when="1823">1823</date>.</head>
+                    <p>The United States recognized the Government of Buenos Ayres (predecessor of
+                        Argentina) on January 27, 1823, when <ref target="/departmenthistory/people/rodney-caesar-augustus">Caesar
+                            Rodney</ref> was appointed as American Minister Plenipotentiary to that
+                        government. <placeName key="buenos-aries">Buenos Ayres</placeName> had
+                        declared independence from <placeName>Spain</placeName> on <date when="1816-07-09">July 9, 1816</date>.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Mission in Buenos
+                        Ayres, <date when="1823">1823.</date>
+                    </head>
+                    <p>Diplomatic relations were established on December 27, 1823, when American
+                        Minister Plenipotentiary <ref target="/departmenthistory/people/rodney-caesar-augustus">Caesar
+                            Rodney</ref> presented his credentials to the Government of Buenos
+                        Ayres.</p>
+                </div>
+                <div type="timeline">
+                    <head>American Mission Moved to Parana, <date when="1857">1857.</date>
+                    </head>
+                    <p>
+                        <ref target="/departmenthistory/people/peden-james-a">James A. Peden</ref>
+                        was commissioned as Charge d’Affaires to the Republic of Buenos Aires on May
+                        22, 1854 but did not proceed to post in that capacity. Soon after Peden was
+                        nominated as Envoy Extraordinary and Minister Plenipotentiary to the
+                        Argentine Confederation, eventually receiving a commission in 1856 with
+                        letters of credence to both Buenos Aires and the Confederation. Peden
+                        resided at <placeName key="buenos-aires">Buenos Aires</placeName> until
+                        about May 1, 1857, when he closed the Legation at that city and moved to
+                            <placeName key="parana">Parana</placeName>. </p>
+                </div>
+                <div type="timeline">
+                    <head>American Mission Returned to Buenos Aires, <date when="1862">1862.</date>
+                    </head>
+                    <p>Following the collapse of the Argentine Confederation and national
+                        reunification as the Argentine Republic, Peden returned the U.S. Legation to
+                            <placeName key="buenos-aires">Buenos Aires</placeName> on February 25,
+                        1862.</p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations Interrupted, <date when="1944">1944.</date>
+                    </head>
+                    <p>After a 1942 military coup, General <persName>Pedro Ramirez</persName>
+                        assumed power and maintained Argentinean neutrality in World War II, causing
+                        the United States to refuse Argentine requests for Lend-Lease aid. Ramirez
+                        eventually broke relations with Germany and Japan on January 26, 1944, but
+                        resigned in favor of his vice-president, General <persName>Edelmiro
+                            Farrell</persName> a few weeks later on February 25, 1944. The United
+                        States believed the Farrell regime was <quote>"not in sympathy to the
+                            declared Argentine policy of joining the defense of the
+                            hemisphere,"</quote> and instructed Ambassador <ref target="/departmenthistory/people/armour-norman">Norman Armour</ref> to
+                        refrain from entering official relations with the new government. Armour was
+                        instructed to return to Washington on June 27, 1944. <ref target="/departmenthistory/people/reed-leslie-edgar">Edward L.
+                            Reed</ref> subsequently became Charges d’Affaires of the Embassy in
+                        Buenos Aires. </p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations Resumed, <date when="1945">1945.</date>
+                    </head>
+                    <p>The United States resumed normal diplomatic relations with Argentina and
+                        formally recognized the Farrell government on April 19, 1945, according to a
+                        State Department notice released that same day. The decision came from a
+                        meeting of the Inter-American Conference in <placeName>Mexico
+                            City</placeName>, where all the participants agreed to resume relations
+                        with Argentina following its declaration of war against the Axis powers.
+                    </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/26516.htm">Argentina</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/ar/index.htm ">Argentina</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

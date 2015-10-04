@@ -1,0 +1,139 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Hanover </title>
+                <title type="short">Hanover*</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2010</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Lindsay Krasnoff, January 2010</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>When the United States announced its independence from Great Britain in 1776,
+                        <placeName xml:id="xx">Hanover</placeName> was a sovereign, independent
+                    state. Previously an Electorate, the Kingdom of Hanover was re-established in
+                    1814 after the Napoleonic Wars. At the time, the King of Hanover was
+                        <persName>George III</persName> of Britain. From 1814 until 1837 the King of
+                    Hanover was the same man as the King of Britain (George III, George IV, and
+                    William I). As Hanover (and most of the German States) observed Salic Law and
+                    Great Britain did not, the passing of King William in 1837 meant that the
+                    Hanovarian crown descended through the male bloodline to Ernest Augustus I of
+                    Hanover, while the British crown went to Queen Victoria.</p>
+                <p> Despite the fact that the Kings of Hanover had recognized the U.S. within their
+                    capacity as Kings of Britain as early as 1783, the first act of mutual
+                    recognition between the Kingdom of Hanover and the United States did not occur
+                    until 1830. Between 1830 and 1861 no less than four different agreements were
+                    negotiated and signed between the two countries. All ties came to an abrupt halt
+                    when Hanover was defeated during the Austro-Prussian War of 1866 and
+                    subsequently merged directly into Prussia. At this point, Hanover had relations
+                    with the United States as a part of the Kingdom of Prussia.</p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Mutual Recognition, <date when="1830">1830</date>.</head>
+                    <p> The first known act of mutual recognition between the Kingdom of Hanover and
+                        the United States occurred on January 8, 1830, when U.S. Secretary of State
+                            <ref target="/departmenthistory/people/van-buren-martin">Martin Van
+                            Buren</ref> granted an exequatur to <persName>Theodore Meyer
+                            Esq.</persName> to serve as Consul for the Kingdom of Hanover at New
+                        York. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations.</head>
+                    <p> Despite the fact that the Kings of Hanover, acting as Kings of Britain, had
+                        recognized the United States in 1783 with the signing of the peace treaty
+                        that ended the war between Britain and the United States, the U.S. never
+                        officially established diplomatic relations with the Kingdom of Hanover.
+                    </p>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties-agreements">
+                <head>Treaties and Agreements</head>
+                <div type="timeline">
+                    <head>Treaty of Commerce and Navigation, <date when="1840">1840</date>.</head>
+                    <p> On May 20, 1840, U.S. Minister to Prussia <persName>Henry Wheaton</persName>
+                        and Hanovarian Minister to Prussia <persName>Le Sieur Auguste de
+                            Berger</persName> negotiated and signed a Treaty of Commerce and
+                        Navigation between the United States and the Kingdom of Hanover,
+                        establishing the rules and regulations of trade and commerce between the two
+                        states.</p>
+                </div>
+                <div type="timeline">
+                    <head>Treaty of Commerce and Navigation, <date when="1846">1846</date>.</head>
+                    <p> The 1846 Treaty of Commerce and Navigation signed on June 10, 1846, by the
+                        United States and the Kingdom of Hanover settled in a more definitive manner
+                        the rules to be observed by the original Treaty of Commerce and Navigation
+                        of 1840. This treaty was terminated when Hanover was forced to merge into
+                        Prussia in 1866.</p>
+                </div>
+                <div type="timeline">
+                    <head>Extradition Treaty, <date when="1855">1855</date>.</head>
+                    <p> On January 18, 1855, U.S. Minister to Great Britain <ref target="/departmenthistory/people/buchanan-james">James Buchanan</ref>,
+                        and Hanovarian Minister to Britain <persName>Count Adolphus von
+                            Kielmansegge</persName> negotiated an Extradition Treaty between their
+                        two states. The treaty was signed in London and was terminated eleven years
+                        later when Hanover merged into Prussia after the Austro-Prussian War of
+                        1866.</p>
+                </div>
+                <div type="timeline">
+                    <head>Convention Abolishing Stade or Brunshausen Dues, <date when="1861">1861</date>.</head>
+                    <p> The United States and the Kingdom of Hanover signed the Convention
+                        Abolishing Stade or Brunshausen Dues on November 6, 1861. The treaty was
+                        negotiated and signed by U.S. Minister to Prussia <persName>Norman B.
+                            Judd</persName> and Hanovarian Minister to Prussia Lt. Col. And
+                        Extrarodinary Aid-de-Camp <persName>August Wilhelm von
+                            Reitzenstein</persName>. It abolished the toll previously levied
+                            <quote>“on cargoes of American vessels ascending the Elbe, and passing
+                            the mouth of the river called Schwinge, designated under the name of the
+                            Stade or Brunshausen dues.”</quote>
+                    </p>
+                </div>
+            </div>
+            <div type="section" xml:id="key-events">
+                <head>Key Diplomatic Events</head>
+                <div type="timeline">
+                    <head>The Austro-Prussian War of <date when="1866">1866</date>.</head>
+                    <p> In 1866 Prussia and her allies launched a war against Austria and her allied
+                        German states. The war, also commonly referred to as the Seven Weeks’ War
+                        for the rapidity with which the Prussians triumphed, enabled the Kingdom of
+                        Prussia to absorb some of the smaller states that had sided with Austria –
+                        in this case, the Kingdom of Hanover.</p>
+                </div>
+                <div type="timeline">
+                    <head>German Unification.</head>
+                    <p>Hanover participated in German unification during the mid-nineteenth century.
+                        (See “<ref target="/countries/issues/german-unification">Unification of German
+                            States</ref>” for greater detail.)</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Charles I. Beavans, <hi rend="italic">Treaties and Other International
+                            Agreements of the United States of America, 1776-1949,</hi> (Department
+                        of State: Washington, DC, 1971), Volume 8..</bibl>
+                    <bibl>William M. Malloy, <hi rend="italic">Treaties, Conventions, International
+                            Acts, Protocols, and Agreements Between The United States of American
+                            and Other Powers, 1776-1909 </hi>(Washington DC: Government Printing
+                        Office, 1910).</bibl>
+                    <bibl>John Bassett Moore, <hi rend="italic">A Digest of International Law</hi>
+                        (Washington, D.C.: Government Printing Office, 1906).</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Portugal</title>
+                <title type="short">Portugal</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Louise Woodroofe, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>
+                    <placeName key="pt">Portugal</placeName> was the first neutral nation to
+                    establish diplomatic ties with the United States. The two countries have
+                    maintained positive relations since 1791 and share strong defense ties. Portugal
+                    is a member of the European Union and NATO.</p>
+                <figure>
+                    <graphic url="portugal-flag.jpg"/>
+                    <head>Modern Flag of Portugal</head>
+                </figure>
+                <div type="section" xml:id="recognition">
+                    <head>Recognition</head>
+                    <div type="timeline">
+                        <head>Portuguese Recognition of U.S. Independence, <date when="1791">1791</date>. </head>
+                        <p> The Portuguese Government suggested in early 1791 that <placeName key="lisbon">Lisbon</placeName> and Washington exchange permanent
+                            diplomatic missions, indicating a de facto recognition of the United
+                            States. However, Portugal did not officially recognize the United States
+                            until it accepted the credentials of U.S. Minister <ref target="/departmenthistory/people/humphreys-david">David
+                                Humphreys</ref> on May 13, 1791. </p>
+                    </div>
+                </div>
+                <div type="section" xml:id="consular-presence">
+                    <head>Consular Presence</head>
+                    <div type="timeline">
+                        <head>U.S. Consulate in <placeName key="madeira">Madeira</placeName>, <date when="1790">1790</date>.</head>
+                        <p> On June 17, 1790, U.S. President <persName>George Washington</persName>
+                            appointed <persName>John Marsden Pintard</persName> as Consul for the
+                            island of Madeira, the second appointment of a consular officer under
+                            the Constitution of the United States. There is now a U.S. Consular
+                            Agency in Madeira.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>U.S. Consulate in the <placeName key="azores">Azores</placeName>,
+                            <date when="1795">1795</date>.</head>
+                        <p> U.S. President George Washington appointed the first official U.S.
+                            Consul to the Azores, <persName>John Street</persName>, in 1795,
+                            stationed in Horta on the island of Faial. The U.S. Consulate, which was
+                            established the same year, in Ponta Delgada on the island of Sao Miguel,
+                            is the oldest continuously operating U.S. Consulate in the world. For a
+                            short time, the United States also had a Consular Agent on the
+                            <placeName key="flores">island of Flores</placeName>. </p>
+                        <p>The following is a list of other U.S. Consulates to Portugal over time: </p>
+                        <list type="simple">
+                            <item>
+                                <placeName key="oporto">Oporto</placeName> (<date from="1821" to="1966">1821-1966</date>)</item>
+                            <item>
+                                <placeName key="st-ubes">St. Ubes</placeName> (<date when="1835">1835</date>-?)</item>
+                            <item>
+                                <placeName key="lisbon">Lisbon</placeName> (<date from="1863" to="2009">1863-current</date>)</item>
+                            <item>
+                                <placeName key="paco-d-arcos">Paco d’Arcos</placeName>
+                                (1864-?)</item>
+                            <item>
+                                <placeName key="vianna">Vianna</placeName> (<date from="1867" to="1870">1867-1870</date>)</item>
+                            <item>
+                                <placeName key="aveiro">Aveiro</placeName> (<date when="1870">1870</date>-?)</item>
+                            <item>
+                                <placeName key="leca">Leca</placeName> and <placeName key="matozinbos">Matozinbos</placeName> (<date when="1870">1870</date>-?)</item>
+                            <item>
+                                <placeName key="setubal">Setubal</placeName> (<date from="1874" to="1905">1874-1905</date>)</item>
+                            <item>
+                                <placeName key="faro">Faro</placeName> (<date from="1895" to="1908">1895-1908</date>)</item>
+                        </list>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Legation in
+                            Portugal, <date when="1791">1791</date>.</head>
+                        <p> Diplomatic relations and the American Legation in Lisbon were
+                            established on May 13, 1791, when U.S. Minister to Portugal Col. David
+                            Humphreys presented his credentials. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>U.S. Legation moves to Rio de Janeiro, <date from="1810" to="1821">1810-21</date>. </head>
+                        <p> During the Napoleonic Wars, the King of Portugal fled to Brazil. The
+                            U.S. legation followed and was located there from 1810-21. It closed in
+                            July 1821. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>U.S. Legation Returns to Lisbon, <date when="1822">1822</date>. </head>
+                        <p> In 1822 the U.S. legation returned to Lisbon, along with the King of
+                            Portugal, where it has since remained. <ref target="/departmenthistory/people/dearborn-henry-sr">Henry Dearborn,
+                                Sr.</ref> was appointed U.S. Envoy to Portugal on May 7, 1822, and
+                            arrived at Lisbon before August 16, 1822, but did not report a date of
+                            presentation of credentials.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Elevation of American Legation to Embassy Status, <date when="1944">1944</date>.</head>
+                        <p> The U.S. legation in Lisbon became an embassy on June 20, 1944, when
+                            <ref target="/departmenthistory/people/norweb-raymond-henry">R.
+                                Henry Norweb</ref> presented his new credentials to Lisbon after he
+                            was promoted from Minister to Ambassador.</p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3208.htm">Portugal</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/po/index.htm">Portugal</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

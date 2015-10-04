@@ -1,0 +1,107 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Cuba</title>
+                <title type="short">Cuba</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Tiffany Hamelin, February 2009</p>
+                <p>Updated by Chris Morrison and Sara Berndt, December 2014</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>After Spain's defeat by U.S. and Cuban forces during the War of 1898,
+                        <placeName>Spain</placeName> relinquished sovereignty over
+                        <placeName>Cuba</placeName>. Following the war, U.S. forces occupied Cuba
+                    until 1902, when the United States allowed a new Cuban government to take full
+                    control of the state’s affairs. As a condition of independence, the United
+                    States forced Cuba to grant a continuing U.S. right to intervene on the island
+                    in accordance with the <ref target="/milestones/1899-1913/platt">Platt
+                        Amendment</ref>. The amendment was repealed in 1934 when the United States
+                    and Cuba signed a Treaty of Relations. The United States and Cuba cooperated
+                    under the rule of <persName>Fulgencio Batista</persName> through the 1950s.
+                    Following the revolution of 1959 and the rise of Fidel Castro to power,
+                    relations steadily deteriorated. As a result of Castro’s reforms and the Cuban
+                    government’s increased cooperation with the Soviet Union, the United States
+                    severed diplomatic relations with Cuba in January 1961.</p>
+                <figure>
+                    <graphic url="cuban-flag.jpg"/>
+                    <head>Modern Flag of Cuba</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Cuban Independence, <date when="1902"
+                        >1902</date>.</head>
+                    <p>Following the defeat of Spain in 1898, the United States remained in Cuba as
+                        an occupying power until the Republic of Cuba was formally installed on May
+                        19, 1902. On May 20, 1902, the United States relinquished its occupation
+                        authority over Cuba, but claimed a continuing right to intervene in Cuba.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Legation in Cuba,
+                            <date when="1902">1902</date>.</head>
+                    <p> Diplomatic relations and the U.S. Legation in <placeName key="havana"
+                            >Havana</placeName> were established on May 27, 1902, when U.S.
+                        Envoy Extraordinary and Minister Plenipotentiary <ref
+                            target="/departmenthistory/people/squiers-herbert-goldsmith">Herbert
+                            Goldsmith Squiers</ref> presented his credentials to the Government of
+                        the Republic of Cuba.</p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of U.S. Legation to Embassy Status, <date when="1923"
+                            >1923</date>.</head>
+                    <p> Following an act of Congress, the U.S. Legation in Havana, Cuba, was
+                        raised to Embassy status on February 10, 1923, when General <ref
+                            target="/departmenthistory/people/crowder-enoch-herbert">Enoch H.
+                            Crowder</ref> was appointed Ambassador. </p>
+                </div>
+               
+                
+                <div type="timeline">
+                    <head>Diplomatic Relations Severed, <date when="1961">1961</date>.</head>
+                    <p> The United States severed diplomatic relations with Cuba on January 3, 1961,
+                        citing unwarranted action by the Government of Cuba that placed crippling
+                        limitations on the ability of the United States Mission to carry on its
+                        normal diplomatic and consular functions. </p>
+                </div>
+                
+                <div type="timeline">
+                    <head>Establishment of U.S. Interests Section in Havana, <date when="1977">1977</date>.</head>
+                    <p> A U.S. Interests Section was established in Havana under the protection of the Swiss Government on September 1, 1977.</p>
+                </div>
+                
+                <div type="timeline">
+                    <head>Resumption of Diplomatic Relations and Reestablishment of the American Embassy in Cuba, <date when="2015"> 2015</date>.</head>
+                    <p>The United States and Cuba resumed diplomatic relations on July 20, 2015, when both countries elevated their respective Interests Sections to Embassy status. President Barack Obama and Cuban President Raul Castro agreed to the date for these actions in an exchange of letters dated June 30, 2015.</p>
+                </div>
+                
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2886.htm">Cuba</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/wha/ci/cu/index.htm">Cuba</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

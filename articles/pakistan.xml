@@ -1,0 +1,74 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Pakistan</title>
+                <title type="short">Pakistan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> The United States and <placeName key="pk">Pakistan</placeName> have generally
+                    enjoyed a close relationship since Pakistan’s independence in 1947. Pakistan has
+                    historically been a supporter of U.S. foreign policy, specifically during the
+                    United States’ opening to China and following the Soviet invasion of
+                    Afghanistan. For its part, the United States has striven to lessen tensions
+                    between Pakistan and India. Although relations between the United States and
+                    Pakistan remain somewhat unsettled over regional disputes and Pakistan’s nuclear
+                    weapons program, the United States has provided Pakistan with economic aid
+                    through loans and debt relief and is a major supplier of military equipment to
+                    Pakistan. </p>
+                <figure>
+                    <graphic url="pakistan-flag.jpg"/>
+                    <head>Modern Flag of Pakistan</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Pakistani Independence, <date when="1947">1947</date>.</head>
+                    <p> The United States recognized the Dominion of Pakistan as an independent
+                        state on August 15, 1947, when President <persName>Harry S.
+                            Truman</persName> sent a congratulatory message to <persName>Mohammed
+                                Ali Jinnah</persName>, Governor General of the Dominion of Pakistan, to
+                        congratulate Pakistan on its <quote>“emergence among the family of
+                            nations.”</quote> The area that became Pakistan had formerly been part
+                        of British India within the British Empire.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in
+                        Pakistan, <date when="1947">1947</date>.</head>
+                    <p> Diplomatic relations were established on August 15, 1947, when the U.S.
+                        Department of State established the American Embassy at <placeName key="karachi">Karachi</placeName> with <ref target="/departmenthistory/people/lewis-charles-william">Charles W.
+                                Lewis, Jr.</ref>, as Chargé d'Affaires <hi rend="italic">ad
+                                    interim</hi>. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3453.htm">Pakistan</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/sca/ci/pk/">Pakistan</ref>
+                    </bibl>
+                    <bibl>Library of Congress Country Study: <ref target="http://lcweb2.loc.gov/frd/cs/pktoc.html">Pakistan</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Serbia</title>
+                <title type="short">Serbia</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Aaron Marrs, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>
+                    <hi rend="italic">Note: This entry is for the modern state, the Republic of
+                        Serbia. Please click <ref target="/countries/kingdom-of-yugoslavia">here</ref> for
+                        information on the Kingdom of Serbia and the Socialist Federal Republic of
+                        Yugoslavia.</hi>
+                </p>
+                <p>The U.S. shared normalized relations with Yugoslavia until 1992 when Slovenia,
+                    Croatia, Bosnia and Herzegovina, and Macedonia all seceded. The republics of
+                    Serbia and Montenegro declared a new Federal Republic of Yugoslavia (FRY) in
+                    April 1992. On May 21, 1992, the U.S. announced that it would not recognize the
+                    Federal Republic of Yugoslavia (FRY) as the successor state of the Socialist
+                    Federal Republic of Yugoslavia (SFRY), as Serbia and Montenegro claimed. The
+                    U.S. Ambassador was recalled from Belgrade, but the mission continued with a
+                    staff under the authority of a Chargé d'Affaires <hi rend="italic">ad
+                        interim</hi>.</p>
+                <p>In response to the conflict in Kosovo, and one day prior to the NATO bombing of
+                    Yugoslavia, on March 23, 1999, the U.S. severed relations with the Federal
+                    Republic of Yugoslavia, and closed Embassy Belgrade. Diplomatic recognition and
+                    full diplomatic relations between the two countries were established in November
+                    2000, and ambassadorial relations between the two nations resumed with the
+                    appointment of <ref target="/departmenthistory/people/montgomery-william-dale">William Dale Montgomery </ref>as U.S. Ambassador Extraordinary and
+                    Plenipotentiary on November 26, 2001.</p>
+                <p>In 2003, the FRY became <placeName>Serbia</placeName> and
+                        <placeName>Montenegro</placeName>, a loose federation of the two republics
+                    with a federal level parliament. The office of President of the Federal Republic
+                    of Yugoslavia, held by <persName>Vojislav Kostunica</persName>, ceased to exist
+                    once <persName>Svetozar Marovic</persName> was elected President of Serbia and
+                    Montenegro in March of 2003. In May 2006, <placeName>Montenegro</placeName>
+                    invoked its right to secede from the federation and, following a referendum,
+                    declared itself an independent nation on June 3, 2006. Two days later, Serbia
+                    declared that it was the successor state to the union of Serbia and
+                    Montenegro.</p>
+                <figure>
+                    <graphic url="serbia-flag.jpg"/>
+                    <head>Modern Flag of Serbia</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of the Federal Republic of Yugoslavia, <date when="2000">2000</date>.</head>
+                    <p>In an exchange of letters dated November 12, 2000, U.S. President
+                            <persName>William J. Clinton</persName> and Federal Republic of
+                        Yugoslavia President<persName>Vojislav Kostunica</persName> established full
+                        diplomatic relations between the two states. This constituted recognition of
+                        the Federal Republic of Yugoslavia. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Normal Relations with Socialist Federal Republic of Yugoslavia
+                        Interrupted, <date when="1992">1992.</date>
+                    </head>
+                    <p>The republics of <placeName>Serbia</placeName> and
+                            <placeName>Montenegro</placeName> declared a new Federal Republic of
+                        Yugoslavia (FRY) in April 1992. On May 21, 1992, the U.S. announced that it
+                        would not recognize the Federal Republic of Yugoslavia as a successor state
+                        of the <ref target="/countries/kingdom-of-yugoslavia">Socialist Federal Republic of
+                            Yugoslavia</ref>. U.S. Ambassador <ref target="/people/zimmermann-warren">Warren Zimmerman</ref> was recalled
+                        from <placeName>Belgrade</placeName>, but the mission continued with a staff
+                        under the authority of a Chargé d'Affaires <hi rend="italic">ad
+                        interim</hi>
+                    </p>
+                </div>
+                <div type="timeline">
+                    <head>Diplomatic Relations Severed, <date when="1999">1999.</date>
+                    </head>
+                    <p>In response to the continued conflict between
+                            <placeName>Yugoslavia</placeName> and <placeName>Kosovo</placeName>, and
+                        one day prior to the NATO bombing of Yugoslavia, on March 23, 1999, the U.S.
+                        severed relations with the Federal Republic of Yugoslavia, and closed
+                        Embassy Belgrade. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of Full Diplomatic Relations, <date when="2000">2000.</date>
+                    </head>
+                    <p>In an exchange of letters dated November 12, 2000, U.S. President
+                            <persName>William J. Clinton</persName> and Federal Republic of
+                        Yugoslavia President <persName>Kostunica</persName> established full
+                        diplomatic relations between the two states. </p>
+                </div>
+                <div type="timeline">
+                    <head>U.S. Embassy in Serbia Reopened, <date when="2001">2001.</date>
+                    </head>
+                    <p>The U.S. Embassy reopened in May 2001, and <ref target="/departmenthistory/people/montgomery-william-dale">William Dale
+                            Montgomery</ref> was appointed Ambassador Extraordinary and
+                        Plenipotentiary to Serbia on November 26, 2001. The Republic of Serbia is
+                        considered the successor state to the Federal Republic of Yugoslavia.</p>
+                </div>
+                <div type="appendix">
+                    <head>Resources</head>
+                    <listBibl>
+                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5388.htm ">Serbia</ref>
+                        </bibl>
+                        <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/ri/index.htm ">Serbia</ref>
+                        </bibl>
+                        <bibl>
+                            <ref target="/countries/kingdom-of-yugoslavia">Recognitions and Relations, Yugoslavia</ref>
+                        </bibl>
+                    </listBibl>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

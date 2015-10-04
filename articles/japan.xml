@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Japan</title>
+                <title type="short">Japan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2007</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Evan Dawley, 2007</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Beginning in the early 19th century, American merchants in
+                    <placeName>China</placeName> became interested in extending their activities
+                    to Japan. At this time, however, the shoguns that ruled Japan had implemented a
+                    policy of closed borders that made it very difficult for U.S. citizens and the
+                    Japanese to interact. There were, however, isolated cases of interaction. By the
+                    1850s, a combination of growing U.S. interests in expanding a regional presence
+                    and internal shifts in Japan brought about a dramatic opening in U.S.-Japanese
+                    relations.</p>
+                <figure>
+                    <graphic url="japan-flag.jpg"/>
+                    <head>Modern Flag of Japan</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Mutual Recognition, <date when="1854">1854</date>.</head>
+                    <p>The United States and Japan granted each other formal recognition on March
+                        31, 1854 when Special Ambassador of the United States to Japan
+                        <persName>Matthew C. Perry</persName> and Japanese representatives
+                        signed a Treaty of Peace and Amity at <placeName key="kanagawa">Kanagawa,
+                            Japan</placeName>. On July 8, 1853, Commodore Perry had sailed into the
+                        harbor of Japan’s capital of Edo (now Tokyo) and delivered a letter from
+                        President Millard Fillmore to the Emperor of Japan announcing that the
+                        United States sought to open relations with Japan and that Perry would
+                        return later to do so. However, this letter did not carry the force of
+                        formal recognition, which had to wait until the treaty of 1854.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>Establishment of Consular Relations, <date when="1855">1855</date>.</head>
+                    <p> The United States established consular relations with Japan when Townsend
+                        Harris accepted an appointment as Consul to Shimoda on August 4, 1855. The
+                        Consulate was established in <placeName key="shimoda">Shimoda</placeName>
+                        soon thereafter. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Additional Consular Posts, <date from="1862" to="1950">1862-1950</date>.</head>
+                    <p> The United States established additional Consulates in Japan: <list type="bulleted">
+                            <item>Kanagawa (1862);</item>
+                            <item>
+                                <placeName key="nagasaki">Nagasaki</placeName> (<date when="1862">1862</date>);</item>
+                            <item>
+                                <placeName key="hakodate">Hakodate</placeName> (<date when="1865">1865</date>);</item>
+                            <item>
+                                <placeName key="osaka">Osaka</placeName> (<date when="1868">1868</date>);</item>
+                            <item>Tokyo (<date when="1869">1869</date>);</item>
+                            <item>
+                                <placeName key="yokohama">Yokohama</placeName> (<date when="1897">1897</date>);</item>
+                            <item>
+                                <placeName key="kobe">Kobe</placeName> (<date when="1902">1902</date>);</item>
+                            <item>Shimonoseki (<date when="1918">1918</date>);</item>
+                            <item>Yokkaichi (<date when="1918">1918</date>);</item>
+                            <item>Fukuoka (<date when="1950">1950</date>);</item>
+                            <item>Sapporo (<date when="1950">1950</date>).</item>
+                        </list>
+                    </p>
+                    <p>These dates reflect the earliest date at which a consul or consul general (as
+                        opposed to a vice consul, consular agent, or commercial agent) was either
+                        appointed to or arrived at each post.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1858">1858</date>.</head>
+                    <p> Full diplomatic relations were established on July 29, 1858 with the signing
+                        of a Treaty of Amity and Commerce by U.S. Consul General <persName>Townsend
+                            Harris</persName> and Japanese representatives at the Japanese capital
+                        of <placeName key="tokyo">Edo (Tokyo)</placeName> . </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the U.S. Diplomatic Presence in Japan, <date when="1859">1859</date>.</head>
+                    <p> The United States established its first legation in Japan when Minister
+                        Resident Townsend Harris presented his credentials to the Government of
+                        Japan on November 5, 1859. </p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation from Legation to Embassy, <date when="1906">1906</date>.</head>
+                    <p> The United States diplomatic presence in Tokyo was elevated to the status of
+                        an Embassy on May 26, 1906, when Ambassador Extraordinary and Minister
+                        Plenipotentiary <ref target="/departmenthistory/people/wright-luke-edward">Luke E. Wright</ref> presented his credentials to the Japanese
+                        Government. </p>
+                </div>
+                <div type="timeline">
+                    <head>Suspension of Diplomatic Relations, <date when="1941">1941</date>.</head>
+                    <p> Diplomatic relations between Japan and the United States were severed on
+                        December 8, 1941, when both nations declared war on each other in the wake
+                        of Japan’s attack on Pearl Harbor. Ambassador <ref target="/departmenthistory/people/grew-joseph-clark">Joseph Grew</ref>
+                        and other diplomatic staff remained in Japan for several months, including a
+                        period of internment, before departing the country on June 25, 1942.</p>
+                </div>
+                <div type="timeline">
+                    <head>Resumption of Diplomatic Relations, <date when="1952">1952</date>.</head>
+                    <p> Normal diplomatic relations were reestablished between the United States and
+                        Japan on <date when="1952-04-28">April 28, 1952</date>, when the Supreme
+                        Commander for the Allied Powers (<abbr>SCAP</abbr>), which had overseen the
+                        postwar Allied occupation of Japan since 1945, disbanded. On the same day,
+                        the United States deposited its ratification of the multilateral Japanese
+                        Peace Treaty, Japan’s <hi rend="italic">Chargé d’Affaires</hi>
+                        <persName>Ryuji Takeuchi</persName> presented his credentials to Secretary
+                        of State <ref target="/departmenthistory/people/acheson-dean-gooderham">Dean
+                            Acheson</ref>, and the United States and Japan exchanged their
+                        ratifications of the United States-Japan Security Treaty. The U.S. Embassy
+                        in Tokyo reopened on May 9, 1952, when Ambassador <ref target="/departmenthistory/people/murphy-robert-daniel">Robert D.
+                            Murphy</ref> presented his credentials to the Government of Japan. </p>
+                </div>
+            </div>
+            <div type="appendix" xml:id="resources">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/4142.htm">Japan</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/ja/index.htm">Japan</ref>
+                    </bibl>
+                    <bibl>
+                        <ref target="http://aboutusa.japan.usembassy.gov/e/jusa-usj-embassy.html">History of U.S. Embassy Buildings in Japan</ref> (U.S. Embassy, Japan)
+                    </bibl>
+                    <bibl>
+                        <ref target="http://aboutusa.japan.usembassy.gov/e/jusa-usj-chronology.html">Chronology of U.S.-Japan Relations</ref> (U.S. Embassy, Japan)
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

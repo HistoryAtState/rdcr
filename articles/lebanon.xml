@@ -1,0 +1,95 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Lebanon</title>
+                <title type="short">Lebanon</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Derived from U.S. Department of State, Background Note, November 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="history">
+                <head>Summary</head>
+                <p> When the United States became independent, <placeName key="lb">Lebanon</placeName> was part of the Ottoman Empire and its foreign
+                    relations were conducted through the Sultan’s government at Constantinople
+                    (Istanbul). In 1922, after the collapse of the Ottoman Empire, the League of
+                    Nations approved a French Mandate for Lebanon and Syria, which gave France
+                    exclusive control over their foreign relations. The United States appointed
+                    George Wadsworth as “Agent and Consul General” on October 9, 1942, to provide a
+                    quasi-diplomatic presence in Beirut until the United States determined that
+                    Lebanon achieved effective independence in 1944.</p>
+                <figure>
+                    <graphic url="lebanon-flag.jpg"/>
+                    <head>Modern Flag of Lebanon</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Lebanese Independence, <date when="1944">1944</date>.</head>
+                    <p> The United States recognized Lebanon as an independent state on September 8,
+                        1944, when the Lebanese Minister of Foreign Affairs informed the United
+                        States that Lebanon fully recognized and would protect existing rights of
+                        the United States and its nationals. This Lebanese assurance was in response
+                        to a letter sent on September 7, 1944, by the American Diplomatic Agent and
+                        Consul General in Lebanon that offered <quote>“full and unconditional
+                            recognition”</quote> upon receipt of such written assurances. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Legation in
+                        Lebanon, <date when="1944">1944</date>.</head>
+                    <p> The United States established diplomatic relations with Lebanon when <ref target="/departmenthistory/people/wadsworth-george">George
+                        Wadsworth</ref> presented his credentials as Envoy Extraordinary and
+                        Minister Plenipotentiary on November 16, 1944. Wadsworth had been serving as
+                        Diplomatic Agent and Consul General to Syria and Lebanon while the United
+                        States considered them to be “semi-independent” states. </p>
+                </div>
+                <div type="timeline">
+                    <head>American Legation in <placeName key="beirut">Beirut</placeName> Raised to
+                        Embassy, <date when="1952">1952.</date>
+                    </head>
+                    <p> The American Legation in Beirut was raised to embassy status on October 3,
+                        1952, when <ref target="/departmenthistory/people/minor-harold-bronk">Harold
+                            B. Minor</ref> was appointed Ambassador Extraordinary and
+                        Plenipotentiary. </p>
+                </div>
+                <div type="timeline">
+                    <head>American Embassy Staff Withdrawn, <date when="1989">1989</date>.</head>
+                    <p> The United States withdrew all personnel including Ambassador <ref target="/departmenthistory/people/mccarthy-john-thomas">John Thomas
+                        McCarthy</ref> from the American Embassy in Beirut on September 6, 1989.
+                        In a statement to the press, the Department of State explained that the step
+                        was taken after supporters of a faction in the civil war had surrounded the
+                        embassy, endangering the safety of embassy personnel and preventing the
+                        embassy from functioning effectively. </p>
+                </div>
+                <div type="timeline">
+                    <head>American Embassy Reopened, <date when="1990">1990</date>.</head>
+                    <p> The American Embassy in Beirut was reopened on November 29, 1990, when new
+                        Ambassador <ref target="/departmenthistory/people/crocker-ryan-clark">Ryan
+                            Crocker</ref> presented his credentials. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35833.htm">Lebanon</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/le/index.htm">Lebanon</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

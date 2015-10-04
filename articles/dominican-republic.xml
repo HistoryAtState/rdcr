@@ -1,0 +1,83 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Dominican Republic</title>
+                <title type="short">Dominican Republic</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Tiffany Hamelin, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> Following both French and Spanish rule from as early as the 16th century, the
+                    island nation of the Dominican Republic declared itself an independent nation
+                    from neighboring <placeName>Haiti</placeName> in 1844. The new state voluntarily
+                    returned to the Spanish Empire, and in 1865, independence was restored. U.S.
+                    military occupations of the Dominican Republic have at times strained relations
+                    between the two nations. </p>
+                <figure>
+                    <graphic url="dominican-flag.jpg"/>
+                    <head>Modern Flag of The Dominican Republic</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Dominican Republic Independence, <date when="1866">1866</date>.</head>
+                    <p> The United States recognized the Dominican Republic on September 17, 1866,
+                        on which day an exequatur was issued to <persName>J.W. Currier</persName> as Dominican consul
+                        general at New York. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1884">1884</date>.</head>
+                    <p> Diplomatic relations were established on March 26, 1884, when <ref target="/departmenthistory/people/langston-john-mercer">John M.
+                        Langston</ref> presented his credentials as American Charge d’Affaires to
+                        the Government of the Dominican Republic. He was also accredited to Haiti
+                        and resident at Port-au-Prince. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Legation in the Dominican Republic, <date when="1904">1904</date>.</head>
+                    <p> The American Legation in Santo Domingo was established on July 23, 1904,
+                        when <ref target="/departmenthistory/people/dawson-thomas-cleland">Thomas C.
+                            Dawson</ref> presented his credentials as Minister Resident/Consul
+                        General. </p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of American Legation to Embassy Status, <date when="1943">1943</date>.</head>
+                    <p> Following a joint announcement on March 23, 1943, between the United States
+                        and seven American Republics that included Dominican Republic, the Legations
+                        in the respective nations and the United States were raised to the status of
+                        Embassy. <ref target="/departmenthistory/people/warren-avra-milvin">Avra M.
+                            Warren</ref> was promoted to Ambassador Extraordinary and
+                        Plenipotentiary and presented his credentials to the Government of Dominican
+                        Republic on April 17, 1943.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35639.htm">Dominican
+                        Republic</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/dr/index.htm">Dominican
+                        Republic</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back> </back>
+    </text>
+</TEI>

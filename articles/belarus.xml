@@ -1,0 +1,85 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Belarus</title>
+                <title type="short">Belarus</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Occupied by the Russian empire since the end of the 18th century, Belarus
+                    declared a short-lived National Republic on March 25, 1918 only to be forcibly
+                    absorbed by the Bolsheviks into what became the Soviet Union. Occupied by Nazi
+                    Germany, Belarus was retaken by Stalin’s Russia in 1944 and remained under
+                    Soviet control until declaring its sovereignty on July 27, 1990 and independence
+                    from the Soviet Union on August 25, 1991. It has been run by authoritarian
+                        President<persName>Alexander Lukashenko</persName> since 1994. Under
+                    Lukashenko U.S.-Belarusian relations have remained at a low level, despite
+                    efforts with the European Union to set benchmarks for improving Belarus’ human
+                    rights and electoral practices. </p>
+                <figure>
+                    <graphic url="belarus_flag.jpg"/>
+                    <head>Modern Flag of Belarus</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Belarus, <date when="1991">1991</date>.</head>
+                    <p>The United States recognized <placeName>Belarus</placeName>’s independence on
+                        December 25, 1991, when President <persName>George H.W. Bush</persName>
+                        announced the decision in an address to the nation regarding the dissolution
+                        of the <placeName>Soviet Union</placeName>. Belarus previously had been a
+                        constituent republic of the USSR. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1991">1991</date>.</head>
+                    <p>Diplomatic relations were established on December 25, 1991, when President
+                            <persName>George H.W. Bush</persName> announced the decision in an
+                        address to the nation regarding the dissolution of the Soviet Union.</p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Embassy in Minsk, <date when="1992">1992</date>. </head>
+                    <p> The American Embassy in <placeName key="minsk">Minsk</placeName> was
+                        established on January 31, 1992, with <persName>John Ford</persName> as
+                        Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                </div>
+                <div type="timeline">
+                    <head>American Ambassador Recalled, 2008.</head>
+                    <p> Ambassador <ref target="/departmenthistory/people/stewart-karen-b">Karen B.
+                            Stewart</ref> was recalled on March 12, 2008 following a threat of
+                        expulsion by Belarusian authorities and the recall of Belarus’ Ambassador to
+                        the United States. Belarus subsequently voluntarily reduced the staff at its
+                        U.S. missions, excluding the mission to the UN, to five persons and demanded
+                        the U.S. reciprocate by reducing the U.S. Embassy in <placeName key="minsk">Minsk</placeName> to five diplomats. When the U.S. refused to comply,
+                        Belarusian authorities expelled several U.S. diplomats to reduce U.S.
+                        Embassy staffing to five diplomats. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5371.htm">Belarus</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/bo/">Belarus</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

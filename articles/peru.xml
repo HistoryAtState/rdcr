@@ -1,0 +1,95 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Peru</title>
+                <title type="short">Peru</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Tiffany Hamelin, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>
+                    <placeName key="pe">Peru</placeName> and the United States first established
+                    diplomatic relations in 1826, five years following the proclamation of Peruvian
+                    independence in July 1821 under <persName>General San Martin</persName>. The
+                    area that became the Republic of Peru previously had been under Spanish
+                    sovereignty. Diplomatic relations have been interrupted due to intermittent
+                    territorial disputes with its neighbors, periods of military rule, and coups
+                    that have overthrown civilian constitutional government. However, diplomatic
+                    ties have never been severed between the two countries. Peru has been a member
+                    of the United Nations since 1949. </p>
+                <figure>
+                    <graphic url="peru-flag.jpg"/>
+                    <head>Modern Flag of Peru</head>
+                </figure>
+                <div type="section" xml:id="recognition">
+                    <head>Recognition</head>
+                    <div type="timeline">
+                        <head>United States Recognition of Peru, <date when="1826">1826</date>.</head>
+                        <p> The independence of Peru was recognized by the United States by the
+                            appointment of <ref target="/departmenthistory/people/cooley-james">James Cooley</ref> as Charge d’Affaires on May 2, 1826. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>United States Recognition of the Peru-Bolivian Confederation, <date when="1838">1838</date>.</head>
+                        <p> Following its independence from Spain, in 1836 Peru joined the
+                            Peru-Bolivian Confederation. The United States recognized the
+                            Peru-Bolivian Confederation on March 16, 1837 by the appointment of <ref target="/departmenthistory/people/thornton-james-b">James B.
+                                Thornton</ref> as Chargé d’Affaires. Thornton was commissioned to
+                            Peru but received by the Peru-Bolivian Confederation. Succeeding
+                            Thornton, who died in Peru in January, 1838, <ref target="/departmenthistory/people/pickett-james-chamberlayne">J.C.
+                                Pickett</ref> was appointed Charge d’Affaires on June 8, 1838. He
+                            did not present his credentials until January, 1840. This lapse in
+                            diplomatic representation may be attributed to the dissolution of the
+                            Peru-Bolivian Confederation in 1839, and the return to separate
+                            U.S.-Peru diplomatic relations. </p>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Legation in
+                            <placeName key="lima">Lima</placeName>, <date when="1827">1827</date>.</head>
+                        <p>Diplomatic relations and the American Legation in Lima were established
+                            on May 21, 1827, when <persName>James Cooley</persName> presented his
+                            credentials as Chargé d’Affaires.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Establishment of the Peruvian Legation in the United States, <date when="1846">1846</date>.</head>
+                        <p> In 1846, the Government of Peru named <persName>Juan Ignacio de
+                            Osma</persName>, as its first Plenipotentiary Minister to the United
+                            States.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Elevation of American Legation to Embassy Status, <date when="1920">1920</date>.</head>
+                        <p> The Legation at Lima was raised to an Embassy on April 24, 1920, when
+                            Ambassador <ref target="/departmenthistory/people/gonzales-william-elliott">William
+                                E. Gonzales</ref> presented his credentials to the Peruvian
+                            Government. </p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35762.htm">Peru</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/pe/">Peru</ref>
+                    </bibl>
+                    <bibl>Library of Congress Country Study: <ref target="http://lcweb2.loc.gov/frd/cs/petoc.html">Peru</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

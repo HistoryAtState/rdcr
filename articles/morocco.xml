@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Morocco</title>
+                <title type="short">Morocco</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Lindsay Krasnoff, March 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>
+                    <placeName key="ma">Morocco</placeName> formally recognized the United States by
+                    signing a treaty of peace and friendship in 1786. Despite a longstanding
+                    consular presence, permanent diplomatic relations did not begin until 1905.
+                    Morocco entered into the status of a French protectorate from 1912 to 1956, and
+                    normal diplomatic relations were resumed after U.S. recognition of Moroccan
+                    independence in 1956.<figure>
+                        <graphic url="moroccan-flag.jpg"/>
+                        <head>Modern Flag of Morocco</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>Moroccan Recognition of the United States, <date when="1786">1786</date>.</head>
+                    <p>Morocco recognized the United States on June 23, 1786, when a treaty of peace
+                        and friendship was signed by U.S. Minister <persName>Thomas
+                            Barclay</persName> and <persName>Sidi Muhammad</persName>, Sultan of
+                        Morocco, at <placeName key="marrakech">Marrakech</placeName>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Morocco Under French and Spanish Control, <date from="1912" to="1956">1912-1956</date>.</head>
+                    <p>In 1912, Morocco became a French protectorate. Certain portions of Morocco
+                        also came under Spanish control, including the province of Tangier. However,
+                        the United States did not recognize the French and Spanish protectorates
+                        until October 20, 1917, when Secretary of State <persName>Robert
+                            Lansing</persName> sent a letter formally acknowledging the protectorate
+                        to <persName>Jean Jules Jusserand</persName>, French Ambassador to the
+                        United States.</p>
+                </div>
+                <div type="timeline">
+                    <head>U.S. Recognition of Moroccan Independence, <date when="1956">1956</date>.</head>
+                    <p>The United States recognized Moroccan independence from French sovereignty on
+                        March 7, 1956, in a statement of congratulations regarding the
+                        Franco-Moroccan declaration of March 2, wherein France had recognized
+                        Moroccan independence.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular_relations">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>U.S. Consul Appointed to Morocco, <date when="1797">1797</date>.</head>
+                    <p>
+                        <persName>James Simpson</persName> was appointed the first U.S. consul, and
+                        arrived on December 7, 1797, at <placeName key="tangier">Tangier</placeName>
+                        to assume his duties and establish the U.S. consulate. Simpson served for
+                        over twenty years, until his death on March 8, 1820. In 1821, as a gift to
+                        the United States, Sultan Mawlay Suleiman gave a building for the
+                        consulate’s use, which was the first property abroad owned by the United
+                        States. The building is now the Tangier American Legation Institute for
+                        Moroccan Studies (TALIM).</p>
+                    <p>Below are dates for the earliest and latest extant dates of U.S. consulates
+                        in Morocco. The only Consulate currently in operation is in Casablanca.
+                            <list type="unordered">
+                            <item>
+                                <placeName key="tangier">Tangier (Tanger, Tangiers</placeName>)
+                                earliest date March 31, 1791, closed early 1989. Tangier, which had
+                                been an international city (but still technically part of Morocco)
+                                was fully integrated into Morocco on October 29, 1956.</item>
+                            <item>
+                                <placeName key="essaouira">Essaouira (Mogador)</placeName> earliest
+                                date February, 7, 1817, latest open date December 15, 1920</item>
+                            <item>
+                                <placeName key="larache">Larache</placeName> and <placeName key="asilah">Asilah</placeName> (Laraish, Laraiche, Al-Araish,
+                                El-Araish/ Arsila, Arsila, Arseila, Arzila) earliest date: May 11,
+                                1852 latest date: September 25, 1896</item>
+                            <item>
+                                <placeName key="tétouan">Tétouan (Tetuan)</placeName> earliest date:
+                                May 11, 1852 latest date: June 14, 1896 </item>
+                            <item>
+                                <placeName key="casablanca">Casablanca (Casa Blanca, Dar El-Beïda,
+                                    Anfa)</placeName> earliest date: May 13, 1878 latest date:
+                                Present (as of August 25, 2008)</item>
+                            <item>
+                                <placeName key="rabat">Rabat (Ribāt, Salé, Sali, Sallee)</placeName>
+                                earliest date: June 25, 1881. Became Embassy June 11, 1956. latest
+                                date: Present</item>
+                            <item>
+                                <placeName key="safi">Safi (Saffi)</placeName> earliest date: June
+                                25, 1881 latest date: November 19, 1890</item>
+                            <item>
+                                <placeName key="el-jadida">El Jadida (Mazagan, Magazan)</placeName>
+                                earliest date: July 28, 1882 latest date: November 5, 1896 </item>
+                        </list>
+                    </p>
+                </div>
+                <div type="section" xml:id="diplomatic_relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Legation at
+                            Tangier, <date when="1905">1905.</date>
+                        </head>
+                        <p>Diplomatic relations were established on March 8, 1905, when the American
+                            consulate at Tangier was elevated to the status of a legation, and <ref target="/departmenthistory/people/gummere-samuel-rene">Samuel
+                                Gummere</ref> was named American Minister Plenipotentiary, with a
+                            letter of credence dated March 21. Gummere presented his credentials on
+                            September 29, 1906. </p>
+                    </div>
+                    <div type="timeline">
+                        <head>Morocco under French and Spanish Control, <date from="1912" to="1956">1912-1956.</date>
+                        </head>
+                        <p>The United States did not initially recognize the French and Spanish
+                            protectorate over Morocco which was formally established in 1912.
+                            However, upon U.S. entry into the First World War, the U.S. Government
+                            issued a statement recognizing the protectorate over Morocco on October
+                            20, 1917, whereupon the U.S. Minister at <placeName key="tangier">Tangier</placeName> was downgraded to the status of Diplomatic
+                            Agent.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Diplomatic Relations Reestablished and Establishment of American
+                            Embassy, <date when="1956">1956.</date>
+                        </head>
+                        <p>After the recognition of Moroccan independence, the post of diplomatic
+                            agent was again raised, this time to the level of ambassador, and the
+                            U.S. embassy was established at the capital of <placeName key="rabat">Rabat</placeName> on Jun 11, 1956, with <ref target="/departmenthistory/people/porter-william-james"> William J.
+                                Porter</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>;
+                            upon its establishment Legation Tangier was changed in status to a
+                            Consulate General. On October 6, 1956, <ref target="/departmenthistory/people/cannon-cavendish-wells">Cavendish
+                                Cannon</ref> presented his credentials as the first U.S. ambassador
+                            to Morocco. On September 5, 1956, Dr. <persName>El Mehdi Mohammed Ben
+                                Aboud</persName> of Morocco presented his credentials to U.S.
+                            president Dwight D. Eisenhower. </p>
+                    </div>
+                </div>
+                <div type="appendix">
+                    <head>Resources</head>
+                    <listBibl>
+                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5431.htm">Morocco</ref>
+                        </bibl>
+                        <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/mo/index.htm">Morocco</ref>
+                        </bibl>
+                        <bibl>Irwin, Ray W. <hi rend="italic">The Diplomatic Relations of the United
+                                States with the Barbary Powers 1776-1816. </hi>. Chapel Hill:
+                            University of North Carolina Press, 1931.</bibl>
+                        <bibl>Lambert, Frank. <hi rend="italic">The Barbary Wars: American
+                                Independence in the Atlantic World </hi>. New York: Hill and Wang,
+                            2005.</bibl>
+                    </listBibl>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Jamaica</title>
+                <title type="short">Jamaica</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Throughout the 19th century the United States maintained several consular posts
+                    throughout Colonial British Jamaica, the earliest at <placeName key="montego-bay">Montego Bay</placeName> and <placeName key="falmouth">Falmouth</placeName> dating from 1861. These posts, which were placed to
+                    monitor American trade interests in the Caribbean, were all closed by September 1919.<figure>
+                        <graphic url="jamaica.jpg"/>
+                        <head>Modern Flag of Jamaica</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Jamaican Independence, <date when="1962">1962</date>.</head>
+                    <p>Jamaica became independent on August 6, 1962, remaining a member of the
+                        British Commonwealth. The United States recognized Jamaica’s independence on
+                        August 16, 1962, with the establishment of the American Embassy at
+                        <placeName key="kingston">Kingston.</placeName>
+                    </p>
+                </div>
+                <div type="section" xml:id="diplomatic_relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Embassy in
+                            Jamaica, <date when="1962">1962.</date>
+                        </head>
+                        <p>Diplomatic relations and the American Embassy at Kingston were
+                            established on August 16, 1962, with <ref target="/departmenthistory/people/cheslaw-irving-gottlieb">Irving G.
+                                Cheslaw</ref> as Chargé d'Affaires <hi rend="italic">ad
+                                    interim</hi>.</p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2032.htm">Jamaica</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/jm">Jamaica</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

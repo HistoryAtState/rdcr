@@ -1,0 +1,61 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Jordan</title>
+                <title type="short">Jordan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized the Kingdom of Transjordan as an independent state
+                    in a White House announcement on January 31, 1949. </p>
+                <figure>
+                    <graphic url="jordan-flag.jpg"/>
+                    <head>Modern Flag of Jordan</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Jordanian Independence, <date when="1949">1949</date>. </head>
+                    <p> The United States recognized the Kingdom of Transjordan as an independent
+                        state in a White House announcement on January 31, 1949. Transjordan had
+                        been a mandated territory placed under the protection of Great Britain
+                        following World War I, and had declared its independence with the agreement
+                        of Great Britain on May 25, 1946.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Legation in Jordan,
+                        <date when="1949">1949</date>.</head>
+                    <p> Diplomatic relations and the American Legation in Jordan were established on
+                        February 18, 1949 when Wells Stabler presented his credentials as Chargé
+                        d'Affaires <hi rend="italic">ad interim</hi> at <placeName key="amman">Amman</placeName>. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3464.htm">Jordan</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/jordan/index.htm">Jordan</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

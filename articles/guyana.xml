@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Guyana</title>
+                <title type="short">Guyana</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Emily Horne, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The Dutch colonies of Essequibo, Demerara and Berbice, which compose what is now
+                    modern-day Guyana, were ceded to Great Britain at the Congress of Vienna and
+                    established as British Guyana in 1831. </p>
+                <figure>
+                    <graphic url="guyana-flag.jpg"/>
+                    <head>Modern Flag of Guyana</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Guyanan Independence, <date when="1966">1966</date>.</head>
+                    <p>The United States recognized Guyanan independence on May 26, 1966, with the
+                        establishment of the American Embassy at <placeName key="georgetown-guyana">Georgetown</placeName>. Guyana had been under British rule.</p>
+                </div>
+                <div type="section" xml:id="diplomatic_relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the American Embassy in
+                            Guyana <date when="1966">1966.</date>
+                        </head>
+                        <p>Diplomatic Relations and the American Embassy in Georgetown were
+                            established on May 26, 1966, with <ref target="/departmenthistory/people/carlson-delmar-richard">Delmar R.
+                                Carlson</ref> as Chargé d'Affaires <hi rend="italic">ad
+                                    interim</hi>.</p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1984.htm">Guyana</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/gy">Guyana</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

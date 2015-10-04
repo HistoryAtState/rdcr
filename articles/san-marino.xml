@@ -1,0 +1,130 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: San Marino</title>
+                <title type="short">San Marino</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by David Nickles, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> The United States signed a Treaty of Extradition with <placeName key="sm">San
+                    Marino</placeName> in 1906, and established consular relations in 1925, but
+                    did not appoint its first diplomatic ambassador to that country until November
+                    22, 2006. Nonetheless, it could be argued that the United States recognized San
+                    Marino as early as 1861, when President <persName>Abraham Lincoln</persName>
+                    warmly accepted its offer of honorary citizenship.</p>
+                <figure>
+                    <graphic url="san-marino-flag.jpg"/>
+                    <head>Modern Flag of San Marino</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of San Marino’s Independence, <date when="1861">1861</date>. </head>
+                    <p> The United States recognized San Marino when President Abraham Lincoln, in a
+                        letter dated May 7, 1861, accepted San Marino’s offer of honorary
+                        citizenship. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="consular-presence">
+                <head>Consular Presence</head>
+                <div type="timeline">
+                    <head>Establishment of Consular Relations, <date when="1925">1925</date>. </head>
+                    <p> The United States established a consulate in San Marino on April 9, 1925.
+                        The Consul (or Consul General) in Florence has generally been the
+                        representative of the U.S. Government to San Marino. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1861">1861</date>. </head>
+                    <p> The Government of San Marino, in a March 29, 1861 letter from the Regent
+                        Captains, offered U.S. President Lincoln honorary citizenship. On May 7,
+                        1861, Lincoln responded, <quote>“Although your dominion is small, your State
+                            is nevertheless one of the most honored, in all history.”</quote>
+                        Although the United States had consular relations with San Marino dating to
+                        1925, it did not accredit an Ambassador to the republic until 2006.
+                        Ambassador <ref target="/departmenthistory/people/spogli-ronald">Ronald
+                            Spogli</ref>, who was also the U.S. Ambassador to Italy, presented his
+                        credentials to San Marino on March 8, 2007, and was resident in Rome. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="treaties-agreements">
+                <head>Treaties &amp; Agreements</head>
+                <div type="timeline">
+                    <head>Treaty of Extradition, <date when="1906">1906</date>.</head>
+                    <p> On January 10, 1906, the United States and San Marino signed a Treaty of
+                        Extradition at Rome. </p>
+                </div>
+                <div type="timeline">
+                    <head>Treaty of Extradition, <date when="1934">1934</date>. </head>
+                    <p> On October 10, 1934, the United States and San Marino signed a Supplementary
+                        Convention to the 1906 Treaty of Extradition at Washington, D.C. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="key-events">
+                <head>Key Diplomatic Events</head>
+                <p>May 1861 was one of the darkest moments in the history of the United States, as
+                    the nation faced a civil war that, in the minds of many around the world, raised
+                    doubts about the viability of democratic republics. On May 7, 1861, President
+                    Lincoln addressed a letter to the Regent Captains of the Republic of San
+                    Marino:</p>
+                <p>
+                    <hi rend="italic">Great and Good Friends</hi>
+                </p>
+                <p>
+                    <hi rend="italic"> I have received and read with great sensibility the letter
+                        which as Regent Captains of the Republic of San Marino you addressed to me
+                        on the 29th of March last. I thank the Council of San Marino for the honor
+                        of citizenship they have conferred upon me.</hi>
+                </p>
+                <p>
+                    <hi rend="italic"> Although your dominion is small, your State is nevertheless
+                        one of the most honored, in all history. It has by its experience
+                        demonstrated the truth, so full of encouragement to the friends of Humanity,
+                        that Government founded on Republican principles is capable of being so
+                        administered as to be secure and enduring.</hi>
+                </p>
+                <p>
+                    <hi rend="italic">You have kindly adverted to the trial through which this
+                        Republic is now passing. It is one of deep import. It involves the question
+                        whether a Representative republic, extended and aggrandized so much as to be
+                        safe against foreign enemies can save itself from the dangers of domestic
+                        faction. I have faith in a good result.</hi>
+                </p>
+                <p>
+                    <hi rend="italic">Wishing that your interesting State may endure and flourish
+                        forever, and that you may live long and enjoy the confidence and secure the
+                        gratitude of your fellow citizens, I pray God to have you in his holy
+                        keeping. Your Good Friend. </hi>
+                </p>
+                <p>
+                    <hi rend="italic">Abraham Lincoln. </hi>
+                </p>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5387.htm">San Marino</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/sm">San Marino</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

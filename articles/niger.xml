@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Niger </title>
+                <title type="short">Niger</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>U.S. relations with <placeName key="ne">Niger</placeName> have generally been
+                    close and friendly since Niger attained independence. The U.S. Peace Corps
+                    program in Niger, which started in 1962, currently has about 130 volunteers in
+                    country and celebrated its 45th anniversary in September 2007. Although USAID
+                    does not have a Mission in Niger, $30 million in annual official aid is
+                    administered through American and local non-governmental organizations. Niger
+                    maintains a special relationship with France and enjoys close relations with its
+                    West African neighbors. It is a charter member of the African Union and the West
+                    African Monetary Union and also belongs to the Niger River and Lake Chad Basin
+                    Commissions, the Economic Community of West African States, the Nonaligned
+                    Movement, and the Organization of the Islamic Conference.</p>
+                <figure>
+                    <graphic url="niger-flag.jpg"/>
+                    <head>Modern Flag of Niger</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Niger’s Independence, <date when="1960">1960</date>.</head>
+                    <p>The United States recognized the <placeName>Republic of Niger</placeName> on
+                        August 3, 1960, in a congratulatory message from President <persName>Dwight
+                            D. Eisenhower</persName> to Prime Minister <persName>Hamani
+                                Diori</persName>. Niger had been previously under French sovereignty.
+                    </p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1960">1960</date>.</head>
+                    <p>Diplomatic relations were established on August 3, 1960, when <ref target="/departmenthistory/people/norland-donald-richard">Donald R.
+                        Norland</ref> presented credentials as Chargé d'Affaires <hi rend="italic">ad interim</hi>, August 2, 1960, to take effect the
+                        following day. </p>
+                </div>
+                <div type="timeline">
+                    <head>Establishment of the American Embassy in Niger, <date when="1961">1961</date>.</head>
+                    <p>The American Embassy in <placeName key="niamey">Niamey</placeName> was
+                        established on February 3, 1961, with <ref target="/departmenthistory/people/schutz-joseph-willard">Joseph W.
+                            Schutz</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.
+                    </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5474.htm">Niger</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/ng/">Niger</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

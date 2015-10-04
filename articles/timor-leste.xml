@@ -1,0 +1,68 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Timor-Leste</title>
+                <title type="short">Timor-Leste</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and writen by Christopher Morrison, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="history">
+                <head>Summary</head>
+                <p> The United States had limited relations of any sort with what is now <placeName xml:id="tl">Timor-Leste</placeName>
+                    prior to its full independence in 2002.</p>
+                <figure>
+                    <graphic url="timor-leste-flag.jpg"/>
+                    <head>Modern Flag of Timor-Leste</head>
+                </figure>
+                <div type="section" xml:id="recognition">
+                    <head>Recognition</head>
+                    <div type="timeline">
+                        <head>U.S. Recognition of Timorese Independence, <date when="2002">2002</date>.</head>
+                        <p> The United States recognized Timor-Leste, then known as <placeName>East
+                            Timor</placeName>, on May 20, 2002, when it achieved formal
+                            independence. Before this time, the region had been a Portuguese colony
+                            up until 1975 and was under Indonesian sovereignty from 1976 to 1999.
+                            After a popular referendum in 1999, held under UN auspices, the
+                            International Force for East Timor kept the peace until formal
+                            independence was established in 2002. </p>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations, <date when="2002">2002</date>. </head>
+                        <p> The United States and Timor-Leste (East Timor) established diplomatic
+                            relations on May 20, 2002, when the United States opened an Embassy in
+                            <placeName xml:id="dili">Dili</placeName>. It opened under the leadership of Chargé d’Affaires
+                            <persName>Shari Villarossa</persName>. <persName>Grover
+                                Rees</persName> 3rd became the first U.S. Ambassador to Timor-Leste when
+                            he presented his credentials on December 10, 2002.</p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35878.htm">Timor-Leste</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/tt/">Timor-Leste</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+        <back>
+            
+        </back>
+    </text>
+</TEI>

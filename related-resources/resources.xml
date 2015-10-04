@@ -1,0 +1,36 @@
+<resources>
+    <resource>
+        <name>china-us-relations</name>
+        <relatedcountry>china</relatedcountry>
+    </resource>
+    <resource>
+        <name>german-unification</name>
+        <!--<relatedcountry>germany</relatedcountry>-->
+        <relatedcountry>austrian-empire</relatedcountry>
+        <relatedcountry>baden</relatedcountry>
+        <relatedcountry>bavaria</relatedcountry>
+        <relatedcountry>brunswick-luneburg</relatedcountry>
+        <relatedcountry>federal-government-germany</relatedcountry>
+        <relatedcountry>hanover</relatedcountry>
+        <relatedcountry>hanseatic-republics</relatedcountry>
+        <relatedcountry>hesse</relatedcountry>
+        <relatedcountry>mecklenburg-schwerin</relatedcountry>
+        <relatedcountry>mecklenburg-strelitz</relatedcountry>
+        <relatedcountry>nassau</relatedcountry>
+        <relatedcountry>north-german-union</relatedcountry>
+        <relatedcountry>oldenburg</relatedcountry>
+        <relatedcountry>saxony</relatedcountry>
+        <relatedcountry>schaumburg-lippe</relatedcountry>
+        <relatedcountry>wurttemberg</relatedcountry>
+    </resource>
+    <resource>
+        <name>italian-unification</name>
+        <!--<relatedcountry>italy</relatedcountry>-->
+        <relatedcountry>papal-states</relatedcountry>
+        <relatedcountry>parma</relatedcountry>
+        <relatedcountry>piedmont-sardinia</relatedcountry>
+        <relatedcountry>grand-duchy-tuscany</relatedcountry>
+        <relatedcountry>two-sicilies</relatedcountry>
+        <relatedcountry>genoa</relatedcountry>
+    </resource>
+</resources>

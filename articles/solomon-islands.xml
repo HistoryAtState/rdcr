@@ -1,0 +1,81 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: The Solomon Islands </title>
+                <title type="short">The Solomon Islands </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Evan Dawley, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p> Relations between the United States and what is now the <placeName key="sb">Solomon Islands</placeName> began in the late 19th century, when U.S.
+                    vessels began stopping at the islands. During World War II they became the site
+                    of intense battles between U.S. and Japanese forces, particularly on the island
+                    of <placeName key="guadalcanal">Guadalcanal</placeName>. Relations remained
+                    mostly informal until after the Solomon Islands gained their independence in
+                    1978.</p>
+                <figure>
+                    <graphic url="solomon-islands-flag.jpg"/>
+                    <head>Modern Flag of The Solomon Islands</head>
+                </figure>
+                <div type="section" xml:id="recognition">
+                    <head>Recognition</head>
+                    <div type="timeline">
+                        <head>U.S. Recognition of the Solomon Islands, <date when="1978">1978</date>. </head>
+                        <p> The United States recognized the Solomon Islands on July 7, 1978, when
+                            Senator <persName>John H. Glenn</persName>, as the President’s Personal
+                            Representative, delivered a letter to that effect from President
+                            <persName>Jimmy Carter</persName> to Prime Minister <persName>Peter
+                                Kauona Keniaraisoona Kenilorea</persName>. The Solomon Islands
+                            previously had been under British sovereignty.</p>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations, <date when="1978">1978</date>. </head>
+                        <p> Diplomatic relations were established on October 9, 1978, when <ref target="/departmenthistory/people/olmsted-mary-seymour">Mary S.
+                            Olmsted</ref> presented her credentials as Ambassador to the Solomon
+                            Islands. Olmstead also was accredited to <placeName>Papua New
+                                Guinea</placeName> and was resident at <placeName>Port
+                                    Moresby</placeName>.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Establishment of the U.S. Embassy in the Solomon Islands, <date when="1988">1988</date>.</head>
+                        <p> The U.S. Consulate in <placeName key="honiara">Honiara</placeName> was
+                            upgraded to Embassy status on July 4, 1988, with <ref target="/departmenthistory/people/warren-william-fletcher">William
+                                Warren</ref> as Chargé d'Affaires <hi rend="italic">ad
+                                    interim</hi>.</p>
+                    </div>
+                    <div type="timeline">
+                        <head>Closure of U.S. Embassy in the Solomon Islands, <date when="1933">1993</date>.</head>
+                        <p> The United States closed its Embassy at Honiara on July 30, 1993.
+                            Ambassador <persName>Robert William</persName> remained Ambassador to
+                            the Solomon Islands and was also accredited to Papua New Guinea and
+                            Vanuatu, and was resident at Port Moresby.</p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2799.htm">Solomon Islands</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/bp/">Solomon Islands</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

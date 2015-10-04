@@ -1,0 +1,85 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Papua New
+                    Guinea</title>
+                <title type="short">Papua New Guinea</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Evan Dawley, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="history">
+                <head>Summary</head>
+                <p> Relations between the United States and what is now <placeName key="pg">Papua
+                    New Guinea</placeName> were limited prior to World War II. During the war
+                    many U.S. citizens served in the area, but it was only after the war, and
+                    particularly after the establishment of Papua New Guinean independence, that
+                    relations began to increase in scope and intensity.</p>
+                <figure>
+                    <graphic url="papua-new-guinea-flag.jpg"/>
+                    <head>Modern Flag of Papua New Guinea</head>
+                </figure>
+                <div type="section" xml:id="recognition">
+                    <head>Recognition</head>
+                    <div type="timeline">
+                        <head>U.S. Recognition of Papua New Guinea’s Independence, <date when="1975">1975</date>.</head>
+                        <p> The United States recognized Papua New Guinea on September 16, 1975,
+                            when <persName>Robert D. Ray</persName>, Governor of Iowa and personal
+                            representative of President <persName>Gerald Ford</persName>, presented
+                            a letter to that effect from President Ford to the Government of Papua
+                            New Guinea at its independence ceremonies. The new state of Papua New
+                            Guinea was comprised of New Guinea, Papua, which previously had been a
+                            Trust Territory administered by Australia, and nearby islands.</p>
+                    </div>
+                </div>
+                <div type="section" xml:id="consular-presence">
+                    <head>Consular Presence</head>
+                    <div type="timeline">
+                        <head>Establishment of Consular Relations, <date when="1974">1974</date>.</head>
+                        <p> The United States established its first consulate in the then
+                            self-governing Territory of Papua and New Guinea in the city of
+                            <placeName key="port-moresby">Port Moresby</placeName> on or about
+                            July 1, 1974, when Consulate General <ref target="/departmenthistory/people/olmsted-mary-seymour">Mary S.
+                                Olmsted</ref> arrived to open the office there. The Consul General
+                            opened to the public in September.</p>
+                    </div>
+                </div>
+                <div type="section" xml:id="diplomatic-relations">
+                    <head>Diplomatic Relations</head>
+                    <div type="timeline">
+                        <head>Establishment of Diplomatic Relations and the U.S. Embassy in Papua
+                            New Guinea, <date when="1975">1975</date>.</head>
+                        <p> Diplomatic relations were established on September 16, 1975, when the
+                            U.S. Consulate General at <placeName key="port-moresby">Port
+                                Moresby</placeName> was elevated to the status of Embassy and opened
+                            with Ambassador-designate <persName>Mary S. Olmsted</persName> in
+                            charge. Subsequently, the Ambassador to Papua New Guinea has also been
+                            accredited to the Solomon Islands and Vanuatu, and the Ambassador has
+                            remained resident at Port Moresby.</p>
+                    </div>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2797.htm">Papua New
+                        Guinea</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/pp/index.htm">Papua New
+                        Guinea</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Burundi</title>
+                <title type="short">Burundi</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States recognized the <placeName>Kingdom of Burundi</placeName> on
+                    July 1, 1962, when the United Nations ended the Trusteeship over Ruanda-Urundi
+                    that had been administered by Belgium. President <persName>John F.
+                        Kennedy</persName> extended U.S. recognition upon Burundi’s formal
+                    independence in a letter sent on June 28, 1962, to His Majesty <persName>Mwami
+                        Mwambutsa IV</persName>.</p>
+                <figure>
+                    <graphic url="burundi.jpg"/>
+                    <head>Modern Flag of Burundi</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Burundi, <date when="1962">1962</date>.</head>
+                    <p>The United States recognized the <placeName>Kingdom of Burundi</placeName> on
+                        July 1, 1962, when the United Nations ended the Trusteeship over
+                        Ruanda-Urundi that had been administered by Belgium. President
+                            <persName>John F. Kennedy</persName> extended U.S. recognition upon
+                        Burundi’s formal independence in a letter sent on June 28, 1962, to His
+                        Majesty <persName>Mwami Mwambutsa</persName> IV.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations and the American Embassy in Burundi, <date when="1962">1962</date>.</head>
+                    <p>Embassy <placeName key="usumbura">Usumbura</placeName> (Bujumbura) was
+                        established July 1, 1962, with <ref target="/departmenthistory/people/olds-herbert-vincent">Herbert V.
+                            Olds</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>. The
+                        rank of the mission was changed to Legation effective December 15, 1962, and
+                        to Embassy again effective September 16, 1963.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/by.html">Burundi</ref>
+                    </bibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2821.htm">Burundi</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/by">Burundi</ref>
+                    </bibl>
+                    <bibl>Langer, William L. <hi rend="italic">An Encyclopedia of World
+                        History</hi>. Boston: Houghton Mifflin Company, 1968.</bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

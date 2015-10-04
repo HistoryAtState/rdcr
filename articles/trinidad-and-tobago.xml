@@ -1,0 +1,69 @@
+<?xml-stylesheet?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Trinidad and Tobago</title>
+                <title type="short">Trinidad and Tobago</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and Written by Lindsay Krasnoff, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Under first Spanish and then British colonial rule, the two islands that
+                    constitute the state of <placeName xml:id="tt">Trinidad and Tobago</placeName> achieved independence in 1962. At
+                    that time, it joined the British Commonwealth. Since the 1960s, Trinidad and
+                    Tobago has emerged as one of the most industrialized countries in the
+                    English-speaking Caribbean, and is an active member of the international
+                    community. Today, the United States and Trinidad and Tobago enjoy cordial relations.<figure>
+                        <graphic url="trinidad-tobago-flag.jpg"/>
+                        <head>Modern Flag of Trinidad and Tobago</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of the Independence of Trinidad and Tobago, <date when="1962">1962</date>.</head>
+                    <p>The United States recognized Trinidad and Tobago the same day that it became
+                        independent on August 31, 1962, by establishing the U.S. Embassy in
+                            <placeName xml:id="port-of-spain">Port-of-Spain</placeName>. William
+                        Henry Hastie, a judge on the U.S. Court of Appeals for the Third Circuit,
+                        led the U.S. delegation at the independence ceremonies. </p>
+                </div>
+            </div>
+            <div type="section" xml:id="relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, <date when="1962">1962</date>. </head>
+                    <p>The United States established diplomatic relations with Trinidad and Tobago
+                        on August 31, 1962, when it recognized the island nation’s independence.
+                        That same day, the United States established the American Embassy in
+                        Port-of-Spain, with <ref target="/departmenthistory/people/christensen-william-harold">William H.
+                            Christensen</ref> as Chargé d'Affaires <hi rend="italic">ad
+                                interim</hi>. The first U.S. Ambassador to Trinidad and Tobago was <ref target="/departmenthistory/people/miner-robert-graham">Robert G.
+                                    Miner</ref> who presented his credentials on December 1, 1962. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35638.htm">Trinidad and
+                        Tobago</ref>
+                    </bibl>
+                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/td/ ">Trinidad and Tobago</ref>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

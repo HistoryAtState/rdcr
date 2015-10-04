@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States' History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Chile</title>
+                <title type="short">Chile</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2009</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Evan Duncan, February 2009</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The United States and Chile have had a long, dynamic relationship. While a
+                    Spanish colony and as a new nation, Chile’s distance from the East Coast of the
+                    United States impeded extensive interaction because ships had to sail around
+                    Cape Horn, the southern tip of South America, to reach Chile’s primary seaport,
+                        <placeName key="valparaíso">Valparaíso</placeName>. The key diplomatic
+                    events during the course of the U.S.-Chilean relationship often have exerted a
+                    profound influence upon U.S. policy. As signified by the landmark 2003 United
+                    States-Chile Free Trade Agreement, the two governments have consulted frequently
+                    on issues of mutual concern, and have worked together on many areas of interest
+                    and agreement. <figure>
+                        <graphic url="chile-flag.jpg"/>
+                        <head>Modern Flag of Chile</head>
+                    </figure>
+                </p>
+            </div>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of Chilean Independence, <date when="1823">1823</date>.</head>
+                    <p>The United States recognized the Republic of Chile on January 27, 1823, when
+                        the U.S. Senate confirmed President <ref target="/departmenthistory/people/monroe-james">James Monroe’s</ref>
+                        nomination of <ref target="/departmenthistory/people/allen-heman">Heman
+                            Allen</ref> of Vermont as Envoy Extraordinary and Minister
+                        Plenipotentiary to Chile. </p>
+                    <p>A colony of Spain, Chile previously had been an audiencia of the Viceroyalty
+                        of <placeName>Peru</placeName>. <persName>Napoleon’s</persName> French
+                        armies invaded Spain in 1808 and captured the Spanish monarch, Ferdinand
+                        VII. The invasion sparked revolutionary movements in Spain’s American
+                        colonies. Chilean revolutionaries declared Chile’s independence on September
+                        18, 1810. Several years of fighting followed, but by 1822 U.S. President
+                        Monroe concluded that Spain could not recover its American colonies, and on
+                        March 8, sent a message to Congress asking that Congress appropriate the
+                        funds for Ministers Plenipotentiary for Chile, La Plata (Argentina),
+                        Colombia, Peru, and Mexico. Spain protested, but Congress passed the
+                        appropriations bill and President Monroe signed it on May 4, 1822. On
+                        January 20, 1823, President Monroe nominated <ref target="/departmenthistory/people/allen-heman">Heman Allen</ref> of
+                        Vermont as Minister Plenipotentiary and Envoy Extraordinary to Chile, and
+                        Congress approved the nomination a week later on January 27, 1823.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations with Chile and the U.S. Legation,
+                            <date when="1824">1824.</date>
+                    </head>
+                    <p> The United States established diplomatic relations with Chile when Envoy
+                        Extraordinary and Minister Plenipotentiary <ref target="/departmenthistory/people/allen-heman">Heman Allen</ref> of
+                        Vermont presented his credentials to <persName>Ramón Freire
+                            Serrano</persName>, who had replaced <persName>Bernardo
+                            O’Higgins</persName> as Supreme Director, on April 23, 1824. </p>
+                </div>
+                <div type="timeline">
+                    <head>Elevation of U.S. Legation to Embassy Status, <date when="1914">1914.</date>
+                    </head>
+                    <p>The United States elevated its Legation in <placeName key="santiago">Santiago</placeName> to Embassy status on October 1, 1914, when U.S.
+                        Minister to Chile <ref target="/departmenthistory/people/fletcher-henry-prather">Henry P.
+                            Fletcher</ref> was appointed as U.S. Ambassador Extraordinary and
+                        Plenipotentiary. </p>
+                </div>
+                <div type="section" xml:id="treaties_agreements">
+                    <head>Treaties and Agreements</head>
+                    <div type="timeline">
+                        <head>The United States - Chile Free Trade Agreement, <date when="2003">2003</date>. </head>
+                    </div>
+                    <div type="appendix">
+                        <head>Resources</head>
+                        <listBibl>
+                            <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1981.htm ">Chile</ref>
+                            </bibl>
+                            <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/ci/index.htm ">Chile</ref>
+                            </bibl>
+                        </listBibl>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
