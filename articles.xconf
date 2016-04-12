@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:tei="http://www.tei-c.org/ns/1.0"><!-- Disable the legacy full text index -->
+        <fulltext default="none" attributes="false"/><!-- Lucene index configuration -->
+        <lucene>
+            <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
+            <text qname="tei:div"/>
+        </lucene>
+    </index>
+</collection>
