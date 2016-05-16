@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdcr="http://history.state.gov/ns/rdcr/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>RDCR TEI Guidelines</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>This document contains a customization of the TEI P5 Guidelines for use with “A Guide
+               to the United States’ History of Recognition, Diplomatic, and Consular Relations, by
+               Country, since 1776”</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This ODD was born digitally on May 16, 2016. Adapted from frus.odd. Notable changes:
+               allow listBibl, bibl, abbr, and @key. Note: placeName/@key values are provisional,
+               have not yet been linked to a geographic dictionary.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <schemaSpec ident="rdcr" start="TEI" source="tei:2.7.0">
+
+            <moduleRef key="core"
+               include="p hi gloss term name date time ref list item head note 
+               graphic pb lb editor title publisher pubPlace label gap unclear quote del l lg listBibl bibl abbr"/>
+            <moduleRef key="tei"/>
+            <moduleRef key="header"
+               include="teiHeader fileDesc titleStmt publicationStmt idno sourceDesc 
+               encodingDesc styleDefDecl tagsDecl rendition editorialDecl correction revisionDesc change"/>
+            <moduleRef key="textstructure"
+               include="TEI text body div byline dateline opener salute closer signed postscript titlePage 
+               docTitle titlePart docImprint docDate front back"/>
+            <moduleRef key="namesdates" include="persName placeName affiliation orgName"/>
+            <moduleRef key="figures" include="table row cell figure"/>
+            <!-- including the linking module gives us @corresp -->
+            <moduleRef key="linking" include="anchor seg"/>
+            <!-- including the transcr module gives us @facs -->
+            <moduleRef key="transcr" include="facsimile space"> </moduleRef>
+
+
+            <!-- remove all transcr attributes except for @facs -->
+            <classSpec type="atts" module="linking" ident="att.global.linking" mode="change">
+               <attList>
+                  <attDef ident="synch" mode="delete"/>
+                  <attDef ident="sameAs" mode="delete"/>
+                  <attDef ident="copyOf" mode="delete"/>
+                  <attDef ident="next" mode="delete"/>
+                  <attDef ident="prev" mode="delete"/>
+                  <attDef ident="exclude" mode="delete"/>
+                  <attDef ident="select" mode="delete"/>
+               </attList>
+            </classSpec>
+
+            <!-- remove a few attrs from a class (selective thinning):  -->
+            <classSpec type="atts" ident="att.global" mode="change">
+               <attList>
+                  <attDef ident="xml:space" mode="delete"/>
+                  <attDef ident="xml:base" mode="delete"/>
+               </attList>
+            </classSpec>
+
+            <!-- kill a few more -->
+            <classSpec type="atts" ident="att.breaking" mode="delete"/>
+            <classSpec type="atts" ident="att.declarable" mode="delete"/>
+            <classSpec type="atts" ident="att.declaring" mode="delete"/>
+            <classSpec type="atts" ident="att.divLike" mode="change">
+               <attList>
+                  <attDef ident="org" mode="delete"/>
+                  <attDef ident="sample" mode="delete"/>
+                  <attDef ident="part" mode="delete"/>
+               </attList>
+            </classSpec>
+            <classSpec type="atts" ident="att.docStatus" mode="delete"/>
+            <classSpec type="atts" ident="att.editLike" mode="delete"/>
+            <classSpec type="atts" ident="att.internetMedia" mode="delete"/>
+            <classSpec type="atts" ident="att.fragmentable" mode="delete"/>
+            <classSpec type="atts" ident="att.naming" mode="change">
+               <attList>
+                  <attDef ident="nymRef" mode="delete"/>
+               </attList>
+            </classSpec>
+            <!-- rather than delete att.personal (which disables att.canonical), delete its members -->
+            <classSpec type="atts" ident="att.personal" mode="change">
+               <attList>
+                  <attDef ident="full" mode="delete"/>
+                  <attDef ident="sort" mode="delete"/>
+               </attList>
+            </classSpec>
+            <!-- Keep @key, toss @ref -->
+            <classSpec type="atts" ident="att.canonical" mode="change">
+               <attList>
+                  <attDef ident="ref" mode="delete"/>
+               </attList>
+            </classSpec>
+
+            <!-- 
+                    remove attributes from <gap>, but ensure @quantity and @unit are available from att.dimensions
+                    -->
+            <elementSpec module="core" ident="gap" mode="change">
+               <classes>
+                  <memberOf key="att.global"/>
+                  <memberOf key="model.global.edit"/>
+                  <memberOf key="att.dimensions"/>
+               </classes>
+               <attList>
+                  <attDef ident="hand" mode="delete"/>
+                  <attDef ident="agent" mode="delete"/>
+               </attList>
+            </elementSpec>
+            <classSpec type="atts" ident="att.dimensions" mode="change">
+               <attList>
+                  <attDef ident="extent" mode="delete"/>
+                  <attDef ident="precision" mode="delete"/>
+                  <attDef ident="scope" mode="delete"/>
+               </attList>
+            </classSpec>
+         </schemaSpec>
+      </body>
+   </text>
+</TEI>

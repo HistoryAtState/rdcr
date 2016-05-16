@@ -1,0 +1,8 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+element resources { 
+    element resource {
+        element name { text },
+        element relatedcountry { text }+
+    }*
+}

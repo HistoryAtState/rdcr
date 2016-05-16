@@ -1,3 +1,8 @@
 # A Guide to the United States' History of Recognition, Diplomatic, and Consular Relations, by Country, since 1776
 
 Source data for [A Guide to the United States' History of Recognition, Diplomatic, and Consular Relations, by Country, since 1776](https://history.state.gov/countries)
+
+## Format and schema
+- The main content, which is located in the `articles` and `issues` directories, conforms to the [Text Encoding Initiative](http://www.tei-c.org/) Guidelines. A project-specific schema for these documents can be found in the `schema` directory: `rdcr.odd` and its derivative RelaxNG Compact file, `rdcr.rnc`.
+- The `related-resources` directory contains a single file for associating `issues` with `articles`. Its schema can be found in `schema`: `resources.rnc` and `resources.sch`.
+- All other files at the root of this directory are ancillary and relate solely to build and deployment processes.
