@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Tunisia</title>
                 <title type="short">Tunisia</title>
             </titleStmt>
@@ -19,11 +19,11 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> At the time of U.S. independence, Tunis was a state with nominal dependence to
+                <p>At the time of U.S. independence, Tunis was a state with nominal dependence to
                     the Ottoman Empire, but which was able to conduct its own foreign policy and
                     conclude treaties. The United States has maintained official representation in
                     Tunis almost continuously since 1795, and a Treaty of Peace and Friendship with
-                    <placeName xml:id="tn">Tunisia</placeName> was signed in 1797.</p>
+                        <placeName xml:id="tn">Tunisia</placeName> was signed in 1797.</p>
                 <figure>
                     <graphic url="tunisia-flag.jpg"/>
                     <head>Modern Flag of Tunisia</head>
@@ -31,41 +31,44 @@
                 <div type="section" xml:id="recognition">
                     <head>Recognition</head>
                     <div type="timeline">
-                        <head>Tunisian Recognition of the United States, <date when="1795">1795</date>.</head>
-                        <p> Tunisian recognition of the United State occurred at some time in
+                        <head>Tunisian Recognition of the United States, <date when="1795"
+                                >1795</date>.</head>
+                        <p>Tunisian recognition of the United State occurred at some time in
                             mid-1795, when Tunisian authorities accepted the appointment of an
-                            American consular representative for Tunis. At the time, <persName>Joseph
-                                Donaldson</persName> held U.S. consular authority over all the Barbary States, and
-                            was named Consul for Tunis on March 28, 1795, but remained at post in
-                            Algiers. <persName>Joseph Étienne Famin</persName>, a French merchant at Tunis, was deputized
-                            to act as U.S. consular official. Famin also established a truce between
-                            the United States and the Tunisian government which took effect on June
-                            15, 1796. He subsequently was empowered to negotiate a formal Treaty of
+                            American consular representative for Tunis. At the time,
+                                <persName>Joseph Donaldson</persName> held U.S. consular authority
+                            over all the Barbary States, and was named Consul for Tunis on March 28,
+                            1795, but remained at post in Algiers. <persName>Joseph Étienne
+                                Famin</persName>, a French merchant at Tunis, was deputized to act
+                            as U.S. consular official. Famin also established a truce between the
+                            United States and the Tunisian government which took effect on June 15,
+                            1796. He subsequently was empowered to negotiate a formal Treaty of
                             Peace and Friendship on behalf of the United States with the Bey of
                             Tunis, which was signed on or around August 28, 1797.</p>
                     </div>
                     <div type="timeline">
                         <head>Tunisia under French Control, 1881-1956.</head>
-                        <p> After a period of increasing political and economic influence in
-                            Tunisia, the French government established control over Tunisia by the
-                            Treaty of Bardo on May 12, 1881. The La Marsa Convention, signed June 8,
-                            1883, explicitly stated that Tunisia was a French protectorate, and
-                            ended Tunisian power to conduct international diplomacy.</p>
+                        <p>After a period of increasing political and economic influence in Tunisia,
+                            the French government established control over Tunisia by the Treaty of
+                            Bardo on May 12, 1881. The La Marsa Convention, signed June 8, 1883,
+                            explicitly stated that Tunisia was a French protectorate, and ended
+                            Tunisian power to conduct international diplomacy.</p>
                     </div>
                     <div type="timeline">
                         <head>U.S. Recognition of Tunisian Independence, 1956.</head>
-                        <p> The United States recognized Tunisia’s independence from France on March
-                            22, 1956, when U.S. Consul General in Tunisa, <ref target="/departmenthistory/people/hughes-morris-nelson">Morris N.
+                        <p>The United States recognized Tunisia’s independence from France on March
+                            22, 1956, when U.S. Consul General in Tunisa, <ref
+                                target="/departmenthistory/people/hughes-morris-nelson">Morris N.
                                 Hughes</ref>, sent an official congratulatory message to Sidi
-                            Mohammed Lamine Pasha, Bey of Tunis and the Tunisian Government. </p>
+                            Mohammed Lamine Pasha, Bey of Tunis and the Tunisian Government.</p>
                     </div>
                 </div>
                 <div type="section" xml:id="consular-presence">
                     <head>Consular Presence</head>
                     <div type="timeline">
                         <head>Consulate at Tunis, <date from="1795" to="1956">1795 to 1956</date>
-                            (with interruptions). </head>
-                        <p> Consular relations began with the deputization of Joseph Flamin in 1795
+                            (with interruptions).</head>
+                        <p>Consular relations began with the deputization of Joseph Flamin in 1795
                             or 1796. At this time, Joseph Donaldson held U.S. consular authority
                             over all the Barbary States, but remained at post in Algiers. Flamin
                             remained in Tunis after the signing of the August 1, 1797 treaty, until
@@ -82,29 +85,37 @@
                             office was raised to the status of a Consulate General effective May 22,
                             1946. The Consulate General was elevated to the status of U.S. Embassy
                             on June 5, 1956. This status was recognized the next day.</p>
-                        <p> Other consulates, with extant dates:</p>
+                        <p>Other consulates, with extant dates:</p>
                         <list>
                             <item>
-                                <placeName xml:id="bizerte">Bizerte</placeName> (Bizerta) ( 1871-1923 )</item>
+                                <placeName xml:id="bizerte">Bizerte</placeName> (Bizerta) (
+                                1871-1923 )</item>
                             <item>
-                                <placeName xml:id="jerba">Jerba</placeName> (Djerba, Gerba) ( 1871-? )</item>
+                                <placeName xml:id="jerba">Jerba</placeName> (Djerba, Gerba) ( 1871-?
+                                )</item>
                             <item>
-                                <placeName xml:id="la-goulette">La Goulette</placeName> (Goletta, Halq al-Wadi) ( 1871-? )</item>
+                                <placeName xml:id="la-goulette">La Goulette</placeName> (Goletta,
+                                Halq al-Wadi) ( 1871-? )</item>
                             <item>
-                                <placeName xml:id="mahdia">Mahdia</placeName> (Madia, al-Mahdiya, Mahedia, Mehdia) ( 1871-? )</item>
+                                <placeName xml:id="mahdia">Mahdia</placeName> (Madia, al-Mahdiya,
+                                Mahedia, Mehdia) ( 1871-? )</item>
                             <item>
-                                <placeName xml:id="monatico">Monatico</placeName>(?)( 1871-? )</item>
+                                <placeName xml:id="monatico">Monatico</placeName>(?)( 1871-?
+                                )</item>
                             <item>
-                                <placeName xml:id="sfax">Sfax</placeName> (Safaqis) ( 1871-? )</item>
+                                <placeName xml:id="sfax">Sfax</placeName> (Safaqis) ( 1871-?
+                                )</item>
                             <item>
-                                <placeName xml:id="sousse">Sousse</placeName> (Susa) ( 1871-? )</item>
+                                <placeName xml:id="sousse">Sousse</placeName> (Susa) ( 1871-?
+                                )</item>
                         </list>
                     </div>
                 </div>
                 <div type="section" xml:id="diplomatic-relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
-                        <head>No Permanent Diplomatic Relations, <date from="1796" to="1881">1796-1881</date>. </head>
+                        <head>No Permanent Diplomatic Relations, <date from="1796" to="1881"
+                                >1796-1881</date>.</head>
                         <p>Although the United States maintained a consular presence in Tunis from
                             1795, with interruptions, and a Tunisian envoy visited the United States
                             from 1805-1806, no permanent diplomatic relations existed during the
@@ -112,9 +123,10 @@
                     </div>
                     <div type="timeline">
                         <head>Establishment of Diplomatic Relations and the American Embassy in
-                            Tunisia, <date when="1956">1956</date>. </head>
-                        <p> Diplomatic relations were established on June 6, 1956, when U.S. Charge
-                            d’Affaires <ref target="/departmenthistory/people/hughes-morris-nelson">Morris N. Hughes</ref> presented his credentials. The U.S.
+                            Tunisia, <date when="1956">1956</date>.</head>
+                        <p>Diplomatic relations were established on June 6, 1956, when U.S. Charge
+                            d’Affaires <ref target="/departmenthistory/people/hughes-morris-nelson"
+                                >Morris N. Hughes</ref> presented his credentials. The U.S.
                             Government designated the opening of the Embassy on June 5.</p>
                     </div>
                 </div>
@@ -122,19 +134,21 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5439.htm ">Tunisia</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/5439.htm ">Tunisia</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/c2421.htm">Tunisia</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/nea/ci/c2421.htm">Tunisia</ref>
                     </bibl>
                     <bibl>Irwin, Ray W. <hi rend="italic">The Diplomatic Relations of the United
-                        States with the Barbary Powers, 1776-1816.</hi> Chapel Hill: University
+                            States with the Barbary Powers, 1776-1816.</hi> Chapel Hill: University
                         of North Carolina Press, 1931.</bibl>
                     <bibl>Lambert, Frank. <hi rend="italic">The Barbary Wars: American Independence
-                        in the Atlantic World.</hi> New York: Hill and Wang, 2005.</bibl>
+                            in the Atlantic World.</hi> New York: Hill and Wang, 2005.</bibl>
                     <bibl>Ling, Dwight L. <hi rend="italic">Tunisia, from Protectorate to
-                        Republic.</hi> Bloomington: Indiana University Press, 1967.</bibl>
+                            Republic.</hi> Bloomington: Indiana University Press, 1967.</bibl>
                     <bibl>Nelson, Harold D. and Howard C. Reese. <hi rend="italic">Tunisia, a
-                        Country Study.</hi> Washington: U.S. Government Printing Office,
+                            Country Study.</hi> Washington: U.S. Government Printing Office,
                         1979.</bibl>
                 </listBibl>
             </div>

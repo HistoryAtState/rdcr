@@ -3,8 +3,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
-                    Diplomatic, and Consular Relations, by Country, since 1776: The Cayman Islands</title>
+                <title type="complete">A Guide to the United States’ History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: The Cayman
+                    Islands</title>
                 <title type="short">The Cayman Islands</title>
             </titleStmt>
             <publicationStmt>
@@ -27,7 +28,7 @@
                     Caymanians are of African and British descent, with considerable interracial
                     mixing. Great Britain took formal control of the Cayman Islands, along with
                     Jamaica, under the Treaty of Madrid in 1670. Following several unsuccessful
-                    attempts, permanent settlement of the islands began in the 1730s. </p>
+                    attempts, permanent settlement of the islands began in the 1730s.</p>
                 <figure>
                     <graphic url="cayman-islands-flag.jpg"/>
                     <head>Modern Flag of Cayman Islands</head>
@@ -35,20 +36,19 @@
                 <p>
                     <hi rend="italic">The 20th Century:</hi> The Cayman Islands, initially
                     administered as a dependency of Jamaica, became an independent colony in 1959;
-                    they now are a self-governing British Overseas Territory. </p>
+                    they now are a self-governing British Overseas Territory.</p>
             </div>
             <div type="section" xml:id="Foreign-Relations">
                 <head>Foreign Relations</head>
-                <p>Although the United Kingdom is
-                    responsible for the Cayman Islands' defense and external affairs, important
-                    bilateral issues are often resolved by negotiations between the Cayman
-                    Government and foreign governments, including the United States. Despite close
-                    historic and political links to the U.K. and Jamaica, geography and the rise of
-                    tourism and international finance in the Cayman Islands' economy has made the
-                    United States its most important foreign economic partner. Following a dip in
-                    tourists from the United States after September 11, 2001, over 200,000 U.S.
-                    citizens traveled by air to the Cayman Islands in 2004; some 4,761 Americans
-                    were resident there as of 2005. </p>
+                <p>Although the United Kingdom is responsible for the Cayman Islands' defense and
+                    external affairs, important bilateral issues are often resolved by negotiations
+                    between the Cayman Government and foreign governments, including the United
+                    States. Despite close historic and political links to the U.K. and Jamaica,
+                    geography and the rise of tourism and international finance in the Cayman
+                    Islands' economy has made the United States its most important foreign economic
+                    partner. Following a dip in tourists from the United States after September 11,
+                    2001, over 200,000 U.S. citizens traveled by air to the Cayman Islands in 2004;
+                    some 4,761 Americans were resident there as of 2005.</p>
             </div>
         </body>
     </text>

@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Venezuela</title>
                 <title type="short">Venezuela</title>
             </titleStmt>
@@ -44,7 +44,8 @@
             <div type="section" xml:id="consular-presence">
                 <head>Consular Presence</head>
                 <div type="timeline">
-                    <head>Establishment of Consulate in <placeName xml:id="maracaibo">Maracaibo</placeName>, <date when="1824">1824</date>.</head>
+                    <head>Establishment of Consulate in <placeName xml:id="maracaibo"
+                            >Maracaibo</placeName>, <date when="1824">1824</date>.</head>
                     <p>The first U.S. consulate in the present-day territory of Venezuela
                         established in the Caribbean port city of <placeName>Maracaibo</placeName>
                         in 1824. The post closed in 1994.</p>
@@ -53,13 +54,17 @@
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1835">1835</date>.</head>
+                    <head>Establishment of Diplomatic Relations, <date when="1835"
+                        >1835</date>.</head>
                     <p>Diplomatic relations were established on June 30, 1835, when U.S. Chargé
-                        d’Affaires <ref target="/departmenthistory/people/williamson-john-gustavus-adolphus">John G.A. Williamson</ref> presented his credentials to the Venezuelan
+                        d’Affaires <ref
+                            target="/departmenthistory/people/williamson-john-gustavus-adolphus"
+                            >John G.A. Williamson</ref> presented his credentials to the Venezuelan
                         Government.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of Status of Legation in <placeName xml:id="caracas">Caracas</placeName> to Embassy, <date when="1939">1939</date>.</head>
+                    <head>Elevation of Status of Legation in <placeName xml:id="caracas"
+                            >Caracas</placeName> to Embassy, <date when="1939">1939</date>.</head>
                     <p>The U.S. Legation in Venezuela was raised to the rank of Embassy in 1939.
                             <ref target="/departmenthistory/people/corrigan-francis-patrick">Frank
                             P. Corrigan</ref> became the first U.S. Ambassador to Venezuela.</p>
@@ -68,7 +73,8 @@
             <div type="section" xml:id="treaties-agreements">
                 <head>Treaties &amp; Agreements</head>
                 <div type="timeline">
-                    <head>Treaty of Peace, Friendship, Navigation, and Commerce, <date when="1836">1836</date>.</head>
+                    <head>Treaty of Peace, Friendship, Navigation, and Commerce, <date when="1836"
+                            >1836</date>.</head>
                     <p>The first commercial treaty between the United States and the Republic of
                         Venezuela was signed on January 20, 1836. Ratifications were exchanged on
                         May 31, 1836, and it became effective on June 20 of that year.</p>
@@ -77,9 +83,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35766.htm">Venezuela</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/35766.htm">Venezuela</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/ve/index.htm">Venezuela</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/wha/ci/ve/index.htm">Venezuela</ref>
                     </bibl>
                 </listBibl>
             </div>

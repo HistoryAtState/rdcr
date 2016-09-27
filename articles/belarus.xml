@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Belarus</title>
                 <title type="short">Belarus</title>
             </titleStmt>
@@ -28,7 +28,7 @@
                         President<persName>Alexander Lukashenko</persName> since 1994. Under
                     Lukashenko U.S.-Belarusian relations have remained at a low level, despite
                     efforts with the European Union to set benchmarks for improving Belarus’ human
-                    rights and electoral practices. </p>
+                    rights and electoral practices.</p>
                 <figure>
                     <graphic url="belarus_flag.jpg"/>
                     <head>Modern Flag of Belarus</head>
@@ -42,41 +42,46 @@
                         December 25, 1991, when President <persName>George H.W. Bush</persName>
                         announced the decision in an address to the nation regarding the dissolution
                         of the <placeName>Soviet Union</placeName>. Belarus previously had been a
-                        constituent republic of the USSR. </p>
+                        constituent republic of the USSR.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1991">1991</date>.</head>
+                    <head>Establishment of Diplomatic Relations, <date when="1991"
+                        >1991</date>.</head>
                     <p>Diplomatic relations were established on December 25, 1991, when President
                             <persName>George H.W. Bush</persName> announced the decision in an
                         address to the nation regarding the dissolution of the Soviet Union.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Embassy in Minsk, <date when="1992">1992</date>. </head>
-                    <p> The American Embassy in <placeName key="minsk">Minsk</placeName> was
+                    <head>Establishment of the American Embassy in Minsk, <date when="1992"
+                            >1992</date>.</head>
+                    <p>The American Embassy in <placeName key="minsk">Minsk</placeName> was
                         established on January 31, 1992, with <persName>John Ford</persName> as
                         Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
                 <div type="timeline">
                     <head>American Ambassador Recalled, 2008.</head>
-                    <p> Ambassador <ref target="/departmenthistory/people/stewart-karen-b">Karen B.
+                    <p>Ambassador <ref target="/departmenthistory/people/stewart-karen-b">Karen B.
                             Stewart</ref> was recalled on March 12, 2008 following a threat of
                         expulsion by Belarusian authorities and the recall of Belarus’ Ambassador to
                         the United States. Belarus subsequently voluntarily reduced the staff at its
                         U.S. missions, excluding the mission to the UN, to five persons and demanded
-                        the U.S. reciprocate by reducing the U.S. Embassy in <placeName key="minsk">Minsk</placeName> to five diplomats. When the U.S. refused to comply,
+                        the U.S. reciprocate by reducing the U.S. Embassy in <placeName key="minsk"
+                            >Minsk</placeName> to five diplomats. When the U.S. refused to comply,
                         Belarusian authorities expelled several U.S. diplomats to reduce U.S.
-                        Embassy staffing to five diplomats. </p>
+                        Embassy staffing to five diplomats.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5371.htm">Belarus</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/5371.htm">Belarus</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/bo/">Belarus</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/bo/">Belarus</ref>
                     </bibl>
                 </listBibl>
             </div>

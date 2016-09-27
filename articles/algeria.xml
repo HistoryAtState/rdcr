@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Algeria</title>
                 <title type="short">Algeria</title>
             </titleStmt>
@@ -31,18 +31,21 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>Algerian Recognition of the United States, <date when="1795">1795</date>.</head>
+                    <head>Algerian Recognition of the United States, <date when="1795"
+                        >1795</date>.</head>
                     <p>Algiers recognized the United States by the signing of a peace treaty on
-                            <date when="1795-09-05">September 5, 1795</date>. </p>
+                            <date when="1795-09-05">September 5, 1795</date>.</p>
                 </div>
                 <div type="timeline">
-                    <head>Algeria under French Control, <date from="1830" to="1962">1830-1962</date>.</head>
+                    <head>Algeria under French Control, <date from="1830" to="1962"
+                        >1830-1962</date>.</head>
                     <p>Algerian self-rule ended with French conquest in 1830. In 1848, the French
                         government formally incorporated coastal Algeria into France as the
                         departments of Algiers, Oran, and Constantine.</p>
                 </div>
                 <div type="timeline">
-                    <head>U.S. Recognition of Algerian Independence, <date when="1962">1962</date>.</head>
+                    <head>U.S. Recognition of Algerian Independence, <date when="1962"
+                        >1962</date>.</head>
                     <p>The United States recognized Algeria on July 3, 1962, when President
                             <persName>John Kennedy</persName> issued a congratulatory message to the
                         Algerian people upon their independence from France. Algeria had opted for
@@ -57,10 +60,12 @@
                         with interruptions.</head>
                     <p>Formal U.S. Consular representation began with <persName>Joel
                             Barlow</persName>’s presentation of his credentials as consul to
-                            <persName>Dey Hassan</persName> of <placeName key="algiers">Algiers</placeName> on March 4, 1796. Prior to Barlow, <persName>John
+                            <persName>Dey Hassan</persName> of <placeName key="algiers"
+                            >Algiers</placeName> on March 4, 1796. Prior to Barlow, <persName>John
                             Paul Jones</persName> had been appointed as consul on June 2, 1792, but
                         died before reaching post. <persName>Pierre Eric Skjöldebrand</persName>,
-                        brother of the Swedish Consul at <placeName key="algiers">Algiers</placeName>, worked as an intermediary for the United States in
+                        brother of the Swedish Consul at <placeName key="algiers"
+                            >Algiers</placeName>, worked as an intermediary for the United States in
                         negotiating a peace treaty with Algiers. Consular presence was interrupted
                         from July 25, 1812 until July of 1815 owing to the Algerian War, one of the
                         Barbary Wars. When appointee <persName>David Porter</persName> heard of the
@@ -83,13 +88,18 @@
                                 date: <date when="1854">1854</date>
                             </item>
                             <item>
-                                <placeName key="annaba">Annaba</placeName> (Bône, Hippo)--A Consular Agent was appointed at Bône on <date when="1875-07-03">July 3, 1875.</date>
-                                The Agency closed <date when="1910-12-31">December 31, 1910.</date>
-                                A Consulate was established <date when="1943-06-04">June 4, 1943,</date> and closed <date when="1944-01-11">January 11, 1944.</date>
+                                <placeName key="annaba">Annaba</placeName> (Bône, Hippo)--A Consular
+                                Agent was appointed at Bône on <date when="1875-07-03">July 3,
+                                    1875.</date> The Agency closed <date when="1910-12-31">December
+                                    31, 1910.</date> A Consulate was established <date
+                                    when="1943-06-04">June 4, 1943,</date> and closed <date
+                                    when="1944-01-11">January 11, 1944.</date>
                             </item>
                             <item>
-                                <placeName key="collo">El Qoll</placeName> (Collo) and <placeName key="skikda">Philippeville</placeName> (Skikda)-- Earliest Date:
-                                    <date when="1882">1882</date>; Latest Date: <date when="1897">1897</date>
+                                <placeName key="collo">El Qoll</placeName> (Collo) and <placeName
+                                    key="skikda">Philippeville</placeName> (Skikda)-- Earliest Date:
+                                    <date when="1882">1882</date>; Latest Date: <date when="1897"
+                                    >1897</date>
                             </item>
                             <item>
                                 <placeName key="qacentina">Qacentina (Constantine,
@@ -101,17 +111,23 @@
                                 <placeName key="oran">Oran (Ouahran, Wahran</placeName>)--
                                 Pre-independence: <persName>William Shaler</persName>, American
                                 Consul General at Algiers, appointed a Consular Agent at Oran in
-                                <date when="1823">1823</date>; available records fail to show
-                                how long he served. A Consular Agency was established  <date from="1864-12-08" to="1937">December 8, 1864, which closed November 30, 1937</date>. A Consulate was established at Oran in <date from="1943-02" to="1964-05-09">February 1943 and was closed May
-                                        9, 1946</date>. Post-independence: The Consulate reopened on <date when="1962-06-11">June 11, 1962</date>, closed <date when="1967-06-06">June 6, 1967</date>, reopened <date when="1968-08">August 1968</date>, and closed in <date when="1993-06">June 1993</date>.
-                            </item>
+                                    <date when="1823">1823</date>; available records fail to show
+                                how long he served. A Consular Agency was established <date
+                                    from="1864-12-08" to="1937">December 8, 1864, which closed
+                                    November 30, 1937</date>. A Consulate was established at Oran in
+                                    <date from="1943-02" to="1964-05-09">February 1943 and was
+                                    closed May 9, 1946</date>. Post-independence: The Consulate
+                                reopened on <date when="1962-06-11">June 11, 1962</date>, closed
+                                    <date when="1967-06-06">June 6, 1967</date>, reopened <date
+                                    when="1968-08">August 1968</date>, and closed in <date
+                                    when="1993-06">June 1993</date>. </item>
                         </list>
                     </p>
                 </div>
                 <div type="section" xml:id="diplomatic_relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
-                        <head> Establishment of Diplomatic Relations and the American Embassy at
+                        <head>Establishment of Diplomatic Relations and the American Embassy at
                             Algiers, <date when="1962">1962.</date>
                         </head>
                         <p>Diplomatic relations and the American Embassy at Algiers were established
@@ -121,26 +137,32 @@
                                 <hi rend="italic">ad interim</hi>.</p>
                     </div>
                     <div type="timeline">
-                        <head>Diplomatic Relations Severed by Algeria, <date when="1967">1967.</date>
+                        <head>Diplomatic Relations Severed by Algeria, <date when="1967"
+                                >1967.</date>
                         </head>
-                        <p>Algeria severed diplomatic relations with the United States on <date when="1967-06-06">June 6, 1967</date>, in the wake of the June 1967
+                        <p>Algeria severed diplomatic relations with the United States on <date
+                                when="1967-06-06">June 6, 1967</date>, in the wake of the June 1967
                             Arab-Israeli War. A U.S. Interests Section was established in the Swiss
                             Embassy.</p>
                     </div>
                     <div type="timeline">
-                        <head>Diplomatic Relations Reestablished and Embassy Reopened, <date when="1974">1974.</date>
+                        <head>Diplomatic Relations Reestablished and Embassy Reopened, <date
+                                when="1974">1974.</date>
                         </head>
                         <p>The United States and Algeria reestablished diplomatic relations, and
-                            their respective embassies in <placeName key="algiers">Algiers</placeName> and <placeName>Washington</placeName> reopened
+                            their respective embassies in <placeName key="algiers"
+                                >Algiers</placeName> and <placeName>Washington</placeName> reopened
                             on <date when="1974-11-12">November 12, 1974</date>.</p>
                     </div>
                 </div>
                 <div type="appendix">
                     <head>Resources</head>
                     <listBibl>
-                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/8005.htm">Algeria</ref>
+                        <bibl>Department of State Country Fact Sheet: <ref
+                                target="http://www.state.gov/r/pa/ei/bgn/8005.htm">Algeria</ref>
                         </bibl>
-                        <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/ag/index.htm">Algeria</ref>
+                        <bibl>Department of State Country Information: <ref
+                                target="http://www.state.gov/p/nea/ci/ag/index.htm">Algeria</ref>
                         </bibl>
                         <bibl>Irwin, Ray W. <hi rend="italic">The Diplomatic Relations of the United
                                 States with the Barbary Powers 1776-1816. </hi>. Chapel Hill:

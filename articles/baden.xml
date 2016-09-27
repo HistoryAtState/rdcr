@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Baden</title>
                 <title type="short">Baden*</title>
             </titleStmt>
@@ -35,33 +35,39 @@
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>Mutual Recognition, <date when="1832">1832</date>.</head>
-                    <p> The first known act of mutual recognition between the United States and the
+                    <p>The first known act of mutual recognition between the United States and the
                         Grand Duchy of Baden occurred on July 13, 1832, when the first U.S.
-                        Consulate in the Grand Duchy of Baden opened in <placeName xml:id="baden-baden">Baden-Baden</placeName>.</p>
+                        Consulate in the Grand Duchy of Baden opened in <placeName
+                            xml:id="baden-baden">Baden-Baden</placeName>.</p>
                 </div>
             </div>
             <div type="section" xml:id="consular-presence">
                 <head>Consular Presence</head>
                 <div type="timeline">
-                    <head>The first U.S. Consulate in the Grand Duchy of Baden was opened on <date when="1832-07-13">July 13, 1832</date> in Baden-Baden.</head>
-                    <p> It closed on June 21, 1946. Other consulates in Baden included: <placeName xml:id="frieburg">Frieburg</placeName>, which opened on March 5, 1891
+                    <head>The first U.S. Consulate in the Grand Duchy of Baden was opened on <date
+                            when="1832-07-13">July 13, 1832</date> in Baden-Baden.</head>
+                    <p>It closed on June 21, 1946. Other consulates in Baden included: <placeName
+                            xml:id="frieburg">Frieburg</placeName>, which opened on March 5, 1891
                         and closed on May 11, 1908; <placeName xml:id="kehl">Kehl</placeName>, which
-                        opened on April 30, 1872, and closed on February 5, 1915; <placeName xml:id="carlsruhe">Carlsruhe</placeName> (Karlsruhe), which opened on
-                        March 3, 1855 and closed on February 18, 1872; and <placeName xml:id="mannheim">Mannheim</placeName> on October 26, 1843, and closed
+                        opened on April 30, 1872, and closed on February 5, 1915; <placeName
+                            xml:id="carlsruhe">Carlsruhe</placeName> (Karlsruhe), which opened on
+                        March 3, 1855 and closed on February 18, 1872; and <placeName
+                            xml:id="mannheim">Mannheim</placeName> on October 26, 1843, and closed
                         on July 8, 1916.</p>
                 </div>
                 <div type="timeline">
-                    <head>The first Consulate of the Grand Duchy of Baden, <date when="1833-12-20">December 20, 1833</date>.</head>
+                    <head>The first Consulate of the Grand Duchy of Baden, <date when="1833-12-20"
+                            >December 20, 1833</date>.</head>
                     <p>The first Consulate of the Grand Duchy of Baden in the United States was
                         established in New York on December 20, 1833, with <persName>C.F.
-                            Hoyer</persName> as Consul. </p>
+                            Hoyer</persName> as Consul.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
                     <head>Expansion of Relations, <date when="1868">1868</date>.</head>
-                    <p> The relationship between the United States and the Grand Duchy of Baden
+                    <p>The relationship between the United States and the Grand Duchy of Baden
                         continued to expand through the 1860s. On July 19, 1868, specially
                         accredited U.S. Minister to the Grand Duke of Baden <persName>George
                             Bancroft</persName> and the Minister of Foreign Affairs of the Grand
@@ -72,48 +78,49 @@
                         was recalled from his position in Berlin in 1874 (at his own request), he
                         was never officially recalled from the court of Baden. For several years
                         after Bancroft’s death in 1891, he remained listed as U.S. Minister to
-                        Baden. See entry on <ref target="/countries/issues/german-unification">German
-                            Unification</ref> for further details. </p>
+                        Baden. See entry on <ref target="/countries/issues/german-unification"
+                            >German Unification</ref> for further details.</p>
                 </div>
                 <div type="timeline">
                     <head>Cessation of Relations, <date when="1917">1917</date>.</head>
-                    <p> On February 3, 1917, U.S. President <persName>Woodrow Wilson</persName>
+                    <p>On February 3, 1917, U.S. President <persName>Woodrow Wilson</persName>
                         instructed the Secretary of State to notify the German Ambassador to the
                         United States that all diplomatic relations between the U.S. and the German
                         Empire were severed. As the foreign affairs of Imperial Germany were run out
                         of Berlin and decided upon by the Kaiser, this constituted the severance of
                         relations with Baden, as part of the German Empire. On April 6, 1917, Wilson
-                        declared war upon Imperial Germany. </p>
+                        declared war upon Imperial Germany.</p>
                 </div>
             </div>
             <div type="section" xml:id="treaties-agreements">
                 <head>Treaties and Agreements</head>
                 <div type="timeline">
                     <head>Extradition Convention, <date when="1857">1857</date>.</head>
-                    <p> An Extradition Convention was signed on January 30, 1857, by U.S. Minister
-                        to Prussia <persName>Peter D. Vroom</persName> and <persName>Baron Marschall
-                            de Bieberstein</persName>, the Grand Duke of Baden’s Minister at the
-                        Court of the King of Prussia.</p>
+                    <p>An Extradition Convention was signed on January 30, 1857, by U.S. Minister to
+                        Prussia <persName>Peter D. Vroom</persName> and <persName>Baron Marschall de
+                            Bieberstein</persName>, the Grand Duke of Baden’s Minister at the Court
+                        of the King of Prussia.</p>
                 </div>
                 <div type="timeline">
                     <head>Treaty on Naturalization, <date when="1868">1868</date>.</head>
-                    <p> The Treaty on Naturalization between citizens of the United States and the
+                    <p>The Treaty on Naturalization between citizens of the United States and the
                         Grand Duchy of Baden was signed on July 19, 1868, and allowed for the
                         naturalization of American citizens in Baden and that of Baden citizens in
-                        the United States. </p>
+                        the United States.</p>
                 </div>
             </div>
             <div type="section" xml:id="key-events">
                 <head>Key Diplomatic Events</head>
                 <div type="timeline">
-                    <head>Baden Joins the German Empire, <date when="1871">1871</date>. </head>
-                    <p> The Grand Duchy of Baden was one of the founding states of the German
-                        Empire, which was proclaimed on January 18, 1871.</p>
+                    <head>Baden Joins the German Empire, <date when="1871">1871</date>.</head>
+                    <p>The Grand Duchy of Baden was one of the founding states of the German Empire,
+                        which was proclaimed on January 18, 1871.</p>
                 </div>
                 <div type="timeline">
                     <head>German Unification.</head>
                     <p>Baden was one of the states involved in the process of German unification
-                        during the mid-nineteenth century. (See “<ref target="/countries/issues/german-unification">Unification of German
+                        during the mid-nineteenth century. (See “<ref
+                            target="/countries/issues/german-unification">Unification of German
                             States</ref>” for greater detail.)</p>
                 </div>
             </div>
@@ -140,7 +147,7 @@
                         foreign consuls in their territories (though not to send German consuls
                         abroad), and to enter into conventions with foreign nations as long as they
                         did not concern matters already within the jurisdiction of the Empire or the
-                        Emperor. </p>
+                        Emperor.</p>
                 </div>
             </div>
             <div type="appendix">

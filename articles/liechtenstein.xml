@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776:
                     Liechtenstein</title>
                 <title type="short">Liechtenstein</title>
@@ -20,13 +20,14 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p>Although the United States has long maintained good relations with <placeName key="li">Liechtenstein</placeName>, Liechtenstein yielded control of its
+                <p>Although the United States has long maintained good relations with <placeName
+                        key="li">Liechtenstein</placeName>, Liechtenstein yielded control of its
                     foreign affairs to Switzerland for much of the twentieth century. Therefore,
                     direct diplomatic connections between Liechtenstein and the United States are of
                     relatively recent origin. Liechtenstein began pursuing independent membership in
                     international organizations at the end of the twentieth century. The United
                     States first accredited its Ambassador to Switzerland to serve Liechtenstein in
-                    1997. </p>
+                    1997.</p>
                 <figure>
                     <graphic url="liechtenstein-flag.jpg"/>
                     <head>Modern Flag of Liechtenstein</head>
@@ -44,24 +45,28 @@
                         Switzerland and Liechtenstein allowed free passage between their two
                         countries, an exchange of notes between the Swiss and U.S. governments
                         extended rights of a U.S.-Swiss agreement to include citizens of
-                        Liechtenstein as well. </p>
+                        Liechtenstein as well.</p>
                 </div>
             </div>
             <div type="section" xml:id="relations">
                 <head>History of Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1997">1997</date>. </head>
-                    <p>On February 10, 1997, U.S. Ambassador to Switzerland <ref target="/departmenthistory/people/kunin-madeleine-may">Madeleine M.
-                        Kunin</ref> was the first U.S. Ambassador accredited to Liechtenstein,
-                        resident at Bern. </p>
+                    <head>Establishment of Diplomatic Relations, <date when="1997"
+                        >1997</date>.</head>
+                    <p>On February 10, 1997, U.S. Ambassador to Switzerland <ref
+                            target="/departmenthistory/people/kunin-madeleine-may">Madeleine M.
+                            Kunin</ref> was the first U.S. Ambassador accredited to Liechtenstein,
+                        resident at Bern.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/9403.htm">Liechtenstein</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/9403.htm">Liechtenstein</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/ls/index.htm">Liechtenstein</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/ls/index.htm">Liechtenstein</ref>
                     </bibl>
                 </listBibl>
             </div>

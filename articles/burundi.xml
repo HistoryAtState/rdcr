@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Burundi</title>
                 <title type="short">Burundi</title>
             </titleStmt>
@@ -44,9 +44,11 @@
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations and the American Embassy in Burundi, <date when="1962">1962</date>.</head>
+                    <head>Establishment of Diplomatic Relations and the American Embassy in Burundi,
+                            <date when="1962">1962</date>.</head>
                     <p>Embassy <placeName key="usumbura">Usumbura</placeName> (Bujumbura) was
-                        established July 1, 1962, with <ref target="/departmenthistory/people/olds-herbert-vincent">Herbert V.
+                        established July 1, 1962, with <ref
+                            target="/departmenthistory/people/olds-herbert-vincent">Herbert V.
                             Olds</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>. The
                         rank of the mission was changed to Legation effective December 15, 1962, and
                         to Embassy again effective September 16, 1963.</p>
@@ -55,11 +57,15 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/by.html">Burundi</ref>
+                    <bibl>CIA World Factbook: <ref
+                            target="https://www.cia.gov/library/publications/the-world-factbook/geos/by.html"
+                            >Burundi</ref>
                     </bibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2821.htm">Burundi</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2821.htm">Burundi</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/by">Burundi</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/by">Burundi</ref>
                     </bibl>
                     <bibl>Langer, William L. <hi rend="italic">An Encyclopedia of World
                         History</hi>. Boston: Houghton Mifflin Company, 1968.</bibl>

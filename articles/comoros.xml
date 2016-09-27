@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Comoros</title>
                 <title type="short">Comoros</title>
             </titleStmt>
@@ -19,9 +19,10 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The United States recognized the Republic of the Comoros on August 15, 1977,
-                    when the United States and the Comorian Republic issued a joint communiqué that
-                    announced the establishment of diplomatic relations between the two countries. </p>
+                <p>The United States recognized the Republic of the Comoros on August 15, 1977, when
+                    the United States and the Comorian Republic issued a joint communiqué that
+                    announced the establishment of diplomatic relations between the two
+                    countries.</p>
                 <figure>
                     <graphic url="comoros-flag.jpg"/>
                     <head>Modern Flag of Comoros</head>
@@ -31,45 +32,52 @@
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>U.S. Recognition of Comoros, <date when="1977">1977</date>.</head>
-                    <p> The United States recognized the Republic of the Comoros on August 15, 1977,
+                    <p>The United States recognized the Republic of the Comoros on August 15, 1977,
                         when the United States and the Comorian Republic issued a joint communiqué
                         that announced the establishment of diplomatic relations between the two
-                        countries. </p>
+                        countries.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1977">1977</date>. </head>
-                    <p> Diplomatic relations were established on August 15, 1977, when United States
+                    <head>Establishment of Diplomatic Relations, <date when="1977"
+                        >1977</date>.</head>
+                    <p>Diplomatic relations were established on August 15, 1977, when United States
                         and the Comorian Republic issued a joint communiqué that announced the
                         establishment of diplomatic relations between the two countries. The first
                         American Charge d’Affaires <hi rend="italic">ad interim</hi> to the Republic
-                        of the Comoros, <ref target="/departmenthistory/people/barrett-robert-south">Robert S. Barrett IV</ref>, presented his credentials to Foreign
+                        of the Comoros, <ref target="/departmenthistory/people/barrett-robert-south"
+                            >Robert S. Barrett IV</ref>, presented his credentials to Foreign
                         Minister <persName>Mouzawior Abdallah</persName> on August 16, 1977. Barrett
                         was also Charge d’Affairs <hi rend="italic">ad interim</hi> and resident at
-                            <placeName>Antananarivo, Madagascar</placeName>. </p>
+                            <placeName>Antananarivo, Madagascar</placeName>.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Embassy in Comoros, <date when="1985">1985</date>.</head>
-                    <p> The American Embassy at Moroni was established on August 26, 1985, with <ref target="/departmenthistory/people/brynn-edward-p">Edward Brynn</ref> as
-                        Chargé d'Affaires <hi rend="italic">ad interim</hi>. </p>
+                    <head>Establishment of the American Embassy in Comoros, <date when="1985"
+                            >1985</date>.</head>
+                    <p>The American Embassy at Moroni was established on August 26, 1985, with <ref
+                            target="/departmenthistory/people/brynn-edward-p">Edward Brynn</ref> as
+                        Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
                 <div type="timeline">
-                    <head>Closure of the American Embassy in Comoros, <date when="1993">1993</date>.</head>
-                    <p> The American Embassy at <placeName key="moroni">Moroni</placeName> was
-                        closed on September 30, 1993. Subsequent American Ambassadors to Comoros
-                        also have been accredited to Mauritius, and resident at <placeName>Port Louis</placeName>. On March 6, 2006, responsibilities for Comoros were transferred
-                        from Embassy Port Louis to Embassy Antananarivo.
-                    </p>
+                    <head>Closure of the American Embassy in Comoros, <date when="1993"
+                        >1993</date>.</head>
+                    <p>The American Embassy at <placeName key="moroni">Moroni</placeName> was closed
+                        on September 30, 1993. Subsequent American Ambassadors to Comoros also have
+                        been accredited to Mauritius, and resident at <placeName>Port
+                            Louis</placeName>. On March 6, 2006, responsibilities for Comoros were
+                        transferred from Embassy Port Louis to Embassy Antananarivo.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5236.htm">Comoros</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/5236.htm">Comoros</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/cn/">Comoros</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/cn/">Comoros</ref>
                     </bibl>
                 </listBibl>
             </div>

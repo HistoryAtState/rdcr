@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Sri Lanka</title>
                 <title type="short">Sri Lanka</title>
             </titleStmt>
@@ -19,8 +19,8 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The United States recognized <placeName key="lk">Ceylon (now Sri
-                    Lanka)</placeName> in 1948. The United States enjoys cordial relations with
+                <p>The United States recognized <placeName key="lk">Ceylon (now Sri
+                        Lanka)</placeName> in 1948. The United States enjoys cordial relations with
                     Sri Lanka that are based, in large part, on shared democratic traditions.</p>
                 <figure>
                     <graphic url="sri-lanka-flag.jpg"/>
@@ -30,27 +30,31 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Ceylon’s Independence, <date when="1948">1948</date>.</head>
-                    <p> The United States recognized Ceylon (Sri Lanka) as an independent state with
+                    <head>U.S. Recognition of Ceylon’s Independence, <date when="1948"
+                        >1948</date>.</head>
+                    <p>The United States recognized Ceylon (Sri Lanka) as an independent state with
                         the status of Dominion within the British Commonwealth of Nation on February
                         4, 1948, in accordance with the date set in an agreement between the
                         governments of the United Kingdom and Ceylon. President <persName>Harry S.
                             Truman</persName> extended American recognition in a letter to Sir
-                        <persName>Henry Moore</persName>, Governor General of Ceylon, dated
-                        February 3, 1948. </p>
+                            <persName>Henry Moore</persName>, Governor General of Ceylon, dated
+                        February 3, 1948.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1948">1948</date>. </head>
-                    <p> Diplomatic relations were established on October 29, 1948, when the Embassy
+                    <head>Establishment of Diplomatic Relations, <date when="1948"
+                        >1948</date>.</head>
+                    <p>Diplomatic relations were established on October 29, 1948, when the Embassy
                         of Ceylon opened in Washington, D.C. with Sir <persName>Claude
-                            Corea</persName> as Ambassador Extraordinary and Plenipotentiary. </p>
+                            Corea</persName> as Ambassador Extraordinary and Plenipotentiary.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of American Embassy in Colombo, <date when="1949">1949</date>.</head>
-                    <p> Diplomatic relations were established on August 3, 1949, when <ref target="/departmenthistory/people/cole-felix">Felix Cole</ref> presented
+                    <head>Establishment of American Embassy in Colombo, <date when="1949"
+                            >1949</date>.</head>
+                    <p>Diplomatic relations were established on August 3, 1949, when <ref
+                            target="/departmenthistory/people/cole-felix">Felix Cole</ref> presented
                         his credentials as American Ambassador Extraordinary and
                         Plenipotentiary.</p>
                 </div>
@@ -58,11 +62,14 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5249.htm">Sri Lanka</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/5249.htm">Sri Lanka</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/sca/ci/ce/">Sri Lanka</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/sca/ci/ce/">Sri Lanka</ref>
                     </bibl>
-                    <bibl>Library of Congress Country Study: <ref target="http://lcweb2.loc.gov/frd/cs/lktoc.html">Sri Lanka</ref>
+                    <bibl>Library of Congress Country Study: <ref
+                            target="http://lcweb2.loc.gov/frd/cs/lktoc.html">Sri Lanka</ref>
                     </bibl>
                 </listBibl>
             </div>

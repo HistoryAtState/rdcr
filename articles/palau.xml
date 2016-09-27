@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Palau</title>
                 <title type="short">Palau</title>
             </titleStmt>
@@ -19,23 +19,25 @@
             <div type="section" xml:id="summary">
                 <head>Summary</head>
                 <p>
-                    <placeName key="pw">Palau</placeName> was part of the <ref target="/milestones/1937-1945/un">United Nations</ref> Trust Territory of
+                    <placeName key="pw">Palau</placeName> was part of the <ref
+                        target="/milestones/1937-1945/un">United Nations</ref> Trust Territory of
                     the Pacific, administered by the United States, following World War II. In 1978
                     Palau began the process of independence and gained it in 1994. The United States
                     recognized Palau at the same time that the trusteeship ended. The United States
-                    has an embassy in <placeName key="koror">Koror</placeName>. </p>
+                    has an embassy in <placeName key="koror">Koror</placeName>.</p>
             </div>
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Palauan Independence, <date when="1994">1994</date>.</head>
+                    <head>U.S. Recognition of Palauan Independence, <date when="1994"
+                        >1994</date>.</head>
                     <p>On September 27, 1994, U.S. President <persName>William Clinton</persName>
                         issued proclamation 6726, noting that as of that day the United States had
                         fulfilled its obligations to Palau under the terms of the Trusteeship
                         Agreement. Therefore, as of October 1, 1994, Palau would no longer be under
                         U.S. trusteeship, and a Compact of Free Association agreed on between the
                         two countries would go into force. This latter date marks U.S. recognition
-                        of Palau’s independence. </p>
+                        of Palau’s independence.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic_relations">
@@ -43,24 +45,29 @@
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations, <date when="1996">1996.</date>
                     </head>
-                    <p>On December 6, 1996, U.S. Ambassador to the Philippines <ref target="/departmenthistory/people/hubbard-thomas-c">Thomas C.
-                        Hubbard</ref> was accredited to Palau; he remained resident at
-                        <placeName>Manila</placeName>.</p>
+                    <p>On December 6, 1996, U.S. Ambassador to the Philippines <ref
+                            target="/departmenthistory/people/hubbard-thomas-c">Thomas C.
+                            Hubbard</ref> was accredited to Palau; he remained resident at
+                            <placeName>Manila</placeName>.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Embassy at Palau, <date when="2004">2004.</date>
+                    <head>Establishment of the American Embassy at Palau, <date when="2004"
+                            >2004.</date>
                     </head>
                     <p>In 2004, responsibility for Palau was no longer given to the U.S. Ambassador
-                        to the Philippines. The American Embassy in <placeName key="koror">Koror</placeName> was established on October 10, 2004, with
-                        <persName>Deborah L. Kingsland</persName> as Chargé d’Affaires.</p>
+                        to the Philippines. The American Embassy in <placeName key="koror"
+                            >Koror</placeName> was established on October 10, 2004, with
+                            <persName>Deborah L. Kingsland</persName> as Chargé d’Affaires.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1840.htm">Palau</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/1840.htm">Palau</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/ps">Palau</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eap/ci/ps">Palau</ref>
                     </bibl>
                 </listBibl>
             </div>

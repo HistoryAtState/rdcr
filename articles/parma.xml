@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: The Duchy of
                     Parma</title>
                 <title type="short">The Duchy of Parma*</title>
@@ -30,19 +30,19 @@
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>Mutual Recognition, <date when="1850">1850</date>.</head>
-                    <p> The first known act of mutual recognition between the United States and the
+                    <p>The first known act of mutual recognition between the United States and the
                         Duchy of Parma occurred in June 1850 when the Duke of Parma appointed a
                         representative to the United States. At the time, this representative,
                         Chevalier Rocco Martuscelli, was the Chargé d’Affaires at Washington for the
                         Kingdom of the Two Sicilies. With consent of the Government of the Two
                         Sicilies, Martuscelli presented his credentials as representative of the
-                        Duke of Parma in the United States in June 1850. </p>
+                        Duke of Parma in the United States in June 1850.</p>
                     <!-- <p>Martuscelli died in early 1853. On January 24, 1853, Don Giovacchino Marco di
                         Sastrustegui, the Spanish Minister Resident , was accredited as Consul of
                         Parma for the State of California, resident in San Francisco. From 1853
                         through the 1859 incorporation of Parma into the Kingdom of
                         Piedmont-Sardinia, Spanish diplomats represented the interests of the Duchy
-                        of Parma in the United States. </p> -->
+                        of Parma in the United States.</p> -->
                 </div>
             </div>
             <div type="section" xml:id="consular_presence">
@@ -54,15 +54,17 @@
                         Kingdom of Italy (1861).</p>
                     <p>On January 24, 1853, Don Giovacchino Marco di Sastrustegui, the Spanish
                         Minister Resident, was accredited as Consul of Parma for the State of
-                        California, resident in San Francisco. </p>
+                        California, resident in San Francisco.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1853">1853</date>.</head>
-                    <p> On June 20, 1853, U.S. Secretary of State <ref target="/departmenthistory/people/marcy-william-learned">William L.
-                        Marcy</ref> addressed a note to Don Angel Calderón de la Barca, Minister
+                    <head>Establishment of Diplomatic Relations, <date when="1853"
+                        >1853</date>.</head>
+                    <p>On June 20, 1853, U.S. Secretary of State <ref
+                            target="/departmenthistory/people/marcy-william-learned">William L.
+                            Marcy</ref> addressed a note to Don Angel Calderón de la Barca, Minister
                         Resident from Spain, stating that the President would receive him on the
                         following day for the ceremony of presentation of his credentials as Envoy
                         Extraordinary and Minister Plenipotentiary of the Duke of Parma.</p>
@@ -70,14 +72,15 @@
                 <div type="timeline">
                     <head>Cessation of Diplomatic Relations, <date when="1860">1860</date>.</head>
                     <p>The Ministers of Spain appear to have represented Parma in the United States
-                        up to the incorporation of that Duchy into Piedmont-Sardinia in 1860. </p>
+                        up to the incorporation of that Duchy into Piedmont-Sardinia in 1860.</p>
                 </div>
             </div>
             <div type="section" xml:id="key-events">
                 <head>Key Diplomatic Events</head>
                 <div type="timeline">
-                    <head>Proclamation of the Kingdom of Italy, <date when="1861">1861</date>.</head>
-                    <p> The aftermath of the Franco-Austrian War brought about a series of
+                    <head>Proclamation of the Kingdom of Italy, <date when="1861"
+                        >1861</date>.</head>
+                    <p>The aftermath of the Franco-Austrian War brought about a series of
                         plebiscites in the northern Italian states. By going to the ballot box, the
                         states voted to join Piedmont-Sardinia, with the ultimate goal of unifying
                         the entire peninsula. It should be noted that Piedmont-Sardinia was one of
@@ -88,18 +91,19 @@
                         family of Piedmont-Sardinia as the new ruling monarchs of Italy.</p>
                 </div>
                 <div type="timeline">
-                    <head>U.S. Recognition of Italian Independence, <date when="1861">1861</date>. </head>
-                    <p> The United States officially recognized the Kingdom of Italy when it
-                        accepted the credentials of Chevalier Joseph Bertinatti as Minister
-                        Plenipotentiary of the Kingdom of Italy on April 11, 1861.</p>
+                    <head>U.S. Recognition of Italian Independence, <date when="1861"
+                        >1861</date>.</head>
+                    <p>The United States officially recognized the Kingdom of Italy when it accepted
+                        the credentials of Chevalier Joseph Bertinatti as Minister Plenipotentiary
+                        of the Kingdom of Italy on April 11, 1861.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
                     <bibl>Howard R. Marraro. <hi rend="italic">Diplomatic Relations Between the
-                        United States and the Kingdom of the Two Sicilies. Volume I:
-                        1816-1850.</hi> (New York: S.F. Vanni (Ragusa), 1951), 35-37.</bibl>
+                            United States and the Kingdom of the Two Sicilies. Volume I:
+                            1816-1850.</hi> (New York: S.F. Vanni (Ragusa), 1951), 35-37.</bibl>
                 </listBibl>
             </div>
         </body>

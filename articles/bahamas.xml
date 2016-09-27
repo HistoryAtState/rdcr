@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: The Bahamas</title>
                 <title type="short">The Bahamas</title>
             </titleStmt>
@@ -31,10 +31,11 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Bahamanian Independence, <date when="1973">1973</date>.</head>
+                    <head>U.S. Recognition of Bahamanian Independence, <date when="1973"
+                        >1973</date>.</head>
                     <p>The United States formally recognized The Bahamas on July 10, 1973, when the
                         American Embassy in <placeName key="nassau">Nassau</placeName> was
-                        established. </p>
+                        established.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic_relations">
@@ -44,16 +45,19 @@
                             <date when="1973">1973.</date>
                     </head>
                     <p>Diplomatic relations and the American Embassy in Nassau were established July
-                        10, 1973, with <ref target="/departmenthistory/people/spear-moncrieff-johnston">Moncrieff J.
-                            Spear</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>. </p>
+                        10, 1973, with <ref
+                            target="/departmenthistory/people/spear-moncrieff-johnston">Moncrieff J.
+                            Spear</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1857.htm">The Bahamas</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/1857.htm">The Bahamas</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/bf">The Bahamas</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/wha/ci/bf">The Bahamas</ref>
                     </bibl>
                 </listBibl>
             </div>

@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Mali</title>
                 <title type="short">Mali</title>
             </titleStmt>
@@ -19,9 +19,9 @@
             <div type="section" xml:id="summary">
                 <head>Summary</head>
                 <p>The United States recognized the <placeName key="ml">Federation of
-                    Mali</placeName> on June 20, 1960, in a congratulatory message from
+                        Mali</placeName> on June 20, 1960, in a congratulatory message from
                     President <persName>Dwight D. Eisenhower</persName> to President
-                    <persName>Modibo Keita</persName>.</p>
+                        <persName>Modibo Keita</persName>.</p>
                 <figure>
                     <graphic url="mali-flag.jpg"/>
                     <head>Modern Flag of Mali</head>
@@ -30,34 +30,38 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Mali’s Independence, <date when="1960">1960</date>.</head>
+                    <head>U.S. Recognition of Mali’s Independence, <date when="1960"
+                        >1960</date>.</head>
                     <p>The United States recognized the <placeName>Federation of Mali</placeName> on
                         June 20, 1960, in a congratulatory message from President <persName>Dwight
                             D. Eisenhower</persName> to President Modibo Keita. On that date, the
                         Federation of Mali (composed of the Republic of Senegal and the Soudanese
-                        Republic) attained independence from French sovereignty. </p>
+                        Republic) attained independence from French sovereignty.</p>
                 </div>
                 <div type="section" xml:id="diplomatic-relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
-                        <head>U.S. Recognition of the Republic of Mali, <date when="1960">1960</date>.</head>
+                        <head>U.S. Recognition of the Republic of Mali, <date when="1960"
+                                >1960</date>.</head>
                         <p>The United States recognized the <placeName>Republic of Mali</placeName>
-                            on September 24, 1960, when the American Consul at <placeName key="bamako">Bamako</placeName>
+                            on September 24, 1960, when the American Consul at <placeName
+                                key="bamako">Bamako</placeName>
                             <ref target="/departmenthistory/people/dean-john-gunther">John Gunther
                                 Dean</ref> so informed the Malian government according to
                             instructions from the Department of State. The <placeName>Republic of
                                 Senegal</placeName> had withdrawn from the Federation of Mali on
                             August 20, 1960, and on September 22, 1960, the National Assembly of the
-                            Republic of Soudan legislated that it would become the Republic of Mali.
-                        </p>
+                            Republic of Soudan legislated that it would become the Republic of
+                            Mali.</p>
                     </div>
                     <div type="timeline">
                         <head>Establishment of Diplomatic Relations and the American Embassy in the
                             Federation of Mali, <date when="1960">1960</date>.</head>
                         <p>Diplomatic relations were established with the Federation of Mali on June
                             20, 1960, when the Consulate General at Dakar was elevated to Embassy
-                            status with <ref target="/departmenthistory/people/dumont-donald-albert">Donald A. Dumont</ref> as Chargé d'Affaires <hi rend="italic">ad
-                                interim</hi>. </p>
+                            status with <ref target="/departmenthistory/people/dumont-donald-albert"
+                                >Donald A. Dumont</ref> as Chargé d'Affaires <hi rend="italic">ad
+                                interim</hi>.</p>
                     </div>
                     <div type="timeline">
                         <head>Establishment of Diplomatic Relations and the American Embassy in the
@@ -68,16 +72,18 @@
                             d'Affaires <hi rend="itali">ad interim</hi>. On the same date, the
                             American Embassy at Dakar was reaccredited to the independent Republic
                             of Senegal, thereby formally ending diplomatic relations with the
-                            Federation of Mali. </p>
+                            Federation of Mali.</p>
                     </div>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2828.htm">Mali</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2828.htm">Mali</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/ml">Mali</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/ml">Mali</ref>
                     </bibl>
                 </listBibl>
             </div>

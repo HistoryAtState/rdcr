@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Cameroon</title>
                 <title type="short">Cameroon</title>
             </titleStmt>
@@ -19,7 +19,8 @@
             <div type="section" xml:id="summary">
                 <head>Summary</head>
                 <p>The United States recognized the Republic of Cameroon on January 1, 1960, when
-                    U.S. Consul General at Yaounde <ref target="/departmenthistory/people/more-james-bolard">Bolard More</ref>
+                    U.S. Consul General at Yaounde <ref
+                        target="/departmenthistory/people/more-james-bolard">Bolard More</ref>
                     notified Cameroon authorities that the post was being elevated to an
                     Embassy.</p>
                 <figure>
@@ -32,31 +33,38 @@
                 <div type="timeline">
                     <head>U.S. Recognition of Cameroon, <date when="1960">1960</date>.</head>
                     <p>The United States recognized the Republic of Cameroon on January 1, 1960,
-                        when U.S. Consul General at Yaounde <ref target="/departmenthistory/people/more-james-bolard">Bolard More</ref>
+                        when U.S. Consul General at Yaounde <ref
+                            target="/departmenthistory/people/more-james-bolard">Bolard More</ref>
                         notified Cameroon authorities that the post was being elevated to an
                         Embassy. On that same date, the United Nations ended the Trusteeship over
-                        Cameroon that had been administered by France. </p>
+                        Cameroon that had been administered by France.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and the American Embassy in
-                            Cameroon, <date when="1960">1960.</date>
+                        Cameroon, <date when="1960">1960.</date>
                     </head>
                     <p>Diplomatic relations and the American Embassy in Cameroon were established on
-                        January 1, 1960, when the Consulate General at <placeName key="yaounde">Yaounde</placeName> was elevated to Embassy status, with
-                            <persName>Bolard More</persName> as Chargé d'Affaires <hi rend="italic">ad interim</hi>. </p>
+                        January 1, 1960, when the Consulate General at <placeName key="yaounde"
+                            >Yaounde</placeName> was elevated to Embassy status, with
+                            <persName>Bolard More</persName> as Chargé d'Affaires <hi rend="italic"
+                            >ad interim</hi>.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/cm.html">Cameroon</ref>
+                    <bibl>CIA World Factbook: <ref
+                            target="https://www.cia.gov/library/publications/the-world-factbook/geos/cm.html"
+                            >Cameroon</ref>
                     </bibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/26431.htm">Cameroon</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/26431.htm">Cameroon</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/cm">Cameroon</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/cm">Cameroon</ref>
                     </bibl>
                     <bibl>Langer, William L. <hi rend="italic">An Encyclopedia of World
                         History</hi>. Boston: Houghton Mifflin Company, 1968.</bibl>

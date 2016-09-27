@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Moldova</title>
                 <title type="short">Moldova</title>
             </titleStmt>
@@ -21,7 +21,7 @@
                 <p>The United States recognized <placeName key="md">Moldova</placeName>’s
                     independence on December 25, 1991, when President <persName>George H.W.
                         Bush</persName> announced the decision in an address to the nation regarding
-                    the dissolution of the Soviet Union. </p>
+                    the dissolution of the Soviet Union.</p>
                 <figure>
                     <graphic url="moldova-flag.jpg"/>
                     <head>Modern Flag of Moldova</head>
@@ -31,16 +31,17 @@
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>U.S. Recognition of Moldova, <date when="1991">1991</date>.</head>
-                    <p> The United States recognized Moldova’s independence on December 25, 1991,
+                    <p>The United States recognized Moldova’s independence on December 25, 1991,
                         when President <persName>George H.W. Bush</persName> announced the decision
                         in an address to the nation regarding the dissolution of the Soviet Union.
-                        Moldova previously had been a constituent republic of the USSR. </p>
+                        Moldova previously had been a constituent republic of the USSR.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1992-02-29">1992</date>.</head>
+                    <head>Establishment of Diplomatic Relations, <date when="1992-02-29"
+                        >1992</date>.</head>
                     <p>Diplomatic relations were established on February 29, 1992, when officials
                         from the U.S. Embassy in Moscow transmitted a diplomatic note to the
                         Moldovan Ministry of Foreign Affairs confirming the United States’
@@ -50,8 +51,9 @@
                         1992, meeting at the White House in Washington D.C.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Embassy in Chisinau, <date when="1992-03-13">1992</date>. </head>
-                    <p> The American Embassy in <placeName key="chisinau">Chisinau</placeName> was
+                    <head>Establishment of the American Embassy in Chisinau, <date when="1992-03-13"
+                            >1992</date>.</head>
+                    <p>The American Embassy in <placeName key="chisinau">Chisinau</placeName> was
                         established on March 13, 1992, with <persName>Howard Steers</persName> as
                         Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
@@ -59,9 +61,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5357.htm">Moldova</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/5357.htm">Moldova</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/md">Moldova</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/md">Moldova</ref>
                     </bibl>
                 </listBibl>
             </div>

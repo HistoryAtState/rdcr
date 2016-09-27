@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Costa Rica</title>
                 <title type="short">Costa Rica</title>
             </titleStmt>
@@ -19,11 +19,11 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> Costa Rica was originally part of the United Provinces of Central America, which
+                <p>Costa Rica was originally part of the United Provinces of Central America, which
                     had separated from <placeName>Mexico</placeName> in 1823. Although the United
                     Provinces had separated into El Salvador, Guatemala, Honduras, Nicaragua, and
                     Costa Rica by 1839, Costa Rica did not formally declare its independence until
-                    August 30, 1848. </p>
+                    August 30, 1848.</p>
                 <figure>
                     <graphic url="costa-rica-flag.jpg"/>
                     <head>Modern Flag of Costa Rica</head>
@@ -31,9 +31,11 @@
                 <div type="section" xml:id="recognition">
                     <head>Recognition</head>
                     <div type="timeline">
-                        <head>U.S. Recognition of Costa Rican Independence, <date when="1849">1849</date>.</head>
-                        <p> Costa Rica notified the United States of its independence on September
-                            5, 1848. On April 24, 1849, <ref target="/departmenthistory/people/squier-ephraim-george">Ephraim G.
+                        <head>U.S. Recognition of Costa Rican Independence, <date when="1849"
+                                >1849</date>.</head>
+                        <p>Costa Rica notified the United States of its independence on September 5,
+                            1848. On April 24, 1849, <ref
+                                target="/departmenthistory/people/squier-ephraim-george">Ephraim G.
                                 Squier</ref>, the U.S. Chargé d’Affaires in Guatemala, was given
                             full powers to negotiate commercial and other matters with Costa Rica.
                             This latter date constituted recognition by the United States. Squier
@@ -50,8 +52,8 @@
                                 José</placeName> in 1852. Other U.S. consular posts were:</p>
                         <list type="simple">
                             <item>
-                                <placeName key="port-limon">Port Limon</placeName> (Consular
-                                Agency 1872-1902; Consulate 1902-1948)</item>
+                                <placeName key="port-limon">Port Limon</placeName> (Consular Agency
+                                1872-1902; Consulate 1902-1948)</item>
                             <item>
                                 <placeName key="punta-arenas">Punta Arenas</placeName> (Commercial
                                 Agency 1859-1870; Consular Agency 1870-1932; Vice Consulate
@@ -62,31 +64,34 @@
                 <div type="section" xml:id="diplomatic-relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
-                        <head>Establishment of Diplomatic Relations, <date when="1851">1851</date>.</head>
-                        <p> Diplomatic relations were established on March 24, 1851, when Costa
-                            Rican Minister <persName>Felipe Molina</persName> presented his
-                            credentials in Washington. He served until his death on February 1,
-                            1855.</p>
+                        <head>Establishment of Diplomatic Relations, <date when="1851"
+                            >1851</date>.</head>
+                        <p>Diplomatic relations were established on March 24, 1851, when Costa Rican
+                            Minister <persName>Felipe Molina</persName> presented his credentials in
+                            Washington. He served until his death on February 1, 1855.</p>
                     </div>
                     <div type="timeline">
                         <head>First American Minister accredited to Costa Rica, 1853.</head>
-                        <p> American Envoy Extraordinary and Minister Plenipotentiary <ref target="/departmenthistory/people/borland-solon">Solon Borland</ref>
+                        <p>American Envoy Extraordinary and Minister Plenipotentiary <ref
+                                target="/departmenthistory/people/borland-solon">Solon Borland</ref>
                             was appointed to Honduras, Costa Rica, Nicaragua, and El Salvador on
                             April 19, 1853, although he only presented his credentials in Nicaragua.
                             The first U.S. Minister to present his credentials in Costa Rica was
-                                <ref target="/departmenthistory/people/lamar-mirabeau-buonaparte">Mirabeau B. Lamar</ref>, who was appointed to Costa Rica and
+                                <ref target="/departmenthistory/people/lamar-mirabeau-buonaparte"
+                                >Mirabeau B. Lamar</ref>, who was appointed to Costa Rica and
                             Nicaragua, and was resident in Managua. Lamar was appointed June 20,
-                            1858, and presented his credentials in Costa Rica on September 18. </p>
+                            1858, and presented his credentials in Costa Rica on September 18.</p>
                     </div>
                     <div type="timeline">
-                        <head>Establishment of the American Legation in San Jose, 1898. </head>
+                        <head>Establishment of the American Legation in San Jose, 1898.</head>
                         <p>
                             <ref target="/departmenthistory/people/merry-william-lawrence">William
                                 L. Merry</ref> was the first U.S. Minister to be resident in San
-                            Jose, and presented his credentials there on January 15, 1898. </p>
+                            Jose, and presented his credentials there on January 15, 1898.</p>
                     </div>
                     <div type="timeline">
-                        <head>Interruption of Relations, <date from="1917" to="1922">1917-1922</date>.</head>
+                        <head>Interruption of Relations, <date from="1917" to="1922"
+                                >1917-1922</date>.</head>
                         <p>On January 17, 1917, President <persName>Alfredo Gonzales</persName> was
                             overthrown in a military coup. The United States did not recognize the
                             new government of <persName>Federico Tinoco</persName>. U.S. Minister
@@ -100,27 +105,29 @@
                             1930.</p>
                     </div>
                     <div type="timeline">
-                        <head>Elevation of American Legation to Embassy Status, <date when="1943">1943</date>.</head>
+                        <head>Elevation of American Legation to Embassy Status, <date when="1943"
+                                >1943</date>.</head>
                         <p>
                             <ref target="/departmenthistory/people/des-portes-fay-allen">Fay A. Des
                                 Portes</ref> was appointed as the first U.S. Ambassador to Costa
                             Rica on March 27, 1943. He served from May 20, 1943 to September 11,
-                            1944. </p>
+                            1944.</p>
                         <p>
                             <persName>Don Francisco de P. Gutierrez</persName>, the first Costa
                             Rican Ambassador to the United States, presented his credentials on June
-                            15, 1944. </p>
+                            15, 1944.</p>
                     </div>
                 </div>
             </div>
             <div type="section" xml:id="treaties-agreements">
                 <head>Treaties &amp; Agreements</head>
                 <div type="timeline">
-                    <head>Treaty of Friendship, Commerce, and Navigation, <date when="1851">1851</date>
+                    <head>Treaty of Friendship, Commerce, and Navigation, <date when="1851"
+                            >1851</date>
                     </head>
                     <p>The first treaty between the United States and Costa Rica was a Treaty of
                         Friendship, Commerce, and Navigation, signed in Washington on July 10, 1851
-                        and entered into force on May 26, 1852. </p>
+                        and entered into force on May 26, 1852.</p>
                 </div>
             </div>
             <div type="appendix">
@@ -130,9 +137,11 @@
                             Agreements of the United States of America, 1776-1949.</hi> Volume 6:
                         Canada-Czechoslovakia. Department of State Publication 8549 (January
                         1971).</bibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2019.htm">Costa Rica</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2019.htm">Costa Rica</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/cs/">Costa Rica</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/wha/ci/cs/">Costa Rica</ref>
                     </bibl>
                     <bibl>Miller, Hunter. <hi rend="italic">Treaties and Other International Acts of
                             the United States of America.</hi> Volume 5, 1846-1852. Department of

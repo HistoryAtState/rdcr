@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Saint Kitts and
                     Nevis</title>
                 <title type="short">Saint Kitts and Nevis</title>
@@ -34,10 +34,12 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Saint Kitts and Nevis’ Independence, <date when="1983">1983</date>.</head>
+                    <head>U.S. Recognition of Saint Kitts and Nevis’ Independence, <date when="1983"
+                            >1983</date>.</head>
                     <p>The United States recognized St. Christopher and Nevis (St. Kitts and Nevis
                         since August 3, 1988) on September 19, 1983, the same day that country
-                        declared independence. Ambassador <ref target="/departmenthistory/people/bish-milan-d">Milan D. Bish</ref>
+                        declared independence. Ambassador <ref
+                            target="/departmenthistory/people/bish-milan-d">Milan D. Bish</ref>
                         headed the American delegation at the independence ceremonies.</p>
                 </div>
             </div>
@@ -52,37 +54,41 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>U.S. Special Representative to Saint Kitts and Nevis Appointed, <date when="1977">1977.</date>
+                    <head>U.S. Special Representative to Saint Kitts and Nevis Appointed, <date
+                            when="1977">1977.</date>
                     </head>
                     <p>
                         <ref target="/departmenthistory/people/ortiz-francis-vincent">Frank V.
                             Ortiz, Jr.</ref> was appointed United States Special Representative to
                         the States of <placeName>Antigua</placeName>,
-                        <placeName>Dominica</placeName>, <placeName>Saint
+                            <placeName>Dominica</placeName>, <placeName>Saint
                             Christopher-Nevis-Anguilla</placeName>, <placeName>St.
-                                Lucia</placeName>, and <placeName>Saint Vincent</placeName> on September 1,
+                        Lucia</placeName>, and <placeName>Saint Vincent</placeName> on September 1,
                         1977. The appointment was concurrent to his positions as Ambassador to
-                        <placeName>Barbados</placeName> and <placeName>Grenada</placeName>.</p>
+                            <placeName>Barbados</placeName> and <placeName>Grenada</placeName>.</p>
                 </div>
                 <div type="timeline">
                     <head>Diplomatic Relations Established, <date when="1983">1983.</date>
                     </head>
-                    <p>Diplomatic relations were established on September 20, 1983. </p>
+                    <p>Diplomatic relations were established on September 20, 1983.</p>
                 </div>
                 <div type="timeline">
                     <head>First U.S. Ambassador Presents Credentials, <date when="1984">1984.</date>
                     </head>
-                    <p>U.S. Ambassador <ref target="/departmenthistory/people/anderson-thomas-h">Thomas H. Anderson, Jr.</ref> presented his credentials on August 22,
+                    <p>U.S. Ambassador <ref target="/departmenthistory/people/anderson-thomas-h"
+                            >Thomas H. Anderson, Jr.</ref> presented his credentials on August 22,
                         1984. All U.S. ambassadors have been resident at Bridgetown, Barbados.</p>
                 </div>
                 <div type="appendix">
                     <head>Resources</head>
                     <listBibl>
-                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2341.htm">Saint Kitts and
-                            Nevis</ref>
+                        <bibl>Department of State Country Fact Sheet: <ref
+                                target="http://www.state.gov/r/pa/ei/bgn/2341.htm">Saint Kitts and
+                                Nevis</ref>
                         </bibl>
-                        <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/sc/index.htm">Saint Kitts and
-                            Nevis</ref>
+                        <bibl>Department of State Country Information: <ref
+                                target="http://www.state.gov/p/wha/ci/sc/index.htm">Saint Kitts and
+                                Nevis</ref>
                         </bibl>
                     </listBibl>
                 </div>

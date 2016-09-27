@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Honduras</title>
                 <title type="short">Honduras</title>
             </titleStmt>
@@ -19,7 +19,7 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> Honduras joined the Federation of Central American States that included
+                <p>Honduras joined the Federation of Central American States that included
                     Guatemala, Nicaragua, Costa Rica, and El Salvador two years following its 1821
                     independence from Spain. In the 1900s, U.S. companies established banana
                     plantations throughout Honduras that dominated the economy. Honduras has
@@ -35,7 +35,7 @@
                 <div type="timeline">
                     <head>U.S. Recognition of Honduran Independence, <date when="1824">1824</date>
                         &amp; <date when="1853">1853</date>.</head>
-                    <p> The United States recognized the independence of the Federation of Central
+                    <p>The United States recognized the independence of the Federation of Central
                         American States from <placeName>Spain</placeName> on August 4, 1824, when
                         President <persName>James Monroe</persName> received <persName>Mr.
                             Canaz</persName> as Envoy Extraordinary and Minister Plenipotentiary.
@@ -44,28 +44,34 @@
                         1838-1840, the United States recognized Honduras as a separate, independent
                         state on April 19, 1853, by the appointment of <persName>Solon
                             Borland</persName> as U.S. Envoy Extraordinary and Minister
-                        Plenipotentiary to Honduras, Costa Rica, Nicaragua, and El Salvador. </p>
+                        Plenipotentiary to Honduras, Costa Rica, Nicaragua, and El Salvador.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1853">1853</date>. </head>
-                    <p> Diplomatic relations were established on April 19, 1853, when American Envoy
-                        Extraordinary and Minister Plenipotentiary <ref target="/departmenthistory/people/borland-solon">Solon Borland</ref> was
+                    <head>Establishment of Diplomatic Relations, <date when="1853"
+                        >1853</date>.</head>
+                    <p>Diplomatic relations were established on April 19, 1853, when American Envoy
+                        Extraordinary and Minister Plenipotentiary <ref
+                            target="/departmenthistory/people/borland-solon">Solon Borland</ref> was
                         appointed to Honduras, Costa Rica, Nicaragua, and El Salvador. Borland did
-                        not present his credentials in <placeName key="tegucigalpa">Tegucigalpa</placeName>, though he was accredited to Honduras. </p>
+                        not present his credentials in <placeName key="tegucigalpa"
+                            >Tegucigalpa</placeName>, though he was accredited to Honduras.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Legation in Tegucigalpa, <date when="1858">1856</date>.</head>
-                    <p> The American Legation in <placeName key="comayagua">Comayagua</placeName>
-                        and Tegucigalpa was opened on February 22, 1856. The first Minister Resident
-                        to reside in Honduras was <ref target="/departmenthistory/people/partridge-james-rudolph">James R.
-                            Partridge</ref>, who presented his credentials on April 25, 1862. </p>
+                    <head>Establishment of the American Legation in Tegucigalpa, <date when="1858"
+                            >1856</date>.</head>
+                    <p>The American Legation in <placeName key="comayagua">Comayagua</placeName> and
+                        Tegucigalpa was opened on February 22, 1856. The first Minister Resident to
+                        reside in Honduras was <ref
+                            target="/departmenthistory/people/partridge-james-rudolph">James R.
+                            Partridge</ref>, who presented his credentials on April 25, 1862.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of American Legation to Embassy Status, <date when="1943">1943</date>.</head>
-                    <p> Following a joint announcement on March 23, 1943 between the United States
+                    <head>Elevation of American Legation to Embassy Status, <date when="1943"
+                            >1943</date>.</head>
+                    <p>Following a joint announcement on March 23, 1943 between the United States
                         and seven American Republics that included Honduras, the Legations in the
                         respective nations and the United States were raised to the status of
                         Embassy. <persName>John D. Irwin</persName> was promoted to Ambassador </p>
@@ -74,9 +80,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1922.htm">Honduras</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/1922.htm">Honduras</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/ho/index.htm">Honduras</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/wha/ci/ho/index.htm">Honduras</ref>
                     </bibl>
                 </listBibl>
             </div>

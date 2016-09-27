@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Niger </title>
                 <title type="short">Niger</title>
             </titleStmt>
@@ -37,36 +37,43 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Niger’s Independence, <date when="1960">1960</date>.</head>
+                    <head>U.S. Recognition of Niger’s Independence, <date when="1960"
+                        >1960</date>.</head>
                     <p>The United States recognized the <placeName>Republic of Niger</placeName> on
                         August 3, 1960, in a congratulatory message from President <persName>Dwight
                             D. Eisenhower</persName> to Prime Minister <persName>Hamani
-                                Diori</persName>. Niger had been previously under French sovereignty.
-                    </p>
+                            Diori</persName>. Niger had been previously under French
+                        sovereignty.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1960">1960</date>.</head>
-                    <p>Diplomatic relations were established on August 3, 1960, when <ref target="/departmenthistory/people/norland-donald-richard">Donald R.
-                        Norland</ref> presented credentials as Chargé d'Affaires <hi rend="italic">ad interim</hi>, August 2, 1960, to take effect the
-                        following day. </p>
+                    <head>Establishment of Diplomatic Relations, <date when="1960"
+                        >1960</date>.</head>
+                    <p>Diplomatic relations were established on August 3, 1960, when <ref
+                            target="/departmenthistory/people/norland-donald-richard">Donald R.
+                            Norland</ref> presented credentials as Chargé d'Affaires <hi
+                            rend="italic">ad interim</hi>, August 2, 1960, to take effect the
+                        following day.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Embassy in Niger, <date when="1961">1961</date>.</head>
+                    <head>Establishment of the American Embassy in Niger, <date when="1961"
+                            >1961</date>.</head>
                     <p>The American Embassy in <placeName key="niamey">Niamey</placeName> was
-                        established on February 3, 1961, with <ref target="/departmenthistory/people/schutz-joseph-willard">Joseph W.
-                            Schutz</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.
-                    </p>
+                        established on February 3, 1961, with <ref
+                            target="/departmenthistory/people/schutz-joseph-willard">Joseph W.
+                            Schutz</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5474.htm">Niger</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/5474.htm">Niger</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/ng/">Niger</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/ng/">Niger</ref>
                     </bibl>
                 </listBibl>
             </div>

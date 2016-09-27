@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Iran</title>
                 <title type="short">Iran</title>
             </titleStmt>
@@ -21,10 +21,11 @@
                 <head>Summary</head>
                 <p>The first formal act of diplomatic engagement and recognition between the United
                     States and the Kingdom of Persia (Iran), both long-established states, occurred
-                    on June 28, 1850, when U.S. Secretary of State <ref target="/departmenthistory/people/clayton-john-middleton">John Middleton
+                    on June 28, 1850, when U.S. Secretary of State <ref
+                        target="/departmenthistory/people/clayton-john-middleton">John Middleton
                         Clayton</ref> authorized the American Minister Resident at Constantinople,
-                    <persName>George P. Marsh</persName>, to negotiate a treaty of friendship
-                    and commerce with the Persian Chargé d’Affaires there. </p>
+                        <persName>George P. Marsh</persName>, to negotiate a treaty of friendship
+                    and commerce with the Persian Chargé d’Affaires there.</p>
                 <figure>
                     <graphic url="iran-flag.jpg"/>
                     <head>Modern Flag of Iran</head>
@@ -34,31 +35,34 @@
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>Mutual Recognition, <date when="1850">1850</date>.</head>
-                    <p> The first formal act of diplomatic engagement and recognition between the
+                    <p>The first formal act of diplomatic engagement and recognition between the
                         United States and the Kingdom of Persia (Iran), both long established
-                        states, occurred on June 28, 1850, when U.S. Secretary of State <ref target="/departmenthistory/people/clayton-john-middleton">John Middleton
+                        states, occurred on June 28, 1850, when U.S. Secretary of State <ref
+                            target="/departmenthistory/people/clayton-john-middleton">John Middleton
                             Clayton</ref> authorized the American Minister Resident at
-                        Constantinople, <ref target="/departmenthistory/people/marsh-george-perkins">George P. Marsh</ref>, to negotiate a treaty of friendship and commerce
+                        Constantinople, <ref target="/departmenthistory/people/marsh-george-perkins"
+                            >George P. Marsh</ref>, to negotiate a treaty of friendship and commerce
                         with the Persian Chargé d’Affaires there. The Persian Chargé had approached
                         Marsh in April 1850 and offered to ask his government for authority to
                         negotiate such a treaty. The treaty, finalized in November 1851, failed to
                         go into effect when the Persian government took no action on a
                         “most-favored-nation” commercial clause added to the treaty by the U.S.
-                        Senate in its ratification resolution. </p>
+                        Senate in its ratification resolution.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and the American Legation in Iran,
-                        <date when="1883">1883</date>.</head>
-                    <p> Diplomatic relations and the American Legation at Tehran were established on
-                        June 11, 1883, when Chargé d’Affaires <ref target="/departmenthistory/people/benjamin-samuel-greene-wheeler">S.G.W.
-                            Benjamin</ref> presented his credentials to the Shah of Persia. </p>
+                            <date when="1883">1883</date>.</head>
+                    <p>Diplomatic relations and the American Legation at Tehran were established on
+                        June 11, 1883, when Chargé d’Affaires <ref
+                            target="/departmenthistory/people/benjamin-samuel-greene-wheeler">S.G.W.
+                            Benjamin</ref> presented his credentials to the Shah of Persia.</p>
                 </div>
                 <div type="timeline">
                     <head>Diplomatic Relations Severed, <date when="1980">1980</date>.</head>
-                    <p> The United States severed diplomatic relations with Iran on April 7, 1980.
+                    <p>The United States severed diplomatic relations with Iran on April 7, 1980.
                         This action was taken following the seizure by student militants of the
                         American Embassy in <placeName key="tehran">Tehran</placeName> and its staff
                         on November 4, 1979, and the subsequent failure of the Iranian government to
@@ -70,9 +74,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5314.htm">Iran</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/5314.htm">Iran</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/ir">Iran</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/nea/ci/ir">Iran</ref>
                     </bibl>
                 </listBibl>
             </div>

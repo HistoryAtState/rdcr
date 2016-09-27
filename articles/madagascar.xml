@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Madagascar</title>
                 <title type="short">Madagascar</title>
             </titleStmt>
@@ -47,11 +47,11 @@
                     <div type="timeline">
                         <head>Elevation of U.S. Consulate to Embassy and Establishment of Diplomatic
                             Relations, <date when="1960">1960</date>.</head>
-                        <p>With the establishment of the independent Malagasy Republic, the
-                            American Consulate at <placeName key="antananarivo">Tananarive (now
+                        <p>With the establishment of the independent Malagasy Republic, the American
+                            Consulate at <placeName key="antananarivo">Tananarive (now
                                 Antananarivo)</placeName> was elevated to Embassy status on June 25,
                             1960 with former Consul <persName>J. Roland Jacobs</persName> as Charge
-                            d’Affaires <hi rend="italic">ad interim</hi>. </p>
+                            d’Affaires <hi rend="italic">ad interim</hi>.</p>
                     </div>
                     <div type="timeline">
                         <head>First U.S. Ambassador to the Malagasy Republic Appointed, <date
@@ -61,7 +61,7 @@
                                 >Frederic P. Bartlett </ref>was appointed Ambassador to the Malagasy
                             Republic on August 27, 1960.</p>
                     </div>
-                  
+
                 </div>
                 <div type="appendix">
                     <head>Resources</head>

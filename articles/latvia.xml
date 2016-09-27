@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Latvia</title>
                 <title type="short">Latvia</title>
             </titleStmt>
@@ -18,7 +18,8 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p>The United States first established diplomatic relations with <placeName key="latvia">Latvia</placeName> on July 28, 1922. The U.S. representative to
+                <p>The United States first established diplomatic relations with <placeName
+                        key="latvia">Latvia</placeName> on July 28, 1922. The U.S. representative to
                     Latvia also was accredited to Estonia and Lithuania until 1930, when legations
                     were established in those two states. The Soviet invasion and annexation of
                     Latvia and the other Baltic States of Estonia and Lithuania in 1940 forced the
@@ -29,7 +30,7 @@
                     United States have signed treaties on investment, trade, intellectual property
                     protection, extradition, mutual legal assistance, and avoidance of double
                     taxation. Latvia has enjoyed most-favored-nation treatment with the United
-                    States since December 1991. </p>
+                    States since December 1991.</p>
                 <figure>
                     <graphic url="latvia-flag.jpg"/>
                     <head>Modern Flag of Latvia</head>
@@ -39,34 +40,39 @@
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>United States Recognition of Latvia, <date when="1922">1922</date>.</head>
-                    <p> The United States recognized Latvia on July 28, 1922, when the U.S.
+                    <p>The United States recognized Latvia on July 28, 1922, when the U.S.
                         Commissioner at <placeName key="riga">Riga</placeName>, <persName>Evan
                             Young</persName>, informed the Foreign Office of Latvia of the United
-                        States’ decision. Secretary of State <ref target="/departmenthistory/people/hughes-charles-evans">Charles Evans
+                        States’ decision. Secretary of State <ref
+                            target="/departmenthistory/people/hughes-charles-evans">Charles Evans
                             Hughes</ref> had instructed Young in a telegram dated July 25, 1922, to
                         advise the Foreign Offices of Estonia, Latvia, and Lithuania of this
-                        decision on the 28th. </p>
+                        decision on the 28th.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1922">1922</date>.</head>
+                    <head>Establishment of Diplomatic Relations, <date when="1922"
+                        >1922</date>.</head>
                     <p>Diplomatic relations were established on July 28, 1922, when U.S.
-                        Commissioner at Riga, <ref target="/departmenthistory/people/young-evan-erastus">Evan Young</ref>,
+                        Commissioner at Riga, <ref
+                            target="/departmenthistory/people/young-evan-erastus">Evan Young</ref>,
                         informed the Foreign Office of Latvia that the United States’ recognized its
                         independence and that he would continue as the American representative to
-                        the three Baltic States, with the new rank of Minister. </p>
+                        the three Baltic States, with the new rank of Minister.</p>
                 </div>
                 <div type="timeline">
                     <head>Legation established at Riga, <date when="1922">1922</date>.</head>
                     <p>The U.S. Legation at Riga was established on November 13, 1922, when Envoy
-                        Extraordinary and Minister Plenipotentiary <ref target="/departmenthistory/people/coleman-frederick-william-backus">Frederick W.B. Coleman</ref> presented his credentials to the Latvian
-                        Government. Coleman also was accredited to Estonia and Lithuania. </p>
+                        Extraordinary and Minister Plenipotentiary <ref
+                            target="/departmenthistory/people/coleman-frederick-william-backus"
+                            >Frederick W.B. Coleman</ref> presented his credentials to the Latvian
+                        Government. Coleman also was accredited to Estonia and Lithuania.</p>
                 </div>
                 <div type="timeline">
                     <head>Legation at Riga Closed, <date when="1940">1940</date>.</head>
-                    <p> The U.S. Legation at Riga was closed on September 5, 1940, after the USSR
+                    <p>The U.S. Legation at Riga was closed on September 5, 1940, after the USSR
                         occupied and annexed Latvia, as well as Estonia and Lithuania, in August
                         1940. Although the Soviet actions forced the closure of the American
                         Legation and ended the de facto independence of Latvia, the United States
@@ -74,34 +80,40 @@
                         The U.S. Government permitted Latvian representatives accredited by the last
                         independent government to remain in the United States with diplomatic
                         status, and the U.S. position remained that diplomatic relations continued
-                        uninterrupted. </p>
+                        uninterrupted.</p>
                 </div>
                 <div type="timeline">
-                    <head>Recognition of Latvian Independence from the USSR, <date when="1991">1991</date>.</head>
-                    <p> The U.S. recognized the restoration of Latvia’s independence on September 2,
+                    <head>Recognition of Latvian Independence from the USSR, <date when="1991"
+                            >1991</date>.</head>
+                    <p>The U.S. recognized the restoration of Latvia’s independence on September 2,
                         1991, in an announcement by President <persName>George H.W.
-                            Bush</persName>.</p>
+                        Bush</persName>.</p>
                 </div>
                 <div type="timeline">
                     <head>Resumption of Normal Relations, <date when="1991">1991</date>.</head>
-                    <p> The United States and Latvia resumed normal diplomatic relations on
-                        September 5, 1991, when U.S. Deputy Assistant Secretary of State <ref target="/departmenthistory/people/kamman-curtis-w">Curtis Kamman</ref>
+                    <p>The United States and Latvia resumed normal diplomatic relations on September
+                        5, 1991, when U.S. Deputy Assistant Secretary of State <ref
+                            target="/departmenthistory/people/kamman-curtis-w">Curtis Kamman</ref>
                         and the Latvian First Secretary in the Ministry of Foreign Affairs,
-                        <persName>Martins Virsis</persName>, signed a memorandum of
+                            <persName>Martins Virsis</persName>, signed a memorandum of
                         understanding concerning diplomatic relations.</p>
                 </div>
                 <div type="timeline">
-                    <head>American Embassy at <placeName key="riga">Riga</placeName> Opened, <date when="1991">1991</date>.</head>
-                    <p> The American Embassy at Riga was established on October 2, 1991, with <ref target="/departmenthistory/people/silins-ints-m">Ints M. Silins</ref> as
-                        Chargé d'Affaires <hi rend="italic">ad interim</hi>. </p>
+                    <head>American Embassy at <placeName key="riga">Riga</placeName> Opened, <date
+                            when="1991">1991</date>.</head>
+                    <p>The American Embassy at Riga was established on October 2, 1991, with <ref
+                            target="/departmenthistory/people/silins-ints-m">Ints M. Silins</ref> as
+                        Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5378.htm">Latvia</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/5378.htm">Latvia</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/lg/">Latvia</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/lg/">Latvia</ref>
                     </bibl>
                 </listBibl>
             </div>

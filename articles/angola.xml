@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Angola</title>
                 <title type="short">Angola</title>
             </titleStmt>
@@ -18,14 +18,15 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p>The Portuguese first landed in what is today northern <placeName key="ao">Angola</placeName> in 1482, encountering the Kingdom of the Congo
+                <p>The Portuguese first landed in what is today northern <placeName key="ao"
+                        >Angola</placeName> in 1482, encountering the Kingdom of the Congo
                     stretching from modern-day Gabon in the north to the Kwanza River in the south.
                     The Portuguese gradually took control of the coastal area by a series of
                     treaties and wars throughout the 16th century, and their interest in Angola
                     quickly turned to the slave trade. Many scholars agree that by the 19th century,
                     Angola was the largest source of slaves for the Americas. Portugal eventually
                     secured administrative control over the interior in the beginning of the 20th
-                    century. </p>
+                    century.</p>
                 <p>As post-World War II decolonization progressed elsewhere in Africa, Portugal
                     continued to treat its African colonies as overseas provinces. Consequently,
                     three Angolan independence movements emerged. A 1974 military coup d’etat in
@@ -43,7 +44,8 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Response to Angolan Independence, <date when="1975">1975</date>.</head>
+                    <head>U.S. Response to Angolan Independence, <date when="1975"
+                        >1975</date>.</head>
                     <p>Portugal granted Angola independence on <date when="1975-11-11">November 11,
                             1975</date>, at a time when multiple Angolan nationalist forces were
                         fighting among themselves to establish control over the newly liberated
@@ -64,27 +66,31 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head> U.S. Liaison Office Established at Luanda, <date when="1992">1992.</date>
+                    <head>U.S. Liaison Office Established at Luanda, <date when="1992">1992.</date>
                     </head>
                     <p>The U.S. Liaison Office in <placeName key="luanda">Luanda</placeName> was
-                        opened <date when="1992-01-10">January 10, 1992</date>, with <ref target="/departmenthistory/people/millington-jeffrey">Jeffrey
-                            Millington</ref> as Director. </p>
+                        opened <date when="1992-01-10">January 10, 1992</date>, with <ref
+                            target="/departmenthistory/people/millington-jeffrey">Jeffrey
+                            Millington</ref> as Director.</p>
                 </div>
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and the American Embassy in Angola,
                             <date when="1994">1994.</date>
                     </head>
                     <p>Diplomatic relations were established on July 14, 1994, when American
-                        Ambassador <ref target="/departmenthistory/people/dejarnette-edmund-t">Edmund T. De Jarnette</ref> presented his credentials to Angolan
-                        authorities. </p>
+                        Ambassador <ref target="/departmenthistory/people/dejarnette-edmund-t"
+                            >Edmund T. De Jarnette</ref> presented his credentials to Angolan
+                        authorities.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/6619.htm">Angola</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/6619.htm">Angola</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/ao/index.htm">Angola</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/ao/index.htm">Angola</ref>
                     </bibl>
                 </listBibl>
             </div>

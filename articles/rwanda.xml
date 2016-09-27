@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Rwanda</title>
                 <title type="short">Rwanda</title>
             </titleStmt>
@@ -20,9 +20,9 @@
                 <head>Summary</head>
                 <p>The United States recognized <placeName key="rw">Rwanda</placeName> in 1962. The
                     U.S. Government is currently a major aid donor to Rwanda, where the
-                    <abbr>USAID</abbr> works in concert with the Rwandan Government to promote a
+                        <abbr>USAID</abbr> works in concert with the Rwandan Government to promote a
                     number of initiatives, including economic development and diversification,
-                    public health, and democratic governance. </p>
+                    public health, and democratic governance.</p>
                 <figure>
                     <graphic url="rwanda-flag.jpg"/>
                     <head>Modern Flag of Rwanda</head>
@@ -31,21 +31,22 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Rwandan Independence, <date when="1962">1962</date>.</head>
+                    <head>U.S. Recognition of Rwandan Independence, <date when="1962"
+                        >1962</date>.</head>
                     <p>The United States recognized the <placeName>Republic of Rwanda</placeName>
                         when it attained independence on July 1, 1962, in a congratulatory message
                         from President <persName>John F. Kennedy</persName> to President
-                        <persName>Gregoire Kayibanda</persName> dated June 28, 1962. The area
+                            <persName>Gregoire Kayibanda</persName> dated June 28, 1962. The area
                         that became Rwanda had been previously under Belgian administration as part
-                        of the Trust territory Ruanda-Urundi. </p>
+                        of the Trust territory Ruanda-Urundi.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and the American Embassy in Rwanda,
-                        <date when="1962">1962</date>.</head>
-                    <p> Diplomatic relations were established on July 1, 1962, when the American
+                            <date when="1962">1962</date>.</head>
+                    <p>Diplomatic relations were established on July 1, 1962, when the American
                         Embassy at <placeName key="kigali">Kigali</placeName> was established, with
                         David J.S. Manbey as Chargé d'Affaires <hi rend="italic">ad interim.</hi>
                     </p>
@@ -56,9 +57,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2861.htm">Rwanda</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2861.htm">Rwanda</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/rw/index.htm">Rwanda</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/rw/index.htm">Rwanda</ref>
                     </bibl>
                 </listBibl>
             </div>

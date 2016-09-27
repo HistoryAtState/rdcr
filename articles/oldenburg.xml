@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Oldenburg</title>
                 <title type="short">Oldenburg*</title>
             </titleStmt>
@@ -26,15 +26,16 @@
                     was a sovereign, independent state. Annexed by France in 1810, the Duchy of
                     Oldenburg was restored and elevated to the status of Grand Duchy following the
                     1815 Congress of Vienna. The United States and the Grand Duchy of Oldenburg
-                    mutually recognized each other in 1829. </p>
-                <p> During the 1866 Austro-Prussian War, Oldenburg sided with Prussia. In 1867
+                    mutually recognized each other in 1829.</p>
+                <p>During the 1866 Austro-Prussian War, Oldenburg sided with Prussia. In 1867
                     Oldenburg was incorporated into the North German Confederation, after which
-                    point foreign policy for the new confederation was conducted out of <placeName xml:id="berlin">Berlin</placeName>. Oldenburg, like the other North German
+                    point foreign policy for the new confederation was conducted out of <placeName
+                        xml:id="berlin">Berlin</placeName>. Oldenburg, like the other North German
                     Confederation members, joined the German Empire in 1871. From this point
                     forward, foreign policy of the German Empire was made in Berlin, with the German
                     Kaiser (who was also the King of Prussia) accrediting ambassadors of foreign
                     nations. Relations with Imperial Germany were severed when the U.S. declared war
-                    in 1917. </p>
+                    in 1917.</p>
             </div>
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
@@ -44,16 +45,16 @@
                         Grand Duchy of Oldenburg was on December 2, 1829, when U.S. Secretary of
                         State <ref target="/departmenthistory/people/van-buren-martin">Martin Van
                             Buren</ref> issued an exequatur to <persName>Frederick A. Mensch
-                            Esq.</persName> as Consul for the Grade Duke of Oldenburg at New York.
-                    </p>
+                            Esq.</persName> as Consul for the Grade Duke of Oldenburg at New
+                        York.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations. </head>
-                    <p> The United States and the Grand Duchy of Oldenburg never established
-                        diplomatic relations. </p>
+                    <head>Establishment of Diplomatic Relations.</head>
+                    <p>The United States and the Grand Duchy of Oldenburg never established
+                        diplomatic relations.</p>
                 </div>
             </div>
             <div type="section" xml:id="treaties-agreements">
@@ -61,7 +62,7 @@
                 <div type="timeline">
                     <head>Declaration of Accession to the Treaty of Commerce and Navigation with
                         Hanover, <date when="1847">1847</date>.</head>
-                    <p> On March 10, 1847, the United States and the Grand Duchy of Oldenburg signed
+                    <p>On March 10, 1847, the United States and the Grand Duchy of Oldenburg signed
                         the Declaration of Accession to the Treaty of Commerce and Navigation with
                             <placeName xml:id="xx">Hanover</placeName>, to regulate trade, commerce,
                         and navigation between the U.S. and Oldenburg. The declaration was signed by
@@ -73,29 +74,30 @@
                         Criminals, Fugitive from Justice, of June 16, 1852, between the United
                         States and Prussia and Other States of the Germanic Confederation,
                         1853.</head>
-                    <p> On December 30, 1853, the Grand Duchy of Oldenburg signed the Declaration of
+                    <p>On December 30, 1853, the Grand Duchy of Oldenburg signed the Declaration of
                         Accession to the Convention for the Extradition of Criminals, Fugitives from
                         Justice, of June 16, 1852 Between the United States and Prussia and Other
                         States of the Germanic Confederation, to establish reciprocal extradition of
-                        fugitive criminals in special cases. </p>
+                        fugitive criminals in special cases.</p>
                 </div>
             </div>
             <div type="section" xml:id="key-events">
                 <head>Key Diplomatic Events</head>
                 <div type="timeline">
-                    <head>Oldenburg Joins the North German Union, 1867. </head>
-                    <p> Following the Austro-Prussian War of 1866, the Duchy of Oldeburg joined the
+                    <head>Oldenburg Joins the North German Union, 1867.</head>
+                    <p>Following the Austro-Prussian War of 1866, the Duchy of Oldeburg joined the
                             <placeName xml:id="qn">North German Union</placeName> in 1867.</p>
                 </div>
                 <div type="timeline">
                     <head>Oldenburg Joins the German Empire, 1871.</head>
-                    <p> The Duchy of Oldenburg joined the German Empire, which was proclaimed on
+                    <p>The Duchy of Oldenburg joined the German Empire, which was proclaimed on
                         January 18, 1871.</p>
                 </div>
                 <div type="timeline">
                     <head>German Unification.</head>
                     <p>The Duchy of Oldenburg was one of the states involved in the process of
-                        German unification during the mid-nineteenth century. (See “<ref target="/countries/issues/german-unification">Unification of German
+                        German unification during the mid-nineteenth century. (See “<ref
+                            target="/countries/issues/german-unification">Unification of German
                             States</ref>” for greater detail.)</p>
                 </div>
             </div>

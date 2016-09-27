@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Guinea</title>
                 <title type="short">Guinea</title>
             </titleStmt>
@@ -29,32 +29,34 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Guinean Independence, <date when="1958">1958</date>.</head>
+                    <head>U.S. Recognition of Guinean Independence, <date when="1958"
+                        >1958</date>.</head>
                     <p>The United States recognized the <placeName>Republic of Guinea</placeName> on
                         November 1, 1958, when President <persName>Dwight D. Eisenhower</persName>
                         sent a letter to that effect to Prime Minster <persName>Sekou
                             Toure</persName>. Guinea previously had been under French sovereignty as
-                        part of French West Africa. </p>
+                        part of French West Africa.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and the American Embassy in Guinea,
-                        <date when="1959">1959</date>.</head>
-                    <p> Diplomatic relations were established on February 13, 1959, when the
-                        American Embassy at <placeName key="conakry">Conakry</placeName> was
-                        established with <ref target="/departmenthistory/people/rinden-robert-watland">Robert W.
-                            Rinden</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.
-                    </p>
+                            <date when="1959">1959</date>.</head>
+                    <p>Diplomatic relations were established on February 13, 1959, when the American
+                        Embassy at <placeName key="conakry">Conakry</placeName> was established with
+                            <ref target="/departmenthistory/people/rinden-robert-watland">Robert W.
+                            Rinden</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2824.htm">Guinea</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2824.htm">Guinea</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/gv">Guinea</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/gv">Guinea</ref>
                     </bibl>
                 </listBibl>
             </div>

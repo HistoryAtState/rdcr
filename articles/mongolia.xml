@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Mongolia</title>
                 <title type="short">Mongolia</title>
             </titleStmt>
@@ -19,12 +19,13 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> For roughly 200 years prior to 1911, what is today the nation of <placeName key="mn">Mongolia</placeName> was contained within the territorial borders
+                <p>For roughly 200 years prior to 1911, what is today the nation of <placeName
+                        key="mn">Mongolia</placeName> was contained within the territorial borders
                     of the Empire of <placeName>China</placeName>. After the collapse of that
                     empire, a group of Mongolia nationalists established a new republic in 1924,
                     with the assistance of the Soviet Union. Mongolians affirmed their independence
                     in a plebiscite in October 1945, but because Mongolia remained close to the
-                    <placeName>Soviet Union</placeName>, relations between Mongolia and the
+                        <placeName>Soviet Union</placeName>, relations between Mongolia and the
                     United States were slow to develop.</p>
                 <figure>
                     <graphic url="mongolia-flag.jpg"/>
@@ -35,8 +36,8 @@
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>U.S. Recognition of Mongolia, <date when="1987">1987</date>.</head>
-                    <p> The United States recognized the People’s Republic of Mongolia on January
-                        27, 1987, when the two nations established formal diplomatic relations in a
+                    <p>The United States recognized the People’s Republic of Mongolia on January 27,
+                        1987, when the two nations established formal diplomatic relations in a
                         joint communiqué. Prior to this, the United States had on several occasions
                         during the Kennedy, Johnson, Nixon, and Carter Administrations entertained
                         the possibility of recognition, both through internal discussions and
@@ -50,24 +51,29 @@
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1987">1987</date>.</head>
+                    <head>Establishment of Diplomatic Relations, <date when="1987"
+                        >1987</date>.</head>
                     <p>The United States established diplomatic relations with Mongolia on January
                         27, 1987, when the United States and Mongolia issued a joint communiqué to
-                        that effect. </p>
+                        that effect.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Embassy in Mongolia, <date when="1988">1988</date>.</head>
-                    <p> The American Embassy at <placeName key="ulaanbaatar">Ulaanbaatar</placeName>
-                        was opened on April 17, 1988, with <ref target="/departmenthistory/people/mann-steven-robert">Steven Mann</ref>
+                    <head>Establishment of the American Embassy in Mongolia, <date when="1988"
+                            >1988</date>.</head>
+                    <p>The American Embassy at <placeName key="ulaanbaatar">Ulaanbaatar</placeName>
+                        was opened on April 17, 1988, with <ref
+                            target="/departmenthistory/people/mann-steven-robert">Steven Mann</ref>
                         as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2779.htm">Mongolia</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2779.htm">Mongolia</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/mg/index.htm">Mongolia</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eap/ci/mg/index.htm">Mongolia</ref>
                     </bibl>
                 </listBibl>
             </div>

@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Kenya</title>
                 <title type="short">Kenya</title>
             </titleStmt>
@@ -23,7 +23,7 @@
                     Kenya’s capital city <placeName key="nairobi">Nairobi</placeName> was the target
                     of a terrorist bombing that killed 12 U.S. citizens, 32 Foreign Service
                     Nationals (FSNs), and 247 Kenyan citizens. Approximately 5,000 Kenyans, 6 U.S.
-                    citizens, and 13 FSNs were injured. </p>
+                    citizens, and 13 FSNs were injured.</p>
                 <figure>
                     <graphic url="kenya-flag.jpg"/>
                     <head>Modern Flag of Kenya</head>
@@ -38,27 +38,30 @@
                         the Interior <persName>Stewart Udall</persName>, Personal Representative of
                         the President with the rank of Special Ambassador, delivered a message from
                         President <persName>Lyndon B. Johnson</persName> to Kenyan Prime Minister
-                        <persName>Jomo Kenyatta</persName> in which Johnson  congratulated Kenya
-                        on its independence. </p>
+                            <persName>Jomo Kenyatta</persName> in which Johnson congratulated Kenya
+                        on its independence.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and the American Embassy in Kenya,
-                        <date when="1964">1964</date>.</head>
-                    <p> Diplomatic relations and the American Embassy at
-                        <placeName>Nairobi</placeName> were established on March 2, 1964, when
-                        U.S. Ambassador <ref target="/departmenthistory/people/attwood-william-hollingsworth">William
-                            Attwood</ref> presented his credentials to the Kenyan government. </p>
+                            <date when="1964">1964</date>.</head>
+                    <p>Diplomatic relations and the American Embassy at
+                            <placeName>Nairobi</placeName> were established on March 2, 1964, when
+                        U.S. Ambassador <ref
+                            target="/departmenthistory/people/attwood-william-hollingsworth">William
+                            Attwood</ref> presented his credentials to the Kenyan government.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2962.htm">Kenya</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2962.htm">Kenya</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/ke">Kenya</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/ke">Kenya</ref>
                     </bibl>
                 </listBibl>
             </div>

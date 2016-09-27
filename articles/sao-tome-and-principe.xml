@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Sao Tome and
                     Principe</title>
                 <title type="short">Sao Tome and Principe</title>
@@ -28,11 +28,11 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Sao Tome and Principe,
-                        <date when="1975">1975</date>.</head>
+                    <head>U.S. Recognition of Sao Tome and Principe, <date when="1975"
+                        >1975</date>.</head>
                     <p>The United States recognized the <placeName>Democratic Republic of Sao Tome
-                        and Principe</placeName> on July 12, 1975, when President
-                        <persName>Gerald R. Ford</persName> sent a letter to that effect to
+                            and Principe</placeName> on July 12, 1975, when President
+                            <persName>Gerald R. Ford</persName> sent a letter to that effect to
                         President <persName>Manuel Pinto de Costa</persName>. Sao Tome and Principe
                         previously had been under Portuguese sovereignty</p>
                 </div>
@@ -43,20 +43,23 @@
                     <head>Establishment of Diplomatic Relations and the American Embassy in Sao Tome
                         and Principe, <date when="1976">1976</date>.</head>
                     <p>The United States and Sao Tome and Principe established diplomatic relations
-                        on February 14, 1976, when Ambassador <ref target="/departmenthistory/people/steigman-andrew-lee">Andrew L.
+                        on February 14, 1976, when Ambassador <ref
+                            target="/departmenthistory/people/steigman-andrew-lee">Andrew L.
                             Steigman</ref> presented his credentials to the government at Sao Tome.
                         Steigman also was accredited to <placeName>Gabon</placeName> and was
                         resident at <placeName>Libreville</placeName>. No mission has been
-                        established at Sao Tome. </p>
+                        established at Sao Tome.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5434.htm">Sao Tome and
-                        Principe</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/5434.htm">Sao Tome and
+                            Principe</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/tp/">Sao Tome and Principe</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/tp/">Sao Tome and Principe</ref>
                     </bibl>
                 </listBibl>
             </div>

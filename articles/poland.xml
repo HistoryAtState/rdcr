@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Poland</title>
                 <title type="short">Poland</title>
             </titleStmt>
@@ -20,7 +20,7 @@
             <div type="section" xml:id="summary">
                 <head>Summary</head>
                 <p>At the height of its power, the <placeName key="pl">Commonwealth of
-                    Poland</placeName> included Lithuania, Belarus, and much of Ukraine. It
+                        Poland</placeName> included Lithuania, Belarus, and much of Ukraine. It
                     developed a unique form of government in which the nobility elected the king and
                     a single dissenting vote (the liberum veto) stopped any legislation. This system
                     invited foreign intervention and civil war, and made the country vulnerable to
@@ -30,12 +30,12 @@
                     suppressing a Polish revolt in 1794, the three powers conducted the Third
                     Partition in 1795. Poland vanished from the map of Europe until 1918; Napoleon
                     created a Grand Duchy of Warsaw from Prussian Poland in 1807, but it did not
-                    survive his defeat. </p>
-                <p> A Polish Republic was proclaimed on November 3, 1918. On November 14, General
-                    <persName>Joseph Pilsudski</persName> became head of state. On January 17,
+                    survive his defeat.</p>
+                <p>A Polish Republic was proclaimed on November 3, 1918. On November 14, General
+                        <persName>Joseph Pilsudski</persName> became head of state. On January 17,
                     1919, a cabinet was formed with pianist Ignace Jan Paderewski as its Prime
                     Minister.</p>
-                <p> The Versailles Treaty of 1919 defined Poland’s western border and granted access
+                <p>The Versailles Treaty of 1919 defined Poland’s western border and granted access
                     to the Baltic Sea by creating a Polish Corridor along the Vistula River. Danzig
                     (now Gdansk), which had a German majority, became a free city supervised by the
                     League of Nations. The League of Nations proposed an eastern ethnic frontier
@@ -43,11 +43,11 @@
                     boundaries with Russia, leading to war with the Soviet Union in 1920. The Treaty
                     of Riga ended the war in 1921, and established an eastern border well to the
                     east of the Curzon Line.</p>
-                <p> During the Cold War, U.S.-Polish relations oscillated. Between 1956 and the
+                <p>During the Cold War, U.S.-Polish relations oscillated. Between 1956 and the
                     mid-1960s when Gomulka was in power, U.S.-Polish relations improved; this
                     friendship stagnated during the 1960s, but started to improve again once Gomulka
                     was out of power after 1970. Since 1989, the United States and Poland have
-                    enjoyed warm bilateral relations. </p>
+                    enjoyed warm bilateral relations.</p>
                 <figure>
                     <graphic url="poland-flag.jpg"/>
                     <head>Modern Flag of Poland</head>
@@ -55,20 +55,24 @@
                 <div type="section" xml:id="recognition">
                     <head>Recognition</head>
                     <div type="timeline">
-                        <head>U.S. Recognition of Polish Independence, <date when="1919">1919</date>. </head>
-                        <p> The thirteenth of President Woodrow Wilson’s <ref target="/milestones/1914-1920/fourteen-points">Fourteen Points</ref>
+                        <head>U.S. Recognition of Polish Independence, <date when="1919"
+                            >1919</date>.</head>
+                        <p>The thirteenth of President Woodrow Wilson’s <ref
+                                target="/milestones/1914-1920/fourteen-points">Fourteen Points</ref>
                             called for an independent Poland with access to the sea. On January 22,
-                            1919, Secretary of State <ref target="/departmenthistory/people/lansing-robert">Robert
+                            1919, Secretary of State <ref
+                                target="/departmenthistory/people/lansing-robert">Robert
                                 Lansing</ref> notified Poland’s Prime Minister and Secretary for
                             Foreign Affairs, <persName>Ignace Jan Paderewski</persName>, that the
-                            United States recognized the Provisional Polish Government. </p>
+                            United States recognized the Provisional Polish Government.</p>
                     </div>
                 </div>
                 <div type="section" xml:id="consular-presence">
                     <head>Consular Presence</head>
                     <div type="timeline">
                         <head>First U.S. Consulate, <placeName key="warsaw">Warsaw</placeName>
-                            (under Russian administration) <date from="1871" to="1917">1871-1917</date>.</head>
+                            (under Russian administration) <date from="1871" to="1917"
+                                >1871-1917</date>.</head>
                         <p>The first U.S. consular post in Poland was a Consulate in Warsaw, which
                             was then under Russian administration. It opened in 1871 and closed in
                             1917.</p>
@@ -77,13 +81,14 @@
                         <head>Consular Posts at Poznan and Krakow, <date when="1946">1946</date>
                             &amp; <date when="1947">1947</date>.</head>
                         <p>Since World War II, the United States has maintained consular posts at
-                            <placeName key="poznan">Poznan</placeName> and <placeName key="krakow">Krakow</placeName>. The post at Poznan opened as a
+                                <placeName key="poznan">Poznan</placeName> and <placeName
+                                key="krakow">Krakow</placeName>. The post at Poznan opened as a
                             Consulate January 16, 1946, became a Vice Consulate May 1, 1947, a
                             Consulate again June 6, 1949, and was closed August 31, 1951. It
                             reopened August 29, 1959, became a Consulate General in 1992 and closed
                             in 1996. The Consulate in Krakow opened July 1, 1946 but closed April
                             17, 1947. It reopened as a Consulate General July 5, 1974 and is still
-                            in service. </p>
+                            in service.</p>
                     </div>
                 </div>
             </div>
@@ -91,68 +96,83 @@
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and the American Legation in Warsaw,
-                        <date when="1919">1919</date>.</head>
-                    <p> Diplomatic relations and the American Legation in Warsaw were established on
-                        May 2, 1919, when <ref target="/departmenthistory/people/gibson-hugh-simons">Hugh S. Gibson</ref>, the first U.S. Minister to Poland, presented his
-                        credentials. </p>
+                            <date when="1919">1919</date>.</head>
+                    <p>Diplomatic relations and the American Legation in Warsaw were established on
+                        May 2, 1919, when <ref target="/departmenthistory/people/gibson-hugh-simons"
+                            >Hugh S. Gibson</ref>, the first U.S. Minister to Poland, presented his
+                        credentials.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of a Polish Legation in the United States, <date when="1919">1919</date>. </head>
-                    <p> On August 18, 1919, Chief of State Pilsudski announced the appointment of
-                        <persName>Prince Casimir Lubomirski</persName> as Poland’s Minister to
+                    <head>Establishment of a Polish Legation in the United States, <date when="1919"
+                            >1919</date>.</head>
+                    <p>On August 18, 1919, Chief of State Pilsudski announced the appointment of
+                            <persName>Prince Casimir Lubomirski</persName> as Poland’s Minister to
                         the United States. Prince Lubomirski was officially recognized on November
-                        1, 1919, when he presented his credentials to Acting Secretary of State <ref target="/departmenthistory/people/phillips-william">William
+                        1, 1919, when he presented his credentials to Acting Secretary of State <ref
+                            target="/departmenthistory/people/phillips-william">William
                             Phillips</ref>. He was received by President Woodrow Wilson on May 15,
-                        1920. </p>
+                        1920.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of American Legation to Embassy Status, <date when="1930">1930</date>.</head>
-                    <p> Alexander P. Moore was appointed as the first U.S. Ambassador to Poland on
-                        January 31, 1930, but died before he could be sworn in. <ref target="/departmenthistory/people/willys-john-north">John N.
+                    <head>Elevation of American Legation to Embassy Status, <date when="1930"
+                            >1930</date>.</head>
+                    <p>Alexander P. Moore was appointed as the first U.S. Ambassador to Poland on
+                        January 31, 1930, but died before he could be sworn in. <ref
+                            target="/departmenthistory/people/willys-john-north">John N.
                             Willys</ref> was appointed March 8, 1930, presented his credentials on
-                        May 24, and served until May 30, 1932. </p>
+                        May 24, and served until May 30, 1932.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of Polish Legation to Embassy Status, <date when="1930">1930</date>. </head>
-                    <p> Poland’s Minister to the United States, <persName>Tytus
+                    <head>Elevation of Polish Legation to Embassy Status, <date when="1930"
+                            >1930</date>.</head>
+                    <p>Poland’s Minister to the United States, <persName>Tytus
                         Filipowicz</persName>, was promoted to Ambassador and presented his new
-                        credentials on March 4, 1930. </p>
+                        credentials on March 4, 1930.</p>
                 </div>
                 <div type="timeline">
-                    <head>Move of American Embassy from Warsaw to Paris, <date when="1939">1939</date>.</head>
-                    <p> World War II began on September 1, 1939, when Nazi Germany invaded Poland.
-                        Ambassador <ref target="/departmenthistory/people/biddle-anthony-joseph-drexel-jr">Anthony J. Drexel Biddle Jr.</ref> left Warsaw on September 5, and
-                        followed the Government of Poland to France (September 1939-June 1940). </p>
+                    <head>Move of American Embassy from Warsaw to Paris, <date when="1939"
+                            >1939</date>.</head>
+                    <p>World War II began on September 1, 1939, when Nazi Germany invaded Poland.
+                        Ambassador <ref
+                            target="/departmenthistory/people/biddle-anthony-joseph-drexel-jr"
+                            >Anthony J. Drexel Biddle Jr.</ref> left Warsaw on September 5, and
+                        followed the Government of Poland to France (September 1939-June 1940).</p>
                 </div>
                 <div type="timeline">
-                    <head>Move of American Embassy from Paris to London, <date when="1940">1940</date>.</head>
-                    <p> When France fell to the Axis powers in June 1940, the Government of
+                    <head>Move of American Embassy from Paris to London, <date when="1940"
+                            >1940</date>.</head>
+                    <p>When France fell to the Axis powers in June 1940, the Government of
                         Poland-in-exile moved from Paris to London, and with it, the American
                         Ambassador to Poland <persName>Anthony J. Drexel Biddle Jr.</persName>
                         Biddle was also accredited to the governments-in-exile of Belgium,
                         Czechoslovakia, Greece, Luxembourg, the Netherlands, Norway, and Yugoslavia,
                         all of which were resident in London. Biddle left London on December 1,
-                        1943. </p>
+                        1943.</p>
                 </div>
                 <div type="timeline">
-                    <head>Termination of U.S. Mission to the Government of Poland in London, <date when="1945">1945</date>. </head>
-                    <p> The U.S. mission to the Government of Poland in London was terminated July
-                        5, 1945. </p>
+                    <head>Termination of U.S. Mission to the Government of Poland in London, <date
+                            when="1945">1945</date>.</head>
+                    <p>The U.S. mission to the Government of Poland in London was terminated July 5,
+                        1945.</p>
                 </div>
                 <div type="timeline">
-                    <head>Re-establishment of U.S. Embassy in Warsaw, <date when="1945">1945</date>.</head>
-                    <p> With the end of World War II, the United States re-established its Embassy
-                        in Warsaw on July 31, 1945. Ambassador <ref target="/departmenthistory/people/lane-arthur-bliss">Arthur Bliss
+                    <head>Re-establishment of U.S. Embassy in Warsaw, <date when="1945"
+                        >1945</date>.</head>
+                    <p>With the end of World War II, the United States re-established its Embassy in
+                        Warsaw on July 31, 1945. Ambassador <ref
+                            target="/departmenthistory/people/lane-arthur-bliss">Arthur Bliss
                             Lane</ref>, who had been appointed September 21, 1944, presented his
-                        credentials August 4, 1945. He served until February 24, 1947. </p>
+                        credentials August 4, 1945. He served until February 24, 1947.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2875.htm">Poland</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2875.htm">Poland</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/pl/index.htm">Poland</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/pl/index.htm">Poland</ref>
                     </bibl>
                 </listBibl>
             </div>

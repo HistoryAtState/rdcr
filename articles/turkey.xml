@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Turkey</title>
                 <title type="short">Turkey</title>
             </titleStmt>
@@ -18,7 +18,8 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p>U.S. diplomatic interaction with Turkey dates back to the days when <placeName xml:id="tr">Turkey</placeName> was known as the Ottoman Empire. After they
+                <p>U.S. diplomatic interaction with Turkey dates back to the days when <placeName
+                        xml:id="tr">Turkey</placeName> was known as the Ottoman Empire. After they
                     established diplomatic relations in 1831, the states maintained a diplomatic
                     relationship until <ref target="/milestones/1914-1920/wwi">U.S. entry into World
                         War I</ref> on April 20, 1917. After World War I, the Ottoman Empire
@@ -37,10 +38,10 @@
                         Ottoman Empire (Turkey) and the United States, both long established states,
                         occurred on February 11, 1830, when a U.S. negotiating team comprised of
                         Captain <persName>James Biddle</persName>, <persName>David
-                            Offley</persName>, and <persName>Charles Rhind</persName> presented their
+                        Offley</persName>, and <persName>Charles Rhind</persName> presented their
                         credentials to the Turkish Minister of Foreign Affairs. Biddle, Offley, and
                         Rhind negotiated a treaty of navigation and commerce between the United
-                        States and Turkey. </p>
+                        States and Turkey.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic_relations">
@@ -49,38 +50,44 @@
                     <head>Establishment of Diplomatic Relations and the American Legation in the
                         Ottoman Empire, <date when="1831">1831.</date>
                     </head>
-                    <p>Diplomatic relations and the American Legation at <placeName xml:id="istanbul">Constantinople (Istanbul)</placeName> were established
-                        on September 13, 1831, when <ref target="/departmenthistory/people/porter-david">David Porter</ref>
-                        presented his credentials as Charges d’Affaires. </p>
+                    <p>Diplomatic relations and the American Legation at <placeName
+                            xml:id="istanbul">Constantinople (Istanbul)</placeName> were established
+                        on September 13, 1831, when <ref
+                            target="/departmenthistory/people/porter-david">David Porter</ref>
+                        presented his credentials as Charges d’Affaires.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of American Legation to Embassy Status, <date when="1906">1906.</date>
+                    <head>Elevation of American Legation to Embassy Status, <date when="1906"
+                            >1906.</date>
                     </head>
                     <p>The American Legation was elevated to Embassy status on June 18, 1906, when
-                        <ref target="/departmenthistory/people/leishman-john-g-a">John G. A.
+                            <ref target="/departmenthistory/people/leishman-john-g-a">John G. A.
                             Leishman</ref> presented his credentials as the Ambassador on October 5,
-                        1906. </p>
+                        1906.</p>
                 </div>
                 <div type="timeline">
                     <head>Diplomatic Relations Severed, <date when="1917">1917.</date>
                     </head>
                     <p>Turkey severed diplomatic relations with the United States on April 20, 1917,
                         after <ref target="/milestones/1914-1920/wwi">the United States declared war
-                            against Germany</ref> on April 4, 1917. </p>
+                            against Germany</ref> on April 4, 1917.</p>
                 </div>
                 <div type="timeline">
                     <head>Diplomatic Relations Reestablished, <date when="1927">1927.</date>
                     </head>
                     <p>The United States and Turkey reestablished relations on February 17, 1927,
-                        after an exchange of notes in <placeName xml:id="angora">Angora</placeName>, Turkey. </p>
+                        after an exchange of notes in <placeName xml:id="angora">Angora</placeName>,
+                        Turkey.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3432.htm">Turkey</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/3432.htm">Turkey</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/tu">Turkey</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/tu">Turkey</ref>
                     </bibl>
                 </listBibl>
             </div>

@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Nassau</title>
                 <title type="short">Nassau*</title>
             </titleStmt>
@@ -55,15 +55,16 @@
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations.</head>
-                    <p> The United States and the Duchy of Nassau never established diplomatic
+                    <p>The United States and the Duchy of Nassau never established diplomatic
                         relations.</p>
                 </div>
             </div>
             <div type="section" xml:id="treaties-agreements">
                 <head>Treaties and Agreements</head>
                 <div type="timeline">
-                    <head>Convention Abolishing Droit d’Aubaine and Emigration Taxes, <date when="1846">1846</date>.</head>
-                    <p> On May 27, 1846, U.S. Minister to Prussia <persName>Henry Wheaton</persName>
+                    <head>Convention Abolishing Droit d’Aubaine and Emigration Taxes, <date
+                            when="1846">1846</date>.</head>
+                    <p>On May 27, 1846, U.S. Minister to Prussia <persName>Henry Wheaton</persName>
                         and Nassau’s Minister to Prussia Col. and Chamberlain <persName>Otto Wilhelm
                             Carl von Roeder</persName> signed the Convention for the Mutual
                         Abolition of the <hi rend="italic">Droit d’Aubaine</hi> and Taxes on
@@ -73,8 +74,8 @@
             <div type="section" xml:id="key-events">
                 <head>Key Diplomatic Events</head>
                 <div type="timeline">
-                    <head>The Austro-Prussian War of <date when="1866">1866</date>. </head>
-                    <p> In 1866 Prussia and her allies launched a war against Austria and her allied
+                    <head>The Austro-Prussian War of <date when="1866">1866</date>.</head>
+                    <p>In 1866 Prussia and her allies launched a war against Austria and her allied
                         German states. The war, also commonly referred to as the Seven Weeks’ War
                         for the rapidity with which the Prussians triumphed, enabled the Kingdom of
                         Prussia to absorb some of the smaller states that had sided with Austria –
@@ -83,8 +84,8 @@
                 <div type="timeline">
                     <head>German Unification.</head>
                     <p>Nassau participated in German unification during the mid-nineteenth century.
-                        (See “<ref target="/countries/issues/german-unification">Unification of German
-                            States</ref>” for greater detail.)</p>
+                        (See “<ref target="/countries/issues/german-unification">Unification of
+                            German States</ref>” for greater detail.)</p>
                 </div>
             </div>
             <div type="appendix">

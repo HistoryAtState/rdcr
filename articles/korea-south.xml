@@ -2,8 +2,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
-                    Diplomatic, and Consular Relations, by Country, since 1776: The Republic of Korea (South Korea)</title>
+                <title type="complete">A Guide to the United States’ History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: The Republic of
+                    Korea (South Korea)</title>
                 <title type="short">Republic of Korea (South Korea)</title>
             </titleStmt>
             <publicationStmt>
@@ -21,8 +22,7 @@
                 <div type="timeline">
                     <head>Recognition, <date when="1949">1949</date>.</head>
                     <p>The United States recognized the Republic of Korea, with its capital at
-                        Seoul, as an independent state on January 1, 1949, in a White House
-                        statement.<figure>
+                        Seoul, as an independent state on January 1, 1949, in a White House statement.<figure>
                             <graphic url="korea-south-flag.png"/>
                             <head>Modern Flag of South Korea</head>
                         </figure>
@@ -32,7 +32,8 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1949">1949</date>.</head>
+                    <head>Establishment of Diplomatic Relations, <date when="1949"
+                        >1949</date>.</head>
                     <p>Diplomatic relations between the United States and the Republic of Korea
                         (South Korea) were established on March 25, 1949, when Ambassador Dr. John
                         Myun Chang, presented his credentials to President Truman.</p>
@@ -41,9 +42,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2800.htm">South Korea</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2800.htm">South Korea</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/ks/index.htm">South Korea</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eap/ci/ks/index.htm">South Korea</ref>
                     </bibl>
                 </listBibl>
             </div>

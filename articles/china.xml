@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: China</title>
                 <title type="short">China</title>
             </titleStmt>
@@ -20,7 +20,8 @@
                 <head>Summary</head>
                 <p>After the American Revolution ended, a Philadelphia financier in 1784 sent the
                     ship <hi rend="italic">Empress of China</hi> for the first voyage of direct
-                    trade between the United States and China. In the 60 years following the <hi rend="italic">Empress of China's</hi> voyage, relations among U.S. citizens
+                    trade between the United States and China. In the 60 years following the <hi
+                        rend="italic">Empress of China's</hi> voyage, relations among U.S. citizens
                     and Chinese were private and largely commercial. Nevertheless, Sino-American
                     trade grew under the Chinese system that limited foreign traders’ access to a
                     single port city, Guangzhou (Canton). <figure>
@@ -63,7 +64,8 @@
                         and Xiamen (Amoy) in 1844.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of Consular Posts, <date from="1844" to="1947">1844-1947</date>.</head>
+                    <head>Establishment of Consular Posts, <date from="1844" to="1947"
+                            >1844-1947</date>.</head>
                     <p>Fuzhou (Foochow) 1844; Shanghai 1847; Macao 1847; Xiamen (Amoy) 1849; Ningbo
                         (Ningpo) 1853; Whampoa 1853; Guangzhou (Canton) 1853; Shantou (Swatow) 1860;
                         Beijing (Peking) 1861; Niuzhuang (Newchwang) 1862; Yantai (Chefoo) 1863;
@@ -91,15 +93,15 @@
                         Caleb Cushing presented his credentials as Envoy Extraordinary and Minister
                         Plenipotentiary and Commissioner to the Chinese authorities in Macao. He
                         concluded the Treaty of Wangxia (Wang-hsia) on July 3, 1844, after which the
-                        United States maintained diplomatic representation in China at Guangzhou.
-                    </p>
+                        United States maintained diplomatic representation in China at
+                        Guangzhou.</p>
                 </div>
                 <div type="timeline">
                     <head>Legation Moved to Beijing (Peking), <date when="1862">1862.</date>
                     </head>
                     <p>The U.S. Legation was established in Beijing (Peking) in 1862. This followed
                         the Treaties of Tianjin of 1858, by which agreements China for the first
-                        time allowed Western diplomats to reside in the capital city, Beijing. </p>
+                        time allowed Western diplomats to reside in the capital city, Beijing.</p>
                 </div>
                 <div type="timeline">
                     <head>Relations Interrupted, <date when="1912">1912.</date>
@@ -108,7 +110,7 @@
                         of the Chinese Revolution, the Manchu Emperor abdicated his throne in favor
                         of a provisional republican government. The United States withheld
                         recognition of this new provisional government while awaiting the
-                        organization of a permanent government. </p>
+                        organization of a permanent government.</p>
                 </div>
                 <div type="timeline">
                     <head>Relations Resumed, <date when="1913">1913.</date>
@@ -146,13 +148,13 @@
                         contact with the Nationalist government. The Department of State wanted the
                         official U.S. diplomatic mission to remain in close proximity to the
                         diplomatic representatives of other foreign powers in Peking. It also was
-                        skeptical of the Nanjing regime’s long-term viability. </p>
+                        skeptical of the Nanjing regime’s long-term viability.</p>
                 </div>
                 <div type="timeline">
                     <head>Legation Raised to Embassy, <date when="1935">1935.</date>
                     </head>
                     <p>The Legation in Beijing was elevated to the level of Embassy on June 18,
-                        1935. </p>
+                        1935.</p>
                 </div>
                 <div type="timeline">
                     <head>U.S. Diplomatic Representation during the Chinese-Japanese “undeclared
@@ -164,7 +166,7 @@
                         the Chinese government in Nanjing. The Ambassador subsequently moved on
                         November 27, 1937 to Hankou. On August 2, 1938, he went to Chongqing
                         (Chungking), after the government of the Republic of China moved in response
-                        to Japan’s invasion and capture of Beijing and Nanjing. </p>
+                        to Japan’s invasion and capture of Beijing and Nanjing.</p>
                 </div>
                 <div type="timeline">
                     <head>Embassy Moved to Chongqing, <date when="1941">1941.</date>
@@ -177,27 +179,31 @@
                 <div type="timeline">
                     <head>Embassy Moved to Nanjing, <date when="1946">1946.</date>
                     </head>
-                    <p>On or about May 1, 1946, the U.S. Embassy was moved to <placeName key="nanjing">Nanjing</placeName> after the government of the Republic
-                        of China had moved there following the defeat of Japan in World War II. </p>
+                    <p>On or about May 1, 1946, the U.S. Embassy was moved to <placeName
+                            key="nanjing">Nanjing</placeName> after the government of the Republic
+                        of China had moved there following the defeat of Japan in World War II.</p>
                 </div>
                 <div type="timeline">
                     <head>Embassy Moved to Guangzhou, <date when="1949">1949.</date>
                     </head>
-                    <p>On August 5, 1949, the U.S. Embassy was moved to <placeName key="guangzhou">Guangzhou</placeName> after the government of the Republic of China had
+                    <p>On August 5, 1949, the U.S. Embassy was moved to <placeName key="guangzhou"
+                            >Guangzhou</placeName> after the government of the Republic of China had
                         moved there in response to advances by Chinese Communist forces during the
-                        Chinese Civil War. </p>
+                        Chinese Civil War.</p>
                 </div>
                 <div type="timeline">
                     <head>Embassy Moved to Chongqing, <date when="1949">1949.</date>
                     </head>
-                    <p>On October 18, 1949, the U.S. Embassy was moved to <placeName key="chongqing">Chongqing</placeName> , after the government of the Republic of China
+                    <p>On October 18, 1949, the U.S. Embassy was moved to <placeName key="chongqing"
+                            >Chongqing</placeName> , after the government of the Republic of China
                         had moved there in response to advances by Chinese Communist forces during
                         the Chinese Civil War.</p>
                 </div>
                 <div type="timeline">
                     <head>Embassy Moved to Taipei, Formosa (Taiwan), <date when="1949">1949.</date>
                     </head>
-                    <p>On December 19, 1949, the U.S. Embassy was moved to <placeName key="taipei">Taipei</placeName>, Formosa (Taiwan), after the government of the
+                    <p>On December 19, 1949, the U.S. Embassy was moved to <placeName key="taipei"
+                            >Taipei</placeName>, Formosa (Taiwan), after the government of the
                         Republic of China had moved there in response to advances by Chinese
                         Communist forces on the mainland during the Chinese Civil War. The Chinese
                         Communists established the People’s Republic of China (PRC) on the mainland
@@ -208,13 +214,15 @@
                         Republic of China.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of U.S. Liaison Office in Beijing, <date when="1973">1973.</date>
+                    <head>Establishment of U.S. Liaison Office in Beijing, <date when="1973"
+                            >1973.</date>
                     </head>
                     <p>President Nixon visited the People’s Republic of China in 1972 and agreed to
                         the joint "Shanghai Communiqué" of February 27, 1972, in which both nations
                         pledged to work toward the full normalization of diplomatic relations. As
                         part of the effort toward normalization, on May 1, 1973, the United States
-                        opened the U.S. Liaison Office in <placeName key="beijing">Beijing</placeName> to handle all matters in the U.S.-PRC relationship
+                        opened the U.S. Liaison Office in <placeName key="beijing"
+                            >Beijing</placeName> to handle all matters in the U.S.-PRC relationship
                         “except the strictly formal diplomatic aspects of the relationship.” The
                         People’s Republic of China created a counterpart PRC office in Washington,
                         DC in the same year.</p>
@@ -246,9 +254,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/18902.htm">China</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/18902.htm">China</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/ch/index.htm">China</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eap/ci/ch/index.htm">China</ref>
                     </bibl>
                 </listBibl>
             </div>

@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Norway</title>
                 <title type="short">Norway</title>
             </titleStmt>
@@ -19,17 +19,18 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> In 1814, the Treaty of Kiel transferred Norway from Danish to Swedish rule.
+                <p>In 1814, the Treaty of Kiel transferred Norway from Danish to Swedish rule.
                     Denmark had sided with <persName>Napoleon</persName>, while Sweden had allied
                     itself with Napoleon’s enemies in 1812. Norway accepted union with Sweden under
                     a common monarch, while retaining its own constitution and national assembly.
-                    Cultural nationalism led to economic nationalism in the 19th century. <placeName key="no">Norway</placeName> demanded its own national flag and consular
+                    Cultural nationalism led to economic nationalism in the 19th century. <placeName
+                        key="no">Norway</placeName> demanded its own national flag and consular
                     service in order to promote its maritime commerce. After Sweden was unwilling to
                     concede these points, Norway’s national assembly (Storting) declared an end to
                     the union with Sweden on June 7, 1905. Sweden accepted, and a treaty of
                     separation was signed on October 26, 1905. Norway chose <persName>Prince Charles
                         of Denmark</persName> as its king, who assumed the name of <persName>Haakon
-                            VII</persName> and ruled until 1957.</p>
+                        VII</persName> and ruled until 1957.</p>
                 <figure>
                     <graphic url="norway-flag.jpg"/>
                     <head>Modern Flag of Norway</head>
@@ -38,53 +39,68 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Norwegian Independence, <date when="1905">1905</date>.</head>
-                    <p> U.S. Secretary of State <ref target="/departmenthistory/people/root-elihu">Elihu Root</ref> informed the Foreign Minister of Norway on October 30,
-                        1905, that the United States recognized Norway’s separation from Sweden.
-                    </p>
+                    <head>U.S. Recognition of Norwegian Independence, <date when="1905"
+                        >1905</date>.</head>
+                    <p>U.S. Secretary of State <ref target="/departmenthistory/people/root-elihu"
+                            >Elihu Root</ref> informed the Foreign Minister of Norway on October 30,
+                        1905, that the United States recognized Norway’s separation from Sweden.</p>
                 </div>
             </div>
             <div type="section" xml:id="consular-presence">
                 <head>Consular Presence</head>
                 <div type="timeline">
-                    <head>The first U.S. Consulates established in Norway were at <placeName key="oslo">Christiania (Oslo</placeName> since <date when="1925">1925</date>) and <placeName key="christiansand">Christiansand</placeName> in <date when="1809">1809</date>. </head>
-                    <p> The post at Christiania became a Consulate General in <date when="1900">1900</date>. The post at Christiansand closed in <date when="1821">1821</date>, became a Consular Agency in <date when="1917">1917</date>,
+                    <head>The first U.S. Consulates established in Norway were at <placeName
+                            key="oslo">Christiania (Oslo</placeName> since <date when="1925"
+                            >1925</date>) and <placeName key="christiansand"
+                            >Christiansand</placeName> in <date when="1809">1809</date>.</head>
+                    <p>The post at Christiania became a Consulate General in <date when="1900"
+                            >1900</date>. The post at Christiansand closed in <date when="1821"
+                            >1821</date>, became a Consular Agency in <date when="1917">1917</date>,
                         a Consulate in 1917, and closed in <date when="1919">1919</date>.</p>
-                    <p> A Consulate was opened in <placeName key="bergen">Bergen</placeName> in
-                        <date when="1828">1828</date>. It closed in <date when="1941">1941</date> during the German occupation, reopened in <date when="1948">1948</date>, and closed in <date when="1953">1953</date>. Dependent
-                        posts were:</p>
+                    <p>A Consulate was opened in <placeName key="bergen">Bergen</placeName> in <date
+                            when="1828">1828</date>. It closed in <date when="1941">1941</date>
+                        during the German occupation, reopened in <date when="1948">1948</date>, and
+                        closed in <date when="1953">1953</date>. Dependent posts were:</p>
                     <list type="simple">
                         <item>
-                            <placeName key="trondheim">Trondheim</placeName> (Consular Agency
-                            <date from="1863" to="1897">1863-97</date>; <date from="1899" to="1917">1899-1917</date>. Consulate <date from="1917" to="1921">1917-21</date>)</item>
+                            <placeName key="trondheim">Trondheim</placeName> (Consular Agency <date
+                                from="1863" to="1897">1863-97</date>; <date from="1899" to="1917"
+                                >1899-1917</date>. Consulate <date from="1917" to="1921"
+                                >1917-21</date>)</item>
                         <item>
-                            <placeName key="stavanger">Stavanger</placeName> (Consular Agency
-                            <date from="1863" to="1897">1863-97</date>; <date from="1899" to="1905">1899-1905</date>. Consulate <date from="1905" to="1933">1905-33</date>)</item>
+                            <placeName key="stavanger">Stavanger</placeName> (Consular Agency <date
+                                from="1863" to="1897">1863-97</date>; <date from="1899" to="1905"
+                                >1899-1905</date>. Consulate <date from="1905" to="1933"
+                                >1905-33</date>)</item>
                         <item>
-                            <placeName key="tromso">Tromso</placeName> (Consular Agency <date from="1866" to="1870">1866-70</date>; <date from="1896" to="1899">1896-99</date>)</item>
+                            <placeName key="tromso">Tromso</placeName> (Consular Agency <date
+                                from="1866" to="1870">1866-70</date>; <date from="1896" to="1899"
+                                >1896-99</date>)</item>
                         <item>
                             <placeName key="hammerfest">Hammerfest</placeName> (Consular Agency
-                            <date when="1866" to="1870">1866-70</date>)</item>
+                                <date when="1866" to="1870">1866-70</date>)</item>
                     </list>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1905">1905</date>.</head>
-                    <p> Diplomatic relations were established on October 30, 1905,when Secretary
-                        Root also stated in his recognition message to the Foreign Minister of
-                        Norway that the United States would recognize <persName>Christian
-                            Hauge</persName> as Norway’s Chargé d’Affaires. Hauge was promoted to
-                        Minister and presented his new credentials on April 25, 1906.</p>
+                    <head>Establishment of Diplomatic Relations, <date when="1905"
+                        >1905</date>.</head>
+                    <p>Diplomatic relations were established on October 30, 1905,when Secretary Root
+                        also stated in his recognition message to the Foreign Minister of Norway
+                        that the United States would recognize <persName>Christian Hauge</persName>
+                        as Norway’s Chargé d’Affaires. Hauge was promoted to Minister and presented
+                        his new credentials on April 25, 1906.</p>
                 </div>
                 <div type="timeline">
-                    <head>First American Diplomatic Representative Accredited to Norway, <date when="1905">1905</date>.</head>
+                    <head>First American Diplomatic Representative Accredited to Norway, <date
+                            when="1905">1905</date>.</head>
                     <p>
                         <ref target="/departmenthistory/people/graves-charles-hinman">Charles H.
                             Graves</ref> had been appointed Minister to Sweden and Norway on March
                         8, 1905. On November 14, 1905, he acknowledged instructions to exercise his
-                        functions toward Norway separately, which he did until August 6, 1906. </p>
+                        functions toward Norway separately, which he did until August 6, 1906.</p>
                 </div>
                 <div type="timeline">
                     <head>Establishment of the American Legation in Christiania (Oslo).</head>
@@ -94,17 +110,19 @@
                         presented his credentials on August 13.</p>
                 </div>
                 <div type="timeline">
-                    <head>American Legation in <placeName key="oslo">Oslo</placeName> Closed, <date when="1940">1940</date>.</head>
+                    <head>American Legation in <placeName key="oslo">Oslo</placeName> Closed, <date
+                            when="1940">1940</date>.</head>
                     <p>Nazi Germany invaded Norway on April 9, 1940. The Norwegian Government
                         immediately fled Oslo, and ultimately made its way to England. U.S. Minister
-                        <ref target="/departmenthistory/people/harriman-florence-jaffray-hurst">Florence Jaffray Harriman</ref> left the country on April 22, 1940, and
-                        <ref target="/departmenthistory/people/cox-raymond-edwin">Raymond E.
+                            <ref target="/departmenthistory/people/harriman-florence-jaffray-hurst"
+                            >Florence Jaffray Harriman</ref> left the country on April 22, 1940, and
+                            <ref target="/departmenthistory/people/cox-raymond-edwin">Raymond E.
                             Cox</ref> was serving as Chargé d’Affaires when the Legation was closed
-                        on July 15, 1940. </p>
+                        on July 15, 1940.</p>
                 </div>
                 <div type="timeline">
                     <head>Opening of the American Legation Near the Government of Norway in London,
-                        <date when="1940">1940</date>.</head>
+                            <date when="1940">1940</date>.</head>
                     <p>
                         <ref target="/departmenthistory/people/schoenfeld-rudolf-emil">Rudolf E.
                             Schoenfeld</ref> opened the Legation Near the Government of Norway in
@@ -112,17 +130,20 @@
                             interim</hi> on August 2, 1940.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of American Legation to Embassy Status, <date when="1942">1942</date>. </head>
+                    <head>Elevation of American Legation to Embassy Status, <date when="1942"
+                            >1942</date>.</head>
                     <p>
-                        <ref target="/departmenthistory/people/biddle-anthony-joseph-drexel-jr">Anthony J. Drexel Biddle Jr.</ref> was appointed Minister to Norway on
+                        <ref target="/departmenthistory/people/biddle-anthony-joseph-drexel-jr"
+                            >Anthony J. Drexel Biddle Jr.</ref> was appointed Minister to Norway on
                         February 11, 1941, and presented his credentials on March 20, 1941. He was
                         promoted to Ambassador on May 12, 1942, and presented his new credentials
                         the next day. Biddle was also accredited to the governments-in-exile of
                         Belgium, Czechoslovakia, Greece, Luxembourg, the Netherlands, Poland, and
-                        Yugoslavia. </p>
+                        Yugoslavia.</p>
                 </div>
                 <div type="timeline">
-                    <head>American Embassy Transferred to Oslo, <date when="1945">1945</date>.</head>
+                    <head>American Embassy Transferred to Oslo, <date when="1945"
+                        >1945</date>.</head>
                     <p>
                         <ref target="/departmenthistory/people/osborne-lithgow">Lithgow
                             Osborne</ref> transferred the American Embassy from London to Oslo on
@@ -132,32 +153,36 @@
             <div type="section" xml:id="treaties-agreements">
                 <head>Treaties &amp; Agreements</head>
                 <div type="timeline">
-                    <head>First treaty between the United States and Norway signed, June 7, <date when="1893">1893</date>.</head>
-                    <p> This treaty was signed while Norway was still united with Sweden (a separate
+                    <head>First treaty between the United States and Norway signed, June 7, <date
+                            when="1893">1893</date>.</head>
+                    <p>This treaty was signed while Norway was still united with Sweden (a separate
                         extradition treaty had been signed with Sweden on January 14, 1893). It
                         entered into force on December 8, 1893. It was amended December 10, 1904,
                         after Norway abolished imprisonment at hard labor.</p>
                 </div>
                 <div type="timeline">
-                    <head>First treaty the U.S. signed with Independent Norway, April <date when="1908">1908</date>.</head>
+                    <head>First treaty the U.S. signed with Independent Norway, April <date
+                            when="1908">1908</date>.</head>
                     <p>The first treaty that the United States signed with an independent Norway
                         dealt with arbitration of international disputes, and was signed in
                         Washington on April 4, 1908. It entered into force on June 24, and remained
-                        in effect until June 24, 1928. </p>
+                        in effect until June 24, 1928.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
                     <bibl>Bevans, Charles I. <hi rend="italic"> Treaties and Other International
-                        Agreements of the United States of America, 1776-1949.</hi> Volume 10,
+                            Agreements of the United States of America, 1776-1949.</hi> Volume 10,
                         Nepal-Peru. Department of State Publication 8642, August 1972.</bibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3421.htm">Norway</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/3421.htm">Norway</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/no/">Norway</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/no/">Norway</ref>
                     </bibl>
                     <bibl>Department of State. <hi rend="italic">Foreign Relations of the United
-                        States</hi>: 1905. pp. 853-874.</bibl>
+                            States</hi>: 1905. pp. 853-874.</bibl>
                     <bibl>Langer, William L. <hi rend="italic">An Encyclopedia of World
                         History</hi>. Boston: Houghton Mifflin Company, 1968.</bibl>
                 </listBibl>

@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Serbia</title>
                 <title type="short">Serbia</title>
             </titleStmt>
@@ -20,9 +20,9 @@
                 <head>Summary</head>
                 <p>
                     <hi rend="italic">Note: This entry is for the modern state, the Republic of
-                        Serbia. Please click <ref target="/countries/kingdom-of-yugoslavia">here</ref> for
-                        information on the Kingdom of Serbia and the Socialist Federal Republic of
-                        Yugoslavia.</hi>
+                        Serbia. Please click <ref target="/countries/kingdom-of-yugoslavia"
+                            >here</ref> for information on the Kingdom of Serbia and the Socialist
+                        Federal Republic of Yugoslavia.</hi>
                 </p>
                 <p>The U.S. shared normalized relations with Yugoslavia until 1992 when Slovenia,
                     Croatia, Bosnia and Herzegovina, and Macedonia all seceded. The republics of
@@ -38,7 +38,8 @@
                     Republic of Yugoslavia, and closed Embassy Belgrade. Diplomatic recognition and
                     full diplomatic relations between the two countries were established in November
                     2000, and ambassadorial relations between the two nations resumed with the
-                    appointment of <ref target="/departmenthistory/people/montgomery-william-dale">William Dale Montgomery </ref>as U.S. Ambassador Extraordinary and
+                    appointment of <ref target="/departmenthistory/people/montgomery-william-dale"
+                        >William Dale Montgomery </ref>as U.S. Ambassador Extraordinary and
                     Plenipotentiary on November 26, 2001.</p>
                 <p>In 2003, the FRY became <placeName>Serbia</placeName> and
                         <placeName>Montenegro</placeName>, a loose federation of the two republics
@@ -58,12 +59,13 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of the Federal Republic of Yugoslavia, <date when="2000">2000</date>.</head>
+                    <head>U.S. Recognition of the Federal Republic of Yugoslavia, <date when="2000"
+                            >2000</date>.</head>
                     <p>In an exchange of letters dated November 12, 2000, U.S. President
                             <persName>William J. Clinton</persName> and Federal Republic of
                         Yugoslavia President<persName>Vojislav Kostunica</persName> established full
                         diplomatic relations between the two states. This constituted recognition of
-                        the Federal Republic of Yugoslavia. </p>
+                        the Federal Republic of Yugoslavia.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic_relations">
@@ -76,11 +78,11 @@
                             <placeName>Montenegro</placeName> declared a new Federal Republic of
                         Yugoslavia (FRY) in April 1992. On May 21, 1992, the U.S. announced that it
                         would not recognize the Federal Republic of Yugoslavia as a successor state
-                        of the <ref target="/countries/kingdom-of-yugoslavia">Socialist Federal Republic of
-                            Yugoslavia</ref>. U.S. Ambassador <ref target="/people/zimmermann-warren">Warren Zimmerman</ref> was recalled
+                        of the <ref target="/countries/kingdom-of-yugoslavia">Socialist Federal
+                            Republic of Yugoslavia</ref>. U.S. Ambassador <ref
+                            target="/people/zimmermann-warren">Warren Zimmerman</ref> was recalled
                         from <placeName>Belgrade</placeName>, but the mission continued with a staff
-                        under the authority of a Chargé d'Affaires <hi rend="italic">ad
-                        interim</hi>
+                        under the authority of a Chargé d'Affaires <hi rend="italic">ad interim</hi>
                     </p>
                 </div>
                 <div type="timeline">
@@ -90,7 +92,7 @@
                             <placeName>Yugoslavia</placeName> and <placeName>Kosovo</placeName>, and
                         one day prior to the NATO bombing of Yugoslavia, on March 23, 1999, the U.S.
                         severed relations with the Federal Republic of Yugoslavia, and closed
-                        Embassy Belgrade. </p>
+                        Embassy Belgrade.</p>
                 </div>
                 <div type="timeline">
                     <head>Establishment of Full Diplomatic Relations, <date when="2000">2000.</date>
@@ -98,12 +100,13 @@
                     <p>In an exchange of letters dated November 12, 2000, U.S. President
                             <persName>William J. Clinton</persName> and Federal Republic of
                         Yugoslavia President <persName>Kostunica</persName> established full
-                        diplomatic relations between the two states. </p>
+                        diplomatic relations between the two states.</p>
                 </div>
                 <div type="timeline">
                     <head>U.S. Embassy in Serbia Reopened, <date when="2001">2001.</date>
                     </head>
-                    <p>The U.S. Embassy reopened in May 2001, and <ref target="/departmenthistory/people/montgomery-william-dale">William Dale
+                    <p>The U.S. Embassy reopened in May 2001, and <ref
+                            target="/departmenthistory/people/montgomery-william-dale">William Dale
                             Montgomery</ref> was appointed Ambassador Extraordinary and
                         Plenipotentiary to Serbia on November 26, 2001. The Republic of Serbia is
                         considered the successor state to the Federal Republic of Yugoslavia.</p>
@@ -111,12 +114,15 @@
                 <div type="appendix">
                     <head>Resources</head>
                     <listBibl>
-                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5388.htm ">Serbia</ref>
+                        <bibl>Department of State Country Fact Sheet: <ref
+                                target="http://www.state.gov/r/pa/ei/bgn/5388.htm ">Serbia</ref>
                         </bibl>
-                        <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/ri/index.htm ">Serbia</ref>
+                        <bibl>Department of State Country Information: <ref
+                                target="http://www.state.gov/p/eur/ci/ri/index.htm ">Serbia</ref>
                         </bibl>
                         <bibl>
-                            <ref target="/countries/kingdom-of-yugoslavia">Recognitions and Relations, Yugoslavia</ref>
+                            <ref target="/countries/kingdom-of-yugoslavia">Recognitions and
+                                Relations, Yugoslavia</ref>
                         </bibl>
                     </listBibl>
                 </div>

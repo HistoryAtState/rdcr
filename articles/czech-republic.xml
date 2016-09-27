@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Czechia</title>
                 <title type="short">Czechia</title>
             </titleStmt>
@@ -18,13 +18,14 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p>Czechia was established on January 1, 1993, out of the former Czech
-                    and Slovak Federal Republic (commonly known as <ref target="/countries/czechoslovakia">Czechoslovakia</ref>) which ceased to
-                    exist as of December 31, 1992. Since independence, the Czechs have made
-                    integration into Western institutions their chief foreign policy objective and
-                    are part of the North Atlantic Treaty Organization (NATO) and the European Union
-                    (EU). Relations between the U.S. and Czechia are excellent and
-                    reflect the common approach both have to the many challenges facing the world at present.<figure>
+                <p>Czechia was established on January 1, 1993, out of the former Czech and Slovak
+                    Federal Republic (commonly known as <ref target="/countries/czechoslovakia"
+                        >Czechoslovakia</ref>) which ceased to exist as of December 31, 1992. Since
+                    independence, the Czechs have made integration into Western institutions their
+                    chief foreign policy objective and are part of the North Atlantic Treaty
+                    Organization (NATO) and the European Union (EU). Relations between the U.S. and
+                    Czechia are excellent and reflect the common approach both have to the many
+                    challenges facing the world at present.<figure>
                         <graphic url="czech-flag.jpg"/>
                         <head>Modern Flag of Czechia</head>
                     </figure>
@@ -33,12 +34,12 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of the Independence of Czechia, <date when="1993">1993</date>.</head>
-                    <p>The United States formally recognized Czechia on January 1, 1993.
-                        At the time, White House Press Secretary <persName>Marlin
-                            Fitzwater</persName> noted that <quote>“the United States looks forward
-                            to full and mutually productive relations with the new Czech
-                            state.</quote>”</p>
+                    <head>U.S. Recognition of the Independence of Czechia, <date when="1993"
+                            >1993</date>.</head>
+                    <p>The United States formally recognized Czechia on January 1, 1993. At the
+                        time, White House Press Secretary <persName>Marlin Fitzwater</persName>
+                        noted that <quote>“the United States looks forward to full and mutually
+                            productive relations with the new Czech state.</quote>”</p>
                 </div>
             </div>
             <div type="section" xml:id="consular_presence">
@@ -49,25 +50,28 @@
                         </head>
                         <p>The Czech and Slovak Federal Republic (CSFR) ceased to exist on December
                             31, 1992, an event commonly referred to as the ‘Velvet Divorce.’ The
-                            United States established diplomatic relations with Czechia
-                            on January 1, 1993.</p>
+                            United States established diplomatic relations with Czechia on January
+                            1, 1993.</p>
                     </div>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of American Embassy in <placeName key="prague">Prague</placeName>, <date when="1993">1993.</date>
+                    <head>Establishment of American Embassy in <placeName key="prague"
+                            >Prague</placeName>, <date when="1993">1993.</date>
                     </head>
                     <p>Ambassador <ref target="/departmenthistory/people/basora-adrian-a">Adrian A.
                             Basora</ref>, who had served as Ambassador to the CSFR since June 1992,
-                        served as Ambassador to Czechia from January 1, 1993 until July
-                        15, 1995.</p>
+                        served as Ambassador to Czechia from January 1, 1993 until July 15,
+                        1995.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3237.htm">Czech Republic</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/3237.htm">Czech Republic</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/ez/">Czechia</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/ez/">Czechia</ref>
                     </bibl>
                 </listBibl>
             </div>

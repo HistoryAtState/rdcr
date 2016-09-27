@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Uruguay</title>
                 <title type="short">Uruguay</title>
             </titleStmt>
@@ -24,7 +24,7 @@
                     and was annexed by Brazil until 1825. Following a three-year federation with
                     Argentina, Uruguay became an independent nation in 1828. Thirty years later, the
                     United States established diplomatic relations with Uruguay and the two nations
-                    have since maintained close ties. </p>
+                    have since maintained close ties.</p>
                 <figure>
                     <graphic url="uruguay-flag.jpg"/>
                     <head>Modern Flag of Uruguay</head>
@@ -32,46 +32,56 @@
                 <div type="section" xml:id="recognition">
                     <head>Recognition</head>
                     <div type="timeline">
-                        <head>U.S. Recognition of Uruguayan Independence, <date when="1836">1836</date>.</head>
-                        <p> The United States recognized the independent state of the Oriental
+                        <head>U.S. Recognition of Uruguayan Independence, <date when="1836"
+                                >1836</date>.</head>
+                        <p>The United States recognized the independent state of the Oriental
                             Republic of Uruguay on January 25, 1836, by the issuance of an exequatur
-                            to <persName>John Darby</persName>, as Consul General at New York. </p>
+                            to <persName>John Darby</persName>, as Consul General at New York.</p>
                     </div>
                 </div>
                 <div type="section" xml:id="diplomatic-relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
-                        <head>Establishment of Diplomatic Relations, <date when="1867">1867</date>.</head>
-                        <p> Diplomatic relations were established on October 2, 1867, when American
-                            Minister Resident <ref target="/departmenthistory/people/asboth-alexander">Alexander
+                        <head>Establishment of Diplomatic Relations, <date when="1867"
+                            >1867</date>.</head>
+                        <p>Diplomatic relations were established on October 2, 1867, when American
+                            Minister Resident <ref
+                                target="/departmenthistory/people/asboth-alexander">Alexander
                                 Asboth</ref> presented his credentials to the Government of the
                             Oriental Republic of Uruguay. Asboth was also accredited to Argentina
-                            and resident at Buenos Aires. </p>
+                            and resident at Buenos Aires.</p>
                     </div>
                     <div type="timeline">
-                        <head>Establishment of the American Legation in <placeName xml:id="montevideo">Montevideo</placeName>, <date when="1870">1870</date>. </head>
-                        <p> The American Legation in Montevideo opened on July 6, 1870, under
-                            Minister Resident <ref target="/departmenthistory/people/stevens-john-leavitt">John L.
+                        <head>Establishment of the American Legation in <placeName
+                                xml:id="montevideo">Montevideo</placeName>, <date when="1870"
+                                >1870</date>.</head>
+                        <p>The American Legation in Montevideo opened on July 6, 1870, under
+                            Minister Resident <ref
+                                target="/departmenthistory/people/stevens-john-leavitt">John L.
                                 Stevens</ref>.</p>
                     </div>
                     <div type="timeline">
-                        <head>Elevation of American Legation to Embassy Status, <date when="1941">1941</date>.</head>
-                        <p> The Secretary of State announced on January 11, 1941, that the President
+                        <head>Elevation of American Legation to Embassy Status, <date when="1941"
+                                >1941</date>.</head>
+                        <p>The Secretary of State announced on January 11, 1941, that the President
                             had given his approval to raise the status of the American Legation in
-                            Uruguay to that of an Embassy. <ref target="/departmenthistory/people/dawson-william">William
+                            Uruguay to that of an Embassy. <ref
+                                target="/departmenthistory/people/dawson-william">William
                                 Dawson</ref> was the first U.S. Ambassador Extraordinary and
                             Plenipotentiary to Uruguay and was appointed on February 11, 1941. He
                             presented his credentials to the Government of the Oriental Republic of
-                            Uruguay on July 12, 1941. </p>
+                            Uruguay on July 12, 1941.</p>
                     </div>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2091.htm">Uruguay</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2091.htm">Uruguay</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/uy/index.htm">Uruguay</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/wha/ci/uy/index.htm">Uruguay</ref>
                     </bibl>
                 </listBibl>
             </div>

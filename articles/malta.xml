@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Malta</title>
                 <title type="short">Malta</title>
             </titleStmt>
@@ -31,20 +31,24 @@
                 <div type="section" xml:id="recognition">
                     <head>Recognition</head>
                     <div type="timeline">
-                        <head>U.S. Recognition of Maltese Independence, <date when="1964">1964</date>. </head>
-                        <p> The United States recognized Malta on September 18, 1964, when U.S.
+                        <head>U.S. Recognition of Maltese Independence, <date when="1964"
+                                >1964</date>.</head>
+                        <p>The United States recognized Malta on September 18, 1964, when U.S.
                             President <persName>Lyndon B. Johnson</persName> sent a letter to
-                            Maltese Prime Minister <persName>Giorgio Borg Olivier</persName>. </p>
+                            Maltese Prime Minister <persName>Giorgio Borg Olivier</persName>.</p>
                     </div>
                 </div>
                 <div type="section" xml:id="diplomatic-relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
-                        <head>Establishment of Diplomatic Relations, <date when="1964">1964</date>.</head>
-                        <p> The Embassy in <placeName key="valletta">Valletta</placeName> was
-                            established on September 21, 1964, with <ref target="/departmenthistory/people/lewis-harrison">Harrison
+                        <head>Establishment of Diplomatic Relations, <date when="1964"
+                            >1964</date>.</head>
+                        <p>The Embassy in <placeName key="valletta">Valletta</placeName> was
+                            established on September 21, 1964, with <ref
+                                target="/departmenthistory/people/lewis-harrison">Harrison
                                 Lewis</ref> as Chargé d’Affaires <hi rend="italic">ad interim</hi>.
-                            The first U.S. Ambassador to Malta, <ref target="/departmenthistory/people/feldman-george-joseph">George J.
+                            The first U.S. Ambassador to Malta, <ref
+                                target="/departmenthistory/people/feldman-george-joseph">George J.
                                 Feldman</ref>, presented his credentials on October 5, 1965.</p>
                     </div>
                 </div>
@@ -52,9 +56,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5382.htm">Malta</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/5382.htm">Malta</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/mt/index.htm">Malta</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/mt/index.htm">Malta</ref>
                     </bibl>
                 </listBibl>
             </div>

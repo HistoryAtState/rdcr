@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Mozambique</title>
                 <title type="short">Mozambique</title>
             </titleStmt>
@@ -19,9 +19,9 @@
             <div type="section" xml:id="summary">
                 <head>Summary</head>
                 <p>The United States recognized the <placeName key="mz">People’s Republic of
-                    Mozambique</placeName> on June 25, 1975, when President <persName>Gerald R.
+                        Mozambique</placeName> on June 25, 1975, when President <persName>Gerald R.
                         Ford</persName> sent a letter to that effect to President <persName>Samora
-                            Moises Machel</persName>.</p>
+                        Moises Machel</persName>.</p>
                 <figure>
                     <graphic url="mozambique-flag.jpg"/>
                     <head>Modern Flag of Mozambique</head>
@@ -32,35 +32,41 @@
                 <div type="timeline">
                     <head>U.S. Recognition of Mozambique, <date when="1975">1975</date>.</head>
                     <p>The United States recognized the <placeName>People’s Republic of
-                        Mozambique</placeName> on June 25, 1975, when President <persName>Gerald
+                            Mozambique</placeName> on June 25, 1975, when President <persName>Gerald
                             R. Ford</persName> sent a letter to that effect to President Samora
-                        Moises Machel. Mozambique previously had been under Portuguese sovereignty.
-                    </p>
+                        Moises Machel. Mozambique previously had been under Portuguese
+                        sovereignty.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1975">1975</date>.</head>
+                    <head>Establishment of Diplomatic Relations, <date when="1975"
+                        >1975</date>.</head>
                     <p>The United States and Mozambique established diplomatic relations on
-                        September 23, 1975, when Secretary of State <ref target="/departmenthistory/people/kissinger-henry-a">Henry
+                        September 23, 1975, when Secretary of State <ref
+                            target="/departmenthistory/people/kissinger-henry-a">Henry
                             Kissinger</ref> and Foreign Minister <persName>Joachim Alberto
-                                Chissano</persName> initialed a joint communiqué. </p>
+                            Chissano</persName> initialed a joint communiqué.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Embassy in Mozambique, <date when="1975">1975.</date>
+                    <head>Establishment of the American Embassy in Mozambique, <date when="1975"
+                            >1975.</date>
                     </head>
                     <p>Embassy <placeName key="lourenco">Lourenco Marques (now Maputo)</placeName>
-                        was opened on November 8, 1975, with <ref target="/departmenthistory/people/carson-johnnie">Johnnie Carson</ref>
-                        as Chargé d'Affaires <hi rend="italic">ad interim</hi>. </p>
+                        was opened on November 8, 1975, with <ref
+                            target="/departmenthistory/people/carson-johnnie">Johnnie Carson</ref>
+                        as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/7035.htm">Mozambique</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/7035.htm">Mozambique</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/mz">Mozambique</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/mz">Mozambique</ref>
                     </bibl>
                 </listBibl>
             </div>

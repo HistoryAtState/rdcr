@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Swaziland</title>
                 <title type="short">Swaziland</title>
             </titleStmt>
@@ -30,11 +30,13 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Swaziland’s Independence, <date when="1968">1968</date>.</head>
+                    <head>U.S. Recognition of Swaziland’s Independence, <date when="1968"
+                            >1968</date>.</head>
                     <p>The United States recognized <placeName>Swaziland</placeName> on September 6,
-                        1968, when the American Embassy at <placeName key="mbabane">Mbabane</placeName> was established upon Swaziland’s attainment of
+                        1968, when the American Embassy at <placeName key="mbabane"
+                            >Mbabane</placeName> was established upon Swaziland’s attainment of
                         independence on that same date. Swaziland previously had been under British
-                        sovereignty. </p>
+                        sovereignty.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
@@ -43,18 +45,21 @@
                     <head>Establishment of Diplomatic Relations and the American Embassy in
                         Swaziland, <date when="1968">1968</date>.</head>
                     <p>Diplomatic relations were established on September 6, 1968, when the American
-                        Embassy at <placeName>Mbabane</placeName> was established with <ref target="/departmenthistory/people/pappas-christos-constantine">Chris C.
+                        Embassy at <placeName>Mbabane</placeName> was established with <ref
+                            target="/departmenthistory/people/pappas-christos-constantine">Chris C.
                             Pappas, Jr.</ref>, as Chargé d'Affaires <hi rend="italic">ad
-                                interim.</hi>
+                            interim.</hi>
                     </p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2841.htm">Swaziland</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2841.htm">Swaziland</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/wz/">Swaziland</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/wz/">Swaziland</ref>
                     </bibl>
                 </listBibl>
             </div>

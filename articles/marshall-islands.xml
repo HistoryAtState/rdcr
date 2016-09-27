@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Republic of the
                     Marshall Islands</title>
                 <title type="short">Marshall Islands</title>
@@ -36,7 +36,8 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Marshall Islands, <date when="1986">1986</date>.</head>
+                    <head>U.S. Recognition of Marshall Islands, <date when="1986"
+                        >1986</date>.</head>
                     <p>The United States recognized the independence of the Marshall Islands on
                         October 21, 1986, when the Compact of Free Association between the U.S. and
                         the Republic of the Marshall Islands entered into force, ending the Marshall
@@ -46,30 +47,37 @@
             <div type="section" xml:id="relations">
                 <head>History of Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of the Office of the U.S. Representative in Majurio, <date when="1986">1986</date>. </head>
+                    <head>Establishment of the Office of the U.S. Representative in Majurio, <date
+                            when="1986">1986</date>.</head>
                     <p>Prior to the establishment of diplomatic relations, and Office of the U.S.
                         Representative in Majurio opened on October 21, 1986, under Samuel B.
                         Thomsen.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1989">1989</date>. </head>
+                    <head>Establishment of Diplomatic Relations, <date when="1989"
+                        >1989</date>.</head>
                     <p>Diplomatic relations were established on July 26, 1989, when President George
                         H. W. Bush signed into law H.R. 2214, approving diplomatic relations with
                         the Republic of the Marshall Islands.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Embassy in the Marshall Islands, <date when="1989">1989</date>. </head>
+                    <head>Establishment of the American Embassy in the Marshall Islands, <date
+                            when="1989">1989</date>.</head>
                     <p>The Office of the U.S. Representative was elevated to Embassy status on
                         September 9, 1989, and on June 27, 1990, William Bodde Jr. was appointed
-                        U.S&gt; Ambassador Extraordinary and Plenipotentiary to the Marshall Islands.</p>
+                        U.S&gt; Ambassador Extraordinary and Plenipotentiary to the Marshall
+                        Islands.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>CIA Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/rm.html">Republic of Marshall Islands</ref>
+                    <bibl>CIA Factbook: <ref
+                            target="https://www.cia.gov/library/publications/the-world-factbook/geos/rm.html"
+                            >Republic of Marshall Islands</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/rm/">Republic of Marshall
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eap/ci/rm/">Republic of Marshall
                             Islands</ref>
                     </bibl>
                 </listBibl>

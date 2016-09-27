@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Cuba</title>
                 <title type="short">Cuba</title>
             </titleStmt>
@@ -47,7 +47,8 @@
                     <p>Following the defeat of Spain in 1898, the United States remained in Cuba as
                         an occupying power until the Republic of Cuba was formally installed on May
                         19, 1902. On May 20, 1902, the United States relinquished its occupation
-                        authority over Cuba, but claimed a continuing right to intervene in Cuba.</p>
+                        authority over Cuba, but claimed a continuing right to intervene in
+                        Cuba.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
@@ -55,9 +56,9 @@
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and the American Legation in Cuba,
                             <date when="1902">1902</date>.</head>
-                    <p> Diplomatic relations and the U.S. Legation in <placeName key="havana"
-                            >Havana</placeName> were established on May 27, 1902, when U.S.
-                        Envoy Extraordinary and Minister Plenipotentiary <ref
+                    <p>Diplomatic relations and the U.S. Legation in <placeName key="havana"
+                            >Havana</placeName> were established on May 27, 1902, when U.S. Envoy
+                        Extraordinary and Minister Plenipotentiary <ref
                             target="/departmenthistory/people/squiers-herbert-goldsmith">Herbert
                             Goldsmith Squiers</ref> presented his credentials to the Government of
                         the Republic of Cuba.</p>
@@ -65,31 +66,37 @@
                 <div type="timeline">
                     <head>Elevation of U.S. Legation to Embassy Status, <date when="1923"
                             >1923</date>.</head>
-                    <p> Following an act of Congress, the U.S. Legation in Havana, Cuba, was
-                        raised to Embassy status on February 10, 1923, when General <ref
+                    <p>Following an act of Congress, the U.S. Legation in Havana, Cuba, was raised
+                        to Embassy status on February 10, 1923, when General <ref
                             target="/departmenthistory/people/crowder-enoch-herbert">Enoch H.
-                            Crowder</ref> was appointed Ambassador. </p>
+                            Crowder</ref> was appointed Ambassador.</p>
                 </div>
-               
-                
+
+
                 <div type="timeline">
                     <head>Diplomatic Relations Severed, <date when="1961">1961</date>.</head>
-                    <p> The United States severed diplomatic relations with Cuba on January 3, 1961,
+                    <p>The United States severed diplomatic relations with Cuba on January 3, 1961,
                         citing unwarranted action by the Government of Cuba that placed crippling
                         limitations on the ability of the United States Mission to carry on its
-                        normal diplomatic and consular functions. </p>
+                        normal diplomatic and consular functions.</p>
                 </div>
-                
+
                 <div type="timeline">
-                    <head>Establishment of U.S. Interests Section in Havana, <date when="1977">1977</date>.</head>
-                    <p> A U.S. Interests Section was established in Havana under the protection of the Swiss Government on September 1, 1977.</p>
+                    <head>Establishment of U.S. Interests Section in Havana, <date when="1977"
+                            >1977</date>.</head>
+                    <p>A U.S. Interests Section was established in Havana under the protection of
+                        the Swiss Government on September 1, 1977.</p>
                 </div>
-                
+
                 <div type="timeline">
-                    <head>Resumption of Diplomatic Relations and Reestablishment of the American Embassy in Cuba, <date when="2015"> 2015</date>.</head>
-                    <p>The United States and Cuba resumed diplomatic relations on July 20, 2015, when both countries elevated their respective Interests Sections to Embassy status. President Barack Obama and Cuban President Raul Castro agreed to the date for these actions in an exchange of letters dated June 30, 2015.</p>
+                    <head>Resumption of Diplomatic Relations and Reestablishment of the American
+                        Embassy in Cuba, <date when="2015"> 2015</date>.</head>
+                    <p>The United States and Cuba resumed diplomatic relations on July 20, 2015,
+                        when both countries elevated their respective Interests Sections to Embassy
+                        status. President Barack Obama and Cuban President Raul Castro agreed to the
+                        date for these actions in an exchange of letters dated June 30, 2015.</p>
                 </div>
-                
+
             </div>
             <div type="appendix">
                 <head>Resources</head>

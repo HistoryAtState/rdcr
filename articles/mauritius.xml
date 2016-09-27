@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Mauritius</title>
                 <title type="short">Mauritius</title>
             </titleStmt>
@@ -29,7 +29,8 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Mauritius’ Independence, <date when="1968">1968</date>.</head>
+                    <head>U.S. Recognition of Mauritius’ Independence, <date when="1968"
+                        >1968</date>.</head>
                     <p>The United States recognized <placeName>Mauritius</placeName> on March 12,
                         1968, when the American Embassy at <placeName key="port-louis">Port
                             Louis</placeName> was established upon Mauritius’ attainment of
@@ -44,7 +45,8 @@
                         Mauritius, <date when="1968">1968.</date>
                     </head>
                     <p>Diplomatic relations were established on March 12, 1968, when the American
-                        Embassy at <placeName>Port Louis</placeName> was established with <ref target="/departmenthistory/people/hussey-william-bertrand">William B.
+                        Embassy at <placeName>Port Louis</placeName> was established with <ref
+                            target="/departmenthistory/people/hussey-william-bertrand">William B.
                             Hussey</ref> as Chargé d'Affaires <hi rend="italic">at interim.</hi>
                     </p>
                 </div>
@@ -52,9 +54,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2833.htm">Mauritius</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2833.htm">Mauritius</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/mp">Mauritius</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/mp">Mauritius</ref>
                     </bibl>
                 </listBibl>
             </div>

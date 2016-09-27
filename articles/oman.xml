@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Oman</title>
                 <title type="short">Oman</title>
             </titleStmt>
@@ -19,7 +19,8 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> United States interactions with the Sultanate of <placeName key="om">Oman</placeName> in the 1830s were some of America’s earliest official
+                <p>United States interactions with the Sultanate of <placeName key="om"
+                        >Oman</placeName> in the 1830s were some of America’s earliest official
                     dealings with the Middle East. Relations were sporadic over the next century and
                     a half, but became more regular following the appointment of the first U.S.
                     Ambassador to Oman in 1972.</p>
@@ -32,18 +33,21 @@
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>Mutual Recognition, <date when="1833">1833</date>.</head>
-                    <p> The first formal act of diplomatic engagement and recognition between the
+                    <p>The first formal act of diplomatic engagement and recognition between the
                         United States and the Sultanate of Oman occurred on September 21, 1833, when
                         a bilateral treaty of Amity and Commerce was signed at Muscat by Special
                         Agent <persName>Edmund Roberts</persName> and His Majesty <persName>Seyed
-                            Syeed bin Sultan</persName> of Muscat. </p>
+                            Syeed bin Sultan</persName> of Muscat.</p>
                 </div>
             </div>
             <div type="section" xml:id="consular-presence">
                 <head>Consular Presence</head>
                 <div type="timeline">
-                    <head>Establishment of U.S. consulate in <placeName key="muscat">Muscat</placeName>, <date when="1880">1880</date> until <date when="1915">1915</date>.</head>
-                    <p> The United States established a consulate in <placeName key="muscat">Muscat</placeName> in 1880, which lasted until 1915, at which time
+                    <head>Establishment of U.S. consulate in <placeName key="muscat"
+                            >Muscat</placeName>, <date when="1880">1880</date> until <date
+                            when="1915">1915</date>.</head>
+                    <p>The United States established a consulate in <placeName key="muscat"
+                            >Muscat</placeName> in 1880, which lasted until 1915, at which time
                         American interests in Oman were handled by U.S. diplomats in other
                         countries.</p>
                 </div>
@@ -51,20 +55,24 @@
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1972">1972</date>.</head>
-                    <p> Diplomatic Relations were established on April 17, 1972, when American Envoy
-                        Extraordinary and Minister Plenipotentiary <ref target="/departmenthistory/people/stoltzfus-william-a">William A.
+                    <head>Establishment of Diplomatic Relations, <date when="1972"
+                        >1972</date>.</head>
+                    <p>Diplomatic Relations were established on April 17, 1972, when American Envoy
+                        Extraordinary and Minister Plenipotentiary <ref
+                            target="/departmenthistory/people/stoltzfus-william-a">William A.
                             Stoltzfus, Jr.</ref> presented his credentials to the government of
                         Oman. Stoltzfus was accredited to Bahrain, Kuwait, Qatar and the United Arab
                         Emirates as well, and he was resident in Kuwait.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Embassy in Oman, <date when="1972">1972</date>.</head>
-                    <p> The United States Embassy in Muscat was established on July 4, 1972, under
+                    <head>Establishment of the American Embassy in Oman, <date when="1972"
+                            >1972</date>.</head>
+                    <p>The United States Embassy in Muscat was established on July 4, 1972, under
                         Chargé d’ Affaires <hi rend="italic">ad interim</hi>
                         <ref target="/departmenthistory/people/quinlan-clifford-james">Clifford J.
-                            Quinlan</ref>. <ref target="/departmenthistory/people/wolle-william-down">William D. Wolle
-                            </ref>was the first resident Ambassador to Oman, presenting his credentials
+                            Quinlan</ref>. <ref
+                            target="/departmenthistory/people/wolle-william-down">William D. Wolle
+                        </ref>was the first resident Ambassador to Oman, presenting his credentials
                         to the Sultanate of Oman on July 17, 1974.</p>
                 </div>
             </div>
@@ -72,11 +80,13 @@
                 <head>Resources</head>
                 <listBibl>
                     <bibl>Bevans, Charles I. <hi rend="italic"> Treaties and Other International
-                        Agreements of the United States of America, 1776-1949.</hi> Volume 10,
+                            Agreements of the United States of America, 1776-1949.</hi> Volume 10,
                         Nepal-Peru. Department of State Publication 8642, August 1972.</bibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35834.htm">Oman</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/35834.htm">Oman</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/mu">Oman</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/nea/ci/mu">Oman</ref>
                     </bibl>
                     <bibl>Langer, William L. <hi rend="italic">An Encyclopedia of World
                         History</hi>. Boston: Houghton Mifflin Company, 1968.</bibl>

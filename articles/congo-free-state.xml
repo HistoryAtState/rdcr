@@ -3,8 +3,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
-                    Diplomatic, and Consular Relations, by Country, since 1776: The Congo Free State</title>
+                <title type="complete">A Guide to the United States’ History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: The Congo Free
+                    State</title>
                 <title type="short">The Congo Free State</title>
             </titleStmt>
             <publicationStmt>
@@ -19,33 +20,35 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The Congo Free State was a former state in Africa covering much of the territory
+                <p>The Congo Free State was a former state in Africa covering much of the territory
                     that comprises the modern Democratic Republic of the Congo. It was created in
                     the 1880s through agreements with local rulers by a group of European investors
-                    headed by Leopold II, King of the Belgians. </p>
+                    headed by Leopold II, King of the Belgians.</p>
             </div>
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of the Independent State of Congo, <date when="1885">1885</date>.</head>
-                    <p> The United States recognized the Independent State of Congo (Congo Free
-                        State) on September 11, 1885, when President <persName>Grover Cleveland</persName> wrote to King
-                        <persName>Leopold</persName> of Belgium in his capacity as sovereign ruler of the Independent
-                        State of the Congo.</p>
+                    <head>U.S. Recognition of the Independent State of Congo, <date when="1885"
+                            >1885</date>.</head>
+                    <p>The United States recognized the Independent State of Congo (Congo Free
+                        State) on September 11, 1885, when President <persName>Grover
+                            Cleveland</persName> wrote to King <persName>Leopold</persName> of
+                        Belgium in his capacity as sovereign ruler of the Independent State of the
+                        Congo.</p>
                 </div>
                 <div type="timeline">
                     <head>Demise of Congo Free State, <date when="1908">1908</date>.</head>
-                    <p> Following reports of mistreatment of native peoples that provoked
+                    <p>Following reports of mistreatment of native peoples that provoked
                         international outrage, the Congo Free State was annexed as a colony by
                         Belgium on November 15, 1908, which ended its existence as an independent
-                        sovereign state. </p>
+                        sovereign state.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <p>The United States never established diplomatic relations with the
-                        Independent State of the Congo.</p>
+                    <p>The United States never established diplomatic relations with the Independent
+                        State of the Congo.</p>
                 </div>
             </div>
         </body>

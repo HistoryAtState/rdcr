@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Spain</title>
                 <title type="short">Spain</title>
             </titleStmt>
@@ -19,15 +19,16 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The Continental Congress of the United States of America sent <persName>John
-                    Jay</persName> to <placeName key="es">Spain</placeName> in 1779 in an
+                <p>The Continental Congress of the United States of America sent <persName>John
+                        Jay</persName> to <placeName key="es">Spain</placeName> in 1779 in an
                     attempt to convince the Spanish Court to recognize the new nation. Jay spent two
                     years there to no success. <placeName key="madrid">Madrid</placeName> was
                     unwilling to risk relations with the Congress in Philadelphia until it became
                     apparent that Britain and the United States were actually going to sign a treaty
                     to end the war and recognized U.S. independence. Since 1783, when Spain did
                     eventually recognize the United States, the two countries have broken relations
-                    just once, when they went to war against each other in the <ref target="/milestones/1866-1898/spanish-american-war">Spanish-American War of
+                    just once, when they went to war against each other in the <ref
+                        target="/milestones/1866-1898/spanish-american-war">Spanish-American War of
                         1898</ref>. Currently Spain is a constitutional monarchy, a member of the
                     European Union and NATO.</p>
                 <figure>
@@ -37,41 +38,48 @@
                 <div type="section" xml:id="recognition">
                     <head>Recognition</head>
                     <div type="timeline">
-                        <head>Spanish Recognition of U.S. Independence, <date when="1783">1783</date>.</head>
+                        <head>Spanish Recognition of U.S. Independence, <date when="1783"
+                                >1783</date>.</head>
                         <p>Spain recognized the United States of America when Madrid officially
-                            received <ref target="/departmenthistory/people/carmichael-william-jr">William Carmichael</ref> as Chargé d’Affaires <hi rend="italic">ad
-                                    interim</hi> on February 20, 1783.</p>
+                            received <ref target="/departmenthistory/people/carmichael-william-jr"
+                                >William Carmichael</ref> as Chargé d’Affaires <hi rend="italic">ad
+                                interim</hi> on February 20, 1783.</p>
                     </div>
                 </div>
                 <div type="section" xml:id="consular-presence">
                     <head>Consular Presence</head>
                     <div type="timeline">
                         <head>U.S. Consulate in Barcelona, <date when="1797">1797</date>.</head>
-                        <p>The United States opened a consulate in <placeName key="barcelona">Barcelona</placeName> on December 29th, 1797. It served briefly as
+                        <p>The United States opened a consulate in <placeName key="barcelona"
+                                >Barcelona</placeName> on December 29th, 1797. It served briefly as
                             the U.S. Embassy in 1937 during the Spanish Civil War.</p>
                     </div>
                 </div>
                 <div type="section" xml:id="diplomatic-relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
-                        <head>Establishment of Diplomatic Relations, <date when="1783">1783</date>. </head>
-                        <p> Future Chief Justice of the U.S. Supreme Court John Jay was appointed
+                        <head>Establishment of Diplomatic Relations, <date when="1783"
+                            >1783</date>.</head>
+                        <p>Future Chief Justice of the U.S. Supreme Court John Jay was appointed
                             Minister Plenipotentiary on September 29, 1779, and proceeded to Madrid
                             shortly thereafter. However, he was never formally received by the
                             Spanish Court due to the intricacies of Spanish involvement in the war
                             against Great Britain at the time. The Spanish did not officially
                             establish diplomatic relations with the United States until the U.S.
-                            Chargé d’Affaires <hi rend="italic">ad interim</hi>, <ref target="/departmenthistory/people/carmichael-william-jr">William
+                            Chargé d’Affaires <hi rend="italic">ad interim</hi>, <ref
+                                target="/departmenthistory/people/carmichael-william-jr">William
                                 Carmichael</ref>, was officially received at the court in Madrid on
                             February 20, 1783.</p>
                     </div>
                     <div type="timeline">
-                        <head>First Spanish Envoy in the United States, <date when="1785">1785</date>.</head>
-                        <p> The United States received Spanish Chargé d’Affaires <persName>Don Diego
-                            Gardoqui</persName> in June 1785.</p>
+                        <head>First Spanish Envoy in the United States, <date when="1785"
+                                >1785</date>.</head>
+                        <p>The United States received Spanish Chargé d’Affaires <persName>Don Diego
+                                Gardoqui</persName> in June 1785.</p>
                     </div>
                     <div type="timeline">
-                        <head>Establishment of the American Legation in Madrid, <date when="1783">1783</date>.</head>
+                        <head>Establishment of the American Legation in Madrid, <date when="1783"
+                                >1783</date>.</head>
                         <p>
                             <ref target="/departmenthistory/people/carmichael-william-jr">William
                                 Carmichael</ref> was officially received by Madrid as Chargé
@@ -80,20 +88,23 @@
                     </div>
                     <div type="timeline">
                         <head>Severance of Relations, <date when="1898">1898</date>.</head>
-                        <p> Spain severed diplomatic relations with the United States on April 21,
-                            1898, and U.S. Minister <ref target="/departmenthistory/people/woodford-stewart-lyndon">Stewart
+                        <p>Spain severed diplomatic relations with the United States on April 21,
+                            1898, and U.S. Minister <ref
+                                target="/departmenthistory/people/woodford-stewart-lyndon">Stewart
                                 Woodford</ref> closed the legation in Madrid on that day. The United
                             States declared war on Spain as of that date by an Act of Congress
                             approved April 25, 1898.</p>
                     </div>
                     <div type="timeline">
-                        <head>Reestablishment of Relations, <date when="1899">1899</date>. </head>
-                        <p> After the Spanish-American War, the United States appointed <ref target="/departmenthistory/people/storer-bellamy">Bellamy
-                            Storer</ref> as Minister on April 12, 1899, and he presented his
+                        <head>Reestablishment of Relations, <date when="1899">1899</date>.</head>
+                        <p>After the Spanish-American War, the United States appointed <ref
+                                target="/departmenthistory/people/storer-bellamy">Bellamy
+                                Storer</ref> as Minister on April 12, 1899, and he presented his
                             credentials to Spain on June 16, 1899.</p>
                     </div>
                     <div type="timeline">
-                        <head>Elevation of American Legation to Embassy Status, <date when="1913">1913</date>.</head>
+                        <head>Elevation of American Legation to Embassy Status, <date when="1913"
+                                >1913</date>.</head>
                         <p>
                             <ref target="/departmenthistory/people/willard-joseph-edward">Joseph E.
                                 Williard</ref>, though originally appointed as Envoy, was made
@@ -101,32 +112,38 @@
                             October 31, 1913.</p>
                     </div>
                     <div type="timeline">
-                        <head>American Legation Moves During the Spanish Civil War, <date from="1936" to="1939">1936-39</date>.</head>
-                        <p> During the Spanish Civil War (1936-39), the American Embassy moved
+                        <head>American Legation Moves During the Spanish Civil War, <date
+                                from="1936" to="1939">1936-39</date>.</head>
+                        <p>During the Spanish Civil War (1936-39), the American Embassy moved
                             briefly to the U.S. consulate in <placeName>Barcelona</placeName> and
                             then to <placeName>St. Jean de Luz, France</placeName>, where U.S.
-                            Ambassador to Spain <ref target="/departmenthistory/people/bowers-claude-gernade">Claude
+                            Ambassador to Spain <ref
+                                target="/departmenthistory/people/bowers-claude-gernade">Claude
                                 Bowers</ref> spent the last part of his assignment. The Embassy was
                             re-established in Spain on April 13, 1939, when <persName>H. Freeman
-                                Matthews</persName> was received at <placeName key="burgos">Burgos</placeName> as Chargé d'Affaires <hi rend="italic">ad
-                                        interim</hi>.</p>
+                                Matthews</persName> was received at <placeName key="burgos"
+                                >Burgos</placeName> as Chargé d'Affaires <hi rend="italic">ad
+                                interim</hi>.</p>
                     </div>
                 </div>
                 <div type="section" xml:id="treaties-agreements">
                     <head>Treaties &amp; Agreements</head>
                     <div type="timeline">
-                        <head> Treaty of Friendship, Limits, and Navigation, <date when="1795">1795</date>. </head>
+                        <head>Treaty of Friendship, Limits, and Navigation, <date when="1795"
+                                >1795</date>.</head>
                         <p>Treaty of Friendship, Limits, and Navigation, 1795. On October 27, 1795,
                             Spain signed a Treaty of Friendship, Limits, and Navigation with the
-                            United States. </p>
+                            United States.</p>
                     </div>
                 </div>
                 <div type="appendix">
                     <head>Resources</head>
                     <listBibl>
-                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2878.htm ">Spain</ref>
+                        <bibl>Department of State Country Fact Sheet: <ref
+                                target="http://www.state.gov/r/pa/ei/bgn/2878.htm ">Spain</ref>
                         </bibl>
-                        <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/sp/ ">Spain</ref>
+                        <bibl>Department of State Country Information: <ref
+                                target="http://www.state.gov/p/eur/ci/sp/ ">Spain</ref>
                         </bibl>
                     </listBibl>
                 </div>

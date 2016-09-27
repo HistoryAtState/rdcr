@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Panama</title>
                 <title type="short">Panama</title>
             </titleStmt>
@@ -19,7 +19,7 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The area that became <placeName key="pa">Panama</placeName> was part of Colombia
+                <p>The area that became <placeName key="pa">Panama</placeName> was part of Colombia
                     until the Panamanians revolted, with U.S. support, in 1903. In 1904, the United
                     States and Panama signed a treaty that allowed the United States to build and
                     operate <ref target="/milestones/1899-1913/panama-canal">a canal that traversed
@@ -35,20 +35,23 @@
                 <div type="section" xml:id="recognition">
                     <head>Recognition</head>
                     <div type="timeline">
-                        <head>United States Recognition of Panama, <date when="1903">1903</date>.</head>
-                        <p> The United States recognized Panama on November 6, 1903, after Panama
+                        <head>United States Recognition of Panama, <date when="1903"
+                            >1903</date>.</head>
+                        <p>The United States recognized Panama on November 6, 1903, after Panama
                             declared its independence from Colombia. On November 3, 1903,
                             Panamanians had revolted against the Colombian government, declared an
                             independent Republic of Panama, and established a provisional government
-                            junta. On November 6, Secretary of State <ref target="/departmenthistory/people/hay-john-milton">John Hay</ref>
-                            instructed U.S. Vice-Consul-General at <placeName key="panama-city">Panama City</placeName> Felix Ehrman to “enter into relations” with
+                            junta. On November 6, Secretary of State <ref
+                                target="/departmenthistory/people/hay-john-milton">John Hay</ref>
+                            instructed U.S. Vice-Consul-General at <placeName key="panama-city"
+                                >Panama City</placeName> Felix Ehrman to “enter into relations” with
                             the Government of the Republic of Panama when it appeared to meet
                             conditions of a de facto government having the support of its own
                             people. On the same day, Hay sent Colombian Charge d’Affaires
-                            <persName>Tomas Herran</persName> a copy of a cable dated November 6
+                                <persName>Tomas Herran</persName> a copy of a cable dated November 6
                             in which Hay explained to the U.S. minister at Bogota, Colombia, that
                             the people of Panama had created an independent republican government
-                            <quote>“with which the…United States…has entered into
+                                <quote>“with which the…United States…has entered into
                                 relations.”</quote>
                         </p>
                     </div>
@@ -56,8 +59,9 @@
                 <div type="section" xml:id="consular-presence">
                     <head>Consular Presence</head>
                     <div type="timeline">
-                        <head>Establishment of Consular Relations, <date when="1823">1823</date>. </head>
-                        <p> Consular relations in the part of Colombia that later became Panama were
+                        <head>Establishment of Consular Relations, <date when="1823"
+                            >1823</date>.</head>
+                        <p>Consular relations in the part of Colombia that later became Panama were
                             established in 1823 with the appointment of <persName>David
                                 Craig</persName> as Consular Commercial Agent at Panama.</p>
                     </div>
@@ -65,27 +69,32 @@
                 <div type="section" xml:id="diplomatic-relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
-                        <head>Establishment of Diplomatic Relations, <date when="1903">1903</date>.</head>
-                        <p> Diplomatic relations were established on November 13, 1903, when
+                        <head>Establishment of Diplomatic Relations, <date when="1903"
+                            >1903</date>.</head>
+                        <p>Diplomatic relations were established on November 13, 1903, when
                             President Theodore Roosevelt accepted the credentials of
-                            <persName>Philippe Bunau-Varilla</persName> as Panama’s Minister to
+                                <persName>Philippe Bunau-Varilla</persName> as Panama’s Minister to
                             the Untied States.</p>
                     </div>
                     <div type="timeline">
-                        <head>Establishment of U.S. Diplomatic Mission, <date when="1903">1903</date>. </head>
-                        <p> The U.S. diplomatic mission in Panama was established on December 25,
-                            1903, when <ref target="/departmenthistory/people/buchanan-william-insco">William
+                        <head>Establishment of U.S. Diplomatic Mission, <date when="1903"
+                                >1903</date>.</head>
+                        <p>The U.S. diplomatic mission in Panama was established on December 25,
+                            1903, when <ref
+                                target="/departmenthistory/people/buchanan-william-insco">William
                                 Buchanan</ref> presented his credentials as Envoy Extraordinary and
                             Minister Plenipotentiary on special mission to Panamanian
                             authorities.</p>
                     </div>
                     <div type="timeline">
-                        <head>Diplomatic Relations Interrupted, <date when="1931">1931</date>.</head>
-                        <p> On January 2, 1931, a coup d’état was carried out against the Panamanian
+                        <head>Diplomatic Relations Interrupted, <date when="1931"
+                            >1931</date>.</head>
+                        <p>On January 2, 1931, a coup d’état was carried out against the Panamanian
                             government and forced the resignation of President <persName>Florencio
-                                Arosemena</persName>. Secretary of State <ref target="/departmenthistory/people/stimson-henry-lewis">Henry
-                                    Stimson</ref> on January 5 instructed Minister at Panama
-                            <persName>Roy Davis</persName> not to reply at that time to a
+                                Arosemena</persName>. Secretary of State <ref
+                                target="/departmenthistory/people/stimson-henry-lewis">Henry
+                                Stimson</ref> on January 5 instructed Minister at Panama
+                                <persName>Roy Davis</persName> not to reply at that time to a
                             representative of the new government who had written seeking continuity
                             in relations with the United States. Stimson informed Davis that he
                             would not receive instructions concerning recognition of the new
@@ -94,7 +103,7 @@
                     </div>
                     <div type="timeline">
                         <head>Diplomatic Relations Resumed, <date when="1931">1931</date>.</head>
-                        <p> Secretary Stimson wrote to Minister Davis on January 15, 1931, that the
+                        <p>Secretary Stimson wrote to Minister Davis on January 15, 1931, that the
                             Department was satisfied with the legitimacy and viability of the new
                             Panamanian government. Accordingly, Stimson instructed Davis to attend
                             the inauguration of President Ricardo Alfaro <quote>“and carry on normal
@@ -103,16 +112,18 @@
                     </div>
                     <div type="timeline">
                         <head>Legation Raised to Embassy, <date when="1939">1939</date>.</head>
-                        <p> The Legation in Panama was raised to Embassy status on July 14, 1939,
-                            when Ambassador<ref target="/departmenthistory/people/dawson-william">William Dawson</ref> presented his credentials to Panamanian
-                            authorities. </p>
+                        <p>The Legation in Panama was raised to Embassy status on July 14, 1939,
+                            when Ambassador<ref target="/departmenthistory/people/dawson-william"
+                                >William Dawson</ref> presented his credentials to Panamanian
+                            authorities.</p>
                     </div>
                     <div type="timeline">
-                        <head>Diplomatic Relations Interrupted, <date when="1949">1949</date>.</head>
-                        <p> The Panamanian National Police on November 24, 1949, forced the
+                        <head>Diplomatic Relations Interrupted, <date when="1949"
+                            >1949</date>.</head>
+                        <p>The Panamanian National Police on November 24, 1949, forced the
                             resignation of President Chanis who was succeeded by <persName>Arnulfo
                                 Aria</persName>. On November 25, U.S. Assistant Secretary of State
-                            <ref target="/departmenthistory/people/miller-edward-godfrey">Edward
+                                <ref target="/departmenthistory/people/miller-edward-godfrey">Edward
                                 Miller</ref> announced that, in view of the circumstances
                             surrounding the change of government, <quote>“diplomatic relations
                                 between the United States and the Arias regime in Panama do not
@@ -121,17 +132,19 @@
                     </div>
                     <div type="timeline">
                         <head>Diplomatic Relations Resumed, <date when="1949">1949</date>.</head>
-                        <p> Secretary of State <persName>Dean Acheson</persName> announced on
+                        <p>Secretary of State <persName>Dean Acheson</persName> announced on
                             December 14, 1949, that <quote>“the United States today is renewing
-                                diplomatic relations with Panama,”</quote> and U.S. Ambassador <ref target="/departmenthistory/people/davis-monnett-bain">Monnett
-                                    Davis</ref> delivered a formal notification to the Government of
+                                diplomatic relations with Panama,”</quote> and U.S. Ambassador <ref
+                                target="/departmenthistory/people/davis-monnett-bain">Monnett
+                                Davis</ref> delivered a formal notification to the Government of
                             Panama. Acheson explained that this decision was made after consultation
                             with other American Republics and upon receipt of assurances that the
-                            new government would fulfill its international obligations. </p>
+                            new government would fulfill its international obligations.</p>
                     </div>
                     <div type="timeline">
-                        <head>Diplomatic Relations Severed by Panama, <date when="1964">1964</date>. </head>
-                        <p> Panamanian President <persName>Roberto Chiari</persName> broke off
+                        <head>Diplomatic Relations Severed by Panama, <date when="1964"
+                            >1964</date>.</head>
+                        <p>Panamanian President <persName>Roberto Chiari</persName> broke off
                             diplomatic relations with the United States on January 10, 1964. Chiari
                             accused the United States of “unprovoked aggression” during clashes
                             between Panamanians and U.S. troops in the Canal Zone that followed
@@ -139,29 +152,31 @@
                             American students.</p>
                     </div>
                     <div type="timeline">
-                        <head>Diplomatic Relations Reestablished, <date when="1964">1964</date>.</head>
-                        <p> Panama wanted to renegotiate the 1903 Bunau-Varilla Treaty before
+                        <head>Diplomatic Relations Reestablished, <date when="1964"
+                            >1964</date>.</head>
+                        <p>Panama wanted to renegotiate the 1903 Bunau-Varilla Treaty before
                             resuming diplomatic relations, while the United States promised to
                             discuss all issues after relations were restored. On April 3, 1964, the
                             two states signed a Joint Declaration in which they agreed to
                             reestablish diplomatic relations and to immediately designate
-                            <quote>“Special Ambassadors with sufficient powers to seek the
+                                <quote>“Special Ambassadors with sufficient powers to seek the
                                 prompt elimination of the causes of conflict between the two
                                 countries, without limitations or preconditions of any
                                 kind.”</quote>
                         </p>
                     </div>
                     <div type="timeline">
-                        <head>Diplomatic Relations Interrupted, <date when="1968">1968</date>.</head>
-                        <p> On October 11, 1968, President Arias was deposed in a National Guard
-                            coup and a “Provisional Junta of Government” was established on October
-                            13. On October 15, the Department of State spokesman announced that
+                        <head>Diplomatic Relations Interrupted, <date when="1968"
+                            >1968</date>.</head>
+                        <p>On October 11, 1968, President Arias was deposed in a National Guard coup
+                            and a “Provisional Junta of Government” was established on October 13.
+                            On October 15, the Department of State spokesman announced that
                             diplomatic relations were suspended as a result of events in Panama.</p>
                     </div>
                     <div type="timeline">
-                        <head>Diplomatic Relations Resumed, <date when="1968">1968</date>. </head>
+                        <head>Diplomatic Relations Resumed, <date when="1968">1968</date>.</head>
                         <p>On November 13, 1968, the Embassy at <placeName key="panama-city">Panama
-                            City</placeName> informed the Panamanian Ministry of Foreign Affairs
+                                City</placeName> informed the Panamanian Ministry of Foreign Affairs
                             that the United States was resuming diplomatic relations. The Department
                             of State announced that the decision was made after consulting with OAS
                             member states and receiving assurances from the new Panamanian
@@ -169,8 +184,9 @@
                     </div>
                     <div type="timeline">
                         <head>U.S. Ambassador Recalled, <date when="1989">1989</date>.</head>
-                        <p> On May 11, 1989, President <persName>George Bush</persName> recalled
-                            Ambassador <ref target="/departmenthistory/people/davis-arthur-h--jr">Arthur Davis</ref> and reduced the Embassy staff to essential
+                        <p>On May 11, 1989, President <persName>George Bush</persName> recalled
+                            Ambassador <ref target="/departmenthistory/people/davis-arthur-h--jr"
+                                >Arthur Davis</ref> and reduced the Embassy staff to essential
                             personnel only. Bush explained that he was acting because the people of
                             Panama had <quote>“voted to replace the dictatorship of General Manuel
                                 Noreiga,”</quote> but Noreiga refused to give up power. On December
@@ -178,18 +194,21 @@
                             Noriega’s regime and the return of the U.S. Ambassador to inaugurate
                             relations with a new Panamanian government. U.S. forces eventually
                             captured Noriega and took him to stand trial in the United States on
-                            narcotics charges. </p>
+                            narcotics charges.</p>
                     </div>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2030.htm">Panama</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2030.htm">Panama</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/pm/">Panama</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/wha/ci/pm/">Panama</ref>
                     </bibl>
-                    <bibl>Library of Congress Country Study: <ref target="http://lcweb2.loc.gov/frd/cs/patoc.html">Panama</ref>
+                    <bibl>Library of Congress Country Study: <ref
+                            target="http://lcweb2.loc.gov/frd/cs/patoc.html">Panama</ref>
                     </bibl>
                 </listBibl>
             </div>

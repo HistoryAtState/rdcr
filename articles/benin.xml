@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Benin
                     (Dahomey)</title>
                 <title type="short">Benin (Dahomey)</title>
@@ -30,26 +30,31 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Dahomey’s Independence, <date when="1960">1960</date>.</head>
+                    <head>U.S. Recognition of Dahomey’s Independence, <date when="1960"
+                        >1960</date>.</head>
                     <p>The United States recognized the <placeName>Republic of Dahomey</placeName>
                         on August 1, 1960, in a congratulatory message from President
                             <persName>Dwight D. Eisenhower</persName> to Prime Minister Maga. On
                         that date, Dahomey’s independence from French sovereignty was proclaimed. In
-                        1975, the country was re-named the Republic of Benin. </p>
+                        1975, the country was re-named the Republic of Benin.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1960">1960</date>.</head>
-                    <p>Diplomatic relations were established on August 1, 1960, when <ref target="/departmenthistory/people/norland-donald-richard">Donald R.
-                            Norland</ref> took up his position as Chargé d'Affaires <hi rend="italic">ad interim</hi>. He had presented his credentials on July
+                    <head>Establishment of Diplomatic Relations, <date when="1960"
+                        >1960</date>.</head>
+                    <p>Diplomatic relations were established on August 1, 1960, when <ref
+                            target="/departmenthistory/people/norland-donald-richard">Donald R.
+                            Norland</ref> took up his position as Chargé d'Affaires <hi
+                            rend="italic">ad interim</hi>. He had presented his credentials on July
                         31, 1960, to take effect on the next day.</p>
                 </div>
                 <div type="timeline">
                     <head>Establishment of American Embassy, <date when="1961">1961</date>.</head>
                     <p>Embassy <placeName key="cotonou">Cotonou</placeName> was established on
-                        February 15, 1961, with <ref target="/departmenthistory/people/hettinger-converse">Converse
+                        February 15, 1961, with <ref
+                            target="/departmenthistory/people/hettinger-converse">Converse
                             Hettinger</ref> as Chargé d'Affaires <hi rend="italic">ad
                         interim</hi>.</p>
                 </div>
@@ -57,9 +62,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/6761.htm">Benin</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/6761.htm">Benin</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/bn/index.htm">Benin</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/bn/index.htm">Benin</ref>
                     </bibl>
                 </listBibl>
             </div>

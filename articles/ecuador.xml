@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Ecuador</title>
                 <title type="short">Ecuador</title>
             </titleStmt>
@@ -19,9 +19,9 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The United States recognized the independence from Spain of Colombia, of which
+                <p>The United States recognized the independence from Spain of Colombia, of which
                     present-day Ecuador then formed a part, on June 19, 1822, when President
-                    <persName>James Monroe</persName> received <persName>Manuel
+                        <persName>James Monroe</persName> received <persName>Manuel
                         Torres</persName> as the Colombian Chargé d’Affaires. Ecuador withdrew from
                     the Colombian federation in 1830 and received U.S. recognition as a separate
                     state in 1832. The two countries concluded a treaty of peace, friendship,
@@ -38,11 +38,12 @@
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>U.S. Recognition of Ecuador, <date when="1832">1832</date>.</head>
-                    <p> The United States effectively recognized Ecuador in a June 4, 1832, letter
-                        from Secretary of State <ref target="/departmenthistory/people/livingston-edward">Edward
+                    <p>The United States effectively recognized Ecuador in a June 4, 1832, letter
+                        from Secretary of State <ref
+                            target="/departmenthistory/people/livingston-edward">Edward
                             Livingston</ref> to Ecuadorian President <persName>Juan José
-                                Flores</persName>. Writing at the direction of President
-                        <persName>Andrew Jackson</persName>, Livingston acknowledged a letter
+                            Flores</persName>. Writing at the direction of President
+                            <persName>Andrew Jackson</persName>, Livingston acknowledged a letter
                         from Flores dated January 13, 1832, in which Flores had announced that he
                         was <quote>“at the head of the Government of the State of the
                             Equator.”</quote> Livingston also conveyed President Jackson’s gratitude
@@ -51,12 +52,14 @@
                         Colombia. Though Livingston expressed Jackson’s hope that Ecuador, New
                         Granada (present-day Colombia and Panama), and Venezuela might reunite and
                         thus achieve domestic tranquility, the letter indicated a recognition of
-                        Ecuador’s separation from the Colombian federation. </p>
-                    <p> Another indication of U.S. recognition of Ecuador came in May 12, 1834,
-                        instructions to <ref target="/departmenthistory/people/mcafee-robert-breckinridge">Robert B.
+                        Ecuador’s separation from the Colombian federation.</p>
+                    <p>Another indication of U.S. recognition of Ecuador came in May 12, 1834,
+                        instructions to <ref
+                            target="/departmenthistory/people/mcafee-robert-breckinridge">Robert B.
                             McAfee</ref>, Chargé d’Affaires in New Granada, with which the
                         Department of State transmitted the commission of <persName>Seth
-                            Sweetser</persName> as consul in <placeName key="guayaquil">Guayaquil</placeName>. The dispatch referred to Guayaquil as a city “in
+                            Sweetser</persName> as consul in <placeName key="guayaquil"
+                            >Guayaquil</placeName>. The dispatch referred to Guayaquil as a city “in
                         Ecuador,” and it asked McAfee to tell Sweetser to <quote>“apply to the
                             Government of that State for his Exequatur.”</quote> Sweetser
                         subsequently presented his commission to the President of Ecuador and
@@ -64,18 +67,20 @@
                         unconditional acceptance of his recognition as a consular representative
                         from the Ecuadorian authorities constituted further U.S. recognition of
                         Ecuador as a sovereign state. Moreover, in instructions dated April 21,
-                        1836, Secretary of State <ref target="/departmenthistory/people/forsyth-john">John Forsyth</ref>
+                        1836, Secretary of State <ref
+                            target="/departmenthistory/people/forsyth-john">John Forsyth</ref>
                         authorized Chargé McAfee to negotiate a treaty with the Ecuadorian minister
                         expected in <placeName>Bogota</placeName>, confirming once again U.S.
-                        recognition of Ecuador’s status as an independent republic. </p>
+                        recognition of Ecuador’s status as an independent republic.</p>
                 </div>
             </div>
             <div type="section" xml:id="consular-presence">
                 <head>Consular Presence</head>
                 <div type="timeline">
-                    <head>Establishment of Consulate in <placeName>Guayaquil</placeName>, <date when="1825">1825</date>.</head>
-                    <p> The first U.S. consular representative to serve in what is today Ecuador was
-                        <persName>William Wheelwright</persName>, appointed on June 9, 1824, as
+                    <head>Establishment of Consulate in <placeName>Guayaquil</placeName>, <date
+                            when="1825">1825</date>.</head>
+                    <p>The first U.S. consular representative to serve in what is today Ecuador was
+                            <persName>William Wheelwright</persName>, appointed on June 9, 1824, as
                         the U.S. Consul in Guayaquil. The Senate confirmed his appointment on April
                         8, 1825, and he was recognized by the Intendente of the Department of
                         Guayaquil, General <persName>Juan Paz Castillo</persName>, on July 5,
@@ -83,50 +88,56 @@
                 </div>
                 <div type="timeline">
                     <head>Elevation of Status of the Consulate in Guayaquil to Consulate General,
-                        <date when="1884">1884</date>.</head>
-                    <p> At the urging of Consul <persName>Horatio N. Beach</persName>, the
-                        Department of State raised the rank of the Consulate in Guayaquil to
-                        Consulate General in 1884. The Consulate General continues to operate today.
-                        It is the only consular post in the Western Hemisphere outside of
-                        <placeName>Canada</placeName>, <placeName>Mexico</placeName>, and
-                        <placeName>Brazil</placeName>.</p>
+                            <date when="1884">1884</date>.</head>
+                    <p>At the urging of Consul <persName>Horatio N. Beach</persName>, the Department
+                        of State raised the rank of the Consulate in Guayaquil to Consulate General
+                        in 1884. The Consulate General continues to operate today. It is the only
+                        consular post in the Western Hemisphere outside of
+                            <placeName>Canada</placeName>, <placeName>Mexico</placeName>, and
+                            <placeName>Brazil</placeName>.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1848">1848</date>.</head>
-                    <p> The United States established diplomatic relations with Ecuador on August
-                        12, 1848, when Chargé d’Affaires <ref target="/departmenthistory/people/livingston-van-brugh">Van Brugh
+                    <head>Establishment of Diplomatic Relations, <date when="1848"
+                        >1848</date>.</head>
+                    <p>The United States established diplomatic relations with Ecuador on August 12,
+                        1848, when Chargé d’Affaires <ref
+                            target="/departmenthistory/people/livingston-van-brugh">Van Brugh
                             Livingston</ref> presented his credentials to the Ecuadorian Government.
                         He became the first resident U.S. diplomatic agent in Ecuador.</p>
                 </div>
                 <div type="timeline">
                     <head>Elevation of Status of Legation in <placeName>Quito</placeName> to
                         Embassy, <date when="1942">1942</date>.</head>
-                    <p> The rank of the U.S. Legation in Ecuador was raised to Embassy on March 5,
-                        1942. The Minister to Ecuador, <ref target="/departmenthistory/people/long-boaz-walton">Boaz Long</ref>, was
+                    <p>The rank of the U.S. Legation in Ecuador was raised to Embassy on March 5,
+                        1942. The Minister to Ecuador, <ref
+                            target="/departmenthistory/people/long-boaz-walton">Boaz Long</ref>, was
                         raised in rank to Ambassador.</p>
                 </div>
             </div>
             <div type="section" xml:id="treaties">
                 <head>Treaties and Agreements</head>
                 <div type="timeline">
-                    <head>Treaty of Peace, Friendship, Navigation, and Commerce, <date when="1839">1839</date>.</head>
-                    <p> The first major agreement between the United States and Ecuador was a
+                    <head>Treaty of Peace, Friendship, Navigation, and Commerce, <date when="1839"
+                            >1839</date>.</head>
+                    <p>The first major agreement between the United States and Ecuador was a
                         commercial treaty signed by U.S. Special Agent <persName>James D.
                             Pickett</persName> and Ecuadorian Finance Minister <persName>Luis de
-                                Saá</persName> on June 13, 1839. The two Governments exchanged
+                            Saá</persName> on June 13, 1839. The two Governments exchanged
                         ratifications of the treaty at Quito on April 9, 1842, and it became
-                        effective on September 23, 1842. </p>
+                        effective on September 23, 1842.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35761.htm">Ecuador</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/35761.htm">Ecuador</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/ec/index.htm">Ecuador</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/wha/ci/ec/index.htm">Ecuador</ref>
                     </bibl>
                 </listBibl>
             </div>

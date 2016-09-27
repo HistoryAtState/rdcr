@@ -2,9 +2,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
-                    Diplomatic, and Consular Relations, by Country, since 1776:
-                    Bosnia and Herzegovina</title>
+                <title type="complete">A Guide to the United States’ History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Bosnia and
+                    Herzegovina</title>
                 <title type="short">Bosnia and Herzegovina</title>
             </titleStmt>
             <publicationStmt>
@@ -19,10 +19,11 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The United States recognized Bosnia and Herzegovina as an independent state on <date when="1992-04-07">April 7, 1992</date>, when the <persName>George H.W.
+                <p>The United States recognized Bosnia and Herzegovina as an independent state on
+                        <date when="1992-04-07">April 7, 1992</date>, when the <persName>George H.W.
                         Bush</persName> Administration announced the decision in a White House
                     statement. Bosnia and Herzegovina had been a constituent part of
-                        <placeName>Yugoslavia</placeName>. </p>
+                        <placeName>Yugoslavia</placeName>.</p>
                 <figure>
                     <graphic url="bosnia-flag.jpg"/>
                     <head>Modern Flag of Bosnia and Herzegovina</head>
@@ -31,11 +32,12 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Bosnia and Herzegovina, <date when="1992-04-07">1992</date>.</head>
-                    <p>The United States recognized Bosnia and Herzegovina as an independent state on
-                        April 7, 1992, when the <persName>George H.W. Bush</persName> Administration
-                        announced the decision in a White House statement. Bosnia and Herzegovina had
-                        been a constituent part of Yugoslavia. </p>
+                    <head>U.S. Recognition of Bosnia and Herzegovina, <date when="1992-04-07"
+                            >1992</date>.</head>
+                    <p>The United States recognized Bosnia and Herzegovina as an independent state
+                        on April 7, 1992, when the <persName>George H.W. Bush</persName>
+                        Administration announced the decision in a White House statement. Bosnia and
+                        Herzegovina had been a constituent part of Yugoslavia.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
@@ -46,25 +48,31 @@
                         George H.W. Bush announced the decision during remarks to the press.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Embassy in Bosnia and Herzegovina, <date when="1992">1992</date>.</head>
+                    <head>Establishment of the American Embassy in Bosnia and Herzegovina, <date
+                            when="1992">1992</date>.</head>
                     <p>
                         <ref target="/departmenthistory/people/jackovich-victor">Victor
                             Jackovich</ref> presented his credentials as American Ambassador on June
-                        23, 1993; however, a physical American Embassy to Bosnia and Herzegovina was not
-                        established until November 10, 1993, on the premises of the American Embassy
-                        in Vienna, Austria. The American Embassy in <placeName key="sarajevo">Sarajevo</placeName> was established on July
-                        4, 1994, with Jackovich as Ambassador.</p>
+                        23, 1993; however, a physical American Embassy to Bosnia and Herzegovina was
+                        not established until November 10, 1993, on the premises of the American
+                        Embassy in Vienna, Austria. The American Embassy in <placeName
+                            key="sarajevo">Sarajevo</placeName> was established on July 4, 1994,
+                        with Jackovich as Ambassador.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/bk.html">Bosnia and Herzegovina</ref>
+                    <bibl>CIA World Factbook: <ref
+                            target="https://www.cia.gov/library/publications/the-world-factbook/geos/bk.html"
+                            >Bosnia and Herzegovina</ref>
                     </bibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2868.htm">Bosnia and
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2868.htm">Bosnia and
                             Herzegovina</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/bk/">Bosnia and Herzegovina</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/bk/">Bosnia and Herzegovina</ref>
                     </bibl>
                 </listBibl>
             </div>

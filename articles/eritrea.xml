@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Eritrea</title>
                 <title type="short">Eritrea</title>
             </titleStmt>
@@ -19,7 +19,8 @@
             <div type="section" xml:id="summary">
                 <head>Summary</head>
                 <p>The United States recognized the <placeName>Republic of Eritrea</placeName> on
-                    April 27, 1993, when the American consulate at <placeName key="asmara">Asmara</placeName> informed Eritrean authorities of this decision on the
+                    April 27, 1993, when the American consulate at <placeName key="asmara"
+                        >Asmara</placeName> informed Eritrean authorities of this decision on the
                     same date Eritrea declared its independence.</p>
                 <figure>
                     <graphic url="eritrea.jpg"/>
@@ -29,30 +30,34 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Eritrean Independence, <date when="1933">1993</date>.</head>
+                    <head>U.S. Recognition of Eritrean Independence, <date when="1933"
+                        >1993</date>.</head>
                     <p>The United States recognized the <placeName>Republic of Eritrea</placeName>
                         on April 27, 1993, when the American consulate at Asmara informed Eritrean
                         authorities of this decision on the same date Eritrea declared its
-                        independence. Eritrea previously had been under Ethiopian sovereignty. </p>
+                        independence. Eritrea previously had been under Ethiopian sovereignty.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Eritrean Independence, <date when="1933">1993</date>.</head>
+                    <head>U.S. Recognition of Eritrean Independence, <date when="1933"
+                        >1993</date>.</head>
                     <p>Diplomatic relations were established on June 11, 1993, when the American
                         consulate at Asmara was raised to Embassy status with <persName>Joseph P.
                             O'Neill</persName> as Chargé d'Affaires <hi rend="italic">ad
-                                interim.</hi>
+                            interim.</hi>
                     </p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2854.htm">Eritrea</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2854.htm">Eritrea</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/er/">Eritrea</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/er/">Eritrea</ref>
                     </bibl>
                 </listBibl>
             </div>

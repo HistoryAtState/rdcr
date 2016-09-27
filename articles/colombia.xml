@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Colombia</title>
                 <title type="short">Colombia</title>
             </titleStmt>
@@ -19,7 +19,7 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> Colombia effectively achieved its independence from <placeName>Spain</placeName>
+                <p>Colombia effectively achieved its independence from <placeName>Spain</placeName>
                     by 1819, and the country was recognized by the United States in 1822, when
                     President Monroe received a Colombian diplomatic representative in Washington.
                     The United States established a diplomatic mission in Colombia in 1823. At that
@@ -30,7 +30,7 @@
                     country was known as New Granada, and from 1856 to 1863, it was known as the
                     Grenadine Confederation. The country became the United States of Colombia in
                     1863, and it changed its name to the Republic of Colombia in 1886. Panama
-                    separated from Colombia in 1903. </p>
+                    separated from Colombia in 1903.</p>
                 <figure>
                     <graphic url="colombia-flag.jpg"/>
                     <head>Modern Flag of Colombia</head>
@@ -42,13 +42,14 @@
                     <head>U.S. Recognition of Colombia, <date when="1822">1822</date>.</head>
                     <p>The United States recognized Colombia on June 19, 1822, when President
                             <persName>James Monroe</persName> received <persName>Manuel
-                            Torres</persName> as the Colombian Chargé d’affaires. </p>
+                            Torres</persName> as the Colombian Chargé d’affaires.</p>
                 </div>
                 <div type="section" xml:id="consular_relations">
                     <head>Consular Relations</head>
                     <div type="timeline">
-                        <head>Establishment of Consulates in Cartagena and Santa Marta, <date when="1823">1823</date>.</head>
-                        <p> The first U.S. consulates in the present-day territory of Colombia were
+                        <head>Establishment of Consulates in Cartagena and Santa Marta, <date
+                                when="1823">1823</date>.</head>
+                        <p>The first U.S. consulates in the present-day territory of Colombia were
                             established in the Caribbean port cities of Cartagena and Santa Marta in
                             1823. In Cartagena, where a commercial agent had been appointed in 1821
                             and a consular agent appointed in 1822, <persName>James
@@ -56,18 +57,24 @@
                                 <persName>Harris Fudger</persName> was appointed Consul in Santa
                             Marta on July 11, 1823. The Consulate in Cartagena closed in 1948, and
                             the Consulate in Santa Marta closed in 1933.</p>
-                        <p>Consular posts were also established at different times in <placeName key="barranquilla">Barranquilla</placeName>, <placeName key="bucaramanga">Bucaramanga</placeName>, <placeName key="buenaventura">Buenaventura</placeName>, Cali, and <placeName key="medellín">Medellín</placeName>. None remain in operation. </p>
+                        <p>Consular posts were also established at different times in <placeName
+                                key="barranquilla">Barranquilla</placeName>, <placeName
+                                key="bucaramanga">Bucaramanga</placeName>, <placeName
+                                key="buenaventura">Buenaventura</placeName>, Cali, and <placeName
+                                key="medellín">Medellín</placeName>. None remain in operation.</p>
                     </div>
                 </div>
                 <div type="section" xml:id="diplomatic_relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
-                        <head>Establishment of Diplomatic Relations, <date when="1822">1822</date>.</head>
+                        <head>Establishment of Diplomatic Relations, <date when="1822"
+                            >1822</date>.</head>
                         <p>Diplomatic relations were established in 1822 by President Monroe’s
                             reception of Colombian Chargé <persName>Manuel Torres</persName>.</p>
                     </div>
                     <div type="timeline">
-                        <head>Establishment of the U.S. Legation in Colombia, <date when="1823">1823</date>. </head>
+                        <head>Establishment of the U.S. Legation in Colombia, <date when="1823"
+                                >1823</date>.</head>
                         <p>
                             <ref target="/departmenthistory/people/anderson-richard-clough">Richard
                                 Anderson</ref> of Kentucky was named U.S. Minister to Colombia on
@@ -76,7 +83,8 @@
                             Colombia.</p>
                     </div>
                     <div type="timeline">
-                        <head>Elevation of Status of Legation in Bogotá to Embassy, <date when="1939">1939</date>.</head>
+                        <head>Elevation of Status of Legation in Bogotá to Embassy, <date
+                                when="1939">1939</date>.</head>
                         <p>The U.S. Legation in Colombia was raised to the rank of Embassy in 1939.
                                 <ref target="/departmenthistory/people/braden-spruille">Spruille
                                 Braden</ref> became the first U.S. Ambassador to Colombia.</p>
@@ -86,25 +94,29 @@
             <div type="section" xml:id="treaties-agreements">
                 <head>Treaties and Agreements</head>
                 <div type="timeline">
-                    <head>General Convention of Peace, Amity, Navigation, and Commerce, <date when="1824">1824</date>. </head>
+                    <head>General Convention of Peace, Amity, Navigation, and Commerce, <date
+                            when="1824">1824</date>.</head>
                     <p>The first commercial treaty between the United States and the Republic of
                         Colombia (then comprising present-day Colombia, Panama, Ecuador, and
                         Venezuela) was signed in 1824 and ratified and proclaimed in 1825. It
                         expired in 1836.</p>
                 </div>
                 <div type="timeline">
-                    <head>General Treaty of Peace, Amity, Navigation, and Commerce, <date when="1846">1846</date>. </head>
+                    <head>General Treaty of Peace, Amity, Navigation, and Commerce, <date
+                            when="1846">1846</date>.</head>
                     <p>A treaty of friendship and commerce between the United States and New Granada
                         (present-day Colombia), still in force, was concluded in 1846 and proclaimed
-                        in 1848. </p>
+                        in 1848.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35754.htm">Colombia</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/35754.htm">Colombia</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/co/index.htm">Colombia</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/wha/ci/co/index.htm">Colombia</ref>
                     </bibl>
                 </listBibl>
             </div>

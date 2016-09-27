@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Burkina Faso (Upper
                     Volta)</title>
                 <title type="short">Burkina Faso (Upper Volta)</title>
@@ -22,7 +22,7 @@
                 <p>The United States recognized Upper Volta on August 5, 1960, in a congratulatory
                     message from President <persName>Dwight D. Eisenhower</persName> to Prime
                     Minister <persName>Maurice Yameog</persName>o. Upper Volta previously had been
-                    under French sovereignty. </p>
+                    under French sovereignty.</p>
                 <figure>
                     <graphic url="burkinafaso-flag.jpg"/>
                     <head>Modern Flag of Burkina Faso</head>
@@ -36,31 +36,37 @@
                         congratulatory message from President <persName>Dwight D.
                             Eisenhower</persName> to Prime Minister Maurice Yameogo. Upper Volta
                         previously had been under French sovereignty. The state’s name changed from
-                        Upper Volta to <placeName>Burkina Faso</placeName> in 1984. </p>
+                        Upper Volta to <placeName>Burkina Faso</placeName> in 1984.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1960">1960</date>.</head>
-                    <p>Diplomatic relations were established on August 5, 1960, when <ref target="/departmenthistory/people/norland-donald-richard">Donald R.
+                    <head>Establishment of Diplomatic Relations, <date when="1960"
+                        >1960</date>.</head>
+                    <p>Diplomatic relations were established on August 5, 1960, when <ref
+                            target="/departmenthistory/people/norland-donald-richard">Donald R.
                             Norland</ref> assumed his post as Chargé d'Affaires <hi rend="italic">ad
                             interim</hi>. Norland had presented his credentials on August 4, 1960,
-                        to take effect the following day. </p>
+                        to take effect the following day.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Embassy in Upper Volta, <date when="1960">1960</date>.</head>
+                    <head>Establishment of the American Embassy in Upper Volta, <date when="1960"
+                            >1960</date>.</head>
                     <p>Embassy <placeName>Ouagadougou</placeName> was established on December 31,
-                        1960, with <ref target="/departmenthistory/people/mckinnon-robert-allen">Robert McKinnon</ref> as Chargé d'Affaires <hi rend="italic">ad
+                        1960, with <ref target="/departmenthistory/people/mckinnon-robert-allen"
+                            >Robert McKinnon</ref> as Chargé d'Affaires <hi rend="italic">ad
                             interim</hi>.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2834.htm">Burkina Faso</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2834.htm">Burkina Faso</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/uv">Burkina Faso</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/uv">Burkina Faso</ref>
                     </bibl>
                 </listBibl>
             </div>

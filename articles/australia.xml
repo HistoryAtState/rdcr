@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Australia</title>
                 <title type="short">Australia</title>
             </titleStmt>
@@ -18,7 +18,7 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> On <date when="1901-01-01">January 1, 1901</date>, six colonies were joined
+                <p>On <date when="1901-01-01">January 1, 1901</date>, six colonies were joined
                     together to create the <placeName key="au">Commonwealth of
                     Australia</placeName>, a self-governing Dominion in the British Empire. While
                     the new nation was sovereign when it came to its domestic affairs, the
@@ -44,47 +44,50 @@
                         Germany.”</quote>
                 </p>
                 <p>The year 2010 marks the 70th anniversary of the establishment of diplomatic
-                    relations between the United States and Australia. </p>
+                    relations between the United States and Australia.</p>
             </div>
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>U.S. Recognition of Australian Independence, <date>1940</date>.</head>
-                    <p> The United States recognized Australia on <date when="1940-01-08">January 8,
+                    <p>The United States recognized Australia on <date when="1940-01-08">January 8,
                             1940</date>, when the Governments of the United States and Australia
-                        announced the establishment of bilateral diplomatic relations. </p>
+                        announced the establishment of bilateral diplomatic relations.</p>
                 </div>
             </div>
             <div type="section" xml:id="relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date>1940</date>. </head>
-                    <p> On January 8, 1940, the Governments of the United States and Australia
-                        announced the establishment of bilateral diplomatic relations. </p>
+                    <head>Establishment of Diplomatic Relations, <date>1940</date>.</head>
+                    <p>On January 8, 1940, the Governments of the United States and Australia
+                        announced the establishment of bilateral diplomatic relations.</p>
                 </div>
                 <div type="timeline">
                     <head>Establishment of the Australian Legation in the United States,
                             <date>1940</date>.</head>
-                    <p> On March 1, 1940, <persName>Richard Gardiner Casey</persName> presented his
+                    <p>On March 1, 1940, <persName>Richard Gardiner Casey</persName> presented his
                         credentials as Envoy Extraordinary and Minister Plenipotentiary to the
-                        Government of the United States. </p>
+                        Government of the United States.</p>
                 </div>
                 <div type="timeline">
                     <head>Establishment of the American Legation in Australia,
                         <date>1940</date>.</head>
-                    <p> On July 17, 1940, <ref target="/departmenthistory/people/gauss-clarence-edward">Clarence E.
+                    <p>On July 17, 1940, <ref
+                            target="/departmenthistory/people/gauss-clarence-edward">Clarence E.
                             Gauss</ref> presented his credentials as Envoy Extraordinary and
-                        Minister Plenipotentiary to the Government of Australia. </p>
+                        Minister Plenipotentiary to the Government of Australia.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of Legations to Embassy Status, <date when="1946">1946</date>.</head>
-                    <p> On July 9, 1946, the White House announced the elevation of the Australian
+                    <head>Elevation of Legations to Embassy Status, <date when="1946"
+                        >1946</date>.</head>
+                    <p>On July 9, 1946, the White House announced the elevation of the Australian
                         and American legations to embassy stratus. On September 11, 1946,
                             <persName>Norman J. O. Makin</persName> presented his credentials as
                         Ambassador Extraordinary and Plenipotentiary of Australia to the Government
-                        of the United States. On September 25, 1946, <ref target="/departmenthistory/people/butler-robert">Robert Butler</ref>
+                        of the United States. On September 25, 1946, <ref
+                            target="/departmenthistory/people/butler-robert">Robert Butler</ref>
                         presented his credentials as Ambassador Extraordinary and Plenipotentiary of
-                        the United States to the Government of Australia. </p>
+                        the United States to the Government of Australia.</p>
                 </div>
                 <div type="timeline">
                     <head>70th Anniversary of Establishment of Diplomatic Relations</head>
@@ -95,11 +98,15 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2698.htm">Australia</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2698.htm">Australia</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/as/index.htm">Australia</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eap/ci/as/index.htm">Australia</ref>
                     </bibl>
-                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/as.html">Australia</ref>
+                    <bibl>CIA World Factbook: <ref
+                            target="https://www.cia.gov/library/publications/the-world-factbook/geos/as.html"
+                            >Australia</ref>
                     </bibl>
                 </listBibl>
             </div>

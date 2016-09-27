@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Cape Verde</title>
                 <title type="short">Cape Verde</title>
             </titleStmt>
@@ -33,7 +33,7 @@
                     <p>The United States recognized the Republic of Cape Verde on July 5, 1975, when
                         President <persName>Gerald R. Ford</persName> sent a letter to that effect
                         to President <persName>Aristides Pereria</persName>. Cape Verde previously
-                        had been under Portuguese sovereignty. </p>
+                        had been under Portuguese sovereignty.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic_relations">
@@ -43,30 +43,37 @@
                     </head>
                     <p>Diplomatic relations were established on July 19, 1975, when Ambassador of
                         the Republic of Cape Verde <persName>Raul Querido Varela</persName>
-                        presented his credentials to President <persName>Gerald R. Ford</persName>.
-                    </p>
+                        presented his credentials to President <persName>Gerald R.
+                        Ford</persName>.</p>
                 </div>
                 <div type="timeline">
-                    <head>Accreditation of American Ambassador to Cape Verde, <date when="1976">1976.</date>
+                    <head>Accreditation of American Ambassador to Cape Verde, <date when="1976"
+                            >1976.</date>
                     </head>
-                    <p>Ambassador <ref target="http://history.state.gov/departmenthistory/people/wells-melissa-foelsch">Melissa F. Wells</ref> presented her credentials to the government of
+                    <p>Ambassador <ref
+                            target="http://history.state.gov/departmenthistory/people/wells-melissa-foelsch"
+                            >Melissa F. Wells</ref> presented her credentials to the government of
                         Cape Verde on November 18, 1976. Wells also was accredited to Guinea-Bissau
-                        and was resident at Bissau. </p>
+                        and was resident at Bissau.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of American Embassy in Cape Verde, <date when="1978">1978.</date>
+                    <head>Establishment of American Embassy in Cape Verde, <date when="1978"
+                            >1978.</date>
                     </head>
                     <p>The American Embassy at <placeName key="praia">Praia</placeName> was
-                        established on January 28, 1978, with <ref target="/departmenthistory/people/mcgowan-howard-l">Howard McGowan</ref>
-                        as Charge d'Affaires <hi rend="italic">ad interim</hi>. </p>
+                        established on January 28, 1978, with <ref
+                            target="/departmenthistory/people/mcgowan-howard-l">Howard McGowan</ref>
+                        as Charge d'Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2835.htm">Cape Verde</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2835.htm">Cape Verde</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/cv">Cape Verde</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/cv">Cape Verde</ref>
                     </bibl>
                 </listBibl>
             </div>

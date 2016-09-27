@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: North German
                     Union</title>
                 <title type="short">North German Union*</title>
@@ -27,16 +27,17 @@
                     Austria, and Southern Hesse. The United States recognized the North German
                     Confederation (referred to by the U.S. Government at the time as the North
                     German Union) in 1867, and established diplomatic relations. When the German
-                    Empire was created in 1871, it made the North German Confederation obsolete.
-                </p>
+                    Empire was created in 1871, it made the North German Confederation obsolete.</p>
             </div>
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of the North German Confederation, <date when="1867">1867</date>.</head>
-                    <p> Following the establishment of the North German Confederation on July 1,
+                    <head>U.S. Recognition of the North German Confederation, <date when="1867"
+                            >1867</date>.</head>
+                    <p>Following the establishment of the North German Confederation on July 1,
                         1867, on November 20, 1867, the U.S. Minister to Prussia, <persName>George
-                            Bancroft</persName>, informed Secretary of State <ref target="/departmenthistory/people/seward-william-henry">William H.
+                            Bancroft</persName>, informed Secretary of State <ref
+                            target="/departmenthistory/people/seward-william-henry">William H.
                             Seward</ref> that he had attended the opening of the North German
                         Parliament. He requested, however, that the Secretary formally notify him of
                         the intentions of the U.S. Government concerning the question of the
@@ -48,14 +49,15 @@
                         Seward informed Bancroft that he would disseminate a description of the
                         Confederation’s flag so that its ships would be welcomed in American waters.
                         This exchange between Seward and Bancroft implicitly signified a formal
-                        recognition of the North German Confederation by the United States. </p>
+                        recognition of the North German Confederation by the United States.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1868">1868</date>.</head>
-                    <p> The U.S. sent <ref target="/departmenthistory/people/bancroft-george">George
+                    <head>Establishment of Diplomatic Relations, <date when="1868"
+                        >1868</date>.</head>
+                    <p>The U.S. sent <ref target="/departmenthistory/people/bancroft-george">George
                             Bancroft</ref> to serve as Minister of the North German Confederation,
                         in addition to Bancroft’s 1867 commission as U.S. Minister to Prussia. On
                         February 22, 1868, Bancroft concluded the Naturalization Convention with the
@@ -66,11 +68,12 @@
                     </p>
                 </div>
                 <div type="timeline">
-                    <head>Cessation of Diplomatic Relations with the North German Union, <date when="1871">1871</date>.</head>
-                    <p> When the North German Union was abolished by the creation of the German
+                    <head>Cessation of Diplomatic Relations with the North German Union, <date
+                            when="1871">1871</date>.</head>
+                    <p>When the North German Union was abolished by the creation of the German
                         Empire in 1871, the United States recognized the legitimacy of and
                         established diplomatic relations with the German Empire. At this point the
-                        North German Union was defunct. </p>
+                        North German Union was defunct.</p>
                 </div>
             </div>
             <div type="section" xml:id="key-events">
@@ -78,7 +81,8 @@
                 <div type="timeline">
                     <head>German Unification.</head>
                     <p>The North German Confederation was part of the general process of German
-                        unification of the mid-nineteenth century. (See “<ref target="/countries/issues/german-unification">Unification of German
+                        unification of the mid-nineteenth century. (See “<ref
+                            target="/countries/issues/german-unification">Unification of German
                             States</ref>” for greater detail.)</p>
                 </div>
             </div>

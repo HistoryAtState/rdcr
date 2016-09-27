@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Argentina</title>
                 <title type="short">Argentina</title>
             </titleStmt>
@@ -34,12 +34,15 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>United States Recognition of Buenos Ayres, <date when="1823">1823</date>.</head>
+                    <head>United States Recognition of Buenos Ayres, <date when="1823"
+                        >1823</date>.</head>
                     <p>The United States recognized the Government of Buenos Ayres (predecessor of
-                        Argentina) on January 27, 1823, when <ref target="/departmenthistory/people/rodney-caesar-augustus">Caesar
+                        Argentina) on January 27, 1823, when <ref
+                            target="/departmenthistory/people/rodney-caesar-augustus">Caesar
                             Rodney</ref> was appointed as American Minister Plenipotentiary to that
                         government. <placeName key="buenos-aries">Buenos Ayres</placeName> had
-                        declared independence from <placeName>Spain</placeName> on <date when="1816-07-09">July 9, 1816</date>.</p>
+                        declared independence from <placeName>Spain</placeName> on <date
+                            when="1816-07-09">July 9, 1816</date>.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic_relations">
@@ -49,7 +52,8 @@
                         Ayres, <date when="1823">1823.</date>
                     </head>
                     <p>Diplomatic relations were established on December 27, 1823, when American
-                        Minister Plenipotentiary <ref target="/departmenthistory/people/rodney-caesar-augustus">Caesar
+                        Minister Plenipotentiary <ref
+                            target="/departmenthistory/people/rodney-caesar-augustus">Caesar
                             Rodney</ref> presented his credentials to the Government of Buenos
                         Ayres.</p>
                 </div>
@@ -65,7 +69,7 @@
                         letters of credence to both Buenos Aires and the Confederation. Peden
                         resided at <placeName key="buenos-aires">Buenos Aires</placeName> until
                         about May 1, 1857, when he closed the Legation at that city and moved to
-                            <placeName key="parana">Parana</placeName>. </p>
+                            <placeName key="parana">Parana</placeName>.</p>
                 </div>
                 <div type="timeline">
                     <head>American Mission Returned to Buenos Aires, <date when="1862">1862.</date>
@@ -86,11 +90,13 @@
                             Farrell</persName> a few weeks later on February 25, 1944. The United
                         States believed the Farrell regime was <quote>"not in sympathy to the
                             declared Argentine policy of joining the defense of the
-                            hemisphere,"</quote> and instructed Ambassador <ref target="/departmenthistory/people/armour-norman">Norman Armour</ref> to
+                            hemisphere,"</quote> and instructed Ambassador <ref
+                            target="/departmenthistory/people/armour-norman">Norman Armour</ref> to
                         refrain from entering official relations with the new government. Armour was
-                        instructed to return to Washington on June 27, 1944. <ref target="/departmenthistory/people/reed-leslie-edgar">Edward L.
+                        instructed to return to Washington on June 27, 1944. <ref
+                            target="/departmenthistory/people/reed-leslie-edgar">Edward L.
                             Reed</ref> subsequently became Charges d’Affaires of the Embassy in
-                        Buenos Aires. </p>
+                        Buenos Aires.</p>
                 </div>
                 <div type="timeline">
                     <head>Diplomatic Relations Resumed, <date when="1945">1945.</date>
@@ -100,16 +106,17 @@
                         State Department notice released that same day. The decision came from a
                         meeting of the Inter-American Conference in <placeName>Mexico
                             City</placeName>, where all the participants agreed to resume relations
-                        with Argentina following its declaration of war against the Axis powers.
-                    </p>
+                        with Argentina following its declaration of war against the Axis powers.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/26516.htm">Argentina</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/26516.htm">Argentina</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/ar/index.htm ">Argentina</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/wha/ci/ar/index.htm ">Argentina</ref>
                     </bibl>
                 </listBibl>
             </div>

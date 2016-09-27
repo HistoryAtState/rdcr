@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Thailand</title>
                 <title type="short">Thailand</title>
             </titleStmt>
@@ -19,11 +19,11 @@
             <div type="section" xml:id="summary">
                 <head>Summary</head>
                 <p>Thailand was one of the only countries in South and Southeast Asia that avoided
-                    colonization during the nineteenth century. The United States and <placeName xml:id="th">Thailand</placeName>’s
-                    first official diplomatic interaction occurred in 1833 when they signed a Treaty
-                    of Amity and Commerce, which was the United States’ first treaty with an Asian
-                    country. Since the end of World War II, the United States and Thailand have
-                    developed close relations. <figure>
+                    colonization during the nineteenth century. The United States and <placeName
+                        xml:id="th">Thailand</placeName>’s first official diplomatic interaction
+                    occurred in 1833 when they signed a Treaty of Amity and Commerce, which was the
+                    United States’ first treaty with an Asian country. Since the end of World War
+                    II, the United States and Thailand have developed close relations. <figure>
                         <graphic url="thailand.jpg"/>
                         <head>Modern Flag of Thailand</head>
                     </figure>
@@ -32,13 +32,15 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>First Official Diplomatic Interaction, <date when="1833">1833</date>.</head>
+                    <head>First Official Diplomatic Interaction, <date when="1833"
+                        >1833</date>.</head>
                     <p>The United States and Thailand engaged in their first official diplomatic
                         interaction on March 20, 1833, when they signed a Treaty of Amity and
-                        Commerce. <persName>Edmund Roberts</persName>, who negotiated this treaty during a mission to the
-                        Far East as Special Agent of the United States, received instructions dated
-                        January 27, 1832, that directed him to negotiate treaties with Cochinchina,
-                        Siam, and the powers of Arabia on the Red Sea.</p>
+                        Commerce. <persName>Edmund Roberts</persName>, who negotiated this treaty
+                        during a mission to the Far East as Special Agent of the United States,
+                        received instructions dated January 27, 1832, that directed him to negotiate
+                        treaties with Cochinchina, Siam, and the powers of Arabia on the Red
+                        Sea.</p>
                 </div>
             </div>
             <div type="section" xml:id="consular_relations">
@@ -46,8 +48,8 @@
                 <div type="timeline">
                     <head>Establishment of Consular Relations, <date when="1859">1859</date>.</head>
                     <p>
-                        <persName>John Hassett Chandler</persName> became the Acting Vice Consul in Charge on January 25,
-                        1859.</p>
+                        <persName>John Hassett Chandler</persName> became the Acting Vice Consul in
+                        Charge on January 25, 1859.</p>
                 </div>
                 <div type="section" xml:id="diplomatic_relations">
                     <head>Diplomatic Relations</head>
@@ -56,15 +58,18 @@
                             Siam, <date when="1882">1882.</date>
                         </head>
                         <p>Diplomatic relations and the first U.S. Legation in Thailand (then Siam)
-                            were established on October 23, 1882, when <persName>John A. Halderman</persName> presented
-                            his credentials as Minister Resident and Consul General.</p>
+                            were established on October 23, 1882, when <persName>John A.
+                                Halderman</persName> presented his credentials as Minister Resident
+                            and Consul General.</p>
                     </div>
                     <div type="timeline">
-                        <head>Elevation of American Legation to Embassy Status, <date when="1947">1947.</date>
+                        <head>Elevation of American Legation to Embassy Status, <date when="1947"
+                                >1947.</date>
                         </head>
-                        <p>On April 10, 1947, <ref target="/departmenthistory/people/stanton-edwin-forward">Edwin F. Stanton</ref> was promoted to become the first U.S.
-                            Ambassador to Thailand. Stanton presented his credentials on May 9,
-                            1947.</p>
+                        <p>On April 10, 1947, <ref
+                                target="/departmenthistory/people/stanton-edwin-forward">Edwin F.
+                                Stanton</ref> was promoted to become the first U.S. Ambassador to
+                            Thailand. Stanton presented his credentials on May 9, 1947.</p>
                     </div>
                 </div>
                 <div type="section" xml:id="treaties_agreements">
@@ -74,15 +79,18 @@
                         </head>
                         <p>The United States and Thailand signed a Treaty of Amity and Commerce on
                             March 20, 1833 in Bangkok. Following ratification by both countries,
-                            ratifications were exchanged at <placeName xml:id="bangkok">Bangkok</placeName> on April 14, 1836. </p>
+                            ratifications were exchanged at <placeName xml:id="bangkok"
+                                >Bangkok</placeName> on April 14, 1836.</p>
                     </div>
                 </div>
                 <div type="appendix">
                     <head>Resources</head>
                     <listBibl>
-                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2814.htm">Thailand</ref>
+                        <bibl>Department of State Country Fact Sheet: <ref
+                                target="http://www.state.gov/r/pa/ei/bgn/2814.htm">Thailand</ref>
                         </bibl>
-                        <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/th/">Thailand</ref>
+                        <bibl>Department of State Country Information: <ref
+                                target="http://www.state.gov/p/eap/ci/th/">Thailand</ref>
                         </bibl>
                         <bibl>
                             <hi rend="italic">Thailand: A Country Study</hi>, Compiled by the
@@ -91,7 +99,8 @@
                         <bibl>
                             <hi rend="italic">Treaties and Other International Agreements of the
                                 United States of America, 1776-1949</hi>, Compiled under the
-                            direction of Charles I. Bevans, (DOS, 1974), vol. 11, pp. 978-1042.</bibl>
+                            direction of Charles I. Bevans, (DOS, 1974), vol. 11, pp.
+                            978-1042.</bibl>
                         <bibl>
                             <hi rend="italic">Treaties and Other International Acts of the United
                                 States of America</hi>, edited by Hunter Miller (Washington: US GPO,

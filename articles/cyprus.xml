@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Cyprus</title>
                 <title type="short">Cyprus</title>
             </titleStmt>
@@ -19,14 +19,14 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The island of Cyprus had been a British Crown Colony since 1925, but in 1960, it
+                <p>The island of Cyprus had been a British Crown Colony since 1925, but in 1960, it
                     received its independence. The United States recognized Cyprus on August 16,
                     1960. In 1983, a Turkish-controlled area located on the northern section of the
                     island declared its independence, calling itself the Turkish Republic of
                     Northern Cyprus (TRNC). <placeName>Turkey</placeName> has been the only country
                     in the world to recognize the TRNC, however. Although the United States has
                     never recognized the TRNC, it has consistently maintained its diplomatic
-                    relations with Cyprus since 1960. </p>
+                    relations with Cyprus since 1960.</p>
                 <figure>
                     <graphic url="cyprus-flag.jpg"/>
                     <head>Modern Flag of Cyprus</head>
@@ -36,16 +36,19 @@
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>U.S. Recognition of Cyprus, <date when="1960">1960</date>.</head>
-                    <p> The United States recognized Cyprus on August 16, 1960, when the decision
-                        was announced in a Department of State press release. </p>
+                    <p>The United States recognized Cyprus on August 16, 1960, when the decision was
+                        announced in a Department of State press release.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations and the American Embassy, <date when="1960">1960</date>. </head>
-                    <p> Diplomatic relations and the American Embassy in <placeName key="nicosia">Nicosia</placeName> were established on August 16, 1960, when the
-                        American Consulate General was elevated to an embassy, with <ref target="/departmenthistory/people/heck-louis-douglas">L. Douglas
+                    <head>Establishment of Diplomatic Relations and the American Embassy, <date
+                            when="1960">1960</date>.</head>
+                    <p>Diplomatic relations and the American Embassy in <placeName key="nicosia"
+                            >Nicosia</placeName> were established on August 16, 1960, when the
+                        American Consulate General was elevated to an embassy, with <ref
+                            target="/departmenthistory/people/heck-louis-douglas">L. Douglas
                             Heck</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.
                         Ambassador <ref target="/departmenthistory/people/wilkins-fraser">Fraser
                             Wilkins</ref> presented his credentials on September 19, 1960.</p>
@@ -54,9 +57,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5376.htm">Cyprus</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/5376.htm">Cyprus</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/cy/">Cyprus</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/cy/">Cyprus</ref>
                     </bibl>
                 </listBibl>
             </div>

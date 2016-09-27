@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Saudi Arabia</title>
                 <title type="short">Saudi Arabia</title>
             </titleStmt>
@@ -26,7 +26,9 @@
                         Fish</ref> as American Envoy Extraordinary and Minister Plenipotentiary. The
                     U.S. Legation opened in <placeName key="jeddah">Jeddah</placeName> in 1942 and
                     was elevated to an Embassy in 1949. In 1984, the Jeddah embassy became a U.S.
-                    consulate general when the embassy was relocated to <placeName key="riyadh">Riyadh</placeName>. The U.S. consulate general in <placeName key="dhahran">Dhahran</placeName> opened in 1944.<figure>
+                    consulate general when the embassy was relocated to <placeName key="riyadh"
+                        >Riyadh</placeName>. The U.S. consulate general in <placeName key="dhahran"
+                        >Dhahran</placeName> opened in 1944.<figure>
                         <graphic url="saudi-arabia-flag.jpg"/>
                         <head>Modern Flag of Saudi Arabia</head>
                     </figure>
@@ -37,7 +39,8 @@
                 <div type="timeline">
                     <head>U.S. Recognition of Saudi Arabia, <date when="1931">1931</date>.</head>
                     <p>The United States recognized the Kingdom of Jejaz and Nejd and its
-                        Dependencies on May 1, 1931, when the American Minister at London <ref target="/departmenthistory/people/dawes-charles-gates">Charles G.
+                        Dependencies on May 1, 1931, when the American Minister at London <ref
+                            target="/departmenthistory/people/dawes-charles-gates">Charles G.
                             Dawes</ref> conveyed this information to the Hejazi Minister at London.
                         The name of the state was changed to the Kingdom of Saudi Arabia by a decree
                         of September 18, 1932.</p>
@@ -48,26 +51,32 @@
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations, <date when="1940">1940.</date>
                     </head>
-                    <p>Diplomatic relations were established on February 4, 1940, when <ref target="/departmenthistory/people/fish-bert">Bert Fish</ref> presented
+                    <p>Diplomatic relations were established on February 4, 1940, when <ref
+                            target="/departmenthistory/people/fish-bert">Bert Fish</ref> presented
                         his credentials as American Envoy Extraordinary and Minister
                         Plenipotentiary. He also was accredited to <placeName>Egypt</placeName> and
-                        was resident at <placeName>Cairo</placeName>. </p>
+                        was resident at <placeName>Cairo</placeName>.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of American Legation in Saudi Arabia, <date when="1942">1942.</date>
+                    <head>Establishment of American Legation in Saudi Arabia, <date when="1942"
+                            >1942.</date>
                     </head>
-                    <p>The American Legation in Jidda was established on May 1, 1942, with <ref target="/departmenthistory/people/moose-james-sayle">James S. Moose,
-                        Jr.</ref>, as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
+                    <p>The American Legation in Jidda was established on May 1, 1942, with <ref
+                            target="/departmenthistory/people/moose-james-sayle">James S. Moose,
+                            Jr.</ref>, as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of the American Legation to Embassy Status, <date when="1949">1949.</date>
+                    <head>Elevation of the American Legation to Embassy Status, <date when="1949"
+                            >1949.</date>
                     </head>
-                    <p>The Legation was raised to Embassy status on March 18, 1949, when <ref target="/departmenthistory/people/childs-james-rives">J. Rives
-                        Childs</ref> presented his credential as Ambassador Extraordinary and
+                    <p>The Legation was raised to Embassy status on March 18, 1949, when <ref
+                            target="/departmenthistory/people/childs-james-rives">J. Rives
+                            Childs</ref> presented his credential as Ambassador Extraordinary and
                         Plenipotentiary.</p>
                 </div>
                 <div type="timeline">
-                    <head>American Embassy Moved from Jidda to Riyadh, <date when="1984">1984.</date>
+                    <head>American Embassy Moved from Jidda to Riyadh, <date when="1984"
+                            >1984.</date>
                     </head>
                     <p>On Sep 26, 1984, the U.S. Liaison Office in Riyadh was raised to the rank of
                         Embassy while the Embassy in Jidda (now Jeddah) became a Consulate
@@ -77,9 +86,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3584.htm">Saudi Arabia</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/3584.htm">Saudi Arabia</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/sa/index.htm">Saudi Arabia</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/nea/ci/sa/index.htm">Saudi Arabia</ref>
                     </bibl>
                 </listBibl>
             </div>

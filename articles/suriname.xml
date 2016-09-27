@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Suriname</title>
                 <title type="short">Suriname</title>
             </titleStmt>
@@ -19,15 +19,15 @@
             <div type="section" xml:id="summary">
                 <head>Summary</head>
                 <p>
-                    <placeName key="sr">Suriname</placeName> was a Dutch colony on the northern coast
-                    of South America dating from 1667. Beginning in 1951, Suriname was accorded
-                    increasing degrees of autonomy, and was finally granted independence in 1975
-                    from the <ref target="/countries/netherlands">Netherlands</ref>. In 1980 the
-                    democratically elected parliamentary government was overthrown; a regime run by
-                    the military under <persName>Desi Bouterse</persName> was installed in its
+                    <placeName key="sr">Suriname</placeName> was a Dutch colony on the northern
+                    coast of South America dating from 1667. Beginning in 1951, Suriname was
+                    accorded increasing degrees of autonomy, and was finally granted independence in
+                    1975 from the <ref target="/countries/netherlands">Netherlands</ref>. In 1980
+                    the democratically elected parliamentary government was overthrown; a regime run
+                    by the military under <persName>Desi Bouterse</persName> was installed in its
                     place. Since the reestablishment of a democratic, elected government in 1991,
                     the United States has maintained positive and mutually beneficial relations with
-                    Suriname. </p>
+                    Suriname.</p>
                 <figure>
                     <graphic url="suriname-flag.jpg"/>
                     <head>Modern Flag of Suriname</head>
@@ -36,12 +36,14 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Suriname Independence, <date when="1975">1975</date>.</head>
+                    <head>U.S. Recognition of Suriname Independence, <date when="1975"
+                        >1975</date>.</head>
                     <p>On November 25, 1975, a ceremony to proclaim Suriname independence was held
-                        in the Suriname capital of <placeName key="paramaribo">Paramaribo</placeName>. The U.S. Secretary of the Navy represented the
+                        in the Suriname capital of <placeName key="paramaribo"
+                            >Paramaribo</placeName>. The U.S. Secretary of the Navy represented the
                         United States at the ceremony. That same day, U.S. President
-                        <persName>Gerald Ford</persName> wrote a letter to Suriname President
-                        <persName>Johan Henri Eliza Ferrier</persName> in which he extended the
+                            <persName>Gerald Ford</persName> wrote a letter to Suriname President
+                            <persName>Johan Henri Eliza Ferrier</persName> in which he extended the
                         recognition of Suriname by the United States Government and stated that he
                         hoped for the prompt establishment of diplomatic relations between the two
                         countries.</p>
@@ -54,16 +56,19 @@
                         Suriname, <date when="1975">1975.</date>
                     </head>
                     <p>The United States Diplomatic relations and the American Embassy in Paramaribo
-                        were established on November 25, 1975, with <ref target="/departmenthistory/people/flanagin-robert-l">Robert L.
-                            Flanagin</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.
-                    </p>
+                        were established on November 25, 1975, with <ref
+                            target="/departmenthistory/people/flanagin-robert-l">Robert L.
+                            Flanagin</ref> as Chargé d'Affaires <hi rend="italic">ad
+                        interim</hi>.</p>
                 </div>
                 <div type="appendix">
                     <head>Resources</head>
                     <listBibl>
-                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1893.htm ">Suriname</ref>
+                        <bibl>Department of State Country Fact Sheet: <ref
+                                target="http://www.state.gov/r/pa/ei/bgn/1893.htm ">Suriname</ref>
                         </bibl>
-                        <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/ns/index.htm ">Suriname</ref>
+                        <bibl>Department of State Country Information: <ref
+                                target="http://www.state.gov/p/wha/ci/ns/index.htm ">Suriname</ref>
                         </bibl>
                     </listBibl>
                 </div>

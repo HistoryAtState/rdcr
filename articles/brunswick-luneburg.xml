@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Brunswick and
                     Lüneburg</title>
                 <title type="short">Brunswick and Lüneburg</title>
@@ -24,12 +24,14 @@
                     sovereign, independent state. Incorporated into the Kingdom of Westphalia during
                     the Napoleonic wars of the early nineteenth century, the Duchy of Brunswick and
                     Lüneburg regained independence in 1813. Mutual recognition between Brunswick and
-                    Lüneburg and the United States was established in 1848. </p>
-                <p> The Duchy of Brunswick and Lüneburg joined the <placeName xml:id="xc">North
-                        German Confederation</placeName> in 1867, to which the U.S. appointed <ref target="/departmenthistory/people/bancroft-george">George Bancroft</ref>,
+                    Lüneburg and the United States was established in 1848.</p>
+                <p>The Duchy of Brunswick and Lüneburg joined the <placeName xml:id="xc">North
+                        German Confederation</placeName> in 1867, to which the U.S. appointed <ref
+                        target="/departmenthistory/people/bancroft-george">George Bancroft</ref>,
                     then U.S. Minister to Prussia, to serve as the U.S. Minister to the North German
                     Confederation. From this point forward, foreign policy of the North German
-                    Confederation, and later, after 1871 the German Empire, was made in <placeName xml:id="berlin">Berlin</placeName>, with the German Kaiser (who was also the
+                    Confederation, and later, after 1871 the German Empire, was made in <placeName
+                        xml:id="berlin">Berlin</placeName>, with the German Kaiser (who was also the
                     King of Prussia) accrediting ambassadors of foreign nations. Relations with
                     Imperial Germany were severed when the U.S. declared war in 1917.</p>
             </div>
@@ -37,33 +39,37 @@
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>Mutual Recognition, <date when="1848">1848</date>.</head>
-                    <p> On April 5, 1848 U.S. Secretary of State <ref target="/departmenthistory/people/buchanan-james">James Buchanan</ref>
+                    <p>On April 5, 1848 U.S. Secretary of State <ref
+                            target="/departmenthistory/people/buchanan-james">James Buchanan</ref>
                         acknowledged the Consul-General of Brunswick and Lüneburg at New York as
                             <persName>John Dreyer Esq.</persName>, which constitutes the first known
                         act of mutual recognition between the United States and the Duchy of
-                        Brunswick and Lüneburg. </p>
+                        Brunswick and Lüneburg.</p>
                 </div>
             </div>
             <div type="section" xml:id="consular-presence">
                 <head>Consular Presence</head>
                 <div type="timeline">
-                    <head>Consulate opened in the Duchy of Brunswick and Luneburg, <date when="1856-03-17">March 17, 1856</date>.</head>
+                    <head>Consulate opened in the Duchy of Brunswick and Luneburg, <date
+                            when="1856-03-17">March 17, 1856</date>.</head>
                     <p>The United States opened its first consulate in the Duchy of Brunswick and
-                        Lüneburg on March 17, 1856. This post closed on July 25, 1916. </p>
+                        Lüneburg on March 17, 1856. This post closed on July 25, 1916.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations. </head>
+                    <head>Establishment of Diplomatic Relations.</head>
                     <p>The United States and the Duchy of Brunswick and Lüneburg never established
                         diplomatic relations.</p>
                 </div>
                 <div type="section" xml:id="treaties">
                     <head>Treaties and Agreements</head>
                     <div type="timeline">
-                        <head>Convention Respecting the Disposition of Property, <date when="1854">1854</date>.</head>
-                        <p> On August 21, 1854, the U.S. Secretary of State <ref target="/departmenthistory/people/marcy-william-learned">William L.
+                        <head>Convention Respecting the Disposition of Property, <date when="1854"
+                                >1854</date>.</head>
+                        <p>On August 21, 1854, the U.S. Secretary of State <ref
+                                target="/departmenthistory/people/marcy-william-learned">William L.
                                 Marcy</ref> and the Consul of the Duke of Brunswick and Lüneburg at
                             Mobile, Ala., Dr. <persName>Julius Samson</persName>, signed a
                             Convention Respecting the Disposition of Property, as they were
@@ -75,19 +81,21 @@
                 <div type="section" xml:id="key-events">
                     <head>Key Diplomatic Events</head>
                     <div type="timeline">
-                        <head>Brunswick and Lüneburg Join the North German Confederation, <date when="1867">1867</date>.</head>
-                        <p> On July 1, 1867, the Duchy of Brunswick and Lüneburg joined the North
-                            German Confederation. </p>
+                        <head>Brunswick and Lüneburg Join the North German Confederation, <date
+                                when="1867">1867</date>.</head>
+                        <p>On July 1, 1867, the Duchy of Brunswick and Lüneburg joined the North
+                            German Confederation.</p>
                     </div>
                     <div type="timeline">
                         <head>German Empire, <date when="1871">1871</date>.</head>
-                        <p> The Duchy of Brunswick and Lüneburg joined the German Empire, which was
+                        <p>The Duchy of Brunswick and Lüneburg joined the German Empire, which was
                             proclaimed on January 18, 1871.</p>
                     </div>
                     <div type="timeline">
                         <head>German Unification.</head>
-                        <p> Brunswick and Lüneburg was involved in the process of German unification
-                            during the mid-nineteenth century. See <ref target="/countries/issues/german-unification">“Unification of German
+                        <p>Brunswick and Lüneburg was involved in the process of German unification
+                            during the mid-nineteenth century. See <ref
+                                target="/countries/issues/german-unification">“Unification of German
                                 States</ref>” for greater detail.</p>
                     </div>
                 </div>

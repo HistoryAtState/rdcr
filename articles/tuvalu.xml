@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Tuvalu</title>
                 <title type="short">Tuvalu</title>
             </titleStmt>
@@ -31,12 +31,12 @@
                 <div type="timeline">
                     <head>U.S. Recogntion of Tuvalu, <date when="1978">1978</date>.</head>
                     <p>The United States recognized Tuvalu on October 1, 1978, when
-                        <persName>Elizabeth G. Stevens</persName>, acting as the President’s
+                            <persName>Elizabeth G. Stevens</persName>, acting as the President’s
                         Personal Representative, delivered a letter to that effect from President
-                        <persName>Jimmy Carter</persName> to Governor General <persName>Penitala
+                            <persName>Jimmy Carter</persName> to Governor General <persName>Penitala
                             Teo</persName>. Tuvalu previously had been called the Ellice Islands
                         while under British Sovereignty as part of the Gilbert and Ellice Islands
-                        Colony. </p>
+                        Colony.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic_relations">
@@ -45,28 +45,30 @@
                     <head>Establishment of Diplomatic Relations, <date when="1979">1979.</date>
                     </head>
                     <p>Diplomatic relations were established on May 10, 1979, when Ambassador
-                        <persName>Inoke Faletau</persName> presented his credentials to
-                        President <persName>Jimmy Carter</persName>. </p>
+                            <persName>Inoke Faletau</persName> presented his credentials to
+                        President <persName>Jimmy Carter</persName>.</p>
                 </div>
                 <div type="timeline">
                     <head>Establishment of Ambassadorial Relations, <date when="1980">1980.</date>
                     </head>
                     <p>
                         <ref target="/departmenthistory/people/condon-john-peter">John P.
-                            Condon</ref> became the first U.S. Ambassador to Tuvalu on January 24, 1980,
-                        when he presented his credentials. Condon also was accredited to
-                        <placeName>Fiji</placeName> and <placeName>Tonga</placeName>, and was
+                            Condon</ref> became the first U.S. Ambassador to Tuvalu on January 24,
+                        1980, when he presented his credentials. Condon also was accredited to
+                            <placeName>Fiji</placeName> and <placeName>Tonga</placeName>, and was
                         resident at Suva. Since that time, the Ambassadors to Tuvalu have remained
-                        resident at Suva, and no mission has been established in <placeName xml:id="funafuti">Funafuti</placeName>,
-                        Tuvalu.</p>
+                        resident at Suva, and no mission has been established in <placeName
+                            xml:id="funafuti">Funafuti</placeName>, Tuvalu.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/16479.htm">Tuvalu</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/16479.htm">Tuvalu</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/tv">Tuvalu</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eap/ci/tv">Tuvalu</ref>
                     </bibl>
                 </listBibl>
             </div>

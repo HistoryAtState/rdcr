@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Belgium</title>
                 <title type="short">Belgium</title>
             </titleStmt>
@@ -19,8 +19,8 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The <placeName>Kingdom of Belgiu</placeName>m declared its independence from the
-                    <placeName>Kingdom of the Netherlands</placeName> on October 4, 1830. Most
+                <p>The <placeName>Kingdom of Belgiu</placeName>m declared its independence from the
+                        <placeName>Kingdom of the Netherlands</placeName> on October 4, 1830. Most
                     of the European powers recognized de facto independence on December 20, 1830.
                     However, it was not until the Netherlands signed the Treaty of London on April
                     19, 1839 that the former ruler recognized Brussels as a sovereign state. Belgium
@@ -35,54 +35,63 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Belgium Independence, <date when="1832">1832</date>.</head>
+                    <head>U.S. Recognition of Belgium Independence, <date when="1832"
+                        >1832</date>.</head>
                     <p>The United States recognized Belgium’s independence on January 6, 1832, when
                         the Department of State issued an exequatur to the Belgian consul at New
-                        York. </p>
+                        York.</p>
                 </div>
             </div>
             <div type="section" xml:id="relations">
                 <head>History of Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1832">1832</date>.</head>
-                    <p> Diplomatic relations were established on June 18, 1832, when <persName>Baron
-                        D. Behr</persName>, Minister of Belgium, sent a note attaching his “full
-                        powers” to Secretary of State <ref target="/departmenthistory/people/livingston-edward">Edward
+                    <head>Establishment of Diplomatic Relations, <date when="1832"
+                        >1832</date>.</head>
+                    <p>Diplomatic relations were established on June 18, 1832, when <persName>Baron
+                            D. Behr</persName>, Minister of Belgium, sent a note attaching his “full
+                        powers” to Secretary of State <ref
+                            target="/departmenthistory/people/livingston-edward">Edward
                             Livingston</ref>.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the U.S. Legation in Belgium, <date when="1832">1832</date>.</head>
-                    <p> The U.S. Legation in Brussels was established on September 25, 1832, when
-                        Chargé d’Affaires, <ref target="/departmenthistory/people/legare-hugh-swinton">Hugh
-                            Legare</ref>, presented his credentials in <placeName key="brussels">Brussels</placeName>.</p>
+                    <head>Establishment of the U.S. Legation in Belgium, <date when="1832"
+                            >1832</date>.</head>
+                    <p>The U.S. Legation in Brussels was established on September 25, 1832, when
+                        Chargé d’Affaires, <ref
+                            target="/departmenthistory/people/legare-hugh-swinton">Hugh
+                        Legare</ref>, presented his credentials in <placeName key="brussels"
+                            >Brussels</placeName>.</p>
                 </div>
                 <div type="timeline">
                     <head>Elevation of Legation to Embassy, <date when="1919">1919</date>.</head>
-                    <p> The U.S. Legation in Brussels was elevated to an embassy on October 3,
+                    <p>The U.S. Legation in Brussels was elevated to an embassy on October 3,
                         1919.</p>
                 </div>
                 <div type="timeline">
                     <head>Closure of Embassy, <date when="1940">1940</date>.</head>
-                    <p> The United States closed its embassy in Brussels on July 15, 1940, after the
-                        German invasion of Belgium. <ref target="/departmenthistory/people/schoenfeld-rudolf-emil">Rudolph E.
+                    <p>The United States closed its embassy in Brussels on July 15, 1940, after the
+                        German invasion of Belgium. <ref
+                            target="/departmenthistory/people/schoenfeld-rudolf-emil">Rudolph E.
                             Schoenfeld</ref> was designated on November 1, 1940, to serve as Chargé
                         d'Affaires <hi rend="italic">ad interim</hi> near the Government of Belgium
-                        established in England. </p>
+                        established in England.</p>
                 </div>
                 <div type="timeline">
                     <head>Embassy in Brussels Reopened, <date when="1944">1944</date>.</head>
-                    <p> The U.S. Embassy in Brussels was reestablished on September 14, 1944, with
-                        <ref target="/departmenthistory/people/mayer-ernest-de-wael">Ernest de
+                    <p>The U.S. Embassy in Brussels was reestablished on September 14, 1944, with
+                            <ref target="/departmenthistory/people/mayer-ernest-de-wael">Ernest de
                             W. Mayer</ref> as Chargé d'Affaires <hi rend="italic">ad
-                                interim</hi>.</p>
+                        interim</hi>.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2874.htm">Belgium</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2874.htm">Belgium</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/be/">Belgium</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/be/">Belgium</ref>
                     </bibl>
                 </listBibl>
             </div>

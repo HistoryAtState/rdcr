@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: The United Kingdom </title>
                 <title type="short">The United Kingdom</title>
             </titleStmt>
@@ -19,13 +19,14 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The United States of America declared its independence from the <placeName xml:id="gb">United Kingdom
-                    of Great Britain</placeName> on July 4, 1776. However, the American Revolutionary War
-                    continued until the British General Cornwallis surrendered to General <persName>George
-                        Washington</persName> on October 19, 1781. Aside from a break in relations over the War of
-                    1812, and strains over the possibility of British recognition of the Confederacy
-                    during the Civil War, the United States and the United Kingdom have enjoyed
-                    generally cordial and consistent relations since American independence. </p>
+                <p>The United States of America declared its independence from the <placeName
+                        xml:id="gb">United Kingdom of Great Britain</placeName> on July 4, 1776.
+                    However, the American Revolutionary War continued until the British General
+                    Cornwallis surrendered to General <persName>George Washington</persName> on
+                    October 19, 1781. Aside from a break in relations over the War of 1812, and
+                    strains over the possibility of British recognition of the Confederacy during
+                    the Civil War, the United States and the United Kingdom have enjoyed generally
+                    cordial and consistent relations since American independence.</p>
                 <figure>
                     <graphic url="united-kingdom.jpg"/>
                     <head>Modern Flag of The United Kingdom</head>
@@ -33,25 +34,30 @@
                 <div type="section" xml:id="recognition">
                     <head>Recognition</head>
                     <div type="timeline">
-                        <head>British Recognition of U.S. Independence, <date when="1783">1783</date>.</head>
-                        <p> The United Kingdom officially recognized American independence by
-                            signing the <ref target="/milestones/1776-1783/treaty">Treaty of Paris
-                                of 1783</ref>. David Hartley, a Member of Parliament representing
+                        <head>British Recognition of U.S. Independence, <date when="1783"
+                                >1783</date>.</head>
+                        <p>The United Kingdom officially recognized American independence by signing
+                            the <ref target="/milestones/1776-1783/treaty">Treaty of Paris of
+                                1783</ref>. David Hartley, a Member of Parliament representing
                             British King George III, signed the treaty along with the American
                             delegation of <ref target="/departmenthistory/people/adams-john">John
-                                Adams</ref>, <ref target="/departmenthistory/people/franklin-benjamin">Benjamin
-                                    Franklin</ref>, and <ref target="/departmenthistory/people/jay-john">John Jay </ref>on September 3, 1783. </p>
+                                Adams</ref>, <ref
+                                target="/departmenthistory/people/franklin-benjamin">Benjamin
+                                Franklin</ref>, and <ref target="/departmenthistory/people/jay-john"
+                                >John Jay </ref>on September 3, 1783.</p>
                     </div>
                 </div>
                 <div type="section" xml:id="consular-presence">
                     <head>Consular Presence</head>
                     <div type="timeline">
                         <head>Consulates in Scotland.</head>
-                        <p> President <persName>John Adams</persName> appointed <persName>Harry
-                            Grant</persName> as the first U.S. Consul to <placeName xml:id="scotland">Scotland</placeName> on July 14,
-                            1798 in <placeName xml:id="leith">Leith</placeName>. The U.S. Consulate crossed into <placeName xml:id="edinburgh">Edinburgh</placeName> in 1854, but it
-                            moved back to Leith in 1861. The Consulate finally settled back in
-                            Edinburgh in 1883, where it remains today.</p>
+                        <p>President <persName>John Adams</persName> appointed <persName>Harry
+                                Grant</persName> as the first U.S. Consul to <placeName
+                                xml:id="scotland">Scotland</placeName> on July 14, 1798 in
+                                <placeName xml:id="leith">Leith</placeName>. The U.S. Consulate
+                            crossed into <placeName xml:id="edinburgh">Edinburgh</placeName> in
+                            1854, but it moved back to Leith in 1861. The Consulate finally settled
+                            back in Edinburgh in 1883, where it remains today.</p>
                         <list type="simple">
                             <item>
                                 <placeName xml:id="glasgow">Glasgow</placeName> (1801-1965)</item>
@@ -60,13 +66,16 @@
                             <item>
                                 <placeName xml:id="aberdeen">Aberdeen</placeName> (1866-1922)</item>
                             <item>
-                                <placeName xml:id="dunfermline">Dunfermline</placeName> (1871-1925)</item>
+                                <placeName xml:id="dunfermline">Dunfermline</placeName>
+                                (1871-1925)</item>
                             <item>
                                 <placeName xml:id="greenock">Greenock</placeName> (1873-1914)</item>
                             <item>
-                                <placeName xml:id="kirkcaldy">Kirkcaldy</placeName> (1878-1909)</item>
+                                <placeName xml:id="kirkcaldy">Kirkcaldy</placeName>
+                                (1878-1909)</item>
                             <item>
-                                <placeName xml:id="galashiels">Galashiels</placeName> (1882-1909)</item>
+                                <placeName xml:id="galashiels">Galashiels</placeName>
+                                (1882-1909)</item>
                             <item>
                                 <placeName xml:id="troon">Troon</placeName> (1891-1921)</item>
                         </list>
@@ -83,26 +92,32 @@
                             <item>
                                 <placeName xml:id="llanelly">Llanelly</placeName> (1862-1907)</item>
                             <item>
-                                <placeName xml:id="milford-haven">Milford Haven</placeName> (1862-1907)</item>
+                                <placeName xml:id="milford-haven">Milford Haven</placeName>
+                                (1862-1907)</item>
                             <item>
                                 <placeName xml:id="newport">Newport</placeName> (1879-1907)</item>
                         </list>
                     </div>
                     <div type="timeline">
-                        <head>Consulates in <placeName xml:id="northern-ireland">Northern Ireland</placeName>.</head>
+                        <head>Consulates in <placeName xml:id="northern-ireland">Northern
+                                Ireland</placeName>.</head>
                         <list type="simple">
-                            <item> The United States opened the consulate in <placeName xml:id="belfast">Belfast</placeName> in 1796.</item>
+                            <item> The United States opened the consulate in <placeName
+                                    xml:id="belfast">Belfast</placeName> in 1796.</item>
                             <item>
-                                <placeName xml:id="londonderry">Londonderry</placeName> (1834-1921)</item>
+                                <placeName xml:id="londonderry">Londonderry</placeName>
+                                (1834-1921)</item>
                         </list>
                     </div>
                     <div type="timeline">
                         <head>Consulates in <placeName xml:id="england">England</placeName>.</head>
                         <list type="simple">
                             <item>
-                                <placeName xml:id="liverpool">Liverpool</placeName> (1790-1973)</item>
+                                <placeName xml:id="liverpool">Liverpool</placeName>
+                                (1790-1973)</item>
                             <item>
-                                <placeName xml:id="isle-of-wight">Isle of Wight</placeName> (1790-1866)</item>
+                                <placeName xml:id="isle-of-wight">Isle of Wight</placeName>
+                                (1790-1866)</item>
                             <item>
                                 <placeName xml:id="london">London</placeName> (1790-1967)</item>
                             <item>
@@ -110,64 +125,84 @@
                             <item>
                                 <placeName xml:id="falmouth">Falmouth</placeName> (1793-1908)</item>
                             <item>
-                                <placeName xml:id="kingston-upon-hull">Kingston upon Hull</placeName> (1796-1842)</item>
+                                <placeName xml:id="kingston-upon-hull">Kingston upon
+                                    Hull</placeName> (1796-1842)</item>
                             <item>
                                 <placeName xml:id="plymouth">Plymouth</placeName> (1823-1948)</item>
                             <item>
-                                <placeName xml:id="bridgeport">Bridgeport</placeName> (1835-1863)</item>
+                                <placeName xml:id="bridgeport">Bridgeport</placeName>
+                                (1835-1863)</item>
                             <item>
                                 <placeName xml:id="leeds">Leeds</placeName> (1843-1928)</item>
                             <item>
-                                <placeName xml:id="manchester">Manchester</placeName> (1846-1963)</item>
+                                <placeName xml:id="manchester">Manchester</placeName>
+                                (1846-1963)</item>
                             <item>
-                                <placeName xml:id="southampton">Southampton</placeName> (1849-1965)</item>
+                                <placeName xml:id="southampton">Southampton</placeName>
+                                (1849-1965)</item>
                             <item>
-                                <placeName xml:id="newcastle-on-tyne">Newcastle-on-Tyne</placeName> (1856-1953)</item>
+                                <placeName xml:id="newcastle-on-tyne">Newcastle-on-Tyne</placeName>
+                                (1856-1953)</item>
                             <item>
-                                <placeName xml:id="portsmouth">Portsmouth</placeName> (1861-1909)</item>
+                                <placeName xml:id="portsmouth">Portsmouth</placeName>
+                                (1861-1909)</item>
                             <item>
                                 <placeName xml:id="weymouth">Weymouth</placeName> (1861-1919)</item>
                             <item>
                                 <placeName xml:id="hull">Hull</placeName> (1862-1948)</item>
                             <item>
-                                <placeName xml:id="sunderland">Sunderland</placeName> (1862-1909)</item>
+                                <placeName xml:id="sunderland">Sunderland</placeName>
+                                (1862-1909)</item>
                             <item>
-                                <placeName xml:id="birmingham">Birmingham</placeName> (1862-1965)</item>
+                                <placeName xml:id="birmingham">Birmingham</placeName>
+                                (1862-1965)</item>
                             <item>
-                                <placeName xml:id="worcester">Worcester</placeName> (1862-1870)</item>
+                                <placeName xml:id="worcester">Worcester</placeName>
+                                (1862-1870)</item>
                             <item>
                                 <placeName xml:id="jersey">Jersey</placeName> (1862-1933)</item>
                             <item>
-                                <placeName xml:id="nottingham">Nottingham</placeName> (1862-1928)</item>
+                                <placeName xml:id="nottingham">Nottingham</placeName>
+                                (1862-1928)</item>
                             <item>
                                 <placeName xml:id="bradford">Bradford</placeName> (1862-1953)</item>
                             <item>
-                                <placeName xml:id="sheffield">Sheffield</placeName> (1863-1940)</item>
+                                <placeName xml:id="sheffield">Sheffield</placeName>
+                                (1863-1940)</item>
                             <item>
-                                <placeName xml:id="huddersfield">Huddersfield</placeName> (1863-1918)</item>
+                                <placeName xml:id="huddersfield">Huddersfield</placeName>
+                                (1863-1918)</item>
                             <item>
                                 <placeName xml:id="carlisle">Carlisle</placeName> (1863-1909)</item>
                             <item>
                                 <placeName xml:id="tunstall">Tunstall</placeName> (1863-1903)</item>
                             <item>
-                                <placeName xml:id="gloucester">Gloucester</placeName> (1864-1907)</item>
+                                <placeName xml:id="gloucester">Gloucester</placeName>
+                                (1864-1907)</item>
                             <item>
-                                <placeName xml:id="st-helens">St. Helen’s</placeName> (1865-1916)</item>
+                                <placeName xml:id="st-helens">St. Helen’s</placeName>
+                                (1865-1916)</item>
                             <item>
-                                <placeName xml:id="westhartlepool">Old Hartlepool and West Hartlepool</placeName> (1866 to ?, then 1899-1919 to
-                                just West Hartlepool)</item>
+                                <placeName xml:id="westhartlepool">Old Hartlepool and West
+                                    Hartlepool</placeName> (1866 to ?, then 1899-1919 to just West
+                                Hartlepool)</item>
                             <item>
-                                <placeName xml:id="hartlepool">Hartlepool</placeName> (1869-1897)</item>
+                                <placeName xml:id="hartlepool">Hartlepool</placeName>
+                                (1869-1897)</item>
                             <item>
-                                <placeName xml:id="leicester">Leicester</placeName> (1869-1918)</item>
+                                <placeName xml:id="leicester">Leicester</placeName>
+                                (1869-1918)</item>
                             <item>
-                                <placeName xml:id="wolverhampton">Wolverhampton</placeName> (1869-1909)</item>
+                                <placeName xml:id="wolverhampton">Wolverhampton</placeName>
+                                (1869-1909)</item>
                             <item>
-                                <placeName xml:id="kidderminister">Kidderminister</placeName> (1870-1916)</item>
+                                <placeName xml:id="kidderminister">Kidderminister</placeName>
+                                (1870-1916)</item>
                             <item>
                                 <placeName xml:id="dover">Dover</placeName> (1870-1914)</item>
                             <item>
-                                <placeName xml:id="ramsgate">Ramsgate, Margate and Deal</placeName> (1870-?)</item>
+                                <placeName xml:id="ramsgate">Ramsgate, Margate and Deal</placeName>
+                                (1870-?)</item>
                             <item>
                                 <placeName xml:id="redditch">Redditch</placeName> (1871-1905)</item>
                             <item>
@@ -177,13 +212,15 @@
                             <item>
                                 <placeName xml:id="barnsley">Barnsley</placeName> (1887-1909)</item>
                             <item>
-                                <placeName xml:id="dartmouth">Dartmouth</placeName> (1888-1908)</item>
+                                <placeName xml:id="dartmouth">Dartmouth</placeName>
+                                (1888-1908)</item>
                             <item>
                                 <placeName xml:id="grimsby">Grimsby</placeName> (1892-?)</item>
                             <item>
                                 <placeName xml:id="burslem">Burslem</placeName> (1905-1915)</item>
                             <item>
-                                <placeName xml:id="stoke-on-trent">Stoke on Trent</placeName> (1911-1929)</item>
+                                <placeName xml:id="stoke-on-trent">Stoke on Trent</placeName>
+                                (1911-1929)</item>
                             <item>
                                 <placeName xml:id="guernsey">Guernsey</placeName> (1880-1908)</item>
                         </list>
@@ -194,51 +231,56 @@
                     <div type="timeline">
                         <head>Establishment of Diplomatic Relations and the American Legation in
                             London, <date when="1785">1785</date>.</head>
-                        <p> Diplomatic relations and the American Legation in London were
-                            established on June 1, 1785, when John Adams presented his credentials
-                            as Minister Plenipotentiary to King George III. Adams, however, became
-                            so frustrated with the cool reception that he closed the legation in
-                            1788 and the post remained vacant for four years. </p>
+                        <p>Diplomatic relations and the American Legation in London were established
+                            on June 1, 1785, when John Adams presented his credentials as Minister
+                            Plenipotentiary to King George III. Adams, however, became so frustrated
+                            with the cool reception that he closed the legation in 1788 and the post
+                            remained vacant for four years.</p>
                     </div>
                     <div type="timeline">
-                        <head>Establishment of the British Legation in the U.S., <date when="1791">1791</date>.</head>
-                        <p> The first British envoy to the United States was <persName>George Hammond</persName> who
-                            became Minister to the United States of America on July 5, 1791.</p>
+                        <head>Establishment of the British Legation in the U.S., <date when="1791"
+                                >1791</date>.</head>
+                        <p>The first British envoy to the United States was <persName>George
+                                Hammond</persName> who became Minister to the United States of
+                            America on July 5, 1791.</p>
                     </div>
                     <div type="timeline">
-                        <head>Interruption of Relations, <date when="1812">1812</date>. </head>
-                        <p> The United States broke relations with the United Kingdom of Great
+                        <head>Interruption of Relations, <date when="1812">1812</date>.</head>
+                        <p>The United States broke relations with the United Kingdom of Great
                             Britain and Ireland when it declared war against its former colonial
-                            ruler on June 18, 1812, although Chargé d’Affaires <persName>Jonathan Russell</persName> did
-                            not close the legation until July 29, 1812.</p>
+                            ruler on June 18, 1812, although Chargé d’Affaires <persName>Jonathan
+                                Russell</persName> did not close the legation until July 29,
+                            1812.</p>
                     </div>
                     <div type="timeline">
                         <head>Re-establishment of Relations, <date when="1815">1815</date>.</head>
-                        <p> Future President <ref target="/departmenthistory/people/adams-john-quincy">John Quincy
-                            Adams</ref>, son of John Adams, was appointed Envoy Extraordinary
+                        <p>Future President <ref
+                                target="/departmenthistory/people/adams-john-quincy">John Quincy
+                                Adams</ref>, son of John Adams, was appointed Envoy Extraordinary
                             and Minister Plenipotentiary, to the United Kingdom on February 28,
                             1815, and presented his credentials in London on August 8, 1815.</p>
                     </div>
                     <div type="timeline">
-                        <head>Elevation of Legation to Embassy, <date when="1893">1893</date>.</head>
+                        <head>Elevation of Legation to Embassy, <date when="1893"
+                            >1893</date>.</head>
                         <p>The U.S. legation in London became the U.S. Embassy in London when
-                            Ambassador <persName>Thomas Bayard</persName> presented his credentials to the Court of St.
-                            James on June 22, 1893.</p>
+                            Ambassador <persName>Thomas Bayard</persName> presented his credentials
+                            to the Court of St. James on June 22, 1893.</p>
                     </div>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3846.htm">United Kingdom</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/3846.htm">United Kingdom</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/uk/ ">United Kingdom</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/uk/ ">United Kingdom</ref>
                     </bibl>
                 </listBibl>
             </div>
         </body>
-        <back>
-            
-        </back>
+        <back> </back>
     </text>
 </TEI>

@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Lesotho</title>
                 <title type="short">Lesotho</title>
             </titleStmt>
@@ -18,9 +18,10 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p>The United States recognized the Kingdom of <placeName key="ls">Lesotho</placeName> on October 4, 1966, when the American Embassy at
-                    <placeName key="maseru">Maseru</placeName> was established upon Lesotho’s
-                    attainment of independence on that same date. </p>
+                <p>The United States recognized the Kingdom of <placeName key="ls"
+                        >Lesotho</placeName> on October 4, 1966, when the American Embassy at
+                        <placeName key="maseru">Maseru</placeName> was established upon Lesotho’s
+                    attainment of independence on that same date.</p>
                 <figure>
                     <graphic url="lesotho-flag.jpg"/>
                     <head>Modern Flag of Lesotho</head>
@@ -29,30 +30,34 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Lesotho's Independence, <date when="1966">1966</date>.</head>
+                    <head>U.S. Recognition of Lesotho's Independence, <date when="1966"
+                        >1966</date>.</head>
                     <p>The United States recognized the Kingdom of Lesotho on October 4, 1966, when
                         the American Embassy at Maseru was established upon Lesotho’s attainment of
                         independence on that same date. Lesotho previously had been under British
-                        sovereignty as Basutoland. </p>
+                        sovereignty as Basutoland.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and American Embassy in Lesotho,
-                        <date when="1966">1966.</date>
+                            <date when="1966">1966.</date>
                     </head>
                     <p>Diplomatic relations were established on October 4, 1966, when the American
-                        Embassy at Maseru was established with <ref target="/departmenthistory/people/post-richard-st-francis">Richard St.
+                        Embassy at Maseru was established with <ref
+                            target="/departmenthistory/people/post-richard-st-francis">Richard St.
                             F. Post</ref> as Chargé d'Affaires <hi rend="italic"/>ad interim.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2831.htm">Lesotho</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2831.htm">Lesotho</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/lt">Lesotho</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/lt">Lesotho</ref>
                     </bibl>
                 </listBibl>
             </div>

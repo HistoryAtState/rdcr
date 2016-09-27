@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Federated States of
                     Micronesia</title>
                 <title type="short">Micronesia</title>
@@ -20,11 +20,12 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> Following World War II, the <placeName key="fm">Federated States of
-                    Micronesia</placeName>, along with several other island nations, were part
+                <p>Following World War II, the <placeName key="fm">Federated States of
+                        Micronesia</placeName>, along with several other island nations, were part
                     of the U.N. Trust Territory of the Pacific Islands, under U.S. administration.
                     Micronesia achieved independence in 1986. The United States recognized
-                    Micronesia upon independence and maintains an embassy in <placeName key="kolonia">Kolonia</placeName>.</p>
+                    Micronesia upon independence and maintains an embassy in <placeName
+                        key="kolonia">Kolonia</placeName>.</p>
                 <figure>
                     <graphic url="micronesia-flag.jpg"/>
                     <head>Modern Flag of Micronesia</head>
@@ -33,8 +34,9 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Micronesian Independence, <date when="1986">1986</date>.</head>
-                    <p> The United States recognized Micronesian independence on November 3, 1986,
+                    <head>U.S. Recognition of Micronesian Independence, <date when="1986"
+                            >1986</date>.</head>
+                    <p>The United States recognized Micronesian independence on November 3, 1986,
                         when U.S. President <persName>Ronald Reagan</persName> noted in proclamation
                         5564 that the United States had fulfilled its obligations to Micronesia
                         under the terms of the trusteeship agreement. Therefore, effective that day,
@@ -46,25 +48,31 @@
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1986">1986</date>.</head>
-                    <p> On November 3, 1986, the United States opened an Office of the U.S.
-                        Representative. <ref target="/departmenthistory/people/wygant-michael-gordon">Michael G.
-                            Wygant</ref> presented his credentials on October 2, 1987. </p>
+                    <head>Establishment of Diplomatic Relations, <date when="1986"
+                        >1986</date>.</head>
+                    <p>On November 3, 1986, the United States opened an Office of the U.S.
+                        Representative. <ref
+                            target="/departmenthistory/people/wygant-michael-gordon">Michael G.
+                            Wygant</ref> presented his credentials on October 2, 1987.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Embassy in Micronesia, <date when="1989">1989</date>.</head>
-                    <p> On September 20, 1989, the Office of the U.S. Representative was upgraded to
+                    <head>Establishment of the American Embassy in Micronesia, <date when="1989"
+                            >1989</date>.</head>
+                    <p>On September 20, 1989, the Office of the U.S. Representative was upgraded to
                         Embassy status. The first U.S. Ambassador to the Federated States of
-                        Micronesia, <ref target="/departmenthistory/people/brazeal-aurelia-erskine">Aurelia Erskine Brazeal</ref>, presented her credentials on September
+                        Micronesia, <ref target="/departmenthistory/people/brazeal-aurelia-erskine"
+                            >Aurelia Erskine Brazeal</ref>, presented her credentials on September
                         18, 1990.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1839.htm">Micronesia</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/1839.htm">Micronesia</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/fm/index.htm">Micronesia</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eap/ci/fm/index.htm">Micronesia</ref>
                     </bibl>
                 </listBibl>
             </div>

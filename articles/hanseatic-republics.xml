@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Hanseatic
                     Republics</title>
                 <title type="short">Hanseatic Republics*</title>
@@ -22,7 +22,8 @@
                 <head>Summary</head>
                 <p>The <placeName xml:id="xp">Hanseatic Republics</placeName> were composed of the
                     three Free Hanseatic Cities that remained by the late eighteenth century:
-                        <placeName xml:id="bremen">Bremen</placeName>, <placeName xml:id="lubeck">Lübeck</placeName>, and <placeName xml:id="hamburg">Hamburg</placeName>.
+                        <placeName xml:id="bremen">Bremen</placeName>, <placeName xml:id="lubeck"
+                        >Lübeck</placeName>, and <placeName xml:id="hamburg">Hamburg</placeName>.
                     When the United States announced its independence from Great Britain in 1776,
                     these three Free Cities were sovereign, independent city-states within the Holy
                     Roman Empire. <persName>Napoleon Bonaparte</persName> dissolved the Holy Roman
@@ -30,42 +31,43 @@
                     First French Empire. The three Hanseatic cities regained independence in 1813,
                     and the 1815 Congress of Vienna reaffirmed that Bremen, Lübeck, and Hamburg were
                     independent and sovereign city-states.</p>
-                <p> Historically major trading hubs for the northern German States and Baltic Sea,
+                <p>Historically major trading hubs for the northern German States and Baltic Sea,
                     the three cities joined together to conduct one streamlined policy in their
                     relations with the United States during the nineteenth century. Yet, each
                     Hanseatic city remained independent of the others. After initial recognition in
                     the 1790s, relations were expanded in the following decades, driven by the
                     increased trade and commercial ties between the Hanseatic Cities and the United
                     States. By the late 1840s, Bremen was one of the main ports through which goods
-                    moved between the United States and the German States. </p>
-                <p> Direct diplomatic relations between the United States and the Hanseatic
-                    Republics were established in 1853 but were severed in 1868 when the three
-                    republics joined the North German Confederation. Three years later at the
-                    conclusion of the process of German unification, the three republics entered
-                    into the German Empire. From this point forward, foreign policy of the German
-                    Empire was made in Berlin, with the German Kaiser (who was also the King of
-                    Prussia) accrediting ambassadors of foreign nations. Relations with the German
-                    Empire were severed when the U.S. declared war upon Imperial Germany in
-                    1917.</p>
+                    moved between the United States and the German States.</p>
+                <p>Direct diplomatic relations between the United States and the Hanseatic Republics
+                    were established in 1853 but were severed in 1868 when the three republics
+                    joined the North German Confederation. Three years later at the conclusion of
+                    the process of German unification, the three republics entered into the German
+                    Empire. From this point forward, foreign policy of the German Empire was made in
+                    Berlin, with the German Kaiser (who was also the King of Prussia) accrediting
+                    ambassadors of foreign nations. Relations with the German Empire were severed
+                    when the U.S. declared war upon Imperial Germany in 1917.</p>
             </div>
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>Mutual Acts of Recognition, <date from="1790" to="1793">1790-1793</date>.</head>
-                    <p> The first known act of recognition between the United States and Hamburg
-                        came in 1790 when the Free City of Hamburg accepted the credentials of U.S. Vice Consul
-                            <persName>John Parish</persName>, who was appointed to that position on
-                        June 17, 1790. Additionally, on February 19, 1793, the U.S. Congress
+                    <head>Mutual Acts of Recognition, <date from="1790" to="1793"
+                        >1790-1793</date>.</head>
+                    <p>The first known act of recognition between the United States and Hamburg came
+                        in 1790 when the Free City of Hamburg accepted the credentials of U.S. Vice
+                        Consul <persName>John Parish</persName>, who was appointed to that position
+                        on June 17, 1790. Additionally, on February 19, 1793, the U.S. Congress
                         resolved that John Parish was to be accredited as U.S. Consul in
                         Hamburg.</p>
                 </div>
                 <div type="timeline">
-                    <head>Recognition between the U.S. and Breman, <date when="1794">1794</date>.</head>
-                    <p> The first known act of recognition between the United States and Bremen was
+                    <head>Recognition between the U.S. and Breman, <date when="1794"
+                        >1794</date>.</head>
+                    <p>The first known act of recognition between the United States and Bremen was
                         in 1794 when <persName>Arnold Delius</persName>, who on May 28, 1794, was
                         appointed as U.S. Consul at Bremen, arrived to open the first U.S. consulate
                         in that city. The U.S. did not open a consulate in Lübeck until August 6,
-                        1824. </p>
+                        1824.</p>
                 </div>
                 <div type="timeline">
                     <head>Hanseatic Representation in the U.S., <date when="1827-12-04">December 4,
@@ -83,7 +85,7 @@
                 <div type="timeline">
                     <head>First consulate opens in Bremen, <date when="1794-05-29">May 29,
                             1794</date>.</head>
-                    <p> The first U.S. Consulate to open in Bremen was on May 29, 1794, which closed
+                    <p>The first U.S. Consulate to open in Bremen was on May 29, 1794, which closed
                         in September 1985.</p>
                 </div>
                 <div type="timeline">
@@ -106,7 +108,8 @@
                         1916.</p>
                 </div>
                 <div type="timeline">
-                    <head>U.S. consulate opens in Hanseatic and Free Cities, <date when="1857-01-24">January 24, 1857</date>.</head>
+                    <head>U.S. consulate opens in Hanseatic and Free Cities, <date when="1857-01-24"
+                            >January 24, 1857</date>.</head>
                     <p>The U.S. Consulate to the Hanseatic and Free Cities opened on January 24,
                         1857 and closed on July 17, 1862.</p>
                 </div>
@@ -114,54 +117,57 @@
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1853">1853</date>.</head>
-                    <p> The United States established diplomatic relations with the Hanseatic
+                    <head>Establishment of Diplomatic Relations, <date when="1853"
+                        >1853</date>.</head>
+                    <p>The United States established diplomatic relations with the Hanseatic
                         Republics in October 1853 when it received <persName>Rudolph
                             Schleiden</persName> as Minister Resident of the Hanseatic Legation in
                         Washington D.C</p>
                 </div>
                 <div type="timeline">
                     <head>Cessation of Relations, <date when="1868">1868</date>.</head>
-                    <p> On September 25, 1868, the Hanseatic Republic Acting Chargé d’Affaires
+                    <p>On September 25, 1868, the Hanseatic Republic Acting Chargé d’Affaires
                             <persName>A. Schumacker</persName> presented the letters of recall of
                             <persName>Dr. Johannes Rosing</persName>, the Hanseatic Republic’s
                         Chargé d’Affaires. The withdrawal of the Hanseatic mission was due to the
                         three Republics (Bremen, Hamburg, and Lübeck) joining the North German
-                        Union. </p>
+                        Union.</p>
                 </div>
             </div>
             <div type="section" xml:id="treaties-agreements">
                 <head>Treaties and Agreements</head>
                 <div type="timeline">
-                    <head>Convention of Friendship, Commerce, and Navigation, <date when="1827">1827</date>.</head>
-                    <p> A Convention of Friendship, Commerce, and Navigation was signed between the
+                    <head>Convention of Friendship, Commerce, and Navigation, <date when="1827"
+                            >1827</date>.</head>
+                    <p>A Convention of Friendship, Commerce, and Navigation was signed between the
                         United States and the Hanseatic Republics on December 20, 1827, which
                         facilitated commercial intercourse and navigational privileges. The
-                        Convention was signed by U.S. Secretary of State <ref target="/departmenthistory/people/clay-henry">Henry Clay</ref> and the
+                        Convention was signed by U.S. Secretary of State <ref
+                            target="/departmenthistory/people/clay-henry">Henry Clay</ref> and the
                         Hanseatic Republic Minister Plenipotentiary near the United States of
                         America <persName>Vincent Rumpff</persName>.</p>
                 </div>
                 <div type="timeline">
                     <head>Additional Article to Convention of <date from="1827" to="1828">1827,
                             1828</date>.</head>
-                    <p> On June 7, 1828, and Additional Article to the Convention of 1827 was signed
+                    <p>On June 7, 1828, and Additional Article to the Convention of 1827 was signed
                         by the United States and the Hanseatic Republics, which conferred greater
-                        powers upon each other’s consuls and vice-consuls. </p>
+                        powers upon each other’s consuls and vice-consuls.</p>
                 </div>
                 <div type="timeline">
                     <head>Consular Convention, <date when="1852">1852</date>.</head>
-                    <p> The United States and the Hanseatic Republics signed a Consular Convention
-                        on April 30, 1852, which further extended the jurisdiction of their
-                        respective Consuls. With this agreement, consuls and vice-consuls could now
-                        act as judges and arbitrators to mediate differences between masters and
-                        crews of vessels of their respective nations. </p>
+                    <p>The United States and the Hanseatic Republics signed a Consular Convention on
+                        April 30, 1852, which further extended the jurisdiction of their respective
+                        Consuls. With this agreement, consuls and vice-consuls could now act as
+                        judges and arbitrators to mediate differences between masters and crews of
+                        vessels of their respective nations.</p>
                 </div>
                 <div type="timeline">
                     <head>Declaration of Accession of the Senate of the Free Hanseatic City of
                         Bremen to the Convention for the Extradition of Criminals, Fugitives From
                         Justice, Between Prussia and Other States of the Germanic Confederation and
                         the United States, <date when="1853">1853</date>.</head>
-                    <p> On September 6, 1853, the Declaration of Accession of the Senate of the Free
+                    <p>On September 6, 1853, the Declaration of Accession of the Senate of the Free
                         Hanseatic City of Bremen to the Convention for the Extradition of Criminals,
                         Fugitives from Justice, between Prussia and Other States of the Germanic
                         Confederation and the United States was signed by the President of the
@@ -171,16 +177,18 @@
             <div type="section" xml:id="key-events">
                 <head>Key Diplomatic Events</head>
                 <div type="timeline">
-                    <head>Bremen, Lübeck, and Hamburg Join the North German Confederation, <date when="1867" to="1868">1867-68</date>.</head>
-                    <p> Following the Austro-Prussian War of 1866, several German states joined to
+                    <head>Bremen, Lübeck, and Hamburg Join the North German Confederation, <date
+                            when="1867" to="1868">1867-68</date>.</head>
+                    <p>Following the Austro-Prussian War of 1866, several German states joined to
                         form the North German Confederation, with the King of Prussia acting as head
                         of the union. All three Hanseatic Republics joined the North German
                         Confederation, thus, diplomatic relations between Bremen, Lübeck, and
                         Hamburg and the United States drew to a close in 1868.</p>
                 </div>
                 <div type="timeline">
-                    <head>Bremen, Lübeck, and Hamburg Join the German Empire, <date when="1871">1871</date>.</head>
-                    <p> The three Hanseatic Republics joined the German Empire, which was proclaimed
+                    <head>Bremen, Lübeck, and Hamburg Join the German Empire, <date when="1871"
+                            >1871</date>.</head>
+                    <p>The three Hanseatic Republics joined the German Empire, which was proclaimed
                         on January 18, 1871.</p>
                 </div>
             </div>
@@ -201,9 +209,11 @@
                             Acts, Protocols, and Agreements Between The United States of American
                             and Other Powers, 1776-1909</hi> (Washington DC: Government Printing
                         Office, 1910).</bibl>
-                    <bibl>History of U.S. Recognition and Relations: <ref target="/countries/germany">Germany</ref>
+                    <bibl>History of U.S. Recognition and Relations: <ref
+                            target="/countries/germany">Germany</ref>
                     </bibl>
-                    <bibl>A Century of Lawmaking: <ref target="http://memory.loc.gov/ammem/amlaw/lawhome.html">U.S.
+                    <bibl>A Century of Lawmaking: <ref
+                            target="http://memory.loc.gov/ammem/amlaw/lawhome.html">U.S.
                             Congressional Documents, 1775-1874</ref>
                     </bibl>
                 </listBibl>

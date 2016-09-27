@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Philippines</title>
                 <title type="short">Philippines</title>
             </titleStmt>
@@ -19,7 +19,7 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The United States recognized the <placeName key="ph">Philippines</placeName> in
+                <p>The United States recognized the <placeName key="ph">Philippines</placeName> in
                     1946.</p>
                 <figure>
                     <graphic url="philippines-flag.jpg"/>
@@ -28,8 +28,9 @@
                 <div type="section" xml:id="recognition">
                     <head>Recognition</head>
                     <div type="timeline">
-                        <head>U.S. Recognition of Philippine Independence, <date when="1946">1946</date>.</head>
-                        <p> The United States recognized the Republic of the Philippines as an
+                        <head>U.S. Recognition of Philippine Independence, <date when="1946"
+                                >1946</date>.</head>
+                        <p>The United States recognized the Republic of the Philippines as an
                             independent state on July 4, 1946, when President <persName>Harry S.
                                 Truman</persName> did so in a proclamation. The United States and
                             the Philippines signed a treaty on the same date whereby the United
@@ -42,19 +43,23 @@
                     <div type="timeline">
                         <head>Establishment of Diplomatic Relations and the American Embassy in the
                             Philippines, <date when="1946">1946</date>.</head>
-                        <p> Diplomatic relations were established on July 4, 1946, when American
-                            Ambassador <ref target="/departmenthistory/people/mcnutt-paul-vories">Paul V. McNutt</ref> presented his credentials.</p>
+                        <p>Diplomatic relations were established on July 4, 1946, when American
+                            Ambassador <ref target="/departmenthistory/people/mcnutt-paul-vories"
+                                >Paul V. McNutt</ref> presented his credentials.</p>
                     </div>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2794.htm">Philippines</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2794.htm">Philippines</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/rp/">Philippines</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eap/ci/rp/">Philippines</ref>
                     </bibl>
-                    <bibl>Library of Congress Country Study: <ref target="http://lcweb2.loc.gov/frd/cs/phtoc.html">Philippines</ref>
+                    <bibl>Library of Congress Country Study: <ref
+                            target="http://lcweb2.loc.gov/frd/cs/phtoc.html">Philippines</ref>
                     </bibl>
                 </listBibl>
             </div>

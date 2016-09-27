@@ -2,8 +2,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
-                    Diplomatic, and Consular Relations, by Country, since 1776: Guinea-Bissau</title>
+                <title type="complete">A Guide to the United States’ History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776:
+                    Guinea-Bissau</title>
                 <title type="short">Guinea-Bissau</title>
             </titleStmt>
             <publicationStmt>
@@ -33,10 +34,11 @@
                 <div type="timeline">
                     <head>U.S. Recognition of Guinea-Bissau, <date when="1974">1974</date>.</head>
                     <p>The United States recognized the <placeName>Republic of
-                        Guinea-Bissau</placeName> on September 10, 1974, when President
-                        <persName>Gerald R. Ford</persName> sent a letter to that effect to
-                        President of the Council of State <persName>Luis de Akmeida Cabral</persName>. Guinea-Bissau
-                        previously had been under Portuguese sovereignty. </p>
+                            Guinea-Bissau</placeName> on September 10, 1974, when President
+                            <persName>Gerald R. Ford</persName> sent a letter to that effect to
+                        President of the Council of State <persName>Luis de Akmeida
+                            Cabral</persName>. Guinea-Bissau previously had been under Portuguese
+                        sovereignty.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
@@ -45,33 +47,38 @@
             <div type="timeline">
                 <head>Establishment of Diplomatic Relations, <date when="1975">1975</date>.</head>
                 <p>Diplomatic relations were established on September 3, 1975, when Ambassador of
-                    Guinea-Bissau <persName>Gil Vicente Vaz Fernandes</persName> presented his credentials to <persName>President
-                    Gerald R. Ford</persName>.</p>
+                    Guinea-Bissau <persName>Gil Vicente Vaz Fernandes</persName> presented his
+                    credentials to <persName>President Gerald R. Ford</persName>.</p>
             </div>
             <div type="timeline">
-                <head>Establishment of the American Embassy in Guinea-Bissau, <date when="1976">1976</date>.</head>
+                <head>Establishment of the American Embassy in Guinea-Bissau, <date when="1976"
+                        >1976</date>.</head>
                 <p>Embassy <placeName key="bissau">Bissau</placeName> was established on June 30,
                     1976, with <ref target="/departmenthistory/people/curran-brian-dean">Dean
-                        Curran</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>. </p>
+                        Curran</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
             </div>
             <div type="timeline">
-                <head>Suspension of the U.S. Embassy in Guinea-Bissau, <date when="1998-06-14">1998</date>.</head>
+                <head>Suspension of the U.S. Embassy in Guinea-Bissau, <date when="1998-06-14"
+                        >1998</date>.</head>
                 <p>Embassy Bissau suspended operations on June 14, 1998, following the start of
                     civil war in Guinea-Bissau. The U.S. Ambassador to Senegal subsequently handled
                     relations with Guinea-Bissau.</p>
             </div>
             <div type="timeline">
                 <head>Accreditation of U.S. Ambassador, <date when="2003-02-13">2003</date>.</head>
-                <p>The U.S. Ambassador to Senegal, <ref target="/departmenthistory/people/roth-richard-allen">Richard Allen
+                <p>The U.S. Ambassador to Senegal, <ref
+                        target="/departmenthistory/people/roth-richard-allen">Richard Allen
                         Roth</ref> was accredited to Guinea-Bissau on February 13, 2003, when he
                     presented his credentials to President <persName>Kumba Yala</persName>.</p>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5454.htm">Guinea-Bissau</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/5454.htm">Guinea-Bissau</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/pu/index.htm">Guinea-Bissau</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/pu/index.htm">Guinea-Bissau</ref>
                     </bibl>
                 </listBibl>
             </div>

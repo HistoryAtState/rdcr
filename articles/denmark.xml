@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Denmark</title>
                 <title type="short">Denmark</title>
             </titleStmt>
@@ -22,14 +22,14 @@
                 <p>Denmark and the United States have never experienced an interruption in their
                     diplomatic relations since they were first established in 1801. In 1917, Denmark
                     sold the Danish West Indies in the Caribbean Sea to the United States; the
-                    islands are now known as the <placeName>U.S. Virgin Islands</placeName>. </p>
+                    islands are now known as the <placeName>U.S. Virgin Islands</placeName>.</p>
                 <p>Since its liberation in 1945, Denmark has been one of the United States’ closest
                     allies. A founding-member of both the United Nations and the North Atlantic
                     Treaty Organization, in recent years Denmark has also been an energetic
                     supporter of U.S. policy in Iraq and Afghanistan, and hosts the vital
                     early-warning radar facility in Thule, Greenland. U.S.-Danish relations are also
                     strengthened by the fact that the United States is currently Denmark’s largest
-                    non-European trading partner. </p>
+                    non-European trading partner.</p>
                 <figure>
                     <graphic url="denmark-flag.jpg"/>
                     <head>Modern Flag of Denmark</head>
@@ -38,17 +38,18 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>Danish Recognition of the United States, <date when="1792">1792</date>.</head>
-                    <p> Denmark recognized the United States when the U.S. consul at Copenhagen,
-                        <persName>Hans Saabye,</persName> received an exequatar from the Danish
-                        government on or about June 9, 1792. </p>
+                    <head>Danish Recognition of the United States, <date when="1792"
+                        >1792</date>.</head>
+                    <p>Denmark recognized the United States when the U.S. consul at Copenhagen,
+                            <persName>Hans Saabye,</persName> received an exequatar from the Danish
+                        government on or about June 9, 1792.</p>
                 </div>
             </div>
             <div type="section" xml:id="consular-presence">
                 <head>Consular Presence</head>
                 <div type="timeline">
                     <head>Establishment of Consular Relations, <date when="1792">1792</date>.</head>
-                    <p> Consular relations were established on or about June 9, 1792, when the U.S.
+                    <p>Consular relations were established on or about June 9, 1792, when the U.S.
                         consul at Copenhagen, Hans Saabye, received an exequatar from the Danish
                         government.</p>
                 </div>
@@ -56,22 +57,25 @@
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1801">1801</date>.</head>
-                    <p> Diplomatic relations were established on October 12, 1801, when the Danish
+                    <head>Establishment of Diplomatic Relations, <date when="1801"
+                        >1801</date>.</head>
+                    <p>Diplomatic relations were established on October 12, 1801, when the Danish
                         Minister Resident to the United States presented his credentials to the U.S.
                         government.</p>
                 </div>
                 <div type="timeline">
                     <head>Legation Established at Copenhagen, <date when="1827">1827</date>.</head>
-                    <p> The U.S. Legation at Copenhagen was established on September 20, 1827, when
-                        Chargé d'Affaires <ref target="/departmenthistory/people/wheaton-henry">Henry Wheaton</ref> presented his credentials to the Danish
+                    <p>The U.S. Legation at Copenhagen was established on September 20, 1827, when
+                        Chargé d'Affaires <ref target="/departmenthistory/people/wheaton-henry"
+                            >Henry Wheaton</ref> presented his credentials to the Danish
                         government.</p>
                 </div>
                 <div type="timeline">
                     <head>Legation Closed, <date when="1941">1941</date>.</head>
-                    <p> The U.S. Legation at Copenhagen was closed on December 20, 1941, following
+                    <p>The U.S. Legation at Copenhagen was closed on December 20, 1941, following
                         the outbreak of war between the United States and Germany. German forces had
-                        occupied the city on April 9, 1940 and U.S. Minister <ref target="/departmenthistory/people/atherton-ray">Ray Atherton</ref> left
+                        occupied the city on April 9, 1940 and U.S. Minister <ref
+                            target="/departmenthistory/people/atherton-ray">Ray Atherton</ref> left
                         Copenhagen on June 5, 1940. Atherton subsequently took up residence in
                         Ottawa, Ontario, Canada as U.S. Minister to Denmark’s government, which
                         remained in Danish hands until German authorities seized complete control in
@@ -79,12 +83,12 @@
                 </div>
                 <div type="timeline">
                     <head>Legation at Copenhagen Reopened, <date when="1945">1945</date>.</head>
-                    <p> On June 16, 1945, the U.S. Legation at Copenhagen was reopened following
+                    <p>On June 16, 1945, the U.S. Legation at Copenhagen was reopened following
                         Denmark’s liberation from German occupation during World War II.</p>
                 </div>
                 <div type="timeline">
                     <head>Legation Raised to Embassy, <date when="1947">1947</date>.</head>
-                    <p> The Legation at Copenhagen was raised to an Embassy on March 18, 1947, when
+                    <p>The Legation at Copenhagen was raised to an Embassy on March 18, 1947, when
                         Ambassador <ref target="/departmenthistory/people/marvel-josiah">Josiah
                             Marvel, Jr.</ref> presented his of credentials to the Danish
                         government.</p>
@@ -93,9 +97,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3167.htm">Denmark</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/3167.htm">Denmark</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/da">Denmark</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/da">Denmark</ref>
                     </bibl>
                 </listBibl>
             </div>

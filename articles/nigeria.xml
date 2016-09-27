@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Nigeria</title>
                 <title type="short">Nigeria</title>
             </titleStmt>
@@ -19,14 +19,14 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> U.S. Recognition of Nigerian Independence, 1960. The United States recognized
-                    the <placeName key="ng">Federation of Nigeria</placeName> on October 1, 1960, in
+                <p>U.S. Recognition of Nigerian Independence, 1960. The United States recognized the
+                        <placeName key="ng">Federation of Nigeria</placeName> on October 1, 1960, in
                     a congratulatory message from Secretary of State <persName>Christian
                         Herter</persName> to the Nigerian people, broadcast on Voice of America
                     radio. This message was followed by a congratulatory letter from President
-                    <persName>Dwight D. Eisenhowe</persName>r delivered to Prime Minister
-                    <persName>Sir Abubukar Tafawa Balewa</persName> on October 2, 1960. Nigeria
-                    had been previously under British sovereignty. </p>
+                        <persName>Dwight D. Eisenhowe</persName>r delivered to Prime Minister
+                        <persName>Sir Abubukar Tafawa Balewa</persName> on October 2, 1960. Nigeria
+                    had been previously under British sovereignty.</p>
                 <figure>
                     <graphic url="nigeria-flag.jpg"/>
                     <head>Modern Flag of Nigeria</head>
@@ -35,9 +35,10 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head> U.S. Recognition of Nigerian Independence, <date when="1960">1960</date>. </head>
-                    <p> The United States recognized the Federation of Nigeria on October 1, 1960,
-                        in a congratulatory message from Secretary of State Christian Herter to the
+                    <head>U.S. Recognition of Nigerian Independence, <date when="1960"
+                        >1960</date>.</head>
+                    <p>The United States recognized the Federation of Nigeria on October 1, 1960, in
+                        a congratulatory message from Secretary of State Christian Herter to the
                         Nigerian people, broadcast on Voice of America radio. This message was
                         followed by a congratulatory letter from President Dwight D. Eisenhower
                         delivered to Prime Minister Sir Abubukar Tafawa Balewa on October 2, 1960.
@@ -47,16 +48,19 @@
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1960">1960</date>.</head>
-                    <p> Diplomatic relations were established on October 1, 1960, when the Nigerian
+                    <head>Establishment of Diplomatic Relations, <date when="1960"
+                        >1960</date>.</head>
+                    <p>Diplomatic relations were established on October 1, 1960, when the Nigerian
                         Embassy in Washington opened with <persName>M. J. Garba</persName> as Charge
                         d’Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Embassy in Lagos, <date when="1960">1960</date>.</head>
-                    <p> The American Embassy in <placeName key="lagos">Lagos</placeName>, Nigeria
-                        was established on October 1, 1960, with <persName>Joseph Palmer II</persName> in charge pending
-                        presentation of his letter of credence on October 4, 1960. </p>
+                    <head>Establishment of the American Embassy in Lagos, <date when="1960"
+                            >1960</date>.</head>
+                    <p>The American Embassy in <placeName key="lagos">Lagos</placeName>, Nigeria was
+                        established on October 1, 1960, with <persName>Joseph Palmer II</persName>
+                        in charge pending presentation of his letter of credence on October 4,
+                        1960.</p>
                 </div>
                 <div type="timeline">
                     <head/>
@@ -68,9 +72,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2836.htm">Nigeria</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2836.htm">Nigeria</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/ni/index.htm">Nigeria</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/ni/index.htm">Nigeria</ref>
                     </bibl>
                 </listBibl>
             </div>

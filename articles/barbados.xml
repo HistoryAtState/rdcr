@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Barbados</title>
                 <title type="short">Barbados</title>
             </titleStmt>
@@ -31,7 +31,8 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Barbados’ Independence, <date when="1966">1966</date>.</head>
+                    <head>U.S. Recognition of Barbados’ Independence, <date when="1966"
+                        >1966</date>.</head>
                     <p>Following a June 1966 constitutional conference with Great Britain at which
                         Barbados negotiated its independence, Barbados because an independent state
                         within the British Commonwealth on November 30, 1966. The United States
@@ -46,7 +47,8 @@
                             Barbados, <date when="1966">1966.</date>
                         </head>
                         <p>The U.S. Embassy at <placeName>Bridgetown</placeName> was established on
-                            November 30, 1966, with <ref target="/departmenthistory/people/dolgin-george">George Dolgin</ref>
+                            November 30, 1966, with <ref
+                                target="/departmenthistory/people/dolgin-george">George Dolgin</ref>
                             as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
                     </div>
                 </div>
@@ -54,11 +56,15 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/bb.html">Barbados</ref>
+                    <bibl>CIA World Factbook: <ref
+                            target="https://www.cia.gov/library/publications/the-world-factbook/geos/bb.html"
+                            >Barbados</ref>
                     </bibl>
-                    <bibl>Department of State Country Fact Sheet <ref target=" http://www.state.gov/r/pa/ei/bgn/26507.htm">Barbados</ref>
+                    <bibl>Department of State Country Fact Sheet <ref
+                            target=" http://www.state.gov/r/pa/ei/bgn/26507.htm">Barbados</ref>
                     </bibl>
-                    <bibl>Department of State Country Information <ref target="http://www.state.gov/p/wha/ci/bb">Barbados</ref>
+                    <bibl>Department of State Country Information <ref
+                            target="http://www.state.gov/p/wha/ci/bb">Barbados</ref>
                     </bibl>
                 </listBibl>
             </div>

@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Orange Free
                     State</title>
                 <title type="short">Orange Free State*</title>
@@ -20,35 +20,35 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p>The <placeName xml:id="xt">Orange Free State</placeName> was a Boer republic in southern Africa. The Boers, of Dutch
-                    ancestry, had settled the area earlier in the nineteenth century. The 1854
-                    Bloemfontein Convention recognized the independence of the Orange Free State,
-                    which was located between the Orange and the Vaal Rivers. The Orange Free State
-                    was a republic modeled upon the U.S. constitution, but restricted franchise to
-                    white males. </p>
-                <p> In 1867 diamonds were discovered in the Orange Free State and by 1870 there were
+                <p>The <placeName xml:id="xt">Orange Free State</placeName> was a Boer republic in
+                    southern Africa. The Boers, of Dutch ancestry, had settled the area earlier in
+                    the nineteenth century. The 1854 Bloemfontein Convention recognized the
+                    independence of the Orange Free State, which was located between the Orange and
+                    the Vaal Rivers. The Orange Free State was a republic modeled upon the U.S.
+                    constitution, but restricted franchise to white males.</p>
+                <p>In 1867 diamonds were discovered in the Orange Free State and by 1870 there were
                     sufficient reserves of diamonds to stimulate a “rush” of several thousand
                     fortune hunters. Other important Orange Free State exports that gained a wider
                     world market during the 1860s were ostrich feathers and ivory, obtained by
                     hunting the region’s elephants. The expanding commercial trade prompted the
                     United States to complete its first international agreement with the Orange Free
                     State, the Convention of Friendship and Commerce and Extradition of 1871, and
-                    also recognize the young republic. </p>
+                    also recognize the young republic.</p>
                 <p>Full diplomatic relations between the United States and the Orange Free State
                     were never established. In 1899, the Orange Free State declared war upon the
                     British and fought alongside its sister Boer republic, the South African
                     Republic, during the Boer War (1899-1902). The British occupied the capital of
                     Bloemfontein in 1900. The 1902 Peace of Vereeniging, which ended the Boer War,
-                    annexed the Orange Free State to the British Empire. </p>
+                    annexed the Orange Free State to the British Empire.</p>
             </div>
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>Mutual Recognition, <date when="1871">1871</date>.</head>
-                    <p> The first known act of recognition between the United States and the
-                        Republic of the Orange Free State occurred in 1871 when plenipotentiaries
-                        for the two states signed a Convention of Friendship and Commerce and
-                        Extradition on December 22, 1871.</p>
+                    <p>The first known act of recognition between the United States and the Republic
+                        of the Orange Free State occurred in 1871 when plenipotentiaries for the two
+                        states signed a Convention of Friendship and Commerce and Extradition on
+                        December 22, 1871.</p>
                 </div>
             </div>
             <div type="section" xml:id="consular-presence">
@@ -56,11 +56,11 @@
                 <div type="timeline">
                     <head>Bloemfontein, <date when="1891-12-16">December 16, 1891</date>
                     </head>
-                    <p>The first U.S. Consul assigned to the Orange Free State was <persName>Ernst Richard
-                        Landgraf</persName>, who was appointed as U.S. Consular Agent to Bloemfontein on
-                        December 16, 1891. U.S. consular agents remained posted at Bloemfontein
-                        after its incorporation into the British Empire until the post was closed by
-                        agency order on November 30, 1928. </p>
+                    <p>The first U.S. Consul assigned to the Orange Free State was <persName>Ernst
+                            Richard Landgraf</persName>, who was appointed as U.S. Consular Agent to
+                        Bloemfontein on December 16, 1891. U.S. consular agents remained posted at
+                        Bloemfontein after its incorporation into the British Empire until the post
+                        was closed by agency order on November 30, 1928.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
@@ -74,32 +74,36 @@
             <div type="section" xml:id="treaties-agreements">
                 <head>Treaties and Agreements</head>
                 <div type="timeline">
-                    <head>Convention of Friendship and Commerce and Extradition, <date when="1871">1871</date>.</head>
-                    <p> On December 22, 1871, the United States signed a Convention of Friendship
-                        and Commerce and Extradition with the Orange Free State in Bloemfonten,
-                        Orange Free State. The convention was negotiated and signed by U.S. Special
-                        Agent <persName>Willard W. Edgcomb</persName>, who served at the time as American Consul at the
-                        <placeName xml:id="capeofgoodhope">Cape of Good Hope</placeName>, and the government secretary of the Orange Free State,
-                        <persName>Friedrich Kaufman Höhne</persName>. This convention was denounced on January 4, 1895 by
-                        the Government of Orange Free State. </p>
+                    <head>Convention of Friendship and Commerce and Extradition, <date when="1871"
+                            >1871</date>.</head>
+                    <p>On December 22, 1871, the United States signed a Convention of Friendship and
+                        Commerce and Extradition with the Orange Free State in Bloemfonten, Orange
+                        Free State. The convention was negotiated and signed by U.S. Special Agent
+                            <persName>Willard W. Edgcomb</persName>, who served at the time as
+                        American Consul at the <placeName xml:id="capeofgoodhope">Cape of Good
+                            Hope</placeName>, and the government secretary of the Orange Free State,
+                            <persName>Friedrich Kaufman Höhne</persName>. This convention was
+                        denounced on January 4, 1895 by the Government of Orange Free State.</p>
                 </div>
                 <div type="timeline">
                     <head>Extradition Treaty, <date when="1896">1896</date>.</head>
-                    <p>On October 28, 1896, U.S. Secretary of State <ref target="/departmenthistory/people/olney-richard">Richard Olney</ref> and the Consul
-                        General of the Orange Free State in the United States <persName>Charles D. Pierce</persName>
-                        signed an Extradition Treaty in Washington, D.C.</p>
+                    <p>On October 28, 1896, U.S. Secretary of State <ref
+                            target="/departmenthistory/people/olney-richard">Richard Olney</ref> and
+                        the Consul General of the Orange Free State in the United States
+                            <persName>Charles D. Pierce</persName> signed an Extradition Treaty in
+                        Washington, D.C.</p>
                 </div>
             </div>
             <div type="section" xml:id="issues">
                 <head>Issues Relevant to U.S. Foreign Diplomacy</head>
                 <div type="timeline">
                     <head>Colonization.</head>
-                    <p> The Orange Free State ceased to exist as an independent, sovereign state in
+                    <p>The Orange Free State ceased to exist as an independent, sovereign state in
                         1902 as a result of the process of colonization that carved up much of the
                         African continent into areas of European empire. There were several states
                         like the Orange Free State, with which the United States had treaties or
                         sometimes even diplomatic relations, that were incorporated into another
-                        state’s overseas empire. </p>
+                        state’s overseas empire.</p>
                 </div>
             </div>
             <div type="appendix">

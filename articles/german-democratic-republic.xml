@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: East Germany (German
                     Democratic Republic)</title>
                 <title type="short">East Germany (German Democratic Republic)</title>
@@ -26,12 +26,13 @@
                     Republic of Germany. The Soviets responded by forming the German Democratic
                     Republic (GDR) to govern their occupation zone. The United States refused to
                     recognize the GDR until 1974. The GDR was absorbed by the FRG in 1990 when
-                    Germany reunified. </p>
+                    Germany reunified.</p>
             </div>
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>Division of Germany and U.S. Non-Recognition of GDR, <date when="1949">1949</date>.</head>
+                    <head>Division of Germany and U.S. Non-Recognition of GDR, <date when="1949"
+                            >1949</date>.</head>
                     <p>Following the German surrender to the Allied powers on May 8, 1945, Germany
                         was occupied and divided into four zones. Each of the main Allied powers
                         (the United States, the Soviet Union, Great Britain, and France) was
@@ -44,15 +45,16 @@
                         of their zone of occupation on October 7, 1949. The United States responded
                         by stating its position that the GDR was <quote>“without any legal
                             validity,”</quote> and that the United States would <quote>“continue to
-                                give full support to the Government of the German Federal Republic at
+                            give full support to the Government of the German Federal Republic at
                                 <placeName key="bonn">Bonn</placeName> in its efforts to restore a
-                                truly free and democratic Germany.”</quote> As prospects for early
+                            truly free and democratic Germany.”</quote> As prospects for early
                         reunification of Germany dimmed, the United States established full
                         diplomatic relations with the FRG on May 6, 1955.</p>
                 </div>
                 <div type="timeline">
                     <head>Recognition of the German Democratic Republic, and the Establishment of
-                        Diplomatic Relations and the American Embassy in <placeName key="berlin">Berlin</placeName>, <date when="1974">1974</date>.</head>
+                        Diplomatic Relations and the American Embassy in <placeName key="berlin"
+                            >Berlin</placeName>, <date when="1974">1974</date>.</head>
                     <p>In response to the improvement of relations between the two German
                         governments, representatives of the United States and GDR negotiated
                         arrangements for U.S. recognition of the GDR and the establishment of
@@ -71,13 +73,16 @@
                     <head>Establishment of Diplomatic Relations with East Germany and the American
                         Embassy in Berlin,<date when="1974"> 1974.</date>
                     </head>
-                    <p>The American Embassy in Berlin was established on December 9, 1974, with <ref target="/departmenthistory/people/grove-brandon-hambright-jr">Brandon H.
-                        Grove, Jr.</ref>, as Chargé d'Affaires <hi rend="italic">ad
-                            interim</hi>. <ref target="/departmenthistory/people/cooper-john-sherman">John Sherman Cooper</ref> presented his credentials as the first U.S.
-                        Ambassador to the GDR on December 20, 1974. </p>
+                    <p>The American Embassy in Berlin was established on December 9, 1974, with <ref
+                            target="/departmenthistory/people/grove-brandon-hambright-jr">Brandon H.
+                            Grove, Jr.</ref>, as Chargé d'Affaires <hi rend="italic">ad
+                        interim</hi>. <ref target="/departmenthistory/people/cooper-john-sherman"
+                            >John Sherman Cooper</ref> presented his credentials as the first U.S.
+                        Ambassador to the GDR on December 20, 1974.</p>
                 </div>
                 <div>
-                    <head>Germany Reunified under Auspices of the FRG, <date from="1990" to="1991">1990-1991.</date>
+                    <head>Germany Reunified under Auspices of the FRG, <date from="1990" to="1991"
+                            >1990-1991.</date>
                     </head>
                     <p>Following the collapse of one-party rule in East Germany in late-1989, the
                         signing of a Unification Treaty by East and West German Governments on
@@ -85,7 +90,7 @@
                         East and West Germany, the United States, Great Britain, France, and the
                         Soviet Union in Bonn, Berlin, Paris, and Moscow, a Treaty on the Final
                         Settlement with Respect to Germany (the so-called “Two Plus Four Agreement”)
-                        was signed in Moscow on September 12, 1990. </p>
+                        was signed in Moscow on September 12, 1990.</p>
                     <p>On September 25, 1990, President <persName>George H.W. Bush</persName>
                         submitted the treaty for ratification, and the U.S. Senate obliged
                         unanimously on October 10. The treaty finally went into effect on March 15,
@@ -97,14 +102,15 @@
                         recognize the reunified Germany as a “new state.” The United States
                         maintained its embassy in <placeName key="bonn">Bonn</placeName>; however,
                         it closed its embassy in <placeName key="berlin">Berlin</placeName> on
-                        October 2, 1990. </p>
+                        October 2, 1990.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Chiefs of Mission: <ref target="http://history.state.gov/departmenthistory/people/chiefsofmission/german-democratic-republic">East Germany
-                        (German Democratic Republic)</ref>
+                    <bibl>Chiefs of Mission: <ref
+                            target="http://history.state.gov/departmenthistory/people/chiefsofmission/german-democratic-republic"
+                            >East Germany (German Democratic Republic)</ref>
                     </bibl>
                 </listBibl>
             </div>

@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Paraguay</title>
                 <title type="short">Paraguay</title>
             </titleStmt>
@@ -23,7 +23,7 @@
                     <placeName key="py">Paraguay</placeName> declared its independence from Spain on
                     May 15, 1811. Much of Paraguay’s post-colonial history was marked by civil war
                     and military coups. The United States and Paraguay have maintained close
-                    diplomatic relations since they were established in 1861. </p>
+                    diplomatic relations since they were established in 1861.</p>
                 <figure>
                     <graphic url="paraguay-flag.jpg"/>
                     <head>Modern Flag of Paraguay</head>
@@ -31,8 +31,9 @@
                 <div type="section" xml:id="recognition">
                     <head>Recognition</head>
                     <div type="timeline">
-                        <head>U.S. Recognition of Paraguayan Independence, <date when="1852">1852</date>. </head>
-                        <p> The United States recognized the Republic of Paraguay as a separate and
+                        <head>U.S. Recognition of Paraguayan Independence, <date when="1852"
+                                >1852</date>.</head>
+                        <p>The United States recognized the Republic of Paraguay as a separate and
                             independent state on April 27, 1852, by the issuance to <persName>John
                                 M. Pendleton</persName>, Chargé d’Affaires at Buenos Aires, of a
                             full power to negotiate a treaty of commerce with the Paraguayan
@@ -42,23 +43,27 @@
                 <div type="section" xml:id="diplomatic-relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
-                        <head>Establishment of Diplomatic Relations &amp; the American Legation
-                            in Paraguay, <date when="1861">1861</date>. </head>
-                        <p> Diplomatic relations and the American Legation in <placeName key="asuncion">Asuncion</placeName> were established on November 26,
-                            1861, when American Commissioner <ref target="/departmenthistory/people/washburn-charles-ames">Charles A.
+                        <head>Establishment of Diplomatic Relations &amp; the American Legation in
+                            Paraguay, <date when="1861">1861</date>.</head>
+                        <p>Diplomatic relations and the American Legation in <placeName
+                                key="asuncion">Asuncion</placeName> were established on November 26,
+                            1861, when American Commissioner <ref
+                                target="/departmenthistory/people/washburn-charles-ames">Charles A.
                                 Washburn</ref> presented his credentials to the Government of the
-                            Republic of Paraguay. </p>
+                            Republic of Paraguay.</p>
                     </div>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of American Legation to Embassy Status, <date when="1942">1942</date>. </head>
-                    <p> Following a joint announcement by the Government of Paraguay and the
+                    <head>Elevation of American Legation to Embassy Status, <date when="1942"
+                            >1942</date>.</head>
+                    <p>Following a joint announcement by the Government of Paraguay and the
                         Government of the United States on January 4, 1942, the Legation of Paraguay
                         in the United States and the Legation of the United States in Paraguay were
                         both raised to the rank of Embassy. The change in status became effective on
                         March 31, 1942, when Ambassador of Paraguay, <persName>Señor Dr. Don Celso
                             R. Velazquez</persName>, presented his letters of credence to the United
-                        States Government. <ref target="/departmenthistory/people/frost-wesley">Wesley Frost</ref> was promoted to U.S. Ambassador to Paraguay and
+                        States Government. <ref target="/departmenthistory/people/frost-wesley"
+                            >Wesley Frost</ref> was promoted to U.S. Ambassador to Paraguay and
                         presented his credentials to the Government of Paraguay on April 15,
                         1942.</p>
                 </div>
@@ -66,9 +71,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/1841.htm">Paraguay</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/1841.htm">Paraguay</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/pa/index.htm">Paraguay</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/wha/ci/pa/index.htm">Paraguay</ref>
                     </bibl>
                 </listBibl>
             </div>

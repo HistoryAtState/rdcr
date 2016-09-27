@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Saint Lucia</title>
                 <title type="short">Saint Lucia</title>
             </titleStmt>
@@ -19,11 +19,11 @@
             <div type="section" xml:id="summary">
                 <head>Summary</head>
                 <p>British colonial rule was established in <placeName key="lc">St.
-                    Lucia</placeName> in <date when="1815">1815</date>. The island grew
+                        Lucia</placeName> in <date when="1815">1815</date>. The island grew
                     increasingly self-reliant throughout the twentieth century, participating in the
                     West Indies Federation from 1958 until its collapse in 1962. Along with the
                     other Windward Islands, St. Lucia became a federated state associated with the
-                    <placeName>United Kingdom</placeName> in 1967. Although it achieved
+                        <placeName>United Kingdom</placeName> in 1967. Although it achieved
                     independence in 1979, St. Lucia remains a member of the British
                     Commonwealth.</p>
                 <p>Today the United States and St. Lucia enjoy cooperative relations and have signed
@@ -36,11 +36,13 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Saint Lucian Independence, <date when="1979">1979</date>.</head>
+                    <head>U.S. Recognition of Saint Lucian Independence, <date when="1979"
+                            >1979</date>.</head>
                     <p>St. Lucia achieved full independence on February 22, 1979. The United States
                         had previously informally recognized St. Lucia as a federated state of the
                         British Commonwealth but did not formally recognize St. Lucian independence
-                        until the appointment of <ref target="/departmenthistory/people/shelton-sally-angela">Sally Angela
+                        until the appointment of <ref
+                            target="/departmenthistory/people/shelton-sally-angela">Sally Angela
                             Shelton</ref> as American Ambassador to St. Lucia on May 17, 1979.</p>
                 </div>
             </div>
@@ -55,33 +57,37 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>U.S. Special Representative to Saint Lucia Appointed, <date when="1977">1977.</date>
+                    <head>U.S. Special Representative to Saint Lucia Appointed, <date when="1977"
+                            >1977.</date>
                     </head>
                     <p>
                         <ref target="/departmenthistory/people/ortiz-francis-vincent">Frank V.
                             Oritz, Jr.</ref> was appointed United States Special Representative to
                         the States of <placeName>Antigua</placeName>,
-                        <placeName>Dominica</placeName>, <placeName>St.
+                            <placeName>Dominica</placeName>, <placeName>St.
                             Christopher-Nevis-Anguilla</placeName>, <placeName>St.
-                                Lucia</placeName>, and <placeName>St. Vincent</placeName> on September 1,
+                        Lucia</placeName>, and <placeName>St. Vincent</placeName> on September 1,
                         1977. The appointment was concurrent to his positions as Ambassador to
-                        <placeName>Barbados</placeName> and to
+                            <placeName>Barbados</placeName> and to
                         <placeName>Grenada</placeName>.</p>
                 </div>
                 <div type="timeline">
                     <head>Diplomatic Relations Established, <date when="1983">1983.</date>
                     </head>
-                    <p>Diplomatic relations were established on June 11, 1979, when Ambassador <ref target="/departmenthistory/people/shelton-sally-angela">Sally Angela
-                        Shelton</ref> presented her credentials. All U.S. ambassadors to St.
-                        Lucia have been resident at <placeName>Barbados</placeName>. </p>
+                    <p>Diplomatic relations were established on June 11, 1979, when Ambassador <ref
+                            target="/departmenthistory/people/shelton-sally-angela">Sally Angela
+                            Shelton</ref> presented her credentials. All U.S. ambassadors to St.
+                        Lucia have been resident at <placeName>Barbados</placeName>.</p>
                 </div>
                 <div type="appendix">
                     <head>Resources</head>
                     <listBibl>
-                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2344.htm">Saint Lucia</ref>
+                        <bibl>Department of State Country Fact Sheet: <ref
+                                target="http://www.state.gov/r/pa/ei/bgn/2344.htm">Saint Lucia</ref>
                         </bibl>
-                        <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/st/index.htm">Saint
-                            Lucia</ref>
+                        <bibl>Department of State Country Information: <ref
+                                target="http://www.state.gov/p/wha/ci/st/index.htm">Saint
+                                Lucia</ref>
                         </bibl>
                     </listBibl>
                 </div>

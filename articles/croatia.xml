@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, 1776-2008: Croatia</title>
                 <title type="short">Croatia</title>
             </titleStmt>
@@ -21,7 +21,7 @@
                 <head>Summary</head>
                 <p>The United States recognized Croatia as an independent state on April 7, 1992,
                     when the George H.W. Bush Administration announced the decision in a White House
-                    statement. </p>
+                    statement.</p>
                 <figure>
                     <graphic url="croatia-flag.jpg"/>
                     <head>Modern Flag of Croatia</head>
@@ -31,32 +31,36 @@
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>U.S. Recognition of Croatia, <date when="1992">1992</date>.</head>
-                    <p> The United States recognized Croatia as an independent state on April 7,
+                    <p>The United States recognized Croatia as an independent state on April 7,
                         1992, when the <persName>George H.W. Bush</persName> Administration
                         announced the decision in a White House statement. Croatia had been a
-                        constituent part of Yugoslavia. </p>
+                        constituent part of Yugoslavia.</p>
                 </div>
                 <div type="section" xml:id="diplomatic-relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
-                        <head>Establishment of Diplomatic Relations, <date when="1992">1992</date>.</head>
-                        <p> Diplomatic relations were established on August 6, 1992, when President
-                            George H.W. Bush announced the decision during remarks to the press.
-                        </p>
+                        <head>Establishment of Diplomatic Relations, <date when="1992"
+                            >1992</date>.</head>
+                        <p>Diplomatic relations were established on August 6, 1992, when President
+                            George H.W. Bush announced the decision during remarks to the press.</p>
                     </div>
                     <div type="timeline">
-                        <head>Establishment of the American Embassy in Croatia, <date when="1992">1992</date>.</head>
-                        <p> The American Embassy in Zagreb was opened on August 25, 1992, with
-                            <persName>Ronald Nietzke</persName> as Chargé d'Affaires <hi rend="italic">ad interim</hi>. </p>
+                        <head>Establishment of the American Embassy in Croatia, <date when="1992"
+                                >1992</date>.</head>
+                        <p>The American Embassy in Zagreb was opened on August 25, 1992, with
+                                <persName>Ronald Nietzke</persName> as Chargé d'Affaires <hi
+                                rend="italic">ad interim</hi>.</p>
                     </div>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3166.htm">Croatia</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/3166.htm">Croatia</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/r/ci/hr">Croatia</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/r/ci/hr">Croatia</ref>
                     </bibl>
                 </listBibl>
             </div>

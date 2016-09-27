@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: South Sudan</title>
                 <title type="short">South Sudan</title>
             </titleStmt>
@@ -38,7 +38,7 @@
                         the Republic of South Sudan as a sovereign and independent state on July 9,
                         2011. This followed the historic January referendum on self-determination
                         for Southern Sudan, demonstrating full implementation of the 2005
-                        Comprehensive Peace Agreement between the North and South. </p>
+                        Comprehensive Peace Agreement between the North and South.</p>
                 </div>
             </div>
             <div type="section" xml:id="consular_relations">
@@ -53,7 +53,8 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="2011-07-09">2011</date>.</head>
+                    <head>Establishment of Diplomatic Relations, <date when="2011-07-09"
+                        >2011</date>.</head>
                     <p>Following its declaration of independence, the United States established full
                         diplomatic relations with the Republic of South Sudan, upgrading the U.S.
                         Consulate General in Juba to a U.S. Embassy on July 9, 2011. The United
@@ -63,8 +64,7 @@
                         Republic of South Sudan on October 18, 2011.</p>
                 </div>
                 <div type="timeline">
-                    <head>Consulate Elevated to Embassy, <date when="2011-07-09">2011</date>.
-                    </head>
+                    <head>Consulate Elevated to Embassy, <date when="2011-07-09">2011</date>.</head>
                     <p>The U.S. Consulate at Juba was elevated to Embassy status on July 9, 2011
                         when U.S. Ambassador to the United Nations Susan Rice officially transformed
                         the U.S. Consulate General into the United States Embassy in the new
@@ -74,9 +74,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/171718.htm">South Sudan</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/171718.htm">South Sudan</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/od/index.htm">South Sudan</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/od/index.htm">South Sudan</ref>
                     </bibl>
                 </listBibl>
             </div>

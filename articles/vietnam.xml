@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Vietnam</title>
                 <title type="short">Vietnam</title>
             </titleStmt>
@@ -19,11 +19,12 @@
             <div type="section" xml:id="summary">
                 <head>Summary</head>
                 <p>Relations between citizens of the United States and residents of what is today
-                    the Socialist Republic of <placeName xml:id="vn">Vietnam</placeName> began during the 19th century, when that
-                    region was a colony of the French Empire. For decades interactions were
-                    primarily of a commercial nature, with a few other areas of non-official
-                    contact. Formal relations began only after Vietnam gained its independence from
-                        <ref target="/countries/france">France</ref> following World War II.<figure>
+                    the Socialist Republic of <placeName xml:id="vn">Vietnam</placeName> began
+                    during the 19th century, when that region was a colony of the French Empire. For
+                    decades interactions were primarily of a commercial nature, with a few other
+                    areas of non-official contact. Formal relations began only after Vietnam gained
+                    its independence from <ref target="/countries/france">France</ref> following
+                    World War II.<figure>
                         <graphic url="vietnam-flag.jpg"/>
                         <head>Modern Flag of Vietnam</head>
                     </figure>
@@ -32,12 +33,13 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Vietnamese Independence, <date when="1950">1950</date>.</head>
+                    <head>U.S. Recognition of Vietnamese Independence, <date when="1950"
+                        >1950</date>.</head>
                     <p>The United States recognized the State of Viet Nam on February 7, 1950, when
                         the U.S. Department of State made an announcement to that effect. Vietnam
                         previously had been part of Indochina as a Protectorate of France and had
                         become an independent state as part of the French Union in 1949. The State
-                        of Viet Nam incorporated all of the territory of contemporary Vietnam. </p>
+                        of Viet Nam incorporated all of the territory of contemporary Vietnam.</p>
                 </div>
             </div>
             <div type="section" xml:id="consular_presence">
@@ -49,9 +51,11 @@
                         been a commercial agent in this city since 1889.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of Additional Consular Posts, <date from="1947" to="1957">1947-57</date>.</head>
-                    <p>The United States established additional consulates as follows: <placeName xml:id="hanoi">Hanoi</placeName> (1947);
-                        <placeName xml:id="hue">Hue</placeName> (1957).</p>
+                    <head>Establishment of Additional Consular Posts, <date from="1947" to="1957"
+                            >1947-57</date>.</head>
+                    <p>The United States established additional consulates as follows: <placeName
+                            xml:id="hanoi">Hanoi</placeName> (1947); <placeName xml:id="hue"
+                            >Hue</placeName> (1957).</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic_relations">
@@ -60,11 +64,13 @@
                     <head>Establishment of Diplomatic Relations, <date when="1950">1950.</date>
                     </head>
                     <p>Diplomatic relations were established on February 17, 1950, when the
-                        Consulate General at Saigon was raised to Legation status with <ref target="/people/gullion-edmund-asbury">Edmund A. Gullion</ref> as Chargé
-                        d'Affaires <hi rend="italic">ad interim</hi>. </p>
+                        Consulate General at Saigon was raised to Legation status with <ref
+                            target="/people/gullion-edmund-asbury">Edmund A. Gullion</ref> as Chargé
+                        d'Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of U.S. Legation to Embassy Status, <date when="1952">1952.</date>
+                    <head>Elevation of U.S. Legation to Embassy Status, <date when="1952"
+                            >1952.</date>
                     </head>
                     <p>The United States Legation in Saigon was raised to Embassy status on June 24,
                         1952, when Ambassador <ref target="/people/heath-donald-read">Donald R.
@@ -73,7 +79,8 @@
                         United States and Vietnam to this effect on June 6, 1952.</p>
                 </div>
                 <div type="timeline">
-                    <head>Diplomatic Relations and the North-South Division of Vietnam, <date when="1955">1955.</date>
+                    <head>Diplomatic Relations and the North-South Division of Vietnam, <date
+                            when="1955">1955.</date>
                     </head>
                     <p>As a result of the First Indochina War and the Geneva Conference of 1954 that
                         marked its conclusion, the territory of the State of Vietnam became divided
@@ -93,30 +100,36 @@
                         prior to the surrender of South Vietnam to North Vietnamese forces.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of U.S. Legation to Embassy Status, <date when="1995">1995.</date>
+                    <head>Elevation of U.S. Legation to Embassy Status, <date when="1995"
+                            >1995.</date>
                     </head>
                     <p>The United States opened a Liaison Office in Hanoi on January 28, 1995.
                         Diplomatic relations were established July 11, 1995, and Embassy Hanoi was
                         established with <persName>L. Desaix Anderson</persName> as Chargé
-                        d'Affaires <hi rend="italic">ad interim</hi>. Ambassador <ref target="/departmenthistory/people/peterson-pete-douglas">Pete
-                        Peterson</ref> presented his credentials and assumed his post at the Embassy
-                        on May 14, 1997.</p>
+                        d'Affaires <hi rend="italic">ad interim</hi>. Ambassador <ref
+                            target="/departmenthistory/people/peterson-pete-douglas">Pete
+                            Peterson</ref> presented his credentials and assumed his post at the
+                        Embassy on May 14, 1997.</p>
                 </div>
                 <div type="timeline">
                     <head>Relations Resumed, <date when="1995">1995.</date>
                     </head>
                     <p>The United States opened a Liaison Office in Hanoi on January 28, 1995.
                         Diplomatic relations were established July 11, 1995, and Embassy Hanoi was
-                        established with L. Desaix Anderson as Chargé d'Affaires <hi rend="italic">ad interim</hi>. Ambassador <ref target="/departmenthistory/people/peterson-pete-douglas">Pete
-                        Peterson</ref> presented his credentials and assumed his post at the Embassy
-                        on May 14, 1997.</p>
+                        established with L. Desaix Anderson as Chargé d'Affaires <hi rend="italic"
+                            >ad interim</hi>. Ambassador <ref
+                            target="/departmenthistory/people/peterson-pete-douglas">Pete
+                            Peterson</ref> presented his credentials and assumed his post at the
+                        Embassy on May 14, 1997.</p>
                 </div>
                 <div type="appendix">
                     <head>Resources</head>
                     <listBibl>
-                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/4130.htm ">Vietnam</ref>
+                        <bibl>Department of State Country Fact Sheet: <ref
+                                target="http://www.state.gov/r/pa/ei/bgn/4130.htm ">Vietnam</ref>
                         </bibl>
-                        <bibl>Department of State Country Information <ref target="http://www.state.gov/p/eap/ci/vm/index.htm ">Vietnam</ref>
+                        <bibl>Department of State Country Information <ref
+                                target="http://www.state.gov/p/eap/ci/vm/index.htm ">Vietnam</ref>
                         </bibl>
                     </listBibl>
                 </div>

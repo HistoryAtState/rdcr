@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Brazil</title>
                 <title type="short">Brazil</title>
             </titleStmt>
@@ -19,11 +19,12 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The United States and <placeName key="br">Brazil</placeName> have enjoyed long and
-                    friendly relations, dating from its years as a Portuguese colony. U.S. merchant
-                    ships frequented Brazilian ports such as Pernambuco (now Recife), Bahia (now
-                    Salvador), and Rio de Janeiro, and U.S. Consulates appeared in the ports of
-                    <placeName key="pernambuco">Pernambuco</placeName> and <placeName key="rio-de-janeiro">Rio de Janeiro</placeName> in the 1810s. Since Brazil’s
+                <p>The United States and <placeName key="br">Brazil</placeName> have enjoyed long
+                    and friendly relations, dating from its years as a Portuguese colony. U.S.
+                    merchant ships frequented Brazilian ports such as Pernambuco (now Recife), Bahia
+                    (now Salvador), and Rio de Janeiro, and U.S. Consulates appeared in the ports of
+                        <placeName key="pernambuco">Pernambuco</placeName> and <placeName
+                        key="rio-de-janeiro">Rio de Janeiro</placeName> in the 1810s. Since Brazil’s
                     independence the United States and Brazil have had good relations, and at the
                     beginning of the twentieth century the U.S.-Brazilian relationship was sometimes
                     characterized as "the unwritten alliance." During World War II Brazil sent the
@@ -31,7 +32,7 @@
                     World War II, as Brazil has emerged as a regional power and an important leader
                     in international affairs, the United States and Brazil have enjoyed friendly,
                     strong, and active relations, encompassing a broad political and economic
-                    agenda. </p>
+                    agenda.</p>
                 <figure>
                     <graphic url="brazil-flag.jpg"/>
                     <head>Modern Flag of Brazil</head>
@@ -39,35 +40,41 @@
                 <div type="section" xml:id="recognition">
                     <head>Recognition</head>
                     <div type="timeline">
-                        <head>U.S. Recognition of Brazilian Independence, <date when="1824">1824</date>.</head>
-                        <p> The United States recognized the Kingdom of Brazil on May 26, 1824, when
+                        <head>U.S. Recognition of Brazilian Independence, <date when="1824"
+                                >1824</date>.</head>
+                        <p>The United States recognized the Kingdom of Brazil on May 26, 1824, when
                             President <persName>James Monroe</persName> received <persName>José
                                 Silvestre Rebello</persName>, as Brazil’s Chargé d’Affaires to the
-                            United States. </p>
+                            United States.</p>
                     </div>
                 </div>
                 <div type="section" xml:id="diplomatic-relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
-                        <head>Establishment of Diplomatic Relations, <date when="1824">1824</date>.</head>
-                        <p> The United States established relations with the Kingdom of Brazil on
-                            May 26, 1824, when President <persName>James Monroe</persName> received
-                            <persName>José Silvestre Rebello</persName>, as Brazil’s Chargé
+                        <head>Establishment of Diplomatic Relations, <date when="1824"
+                            >1824</date>.</head>
+                        <p>The United States established relations with the Kingdom of Brazil on May
+                            26, 1824, when President <persName>James Monroe</persName> received
+                                <persName>José Silvestre Rebello</persName>, as Brazil’s Chargé
                             d’Affaires to the United States. On March 9, 1825, President Monroe
                             appointed <ref target="/departmenthistory/people/raguet-condy">Condy
                                 Raguet</ref> of Pennsylvania as Chargé d’Affaires to Brazil.</p>
                     </div>
                     <div type="timeline">
-                        <head>Establishment of the U.S. Legation in Brazil, <date when="1825">1825</date>.</head>
-                        <p> The U. S. Legation in Brazil was established in <placeName key="rio-de-janeiro">Rio de Janeiro</placeName> when U.S. Chargé
+                        <head>Establishment of the U.S. Legation in Brazil, <date when="1825"
+                                >1825</date>.</head>
+                        <p>The U. S. Legation in Brazil was established in <placeName
+                                key="rio-de-janeiro">Rio de Janeiro</placeName> when U.S. Chargé
                             d’Affaires <ref target="/departmenthistory/people/raguet-condy">Condy
                                 Raguet</ref> of Pennsylvania presented his credentials to Emperor
                             Pedro I on October 29, 1825.</p>
                     </div>
                     <div type="timeline">
-                        <head>Elevation of American Legation to Embassy Status, <date when="1905">1905</date>.</head>
-                        <p> The United States elevated the U.S. Embassy in Rio de
-                            Janeiro on January 13, 1905, when U.S. Minister to Brazil, <ref target="/departmenthistory/people/thompson-david-eugene">David E.
+                        <head>Elevation of American Legation to Embassy Status, <date when="1905"
+                                >1905</date>.</head>
+                        <p>The United States elevated the U.S. Embassy in Rio de Janeiro on January
+                            13, 1905, when U.S. Minister to Brazil, <ref
+                                target="/departmenthistory/people/thompson-david-eugene">David E.
                                 Thompson</ref> of Nebraska was appointed U.S. Ambassador
                             Extraordinary and Plenipotentiary.</p>
                     </div>
@@ -76,11 +83,14 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35640.htm">Brazil</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/35640.htm">Brazil</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/br">Brazil</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/wha/ci/br">Brazil</ref>
                     </bibl>
-                    <bibl>Library of Congress Country Study: <ref target="http://memory.loc.gov/frd/cs/brtoc.html">Brazil</ref>
+                    <bibl>Library of Congress Country Study: <ref
+                            target="http://memory.loc.gov/frd/cs/brtoc.html">Brazil</ref>
                     </bibl>
                 </listBibl>
             </div>

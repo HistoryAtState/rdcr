@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Austrian
                     Empire</title>
                 <title type="short">Austrian Empire</title>
@@ -32,35 +32,39 @@
                     time there was widespread sympathy for Hungarian national aspirations and
                     Hungarian exiles were warmly received by the United States. This changed during
                     World War I. After the United States declared war on Germany, Austria-Hungary
-                    severed diplomatic relations with the United States on <date when="1917-04-08">April 8, 1917</date>. The United States did not declare war on
-                    Austria-Hungary until December 7, 1917. </p>
+                    severed diplomatic relations with the United States on <date when="1917-04-08"
+                        >April 8, 1917</date>. The United States did not declare war on
+                    Austria-Hungary until December 7, 1917.</p>
             </div>
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>Austrian Empire Recognition of the United States, <date when="1797">1797</date>.</head>
+                    <head>Austrian Empire Recognition of the United States, <date when="1797"
+                            >1797</date>.</head>
                     <p>Austria recognized the United States in 1797 by accepting <persName>Conrad
-                            Frederick Wagner</persName> as U.S. Consul at <placeName key="trieste">Trieste</placeName>, a city under the jurisdiction of the Habsburg
+                            Frederick Wagner</persName> as U.S. Consul at <placeName key="trieste"
+                            >Trieste</placeName>, a city under the jurisdiction of the Habsburg
                         Empire. Unfortunately no correspondence from this earliest appointee has
                         survived. The earliest surviving correspondence is from the second U.S.
                         Consul at Trieste, <persName>John Lamson</persName>, who although appointed
                         on December 24, 1799, did not arrive in Trieste until December 29, 1801. By
                         March 18, 1802, Lamson had received an exchequer from the Habsburg Emperor
-                            <persName>Francis I</persName>. </p>
-                    <p> Prior to the Empire’s recognition of the United States, Congress
-                        commissioned <persName>William Lee</persName> on July 1, 1777, as U.S.
-                        representative to <placeName key="vienna">Vienna</placeName>; however,
-                        Austria did not officially receive him at that time. One explanation for why
-                        Austria did not recognize the United States during the 1780s was that it
-                        would have put them in the difficult position of recognizing a country that
-                        had rebelled against a monarchy – a dangerous precedent given the internal
-                        difficulties posed by unrest in the Habsburg domains (Austrian Netherlands
-                        and Hungary) at the time. </p>
+                            <persName>Francis I</persName>.</p>
+                    <p>Prior to the Empire’s recognition of the United States, Congress commissioned
+                            <persName>William Lee</persName> on July 1, 1777, as U.S. representative
+                        to <placeName key="vienna">Vienna</placeName>; however, Austria did not
+                        officially receive him at that time. One explanation for why Austria did not
+                        recognize the United States during the 1780s was that it would have put them
+                        in the difficult position of recognizing a country that had rebelled against
+                        a monarchy – a dangerous precedent given the internal difficulties posed by
+                        unrest in the Habsburg domains (Austrian Netherlands and Hungary) at the
+                        time.</p>
                 </div>
                 <div type="section" xml:id="consular_relations">
                     <head>Consular Presence</head>
                     <div type="timeline">
-                        <head>U.S. Consulates in Venice, Trieste, and Vienna, <date from="1797" to="1917">1797-1917</date>, with interruptions.</head>
+                        <head>U.S. Consulates in Venice, Trieste, and Vienna, <date from="1797"
+                                to="1917">1797-1917</date>, with interruptions.</head>
                         <p>U.S. consuls were appointed to <placeName key="venice">Venice</placeName>
                             and <placeName key="trieste">Triest</placeName>e in 1797. In the case of
                             Venice, the first appointee declined the assignment and was reassigned
@@ -68,7 +72,7 @@
                             served. There was no permanent U.S. presence in the Austrian Empire
                             until 1830. Venice first passed into Austrian control as the result of
                             the Treaty of Campo Formio of October 17, 1797, and became part of the
-                            Kingdom of Italy in 1866. </p>
+                            Kingdom of Italy in 1866.</p>
                         <p>In the case of Trieste, no dispatches from the earliest appointee have
                             survived. There were consuls serving there between 1801 and 1809, but
                             there was no permanent U.S. presence there until 1816. Trieste was part
@@ -76,50 +80,57 @@
                         <p>A U.S. Consulate was established in Vienna on October 10, 1829. It became
                             a Consulate General on June 17, 1874. It was closed April 9, 1917, after
                             the Austro-Hungarian Empire severed diplomatic relations with the United
-                            States. </p>
+                            States.</p>
                         <p>Consulates in other parts of the former Austro-Hungarian Empire (i.e.
                             Hungary and the former Czechoslovakia) will be mentioned under the
-                            countries in which they are presently located. </p>
+                            countries in which they are presently located.</p>
                     </div>
                 </div>
                 <div type="section" xml:id="diplomatic_relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
                         <head>Establishment of Diplomatic Relations and the American Legation in
-                                <placeName key="vienna">Vienna</placeName>, <date when="1838">1838.</date>
+                                <placeName key="vienna">Vienna</placeName>, <date when="1838"
+                                >1838.</date>
                         </head>
                         <p>
-                            <ref target="/departmenthistory/people/muhlenberg-henry-augustus-philip">Henry A. Muhlenberg</ref> was appointed as the first U.S. Minister
+                            <ref target="/departmenthistory/people/muhlenberg-henry-augustus-philip"
+                                >Henry A. Muhlenberg</ref> was appointed as the first U.S. Minister
                             to Austria on February 8, 1838. He presented his credentials on November
-                            7, 1838. </p>
+                            7, 1838.</p>
                     </div>
                     <div type="timeline">
-                        <head>Establishment of the Austrian Legation in Washington, <date when="1838">1838.</date>
+                        <head>Establishment of the Austrian Legation in Washington, <date
+                                when="1838">1838.</date>
                         </head>
                         <p>The Austrian Empire’s first Minister to the United States,
                                 <persName>Baron de Mareschal</persName>, presented his credentials
                             October 13, 1838.</p>
                     </div>
                     <div type="timeline">
-                        <head>Elevation of American Legation to Embassy Status, <date when="1902">1902.</date>
+                        <head>Elevation of American Legation to Embassy Status, <date when="1902"
+                                >1902.</date>
                         </head>
-                        <p>U.S. Minister <ref target="/departmenthistory/people/mccormick-robert-sanderson">Robert
+                        <p>U.S. Minister <ref
+                                target="/departmenthistory/people/mccormick-robert-sanderson">Robert
                                 S. McCormick</ref>, who had been appointed Minister on March 7,
                             1901, was appointed Ambassador on May 27, 1902. He presented his new
-                            credentials on June 26, 1902. </p>
+                            credentials on June 26, 1902.</p>
                     </div>
                     <div type="timeline">
                         <head>Termination of Diplomatic Relations, <date when="1917">1917.</date>
                         </head>
                         <p>On April 8, 1917, Austro-Hungarian Empire severed diplomatic relations
-                            with the United States. Several months later, on December 7, 1917, <ref target="/milestones/1914-1920/wwi">the United States declared war
+                            with the United States. Several months later, on December 7, 1917, <ref
+                                target="/milestones/1914-1920/wwi">the United States declared war
                                 upon Austria-Hungary</ref>.</p>
                     </div>
                 </div>
                 <div type="section" xml:id="treaties_agreements">
                     <head>Treaties and Agreements</head>
                     <div type="timeline">
-                        <p>On December 20, 1825, Secretary of State <ref target="/departmenthistory/people/clay-henry">Henry Clay</ref>
+                        <p>On December 20, 1825, Secretary of State <ref
+                                target="/departmenthistory/people/clay-henry">Henry Clay</ref>
                             announced that the United States was ready to conclude a commerce and
                             navigation convention with the Austrian Empire. On March 18, 1828,
                             Emperor <persName>Francis I</persName> appointed <persName>Lewis, Baron

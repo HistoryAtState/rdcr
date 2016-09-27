@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Israel</title>
                 <title type="short">Israel</title>
             </titleStmt>
@@ -19,10 +19,9 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The United States recognized Israel as an independent state on May 14, 1948,
-                    when President <persName>Harry Truma</persName>n issued a statement of
-                    recognition following Israel’s proclamation of independence on the same
-                    date.</p>
+                <p>The United States recognized Israel as an independent state on May 14, 1948, when
+                    President <persName>Harry Truma</persName>n issued a statement of recognition
+                    following Israel’s proclamation of independence on the same date.</p>
                 <figure>
                     <graphic url="israel-flag.jpg"/>
                     <head>Modern Flag of Israel</head>
@@ -32,26 +31,30 @@
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>U.S. Recognition of Israel, <date when="1948">1948</date>.</head>
-                    <p> The United States recognized Israel as an independent state on May 14, 1948,
+                    <p>The United States recognized Israel as an independent state on May 14, 1948,
                         when President Harry Truman issued a statement of recognition following
                         Israel’s proclamation of independence on the same date.</p>
                 </div>
                 <div type="section" xml:id="diplomatic-relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
-                        <head>Establishment of Diplomatic Relations, <date when="1949">1949</date>.</head>
-                        <p> Diplomatic Relations were established when U.S. Ambassador <ref target="/departmenthistory/people/mcdonald-james-grover">James
-                            Grover McDonald</ref> presented his credentials on March 28, 1949.
-                        </p>
+                        <head>Establishment of Diplomatic Relations, <date when="1949"
+                            >1949</date>.</head>
+                        <p>Diplomatic Relations were established when U.S. Ambassador <ref
+                                target="/departmenthistory/people/mcdonald-james-grover">James
+                                Grover McDonald</ref> presented his credentials on March 28,
+                            1949.</p>
                     </div>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/3581.htm">Israel</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/3581.htm">Israel</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/nea/ci/israel/index.htm">Israel</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/nea/ci/israel/index.htm">Israel</ref>
                     </bibl>
                 </listBibl>
             </div>

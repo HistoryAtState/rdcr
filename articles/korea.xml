@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Korea</title>
                 <title type="short">Korea</title>
             </titleStmt>
@@ -33,9 +33,11 @@
             <div type="section" xml:id="consular_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations and Legation in Korea, <date when="1883">1883</date>.</head>
+                    <head>Establishment of Diplomatic Relations and Legation in Korea, <date
+                            when="1883">1883</date>.</head>
                     <p>Diplomatic relations and the American Legation at Seoul were established on
-                        May 20, 1883, when Envoy Extraordinary and Minister Plenipotentiary <ref target="/departmenthistory/people/foote-lucius-harwood">Lucius H.
+                        May 20, 1883, when Envoy Extraordinary and Minister Plenipotentiary <ref
+                            target="/departmenthistory/people/foote-lucius-harwood">Lucius H.
                             Foote</ref> presented his credentials to the King of Korea.</p>
                 </div>
                 <div type="timeline">

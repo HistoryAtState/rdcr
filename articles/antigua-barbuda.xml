@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Antigua and
                     Barbuda</title>
                 <title type="short">Antigua and Barbuda</title>
@@ -35,14 +35,15 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Antigua and Barbudan Independence, <date when="1981">1981</date>.</head>
+                    <head>U.S. Recognition of Antigua and Barbudan Independence, <date when="1981"
+                            >1981</date>.</head>
                     <p>Antigua and Barbuda became an independent state within the Commonwealth of
                         Nations on November 1, 1981, with <persName>Queen Elizabeth</persName> as
                         the first Queen of Antigua and Barbuda and Right Honourable <persName>Vere
                             Cornwall Bird</persName> as its first prime minister. The United States
                         recognized Antigua and Barbuda as an independent state on the same day, when
                         it raised the Consulate General in <placeName key="st-johns">St.
-                            Johns</placeName> to Embassy status. </p>
+                            Johns</placeName> to Embassy status.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
@@ -52,9 +53,13 @@
                         Johns, <date when="1981">1981.</date>
                     </head>
                     <p>The United States established diplomatic relations with Antigua and Barbuda
-                        on <date when="1981-11-01">November 1, 1981</date>. <ref target="/departmenthistory/people/byrnes-paul-j">Paul Byrnes</ref> was
-                        Principal Officer when the Consulate General in <placeName key="st-johns">St. Johns</placeName> was raised to Embassy status. Ambassador <ref target="/departmenthistory/people/bish-milan-d">Milan D. Bish</ref>
-                        presented credentials on January 8, 1982 and was resident at <placeName key="bridgetown">Bridgetown, Barbados.</placeName>
+                        on <date when="1981-11-01">November 1, 1981</date>. <ref
+                            target="/departmenthistory/people/byrnes-paul-j">Paul Byrnes</ref> was
+                        Principal Officer when the Consulate General in <placeName key="st-johns"
+                            >St. Johns</placeName> was raised to Embassy status. Ambassador <ref
+                            target="/departmenthistory/people/bish-milan-d">Milan D. Bish</ref>
+                        presented credentials on January 8, 1982 and was resident at <placeName
+                            key="bridgetown">Bridgetown, Barbados.</placeName>
                     </p>
                 </div>
                 <div type="timeline">
@@ -64,19 +69,23 @@
                         closed June 30, 1994. Subsequent Ambassadors to Antigua and Barbuda remained
                         resident at <placeName key="bridgetown">Bridgetown</placeName>, Barbados.
                         The United States maintained a consular presence in St. Johns to assist
-                        American citizens. </p>
+                        American citizens.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl> Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2336.htm ">Antigua and
+                    <bibl> Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2336.htm ">Antigua and
                             Barbuda</ref>
                     </bibl>
-                    <bibl> Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/ac/index.htm ">Antigua and
+                    <bibl> Department of State Country Information: <ref
+                            target="http://www.state.gov/p/wha/ci/ac/index.htm ">Antigua and
                             Barbuda</ref>
                     </bibl>
-                    <bibl> CIA World Factbook: <ref target="https://www.cia.gov/library/publications/the-world-factbook/geos/ac.html ">Antigua and Baruda</ref>
+                    <bibl> CIA World Factbook: <ref
+                            target="https://www.cia.gov/library/publications/the-world-factbook/geos/ac.html "
+                            >Antigua and Baruda</ref>
                     </bibl>
                 </listBibl>
             </div>

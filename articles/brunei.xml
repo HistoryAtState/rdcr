@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Brunei</title>
                 <title type="short">Brunei</title>
             </titleStmt>
@@ -19,7 +19,7 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> Friendly relations between the United States and Brunei date to the 1800s. By
+                <p>Friendly relations between the United States and Brunei date to the 1800s. By
                     1865, the United States had a consular presence in Brunei. The U.S. maintained
                     diplomatic relations with the Sultan of Brunei’s government until it became a
                     British protectorate in 1888, at which time the United Kingdom assumed
@@ -32,8 +32,9 @@
                 <div type="section" xml:id="recognition">
                     <head>Recognition</head>
                     <div type="timeline">
-                        <head>U.S. Recognition of Brunei Darussalami Independence, <date when="1984">1984</date>. </head>
-                        <p> The United States recognized the full independence of Brunei Darussalam
+                        <head>U.S. Recognition of Brunei Darussalami Independence, <date when="1984"
+                                >1984</date>.</head>
+                        <p>The United States recognized the full independence of Brunei Darussalam
                             from the United Kingdom on January 1, 1984, and opened the American
                             Embassy in <placeName key="bandar-seri-begawan">Bandar Seri
                                 Begawan</placeName> on that same date. Since 1888, Brunei had been a
@@ -46,12 +47,14 @@
                 <div type="section" xml:id="consular-presence">
                     <head>Consular Presence</head>
                     <div type="timeline">
-                        <head>Establishment of Consulate in Brunei, <date when="1865">1865</date>.</head>
-                        <p> After signing a bilateral treaty of Peace, Friendship, Commerce, and
+                        <head>Establishment of Consulate in Brunei, <date when="1865"
+                            >1865</date>.</head>
+                        <p>After signing a bilateral treaty of Peace, Friendship, Commerce, and
                             Navigation in 1850, the United States maintained a Consulate in Brunei
                             from 1865 to 1868. Consul Captain <persName>C. Lees Moses</persName>,
                             the first Consul to serve at the post, presented his credentials in
-                            Brunei on July 18, 1865. The post was called <placeName key="borneo">“Brunei, Borneo”</placeName> at the time. </p>
+                            Brunei on July 18, 1865. The post was called <placeName key="borneo"
+                                >“Brunei, Borneo”</placeName> at the time.</p>
                     </div>
                 </div>
                 <div type="section" xml:id="diplomatic-relations">
@@ -59,8 +62,9 @@
                     <div type="timeline">
                         <head>Establishment of Diplomatic Relations and the American Embassy in
                             Brunei, <date when="1984">1984</date>.</head>
-                        <p> Diplomatic relations and the American Embassy in Brunei were established
-                            on May 28, 1984, when U.S. Ambassador <ref target="/departmenthistory/people/king-barrington">Barrington
+                        <p>Diplomatic relations and the American Embassy in Brunei were established
+                            on May 28, 1984, when U.S. Ambassador <ref
+                                target="/departmenthistory/people/king-barrington">Barrington
                                 King</ref> presented credentials to the government at Bandar Seri
                             Begawan.</p>
                     </div>
@@ -71,7 +75,7 @@
                 <div type="timeline">
                     <head>Establishment of the Treaty of Peace, Friendship, Commerce and Navigation,
                             <date when="1850">1850</date>.</head>
-                    <p> The Treaty of Peace, Friendship, Commerce and Navigation between the United
+                    <p>The Treaty of Peace, Friendship, Commerce and Navigation between the United
                         States and Brunei was signed by both countries in Brunei on June 23, 1850,
                         and entered into force on July 11, 1853. The treaty is still in effect
                         today.</p>
@@ -80,9 +84,11 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2700.htm">Brunei</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2700.htm">Brunei</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/bx/index.htm">Brunei</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eap/ci/bx/index.htm">Brunei</ref>
                     </bibl>
                 </listBibl>
             </div>

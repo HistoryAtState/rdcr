@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Mexico</title>
                 <title type="short">Mexico</title>
             </titleStmt>
@@ -18,7 +18,8 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p>Diplomatic relations between the United States and <placeName key="mx">Mexico</placeName> have been intimate and often contentious. At the outset,
+                <p>Diplomatic relations between the United States and <placeName key="mx"
+                        >Mexico</placeName> have been intimate and often contentious. At the outset,
                     the issue of granting recognition to an independent Mexico divided American
                     leaders such as <persName>Henry Clay</persName> and <persName>John Quincy
                         Adams</persName>. After finally recognizing Mexico in 1822, the U.S. push
@@ -33,9 +34,10 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>United States Recognition of Mexican Independence, <date when="1822">1822</date>.</head>
+                    <head>United States Recognition of Mexican Independence, <date when="1822"
+                            >1822</date>.</head>
                     <p>The United States recognized Mexico on December 12, 1822, when President
-                        <persName>James Monroe</persName> received <persName>José Manuel
+                            <persName>James Monroe</persName> received <persName>José Manuel
                             Zozaya</persName> as Mexican Minister to the United States. Earlier
                         Mexican attempts to garner U.S. recognition had failed, largely due to the
                         desire of American presidents to remain formally neutral during hostilities
@@ -56,10 +58,12 @@
                         States.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Legation in <placeName key="mexico-city">Mexico City</placeName>, <date when="1825">1825.</date>
+                    <head>Establishment of the American Legation in <placeName key="mexico-city"
+                            >Mexico City</placeName>, <date when="1825">1825.</date>
                     </head>
-                    <p>The American Legation in Mexico was established on June 1, 1825, when <ref target="/departmenthistory/people/poinsett-joel-roberts">Joel Robert
-                        Poinsett</ref> presented his credentials as Envoy Extraordinary and
+                    <p>The American Legation in Mexico was established on June 1, 1825, when <ref
+                            target="/departmenthistory/people/poinsett-joel-roberts">Joel Robert
+                            Poinsett</ref> presented his credentials as Envoy Extraordinary and
                         Minister Plenipotentiary to President <persName>Guadalupe
                             Victoria</persName>.</p>
                 </div>
@@ -69,7 +73,8 @@
                     <p>In 1836 settlers in <placeName>Texas</placeName> declared themselves
                         independent from Mexico. The United States recognized the Republic of Texas
                         on March 7, 1837. On August 23, 1843, the Mexican foreign minister informed
-                        U.S. Envoy Extraordinary and Minister Plenipotentiary to Mexico, <ref target="/departmenthistory/people/thompson-waddy">Waddy Thompson</ref>,
+                        U.S. Envoy Extraordinary and Minister Plenipotentiary to Mexico, <ref
+                            target="/departmenthistory/people/thompson-waddy">Waddy Thompson</ref>,
                         that U.S. annexation of Texas would be grounds for war. On March 1, 1845,
                         U.S. President <persName>John Tyler</persName> signed a congressional joint
                         resolution favoring the annexation of Texas. On March 4, 1845, U.S.
@@ -81,13 +86,15 @@
                         December 1845 Texas was admitted to the union as the twenty-eighth state. In
                         April 1846, Mexican troops attacked what they perceived to be invading U.S.
                         forces that had occupied territory claimed by both Mexico and the United
-                        States, and on May 13, the<ref target="/milestones/1830-1860/texas-annexation">U.S. Congress declared
+                        States, and on May 13, the<ref
+                            target="/milestones/1830-1860/texas-annexation">U.S. Congress declared
                             war against Mexico</ref>.</p>
                 </div>
                 <div type="timeline">
                     <head>Diplomatic Relations Reestablished, <date when="1848">1848.</date>
                     </head>
-                    <p>The Treaty of <placeName key="guadalupe-hidalgo">Guadalupe-Hidalgo</placeName>, signed in Mexico City on February 2,
+                    <p>The Treaty of <placeName key="guadalupe-hidalgo"
+                            >Guadalupe-Hidalgo</placeName>, signed in Mexico City on February 2,
                         1848, and ratified by the Senate on March 10, 1848, ended the war.
                         Diplomatic relations were reestablished on December 4, 1848, when U.S.
                         President James K. Polk accepted <persName>Luis de la Rosa</persName>’s
@@ -95,10 +102,12 @@
                         United States.</p>
                 </div>
                 <div type="timeline">
-                    <head>Diplomatic Relations Severed by the United States, <date when="1858">1858.</date>
+                    <head>Diplomatic Relations Severed by the United States, <date when="1858"
+                            >1858.</date>
                     </head>
                     <p>Citing mistreatment of U.S. citizens and their property by the Mexican
-                        Government, Envoy Extraordinary and Minister Plenipotentiary to Mexico <ref target="/departmenthistory/people/forsyth-john">John Forsyth</ref>
+                        Government, Envoy Extraordinary and Minister Plenipotentiary to Mexico <ref
+                            target="/departmenthistory/people/forsyth-john">John Forsyth</ref>
                         “suspended” relations, on June 21, 1858, between the legation and the
                         conservative government of <persName>Miguel Miramón y Tarelo</persName>,
                         which had displaced the liberal government of <persName>Benito
@@ -109,17 +118,19 @@
                     <head>Diplomatic Relations Reestablished, <date when="1859">1859.</date>
                     </head>
                     <p>Diplomatic relations were reestablished on April 6, 1859, when Envoy
-                        Extraordinary and Minister Plenipotentiary to Mexico, <ref target="/departmenthistory/people/mclane-robert-milligan">Robert M.
+                        Extraordinary and Minister Plenipotentiary to Mexico, <ref
+                            target="/departmenthistory/people/mclane-robert-milligan">Robert M.
                             McLane</ref>, presented his credentials to President Benito Juárez.
                         McLane also recognized Juarez’s government as the sole legitimate government
                         of Mexico (despite its placement outside the national capital, which was
                         occupied by the rival presidential claimant, Miguel Miramón y Tarelo.)</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of American Legation to Embassy Status, <date when="1899">1899.</date>
+                    <head>Elevation of American Legation to Embassy Status, <date when="1899"
+                            >1899.</date>
                     </head>
                     <p>The Legation in Mexico was raised to Embassy status on January 3, 1899, when
-                        <ref target="/departmenthistory/people/clayton-powell">Powell
+                            <ref target="/departmenthistory/people/clayton-powell">Powell
                             Clayton</ref> presented his credentials as Ambassador Extraordinary and
                         Plenipotentiary to President Porfirio Díaz.</p>
                 </div>
@@ -129,11 +140,13 @@
                     <p>Following the Tampico Incident of April 9, 1914, when Mexican military forces
                         arrested two U.S. naval officers and seven crew members and marched them
                         through the streets, U.S. President <persName>Woodrow Wilson</persName>
-                        ordered the bombardment and occupation of <placeName key="veracruz">Veracruz</placeName> by the U.S. Marines. In reaction to the U.S.
+                        ordered the bombardment and occupation of <placeName key="veracruz"
+                            >Veracruz</placeName> by the U.S. Marines. In reaction to the U.S.
                         occupation of Veracruz, Mexican officials severed diplomatic relations with
-                        the United States on April 22, when they handed Chargé d’Affaires <hi rend="italic">ad interim</hi> O’Shaughnessy his passport and requested
+                        the United States on April 22, when they handed Chargé d’Affaires <hi
+                            rend="italic">ad interim</hi> O’Shaughnessy his passport and requested
                         his departure from Mexico (they provided him with a special train to
-                        Veracruz, still held by U.S. forces). </p>
+                        Veracruz, still held by U.S. forces).</p>
                 </div>
                 <div type="timeline">
                     <head>Diplomatic Relations Reestablished, <date when="1917">1917.</date>
@@ -145,16 +158,19 @@
                         of State <ref target="/departmenthistory/people/lansing-robert">Robert
                             Lansing</ref> invited Carranza to dispatch a diplomatic representative
                         for formal reception in Washington. Diplomatic relations were reestablished
-                        on March 3, 1917, when U.S. Ambassador <ref target="/departmenthistory/people/fletcher-henry-prather">Henry P.
+                        on March 3, 1917, when U.S. Ambassador <ref
+                            target="/departmenthistory/people/fletcher-henry-prather">Henry P.
                             Fletcher</ref> presented his credentials to President Carranza.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35749.htm">Mexico</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/35749.htm">Mexico</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/wha/ci/mx/">Mexico</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/wha/ci/mx/">Mexico</ref>
                     </bibl>
                 </listBibl>
             </div>

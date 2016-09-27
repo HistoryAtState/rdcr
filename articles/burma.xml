@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Burma</title>
                 <title type="short">Burma</title>
             </titleStmt>
@@ -19,12 +19,12 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> In an unconventional sequence of events, the United States and Burma established
+                <p>In an unconventional sequence of events, the United States and Burma established
                     diplomatic relations prior to Burma’s formal independence from the British
                     Empire. The multistage independence process agreed to by the Burmese and the
                     British allowed for the creation of a provisional government with the authority
                     to conduct relations with other states before Burma attained full, sovereign
-                    independence. </p>
+                    independence.</p>
                 <figure>
                     <graphic url="burmese-flag.jpg"/>
                     <head>Modern Flag of Burma</head>
@@ -33,8 +33,9 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Burmese Independence, <date when="1948">1948</date>. </head>
-                    <p> The United States recognized the Union of Burma as an “independent sovereign
+                    <head>U.S. Recognition of Burmese Independence, <date when="1948"
+                        >1948</date>.</head>
+                    <p>The United States recognized the Union of Burma as an “independent sovereign
                         state” on January 4, 1948, when President <persName>Harry S.
                             Truman</persName> sent a congratulatory message to President
                             <persName>Sao Shwe Thaike</persName>, Saopha of Yawnghae. Burma had
@@ -52,20 +53,23 @@
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and the American Embassy in Burma,
                             <date when="1947">1947</date>.</head>
-                    <p> Diplomatic relations and the American Legation in Burma were established on
+                    <p>Diplomatic relations and the American Legation in Burma were established on
                         September 18, 1947, when the U.S. Department of State announced that the
                         governments of Burma and the United States had <quote>“agreed to exchange
                             representatives with the rank of ambassador.”</quote> The announcement
-                        also stated that the Consulate General of the United States in <placeName xml:id="rangoon">Rangoon</placeName> was being raised to the status of
-                        Embassy. </p>
+                        also stated that the Consulate General of the United States in <placeName
+                            xml:id="rangoon">Rangoon</placeName> was being raised to the status of
+                        Embassy.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35910.htm">Burma</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/35910.htm">Burma</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eap/ci/bm/index.htm">Burma</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eap/ci/bm/index.htm">Burma</ref>
                     </bibl>
                 </listBibl>
             </div>

@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Romania</title>
                 <title type="short">Romania</title>
             </titleStmt>
@@ -19,11 +19,12 @@
             <div type="section" xml:id="summary">
                 <head>Summary</head>
                 <p>In 1862, the Sultan of the <placeName>Ottoman Empire</placeName> allowed the
-                    Principalities of Moldavia and Wallachia to unite under the name of <placeName key="ro">Romania</placeName>. In 1866, <persName>Charles of
-                            Hohenzollern-Sigmaringen</persName> became Prince. Romania sided with Russia
+                    Principalities of Moldavia and Wallachia to unite under the name of <placeName
+                        key="ro">Romania</placeName>. In 1866, <persName>Charles of
+                        Hohenzollern-Sigmaringen</persName> became Prince. Romania sided with Russia
                     in the Russo-Turkish War of 1877-78. In 1878, the Treaties of San Stefano and
                     Berlin recognized Romania’s independence from the Ottoman Empire. Prince Charles
-                    became King in 1881. </p>
+                    became King in 1881.</p>
                 <p>During the twentieth century, U.S. relations with Romania have vacillated between
                     warm (Romania fought on the side of the Allies in the Great War), and cold
                     (Romania declared war upon the United States in 1941 and early Cold War era
@@ -44,11 +45,14 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Romanian Independence, <date when="1881">1881</date>.</head>
+                    <head>U.S. Recognition of Romanian Independence, <date when="1881"
+                        >1881</date>.</head>
                     <p>The United States recognized the Kingdom of Romania on April 7, 1881, when
-                        U.S. Chargé d’Affaires <ref target="/departmenthistory/people/schuyler-eugene">Eugene Schuyler</ref>
+                        U.S. Chargé d’Affaires <ref
+                            target="/departmenthistory/people/schuyler-eugene">Eugene Schuyler</ref>
                         had an audience with King Charles and announced that the United States
-                        recognized the new kingdom. On April 3, U.S. Secretary of State <ref target="/departmenthistory/people/blaine-james-gillespie">James G.
+                        recognized the new kingdom. On April 3, U.S. Secretary of State <ref
+                            target="/departmenthistory/people/blaine-james-gillespie">James G.
                             Blaine</ref> had authorized Schuyler to recognize Romania after the
                         Great Powers of Europe had done so.</p>
                 </div>
@@ -56,10 +60,11 @@
             <div type="section" xml:id="consular_presence">
                 <head>Consular Presence</head>
                 <div type="timeline">
-                    <head>Early U.S. Consulates in Romania, <date from="1866" to="1876">1866-1876</date>.</head>
+                    <head>Early U.S. Consulates in Romania, <date from="1866" to="1876"
+                            >1866-1876</date>.</head>
                     <p>The first U.S. Consul was appointed to Romania while it was still an
                         autonomous part of the Ottoman Empire. <persName>Louis J.
-                            Czapkay</persName>, a native of Hungary but a resident of California, was
+                        Czapkay</persName>, a native of Hungary but a resident of California, was
                         appointed to <placeName key="bucharest">Bucharest</placeName> on June 20,
                         1866. He served from May 1, 1867 to February 1869.</p>
                     <p>His successor, <persName>Benjamin Franklin Peixotto</persName>, was appointed
@@ -90,23 +95,26 @@
                         kingdom, presenting his new credentials on May 16, 1881.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of American Legation in <placeName key="bucharest">Bucharest</placeName>, <date when="1882">1882.</date>
+                    <head>Establishment of American Legation in <placeName key="bucharest"
+                            >Bucharest</placeName>, <date when="1882">1882.</date>
                     </head>
                     <p>Schuyler was promoted to Minister Resident and Consul General on July 7,
                         1882, and presented his new credentials on September 8, 1882. However, he
                         was also accredited to <placeName>Greece</placeName> and
-                        <placeName>Serbia</placeName> and moved his residence to Athens.
+                            <placeName>Serbia</placeName> and moved his residence to Athens.
                         Schuyler presented his recall on September 7, 1884.</p>
                     <p>Until 1921, no U.S. Minister was commissioned solely to Romania. From 1885 to
                         1905, their commissions were to <placeName>Greece</placeName>,
-                        <placeName>Romania</placeName>, and <placeName>Serbia</placeName>, being
-                        resident at Athens. <ref target="/departmenthistory/people/jackson-john-brinkerhoff">John B.
+                            <placeName>Romania</placeName>, and <placeName>Serbia</placeName>, being
+                        resident at Athens. <ref
+                            target="/departmenthistory/people/jackson-john-brinkerhoff">John B.
                             Jackson</ref> (1902-05) was also commissioned as Diplomatic Agent in
                         Bulgaria in 1903. From 1905 to 1911, U.S. Ministers to Romania were also
                         commissioned to Serbia but were resident in Bucharest. From 1907 to 1910
-                        they were also commissioned as Diplomatic Agents in Bulgaria. <ref target="/departmenthistory/people/carter-john-ridgely">John R.
+                        they were also commissioned as Diplomatic Agents in Bulgaria. <ref
+                            target="/departmenthistory/people/carter-john-ridgely">John R.
                             Carter</ref> (1909-1911) was appointed Minister to
-                        <placeName>Bulgaria</placeName> in 1910. From 1911 to 1918, the U.S.
+                            <placeName>Bulgaria</placeName> in 1910. From 1911 to 1918, the U.S.
                         Minister to Romania was also accredited to Serbia and Bulgaria.</p>
                     <p>
                         <ref target="/departmenthistory/people/jay-peter-augustus">Peter Augustus
@@ -115,7 +123,8 @@
                         30, and served until May 9, 1925.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of Romanian Legation in Washington, <date when="1918">1918.</date>
+                    <head>Establishment of Romanian Legation in Washington, <date when="1918"
+                            >1918.</date>
                     </head>
                     <p>Romania established its first diplomatic mission in the United States when
                         Minister <persName>Constantin Angelescu</persName> presented his credentials
@@ -125,7 +134,8 @@
                     <head>Severance of Diplomatic Relations, <date when="1941">1941.</date>
                     </head>
                     <p>Diplomatic relations were severed when Romania declared war on the United
-                        States on December 12, 1941. The U.S. Minister, <ref target="/departmenthistory/people/gunther-franklin-mott">Franklin Mott
+                        States on December 12, 1941. The U.S. Minister, <ref
+                            target="/departmenthistory/people/gunther-franklin-mott">Franklin Mott
                             Gunther</ref>, died in Bucharest on December 22 before he could leave
                         the country; however, the U.S. did not declare war upon Romania until June
                         5, 1942.</p>
@@ -134,30 +144,34 @@
                     <head>Re-establishment of Diplomatic Relations, <date when="1946">1946.</date>
                     </head>
                     <p>Diplomatic relations were reestablished on October 1, 1946, when
-                        <persName>Miha Ralea</persName> presented his credentials as Romania’s
-                        first postwar Minister to the United States. </p>
+                            <persName>Miha Ralea</persName> presented his credentials as Romania’s
+                        first postwar Minister to the United States.</p>
                 </div>
                 <div type="timeline">
-                    <head>Re-establishment of American Legation in Bucharest, <date when="1947">1947.</date>
+                    <head>Re-establishment of American Legation in Bucharest, <date when="1947"
+                            >1947.</date>
                     </head>
                     <p>
                         <ref target="/departmenthistory/people/schoenfeld-rudolf-emil">Rudolph E.
                             Schoenfeld</ref> presented his credentials as the first postwar U.S.
-                        Minister to Romania on September 25, 1947. </p>
+                        Minister to Romania on September 25, 1947.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of American Legation to Embassy Status, <date when="1964">1964.</date>
+                    <head>Elevation of American Legation to Embassy Status, <date when="1964"
+                            >1964.</date>
                     </head>
                     <p>The U.S. Legation in Bucharest was raised to Embassy status on June 1, 1964.
-                        <ref target="/departmenthistory/people/shaw-john-putnam">John P.
+                            <ref target="/departmenthistory/people/shaw-john-putnam">John P.
                             Shaw</ref> was Chargé d’Affaires <hi rend="italic">ad interim</hi> at
-                        the time. On December 4, 1964, <ref target="/departmenthistory/people/crawford-william-avery">William A.
+                        the time. On December 4, 1964, <ref
+                            target="/departmenthistory/people/crawford-william-avery">William A.
                             Crawford</ref>, Minister to Romania since 1962, was promoted to
                         Ambassador. He presented his new credentials on December 24, 1964, and
                         served until October 10, 1965.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of Romanian Legation to Embassy Status, <date when="1964">1964.</date>
+                    <head>Elevation of Romanian Legation to Embassy Status, <date when="1964"
+                            >1964.</date>
                     </head>
                     <p>Romanian Minister <persName>Petre Balaceanu</persName> presented his new
                         credentials as Romania’s Ambassador on August 14, 1964.</p>
@@ -176,15 +190,17 @@
                 <div type="appendix">
                     <head>Resources</head>
                     <listBibl>
-                        <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35722.htm ">Romania</ref>
+                        <bibl>Department of State Country Fact Sheet: <ref
+                                target="http://www.state.gov/r/pa/ei/bgn/35722.htm ">Romania</ref>
                         </bibl>
-                        <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/ro/ ">Romania</ref>
+                        <bibl>Department of State Country Information: <ref
+                                target="http://www.state.gov/p/eur/ci/ro/ ">Romania</ref>
                         </bibl>
                         <bibl>Kennedy, Charles Stuart. <hi rend="italic">The American Consul: A
-                            History of the United States Consular Service, 1776-1914</hi>. New
+                                History of the United States Consular Service, 1776-1914</hi>. New
                             York: Greenwood Press, 1990.</bibl>
                         <bibl>Langer, William L. <hi rend="italic">An Encyclopedia of World
-                            History</hi>. Boston: Houghton Mifflin Company, 1968.</bibl>
+                                History</hi>. Boston: Houghton Mifflin Company, 1968.</bibl>
                     </listBibl>
                 </div>
             </div>

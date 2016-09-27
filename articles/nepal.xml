@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Nepal</title>
                 <title type="short">Nepal</title>
             </titleStmt>
@@ -19,13 +19,13 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The United States and <placeName key="np">Nepal</placeName> have enjoyed
-                    friendly relations since the United States first recognized Nepal in 1947. Since
-                    1951, he United States has provided Nepal with economic aid. In recent years,
-                    U.S. aid to Nepal is geared toward economic development and ensuring the
-                    viability of Nepal’s democratic institutions following the abolition of the
-                    Nepalese monarchy, the creation of a representative government, and the end of a
-                    10 year Maoist insurgency in 2006. </p>
+                <p>The United States and <placeName key="np">Nepal</placeName> have enjoyed friendly
+                    relations since the United States first recognized Nepal in 1947. Since 1951, he
+                    United States has provided Nepal with economic aid. In recent years, U.S. aid to
+                    Nepal is geared toward economic development and ensuring the viability of
+                    Nepal’s democratic institutions following the abolition of the Nepalese
+                    monarchy, the creation of a representative government, and the end of a 10 year
+                    Maoist insurgency in 2006.</p>
                 <figure>
                     <graphic url="nepal-flag.jpg"/>
                     <head>Modern Flag of Nepal</head>
@@ -35,40 +35,47 @@
                 <head>Recognition</head>
                 <div type="timeline">
                     <head>U.S. Recognition of Nepal, <date when="1947">1947</date>.</head>
-                    <p> The United States recognized the Kingdom of Nepal on April 27, 1947, when
-                        <ref target="/departmenthistory/people/satterthwaite-joseph-charles">Joseph C. Satterthwaite</ref> presented a letter from President
-                        <persName>Harry S. Truman</persName> to His Majesty, The
+                    <p>The United States recognized the Kingdom of Nepal on April 27, 1947, when
+                            <ref target="/departmenthistory/people/satterthwaite-joseph-charles"
+                            >Joseph C. Satterthwaite</ref> presented a letter from President
+                            <persName>Harry S. Truman</persName> to His Majesty, The
                         Maharahadhiraja, <persName>Tribhubana Bir Bikram Jung Bahadur Shah Bahadur
                             Shum Shere Jung Deva</persName>, King of Nepal. Satterthwaite was on a
                         special diplomatic mission to Nepal as personal representative of the
-                        President. </p>
+                        President.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1948">1948</date>.</head>
-                    <p> Diplomatic relations were established on February 16, 1948, when Nepal
+                    <head>Establishment of Diplomatic Relations, <date when="1948"
+                        >1948</date>.</head>
+                    <p>Diplomatic relations were established on February 16, 1948, when Nepal
                         established a Legation to the United States with Commanding General Kaiser
                         Shum Shere Jung Bahadur Rana, as Envoy Extraordinary and Minister
                         Plenipotentiary. The Minister also was Ambassador to Great Britain, and the
                         entire Legation staff resided at the Nepalese Embassy in London.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of the American Embassy in Nepal, <date when="1947">1947</date>.</head>
-                    <p> The American Embassy at <placeName key="kathmandu">Kathmandu</placeName> was
-                        established on August 6, 1959, with <ref target="/departmenthistory/people/heck-louis-douglas">L. Douglas
+                    <head>Establishment of the American Embassy in Nepal, <date when="1947"
+                            >1947</date>.</head>
+                    <p>The American Embassy at <placeName key="kathmandu">Kathmandu</placeName> was
+                        established on August 6, 1959, with <ref
+                            target="/departmenthistory/people/heck-louis-douglas">L. Douglas
                             Heck</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5283.htm">Nepal</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/5283.htm">Nepal</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/sca/ci/np/">Nepal</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/sca/ci/np/">Nepal</ref>
                     </bibl>
-                    <bibl>Library of Congress Country Study: <ref target="http://lcweb2.loc.gov/frd/cs/nptoc.html">Nepal</ref>
+                    <bibl>Library of Congress Country Study: <ref
+                            target="http://lcweb2.loc.gov/frd/cs/nptoc.html">Nepal</ref>
                     </bibl>
                 </listBibl>
             </div>

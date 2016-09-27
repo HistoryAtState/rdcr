@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Somalia</title>
                 <title type="short">Somalia</title>
             </titleStmt>
@@ -29,37 +29,47 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>U.S. Recognition of Somalia’s Independence, <date when="1960">1960</date>.</head>
+                    <head>U.S. Recognition of Somalia’s Independence, <date when="1960"
+                        >1960</date>.</head>
                     <p>The United States recognized the <placeName>Somali Republic</placeName> on
                         July 1, 1960, in a congratulatory message from President <persName>Dwight D.
                             Eisenhower</persName> to President <persName>Aden Abdulla
-                                Osman</persName>. The Somali Republic was formed by the union of
+                            Osman</persName>. The Somali Republic was formed by the union of
                         Somalia, which previously had been under Italian administration as a United
                         Nations trust territory, and Somaliland, which had been a British
-                        protectorate until June 26, 1960. </p>
+                        protectorate until June 26, 1960.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and the U.S. Embassy in Somalia,
-                        <date when="1960">1960</date>.</head>
-                    <p> Diplomatic relations were established on July 1, 1960, when the U.S.
+                            <date when="1960">1960</date>.</head>
+                    <p>Diplomatic relations were established on July 1, 1960, when the U.S.
                         Consulate General at <placeName>Mogadiscio (now Mogadishu)</placeName> was
-                        elevated to Embassy status, with <ref target="/departmenthistory/people/lynch-andrew-green">Andrew G.
-                            Lynch</ref> as Chargé d'Affaires. </p>
+                        elevated to Embassy status, with <ref
+                            target="/departmenthistory/people/lynch-andrew-green">Andrew G.
+                            Lynch</ref> as Chargé d'Affaires.</p>
                 </div>
                 <div type="timeline">
                     <head>Closure of U.S. Embassy, <date when="1991">1991</date>.</head>
-                    <p>The U.S. Embassy closed on January 5, 1991, and all U.S. personnel were withdrawn after the collapse of the central Somali government; however, the United States did not sever diplomatic relations with Somalia.  Through the U.S. Embassy in <placeName>Nairobi</placeName>, Kenya, the United States maintained regular dialogue with transitional governments and other key stakeholders in Somalia, and after January 17, 2013, with the newly recognized central government of Somalia. </p>
+                    <p>The U.S. Embassy closed on January 5, 1991, and all U.S. personnel were
+                        withdrawn after the collapse of the central Somali government; however, the
+                        United States did not sever diplomatic relations with Somalia. Through the
+                        U.S. Embassy in <placeName>Nairobi</placeName>, Kenya, the United States
+                        maintained regular dialogue with transitional governments and other key
+                        stakeholders in Somalia, and after January 17, 2013, with the newly
+                        recognized central government of Somalia.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/2863.htm">Somalia</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/2863.htm">Somalia</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/af/ci/so/">Somalia</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/af/ci/so/">Somalia</ref>
                     </bibl>
                 </listBibl>
             </div>

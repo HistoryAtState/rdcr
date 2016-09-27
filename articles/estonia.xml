@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Estonia</title>
                 <title type="short">Estonia</title>
             </titleStmt>
@@ -19,8 +19,8 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> The United States first established diplomatic relations with
-                    <placeName>Estonia</placeName> on July 28, 1922. The U.S. representative to
+                <p>The United States first established diplomatic relations with
+                        <placeName>Estonia</placeName> on July 28, 1922. The U.S. representative to
                     Estonia was stationed at the Legation in <placeName>Riga, Latvia</placeName>
                     until Legation <placeName key="tallinn">Tallinn</placeName> in Estonia was
                     established on June 30, 1930. The Soviet invasion and annexation of Estonia and
@@ -28,7 +28,7 @@
                     the American legation, but Estonian representation in the United States
                     continued uninterrupted. The United States never recognized the forcible
                     incorporation of Estonia into the Soviet Union and views the present Government
-                    of Estonia as a legal continuation of the interwar republic. </p>
+                    of Estonia as a legal continuation of the interwar republic.</p>
                 <figure>
                     <graphic url="estonia-flag.jpg"/>
                     <head>Modern Flag of Estonia</head>
@@ -37,74 +37,84 @@
             <div type="section" xml:id="recognition">
                 <head>Recognition</head>
                 <div type="timeline">
-                    <head>United States Recognition of Estonia, <date when="1922">1922</date>.</head>
+                    <head>United States Recognition of Estonia, <date when="1922"
+                        >1922</date>.</head>
                     <p>The United States recognized Estonia on July 28, 1922, when the U.S.
-                        Commissioner at Riga, <ref target="/departmenthistory/people/young-evan-erastus">Evan Young</ref>,
+                        Commissioner at Riga, <ref
+                            target="/departmenthistory/people/young-evan-erastus">Evan Young</ref>,
                         informed the Foreign Office of Estonia of the United States’ decision.
-                        Secretary of State <ref target="/departmenthistory/people/hughes-charles-evans">Charles Evans
+                        Secretary of State <ref
+                            target="/departmenthistory/people/hughes-charles-evans">Charles Evans
                             Hughes</ref> had instructed Young in a telegram dated July 25, 1922, to
                         advise the Foreign Offices of <placeName>Estonia</placeName>,
-                        <placeName>Latvia</placeName>, and <placeName>Lithuania</placeName> of
-                        this decision on the 28th. </p>
+                            <placeName>Latvia</placeName>, and <placeName>Lithuania</placeName> of
+                        this decision on the 28th.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1922">1922</date>.</head>
-                    <p> Diplomatic relations were established on July 28, 1922, when U.S.
+                    <head>Establishment of Diplomatic Relations, <date when="1922"
+                        >1922</date>.</head>
+                    <p>Diplomatic relations were established on July 28, 1922, when U.S.
                         Commissioner at Riga, Evan Young, informed the Foreign Office of Estonia
                         that the United States recognized its independence and that he would
                         continue as the American representative to the three Baltic States, with the
-                        new rank of Minister. </p>
+                        new rank of Minister.</p>
                 </div>
                 <div type="timeline">
-                    <head>American Legation established at Tallinn, <date when="1922">1922</date>.</head>
-                    <p> The American Legation at Tallinn was established on June 30, 1930, with <ref target="/departmenthistory/people/carlson-harry-edwin">Harry E.
-                        Carlson</ref> as Charge d’Affaires <hi rend="italic">ad interim</hi>.
+                    <head>American Legation established at Tallinn, <date when="1922"
+                        >1922</date>.</head>
+                    <p>The American Legation at Tallinn was established on June 30, 1930, with <ref
+                            target="/departmenthistory/people/carlson-harry-edwin">Harry E.
+                            Carlson</ref> as Charge d’Affaires <hi rend="italic">ad interim</hi>.
                         Previous U.S. diplomatic representatives to Estonia also had been accredited
-                        to Latvia and Lithuania, and had resided in Riga. </p>
+                        to Latvia and Lithuania, and had resided in Riga.</p>
                 </div>
                 <div type="timeline">
                     <head>Legation at Tallinn Closed, <date when="1940">1940</date>.</head>
-                    <p> The U.S. Legation at Tallinn was closed on September 5, 1940, after the USSR
+                    <p>The U.S. Legation at Tallinn was closed on September 5, 1940, after the USSR
                         occupied and annexed Estonia, as well as Latvia and Lithuania, in August
                         1940. Although the Soviet actions forced the closure of the American
                         Legation and ended the de facto independence of Estonia, the United States
                         never recognized the state’s forcible incorporation into the
-                        <placeName>Soviet Union</placeName>. The U.S. Government permitted
+                            <placeName>Soviet Union</placeName>. The U.S. Government permitted
                         Estonian representatives accredited by the last independent government to
                         remain in the United States with diplomatic status, and the U.S. position
-                        remained that diplomatic relations continued uninterrupted. </p>
+                        remained that diplomatic relations continued uninterrupted.</p>
                 </div>
                 <div type="timeline">
-                    <head>Recognition of Estonian Independence from the USSR, <date when="1991">1991</date>.</head>
-                    <p> The U.S. recognized the restoration of Estonia’s independence on September
-                        2, 1991, in an announcement by President <persName>George H.W.
-                            Bush</persName>. </p>
+                    <head>Recognition of Estonian Independence from the USSR, <date when="1991"
+                            >1991</date>.</head>
+                    <p>The U.S. recognized the restoration of Estonia’s independence on September 2,
+                        1991, in an announcement by President <persName>George H.W.
+                        Bush</persName>.</p>
                 </div>
                 <div type="timeline">
                     <head>Resumption of Normal Relations, <date when="1991">1991</date>.</head>
-                    <p> The United States and Estonia resumed normal diplomatic relations on
-                        September 4, 1991, when U.S. Deputy Assistant Secretary of State <ref target="/departmenthistory/people/kamman-curtis-w">Curtis Kamman</ref>
+                    <p>The United States and Estonia resumed normal diplomatic relations on
+                        September 4, 1991, when U.S. Deputy Assistant Secretary of State <ref
+                            target="/departmenthistory/people/kamman-curtis-w">Curtis Kamman</ref>
                         and the Estonian Minister of Foreign Affairs, <persName>Lennart
                             Merti</persName>, signed a memorandum of understanding concerning
                         diplomatic relations.</p>
                 </div>
                 <div type="timeline">
                     <head>American Embassy at Tallinn Opened, <date when="1991">1991</date>.</head>
-                    <p> The American Embassy in Tallinn was established on October 2, 1991, with
-                        <ref target="/departmenthistory/people/frasure-robert-c">Robert C.
-                            Frasure</ref> as Chargé d'Affaires <hi rend="italic">ad interim</hi>.
-                    </p>
+                    <p>The American Embassy in Tallinn was established on October 2, 1991, with <ref
+                            target="/departmenthistory/people/frasure-robert-c">Robert C.
+                            Frasure</ref> as Chargé d'Affaires <hi rend="italic">ad
+                        interim</hi>.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/5377.htm">Estonia</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/5377.htm">Estonia</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/eur/ci/en/">Estonia</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/eur/ci/en/">Estonia</ref>
                     </bibl>
                 </listBibl>
             </div>

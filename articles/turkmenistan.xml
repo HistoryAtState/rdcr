@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">A Guide to the United States' History of Recognition,
+                <title type="complete">A Guide to the United States’ History of Recognition,
                     Diplomatic, and Consular Relations, by Country, since 1776: Turkmenistan</title>
                 <title type="short">Turkmenistan</title>
             </titleStmt>
@@ -19,12 +19,12 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p> President George H.W. Bush extended recognition to <placeName xml:id="tm">Turkmenistan</placeName> in 1991 after
-                    the dissolution of the Soviet Union. Since the break-up of the Soviet Union, the
-                    United States has sought closer relations with Turkmenistan. In February 2007,
-                    the two countries agreed to find ways to cooperate on political and human rights
-                    reform, economic and agricultural reform, education and health care, energy, and
-                    security.</p>
+                <p>President George H.W. Bush extended recognition to <placeName xml:id="tm"
+                        >Turkmenistan</placeName> in 1991 after the dissolution of the Soviet Union.
+                    Since the break-up of the Soviet Union, the United States has sought closer
+                    relations with Turkmenistan. In February 2007, the two countries agreed to find
+                    ways to cooperate on political and human rights reform, economic and
+                    agricultural reform, education and health care, energy, and security.</p>
                 <figure>
                     <graphic url="turkmenistan-flag.jpg"/>
                     <head>Modern Flag of Turkmenistan</head>
@@ -32,8 +32,9 @@
                 <div type="section" xml:id="recognition">
                     <head>Recognition</head>
                     <div type="timeline">
-                        <head>U.S. Recognition of Turkmenistan, <date when="1991">1991</date>. </head>
-                        <p> The United States recognized Turkmenistan’s independence on December 25,
+                        <head>U.S. Recognition of Turkmenistan, <date when="1991"
+                            >1991</date>.</head>
+                        <p>The United States recognized Turkmenistan’s independence on December 25,
                             1991, when President <persName>George H.W. Bush</persName> announced the
                             decision in an address to the nation regarding the dissolution of the
                             Soviet Union. Turkmenistan previously had been a constituent republic of
@@ -50,26 +51,30 @@
                 <div type="section" xml:id="diplomatic-relations">
                     <head>Diplomatic Relations</head>
                     <div type="timeline">
-                        <head>Establishment of Diplomatic Relations, <date when="1992">1992</date>.</head>
-                        <p> Diplomatic relations were established on February 19, 1992, when
-                            President George H.W. Bush announced the decision in a press statement.
-                        </p>
+                        <head>Establishment of Diplomatic Relations, <date when="1992"
+                            >1992</date>.</head>
+                        <p>Diplomatic relations were established on February 19, 1992, when
+                            President George H.W. Bush announced the decision in a press
+                            statement.</p>
                     </div>
                     <div type="timeline">
-                        <head>Establishment of the American Embassy in <placeName xml:id="Ashgabat">Ashkabad</placeName> (now Ashgabat),
-                            <date when="1992">1992</date>.</head>
-                        <p> The American Embassy in Ashkabad (now Ashgabat) was established March
-                            17, 1992, with <persName>Jeffrey White</persName> as Chargé d'Affaires
-                            <hi rend="italic">ad interim</hi>.</p>
+                        <head>Establishment of the American Embassy in <placeName xml:id="Ashgabat"
+                                >Ashkabad</placeName> (now Ashgabat), <date when="1992"
+                            >1992</date>.</head>
+                        <p>The American Embassy in Ashkabad (now Ashgabat) was established March 17,
+                            1992, with <persName>Jeffrey White</persName> as Chargé d'Affaires <hi
+                                rend="italic">ad interim</hi>.</p>
                     </div>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref target="http://www.state.gov/r/pa/ei/bgn/35884.htm">Turkmenistan</ref>
+                    <bibl>Department of State Country Fact Sheet: <ref
+                            target="http://www.state.gov/r/pa/ei/bgn/35884.htm">Turkmenistan</ref>
                     </bibl>
-                    <bibl>Department of State Country Information: <ref target="http://www.state.gov/p/sca/ci/tx">Turkmenistan</ref>
+                    <bibl>Department of State Country Information: <ref
+                            target="http://www.state.gov/p/sca/ci/tx">Turkmenistan</ref>
                     </bibl>
                 </listBibl>
             </div>
