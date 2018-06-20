@@ -3,7 +3,8 @@
         <fileDesc>
             <titleStmt>
                 <title type="complete">A Guide to the United States’ History of Recognition,
-                    Diplomatic, and Consular Relations, by Country, since 1776: Swaziland</title>
+                    Diplomatic, and Consular Relations, by Country, since 1776: Eswatini
+                    (Swaziland)</title>
                 <title type="short">Swaziland</title>
             </titleStmt>
             <publicationStmt>
@@ -11,6 +12,7 @@
             </publicationStmt>
             <sourceDesc>
                 <p>Researched and written by Christopher Morrison, March 2008</p>
+                <p>Updated by Aaron Marrs, June 2018</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -18,13 +20,11 @@
         <body>
             <div type="section" xml:id="summary">
                 <head>Summary</head>
-                <p>The United States and <placeName key="sz">Swaziland</placeName> have enjoyed
-                    cordial relations since the latter’s independence from Great Britain. The United
-                    States is currently a major aid donor to Swaziland, and both governments
-                    cooperate on matters such as preventing the spread of HIV/AIDS.</p>
+                <p>The United States recognized <placeName key="sz">Swaziland</placeName> on
+                    September 6, 1968.</p>
                 <figure>
                     <graphic url="swaziland-flag.jpg"/>
-                    <head>Modern Flag of Swaziland</head>
+                    <head>Modern Flag of Eswatini</head>
                 </figure>
             </div>
             <div type="section" xml:id="recognition">
@@ -33,17 +33,17 @@
                     <head>U.S. Recognition of Swaziland’s Independence, <date when="1968"
                             >1968</date>.</head>
                     <p>The United States recognized <placeName>Swaziland</placeName> on September 6,
-                        1968, when the American Embassy at <placeName key="mbabane"
-                            >Mbabane</placeName> was established upon Swaziland’s attainment of
-                        independence on that same date. Swaziland previously had been under British
-                        sovereignty.</p>
+                        1968, when the U.S. Embassy at <placeName key="mbabane">Mbabane</placeName>
+                        was established upon Swaziland’s attainment of independence on that same
+                        date. Swaziland previously had been under British sovereignty. In 2018, the
+                        country was re-named Eswatini.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations and the American Embassy in
-                        Swaziland, <date when="1968">1968</date>.</head>
+                    <head>Establishment of Diplomatic Relations and the U.S. Embassy, <date
+                            when="1968">1968</date>.</head>
                     <p>Diplomatic relations were established on September 6, 1968, when the American
                         Embassy at <placeName>Mbabane</placeName> was established with <ref
                             target="/departmenthistory/people/pappas-christos-constantine">Chris C.
@@ -56,10 +56,10 @@
                 <head>Resources</head>
                 <listBibl>
                     <bibl>Department of State Country Fact Sheet: <ref
-                            target="https://www.state.gov/r/pa/ei/bgn/2841.htm">Swaziland</ref>
+                            target="https://www.state.gov/r/pa/ei/bgn/2841.htm">Eswatini</ref>
                     </bibl>
                     <bibl>Department of State Country Information: <ref
-                            target="https://www.state.gov/p/af/ci/wz/">Swaziland</ref>
+                            target="https://www.state.gov/p/af/ci/wz/">Eswatini</ref>
                     </bibl>
                 </listBibl>
             </div>
