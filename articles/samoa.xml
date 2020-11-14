@@ -10,7 +10,8 @@
                 <p>Department of State, 2009</p>
             </publicationStmt>
             <sourceDesc>
-                <p>Researched and written by Evan Dawley, February 2009. Updated by Aaron Marrs, April 2020.</p>
+                <p>Researched and written by Evan Dawley, February 2009. Updated by Aaron Marrs,
+                    April 2020.</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -67,9 +68,9 @@
                     <p>The United States and Samoa established diplomatic relations when Ambassador
                             <ref target="/departmenthistory/people/franzheim-kenneth">Kenneth
                             Franzheim II</ref> presented his credentials to the Government of Samoa
-                        at Apia on July 14, 1971. Since 1971, the U.S. Ambassador to Samoa has
-                        also been accredited to <placeName>New Zealand</placeName>, and at various times also
-                            <placeName>Fiji</placeName>, and <placeName>Tonga</placeName>, and has
+                        at Apia on July 14, 1971. Since 1971, the U.S. Ambassador to Samoa has also
+                        been accredited to <placeName>New Zealand</placeName>, and at various times
+                        also <placeName>Fiji</placeName>, and <placeName>Tonga</placeName>, and has
                         remained resident at <placeName>Wellington, New Zealand</placeName>.</p>
                 </div>
                 <div type="timeline">
@@ -84,10 +85,10 @@
                 <head>Resources</head>
                 <listBibl>
                     <bibl>Department of State Country Fact Sheet: <ref
-                            target="https://www.state.gov/r/pa/ei/bgn/1842.htm">Samoa</ref>
+                            target="https://www.state.gov/u-s-relations-with-samoa/">Samoa</ref>
                     </bibl>
                     <bibl>Department of State Country Information: <ref
-                            target="https://www.state.gov/p/eap/ci/ws">Samoa</ref>
+                            target="https://www.state.gov/countries-areas/samoa/">Samoa</ref>
                     </bibl>
                 </listBibl>
             </div>

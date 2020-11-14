@@ -55,8 +55,8 @@
                 <div type="timeline">
                     <head>Establishment of the American Embassy in Baku, <date when="1992"
                             >1992</date>.</head>
-                    <p>The American Embassy in <placeName key="baku">Baku</placeName> was
-                        opened on March 16, 1992, with <ref
+                    <p>The American Embassy in <placeName key="baku">Baku</placeName> was opened on
+                        March 16, 1992, with <ref
                             target="/departmenthistory/people/finn-robert-patrick-john">Robert
                             Finn</ref> as Chargé d’Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
@@ -69,10 +69,12 @@
                             >Azerbaijan</ref>
                     </bibl>
                     <bibl> Department of State Country Fact Sheet: <ref
-                            target="https://www.state.gov/r/pa/ei/bgn/2909.htm">Azerbaijan</ref>
+                            target="https://www.state.gov/u-s-relations-with-azerbaijan/"
+                            >Azerbaijan</ref>
                     </bibl>
                     <bibl> Department of State Country Information: <ref
-                            target="https://www.state.gov/p/eur/ci/aj/index.htm">Azerbaijan</ref>
+                            target="https://www.state.gov/countries-areas/azerbaijan/"
+                            >Azerbaijan</ref>
                     </bibl>
                     <bibl>Library of Congress Country Study: <ref
                             target="http://memory.loc.gov/frd/cs/aztoc.html">Azerbaijan</ref>

@@ -80,7 +80,8 @@
                         1862.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of American Legation to Embassy Status, <date when="1914">1914.</date>
+                    <head>Elevation of American Legation to Embassy Status, <date when="1914"
+                            >1914.</date>
                     </head>
                     <p>The United States elevated its Legation in <placeName key="buenos-aires"
                             >Buenos Aires</placeName> to Embassy status on October 1, 1914, when
@@ -121,10 +122,12 @@
                 <head>Resources</head>
                 <listBibl>
                     <bibl>Department of State Country Fact Sheet: <ref
-                            target="https://www.state.gov/r/pa/ei/bgn/26516.htm">Argentina</ref>
+                            target="https://www.state.gov/u-s-relations-with-argentina/"
+                            >Argentina</ref>
                     </bibl>
                     <bibl>Department of State Country Information: <ref
-                            target="https://www.state.gov/p/wha/ci/ar/index.htm">Argentina</ref>
+                            target="https://www.state.gov/countries-areas/argentina/"
+                            >Argentina</ref>
                     </bibl>
                 </listBibl>
             </div>

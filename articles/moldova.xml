@@ -42,7 +42,11 @@
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations, <date when="1992-02-29"
                         >1992</date>.</head>
-                    <p>Diplomatic relations were established when President <persName>George H.W. Bush</persName> and Moldovan President <persName>Mircea Snegur</persName> agreed to do so during a February 18, 1992 meeting at the White House. The Bush administration confirmed February 18 as the date relations were established in a statement issued the next day.</p>
+                    <p>Diplomatic relations were established when President <persName>George H.W.
+                            Bush</persName> and Moldovan President <persName>Mircea
+                            Snegur</persName> agreed to do so during a February 18, 1992 meeting at
+                        the White House. The Bush administration confirmed February 18 as the date
+                        relations were established in a statement issued the next day.</p>
                 </div>
                 <div type="timeline">
                     <head>Establishment of the American Embassy in Chisinau, <date when="1992-03-13"
@@ -56,10 +60,10 @@
                 <head>Resources</head>
                 <listBibl>
                     <bibl>Department of State Country Fact Sheet: <ref
-                            target="https://www.state.gov/r/pa/ei/bgn/5357.htm">Moldova</ref>
+                            target="https://www.state.gov/u-s-relations-with-moldova/">Moldova</ref>
                     </bibl>
                     <bibl>Department of State Country Information: <ref
-                            target="https://www.state.gov/p/eur/ci/md">Moldova</ref>
+                            target="https://www.state.gov/countries-areas/moldova/">Moldova</ref>
                     </bibl>
                 </listBibl>
             </div>
