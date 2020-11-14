@@ -50,8 +50,7 @@
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and the American Embassy in St.
-                        Johns, <date when="1981">1981.</date>
-                    </head>
+                        Johns, <date when="1981">1981</date>.</head>
                     <p>The United States established diplomatic relations with Antigua and Barbuda
                         on <date when="1981-11-01">November 1, 1981</date>. <ref
                             target="/departmenthistory/people/byrnes-paul-j">Paul Byrnes</ref> was
@@ -63,8 +62,8 @@
                     </p>
                 </div>
                 <div type="timeline">
-                    <head>American Embassy at St. Johns Closed, <date when="1994">1994.</date>
-                    </head>
+                    <head>American Embassy at St. Johns Closed, <date when="1994"
+                        >1994</date>.</head>
                     <p>The American Embassy at <placeName key="st-johns">St. Johns</placeName> was
                         closed June 30, 1994. Subsequent Ambassadors to Antigua and Barbuda remained
                         resident at <placeName key="bridgetown">Bridgetown</placeName>, Barbados.

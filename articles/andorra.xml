@@ -54,8 +54,8 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1995">1995.</date>
-                    </head>
+                    <head>Establishment of Diplomatic Relations, <date when="1995"
+                        >1995</date>.</head>
                     <p>The United States established diplomatic relations with Andorra on February
                         21, 1995, with an exchange of letters between the Andorran government
                         (requesting to establish full diplomatic relations) and the U.S. Secretary
@@ -72,8 +72,7 @@
                             <placeName>Madrid</placeName>.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of Andorran Embassy, <date when="1996">1996.</date>
-                    </head>
+                    <head>Establishment of Andorran Embassy, <date when="1996">1996</date>.</head>
                     <p>On February 6, 1996, <persName>Juli F. Minoves-Triquell</persName> presented
                         credentials as Ambassador Extraordinary and Plenipotentiary to the United
                         States. Ambassador Minoves-Triquell, at 26 years old, was the youngest

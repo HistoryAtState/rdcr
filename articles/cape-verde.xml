@@ -41,8 +41,8 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1975">1975.</date>
-                    </head>
+                    <head>Establishment of Diplomatic Relations, <date when="1975"
+                        >1975</date>.</head>
                     <p>Diplomatic relations were established on July 19, 1975, when Ambassador of
                         the Republic of Cape Verde <persName>Raul Querido Varela</persName>
                         presented his credentials to President <persName>Gerald R.
@@ -50,8 +50,7 @@
                 </div>
                 <div type="timeline">
                     <head>Accreditation of American Ambassador to Cape Verde, <date when="1976"
-                            >1976.</date>
-                    </head>
+                            >1976</date>.</head>
                     <p>Ambassador <ref
                             target="http://history.state.gov/departmenthistory/people/wells-melissa-foelsch"
                             >Melissa F. Wells</ref> presented her credentials to the government of
@@ -60,8 +59,7 @@
                 </div>
                 <div type="timeline">
                     <head>Establishment of American Embassy in Cape Verde, <date when="1978"
-                            >1978.</date>
-                    </head>
+                            >1978</date>.</head>
                     <p>The American Embassy at <placeName key="praia">Praia</placeName> was
                         established on January 28, 1978, with <ref
                             target="/departmenthistory/people/mcgowan-howard-l">Howard McGowan</ref>

@@ -67,8 +67,8 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1818">1818.</date>
-                    </head>
+                    <head>Establishment of Diplomatic Relations, <date when="1818"
+                        >1818</date>.</head>
                     <p>Diplomatic relations were established on April 29, 1818, when <ref
                             target="/departmenthistory/people/russell-jonathan">Jonathan
                             Russell</ref> presented his credentials as American Minister
@@ -78,8 +78,7 @@
                 </div>
                 <div type="timeline">
                     <head>Elevation of U.S. Legation to Embassy Status, <date when="1947"
-                            >1947.</date>
-                    </head>
+                            >1947</date>.</head>
                     <p>On September 20, 1947, <ref
                             target="/departmenthistory/people/matthews-harrison-freeman">H. Freeman
                             Matthews</ref> was appointed to be the first U.S. Ambassador to Sweden.

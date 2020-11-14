@@ -46,8 +46,7 @@
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and American Legation in Liberia,
-                            <date when="1864">1864.</date>
-                    </head>
+                            <date when="1864">1864</date>.</head>
                     <p>Diplomatic relations and the American Legation at <placeName key="monrovia"
                             >Monrovia</placeName> were established on February 23, 1864, when
                         American Commissioner and Consul General <ref
@@ -55,8 +54,8 @@
                         presented his credentials to the Liberian government.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of Legation to Embassy Status, <date when="1949">1949.</date>
-                    </head>
+                    <head>Elevation of Legation to Embassy Status, <date when="1949"
+                        >1949</date>.</head>
                     <p>The American Legation at Monrovia was elevated to Embassy status on May 6,
                         1949, when Ambassador <ref
                             target="/departmenthistory/people/dudley-edward-richard">Edward R.

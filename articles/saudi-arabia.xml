@@ -49,8 +49,8 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1940">1940.</date>
-                    </head>
+                    <head>Establishment of Diplomatic Relations, <date when="1940"
+                        >1940</date>.</head>
                     <p>Diplomatic relations were established on February 4, 1940, when <ref
                             target="/departmenthistory/people/fish-bert">Bert Fish</ref> presented
                         his credentials as U.S. Envoy Extraordinary and Minister Plenipotentiary. He
@@ -59,16 +59,14 @@
                 </div>
                 <div type="timeline">
                     <head>Establishment of U.S. Legation in Saudi Arabia, <date when="1942"
-                            >1942.</date>
-                    </head>
+                            >1942</date>.</head>
                     <p>The U.S. Legation in Jidda was established on May 1, 1942, with <ref
                             target="/departmenthistory/people/moose-james-sayle">James S. Moose,
                             Jr.</ref>, as Chargé d’Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
                 <div type="timeline">
                     <head>Elevation of the U.S. Legation to Embassy Status, <date when="1949"
-                            >1949.</date>
-                    </head>
+                            >1949</date>.</head>
                     <p>The Legation was raised to Embassy status on March 18, 1949, when <ref
                             target="/departmenthistory/people/childs-james-rives">J. Rives
                             Childs</ref> presented his credential as Ambassador Extraordinary and
@@ -76,8 +74,7 @@
                 </div>
                 <div type="timeline">
                     <head>American Embassy Moved from Jidda to Riyadh, <date when="1984"
-                            >1984.</date>
-                    </head>
+                        >1984</date>.</head>
                     <p>On Sep 26, 1984, the U.S. Liaison Office in Riyadh was raised to the rank of
                         Embassy while the Embassy in Jidda (now Jeddah) became a Consulate
                         General.</p>

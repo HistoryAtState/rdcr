@@ -53,16 +53,15 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1927">1927.</date>
-                    </head>
+                    <head>Establishment of Diplomatic Relations, <date when="1927"
+                        >1927</date>.</head>
                     <p>Diplomatic relations were established on February 18, 1927, when
                             <persName>Vincent Massey</persName> presented his credentials in
                         Washington as Canadian Envoy Extraordinary and Minister Plenipotentiary.</p>
                 </div>
                 <div type="timeline">
                     <head>Establishment of American Legation in Ottawa, <date when="1927"
-                            >1927.</date>
-                    </head>
+                            >1927</date>.</head>
                     <p>The American Legation in <placeName key="ottawa">Ottawa</placeName> was
                         established on June 1, 1927, when <ref
                             target="/departmenthistory/people/phillips-william">William
@@ -70,8 +69,8 @@
                         Minister Plenipotentiary.</p>
                 </div>
                 <div type="timeline">
-                    <head>Elevation of Legation to Embassy Status, <date when="1943">1943.</date>
-                    </head>
+                    <head>Elevation of Legation to Embassy Status, <date when="1943"
+                        >1943</date>.</head>
                     <p>The American Legation in Ottawa was elevated to Embassy status on November
                         19, 1943, when <ref target="/departmenthistory/people/atherton-ray">Ray
                             Atherton</ref> presented his credentials as Ambassador Extraordinary and

@@ -94,8 +94,8 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1918">1918.</date>
-                    </head>
+                    <head>Establishment of Diplomatic Relations, <date when="1918"
+                        >1918</date>.</head>
                     <p>On November 12, 1918, Assistant Secretary of State <ref
                             target="/departmenthistory/people/phillips-william">William
                             Phillips</ref> announced that the United States recognized
@@ -104,8 +104,7 @@
                 </div>
                 <div type="timeline">
                     <head>Establishment of American Legation in Prague, <date when="1919"
-                            >1919.</date>
-                    </head>
+                            >1919</date>.</head>
                     <p>
                         <ref target="/departmenthistory/people/crane-richard">Richard Crane</ref>
                         was appointed U.S. Minister to Czechoslovakia on April 23, 1919. He
@@ -113,8 +112,7 @@
                 </div>
                 <div type="timeline">
                     <head>Establishment of a Czechoslovak Legation in Washington, <date when="1919"
-                            >1919.</date>
-                    </head>
+                            >1919</date>.</head>
                     <p>On October 24, 1919, Foreign Minister <persName>Eduard Benes</persName>
                         announced the appointment of <persName>Jan Masaryk</persName>, son of
                         President <persName>Thomas Masaryk</persName>, as Chargé d’Affaires in
@@ -152,8 +150,7 @@
                 </div>
                 <div type="timeline">
                     <head>Establishment of American Legation to Embassy Status, <date when="1945"
-                            >1945.</date>
-                    </head>
+                            >1945</date>.</head>
                     <p>Embassy Prague was established on May 29, 1945 with <ref
                             target="/departmenthistory/people/klieforth-alfred-will">Alfred W.
                             Klieforth</ref> as Chargé d’Affaires <hi rend="italic">ad interim</hi>.

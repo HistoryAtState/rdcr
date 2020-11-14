@@ -53,8 +53,8 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1922">1922.</date>
-                    </head>
+                    <head>Establishment of Diplomatic Relations, <date when="1922"
+                        >1922</date>.</head>
                     <p>Diplomatic relations were established on December 4, 1922, when Envoy
                         Extraordinary and Minister Plenipotentiary <ref
                             target="/departmenthistory/people/grant-smith-ulysses">Ulysses
@@ -63,8 +63,7 @@
                 </div>
                 <div type="timeline">
                     <head>Diplomatic Relations Ended and American Legation Closed, <date when="1939"
-                            >1939.</date>
-                    </head>
+                            >1939</date>.</head>
                     <p>Italian forces invaded Albania in 1939 and occupied <placeName key="tirana"
                             >Tirana</placeName> on April 8, 1939. U.S.-Albanian diplomatic relations
                         ended on June 5, 1939, when Albanian Minister for Foreign Affairs notified
@@ -73,8 +72,7 @@
                         1939.</p>
                 </div>
                 <div type="timeline">
-                    <head>Diplomatic Relations Reestablished, <date when="1991">1991.</date>
-                    </head>
+                    <head>Diplomatic Relations Reestablished, <date when="1991">1991</date>.</head>
                     <p>The United States and Albania resumed diplomatic relations on March 15, 1991,
                         when Albanian Foreign Minister <persName>Muhamet Kapllani</persName> and
                         Assistant Secretary <ref
@@ -87,8 +85,7 @@
                 <head>Treaties and Agreements</head>
                 <div type="timeline">
                     <head>Establishment of Most-Favored-Nation Status, <date when="1922"
-                            >1922.</date>
-                    </head>
+                        >1922</date>.</head>
                     <p>Prior to mutual official recognition, American Commissioner Maxwell Blake
                         exchanged notes with Albanian President of the Council and Minister of
                         Foreign Affairs <persName>Djafer Upi</persName> to ensure mutual
@@ -96,8 +93,7 @@
                         the United States.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of Relief Assistance, <date when="1945">1945.</date>
-                    </head>
+                    <head>Establishment of Relief Assistance, <date when="1945">1945</date>.</head>
                     <p>Following the expulsion of Italian and German occupying troops by Albanian
                         nationalist groups, the United States signed a treaty with the Albanian
                         military authority promising relief supplies via military operation.</p>

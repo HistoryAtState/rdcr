@@ -43,8 +43,8 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1960">1960.</date>
-                    </head>
+                    <head>Establishment of Diplomatic Relations, <date when="1960"
+                        >1960</date>.</head>
                     <p>Diplomatic relations were established on August 13, 1960, when the American
                         Consul at Brazzaville, <ref
                             target="/departmenthistory/people/lukens-alan-wood">Alan W.
@@ -52,8 +52,7 @@
                 </div>
                 <div type="timeline">
                     <head>Establishment of the American Embassy in the Central African Republic,
-                            <date when="1961">1961.</date>
-                    </head>
+                            <date when="1961">1961</date>.</head>
                     <p>Embassy <placeName key="bangui">Bangui</placeName> was established on
                         February 10, 1961, with <ref
                             target="/departmenthistory/people/lukens-alan-wood">Alan W. Lukens</ref>

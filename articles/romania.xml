@@ -81,8 +81,8 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1880">1880.</date>
-                    </head>
+                    <head>Establishment of Diplomatic Relations, <date when="1880"
+                        >1880</date>.</head>
                     <p>
                         <ref target="/departmenthistory/people/schuyler-eugene">Eugene
                             Schuyler</ref> was the first U.S. diplomatic representative to Romania.
@@ -96,8 +96,7 @@
                 </div>
                 <div type="timeline">
                     <head>Establishment of American Legation in <placeName key="bucharest"
-                            >Bucharest</placeName>, <date when="1882">1882.</date>
-                    </head>
+                            >Bucharest</placeName>, <date when="1882">1882</date>.</head>
                     <p>Schuyler was promoted to Minister Resident and Consul General on July 7,
                         1882, and presented his new credentials on September 8, 1882. However, he
                         was also accredited to <placeName>Greece</placeName> and
@@ -124,15 +123,13 @@
                 </div>
                 <div type="timeline">
                     <head>Establishment of Romanian Legation in Washington, <date when="1918"
-                            >1918.</date>
-                    </head>
+                            >1918</date>.</head>
                     <p>Romania established its first diplomatic mission in the United States when
                         Minister <persName>Constantin Angelescu</persName> presented his credentials
                         in Washington on January 15, 1918.</p>
                 </div>
                 <div type="timeline">
-                    <head>Severance of Diplomatic Relations, <date when="1941">1941.</date>
-                    </head>
+                    <head>Severance of Diplomatic Relations, <date when="1941">1941</date>.</head>
                     <p>Diplomatic relations were severed when Romania declared war on the United
                         States on December 12, 1941. The U.S. Minister, <ref
                             target="/departmenthistory/people/gunther-franklin-mott">Franklin Mott
@@ -141,16 +138,15 @@
                         5, 1942.</p>
                 </div>
                 <div type="timeline">
-                    <head>Re-establishment of Diplomatic Relations, <date when="1946">1946.</date>
-                    </head>
+                    <head>Re-establishment of Diplomatic Relations, <date when="1946"
+                        >1946</date>.</head>
                     <p>Diplomatic relations were reestablished on October 1, 1946, when
                             <persName>Miha Ralea</persName> presented his credentials as Romania’s
                         first postwar Minister to the United States.</p>
                 </div>
                 <div type="timeline">
                     <head>Re-establishment of American Legation in Bucharest, <date when="1947"
-                            >1947.</date>
-                    </head>
+                            >1947</date>.</head>
                     <p>
                         <ref target="/departmenthistory/people/schoenfeld-rudolf-emil">Rudolph E.
                             Schoenfeld</ref> presented his credentials as the first postwar U.S.
@@ -158,8 +154,7 @@
                 </div>
                 <div type="timeline">
                     <head>Elevation of American Legation to Embassy Status, <date when="1964"
-                            >1964.</date>
-                    </head>
+                            >1964</date>.</head>
                     <p>The U.S. Legation in Bucharest was raised to Embassy status on June 1, 1964.
                             <ref target="/departmenthistory/people/shaw-john-putnam">John P.
                             Shaw</ref> was Chargé d’Affaires <hi rend="italic">ad interim</hi> at
@@ -171,16 +166,15 @@
                 </div>
                 <div type="timeline">
                     <head>Elevation of Romanian Legation to Embassy Status, <date when="1964"
-                            >1964.</date>
-                    </head>
+                            >1964</date>.</head>
                     <p>Romanian Minister <persName>Petre Balaceanu</persName> presented his new
                         credentials as Romania’s Ambassador on August 14, 1964.</p>
                 </div>
                 <div type="section" xml:id="treaties_agreements">
                     <head>Treaties and Agreements</head>
                     <div type="timeline">
-                        <head>First Diplomatic Agreement Signed, <date when="1881">1881.</date>
-                        </head>
+                        <head>First Diplomatic Agreement Signed, <date when="1881"
+                            >1881</date>.</head>
                         <p>The first diplomatic agreement between the United States and Romania was
                             a convention concerning the rights, privileges, and immunities of
                             consular officers, which was signed in Bucharest on June 17, 1881. It

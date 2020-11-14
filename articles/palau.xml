@@ -43,8 +43,8 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1996">1996.</date>
-                    </head>
+                    <head>Establishment of Diplomatic Relations, <date when="1996"
+                        >1996</date>.</head>
                     <p>On December 6, 1996, U.S. Ambassador to the Philippines <ref
                             target="/departmenthistory/people/hubbard-thomas-c">Thomas C.
                             Hubbard</ref> was accredited to Palau; he remained resident at
@@ -52,8 +52,7 @@
                 </div>
                 <div type="timeline">
                     <head>Establishment of the American Embassy at Palau, <date when="2004"
-                            >2004.</date>
-                    </head>
+                            >2004</date>.</head>
                     <p>In 2004, responsibility for Palau was no longer given to the U.S. Ambassador
                         to the Philippines. The American Embassy in <placeName key="koror"
                             >Koror</placeName> was established on October 10, 2004, with

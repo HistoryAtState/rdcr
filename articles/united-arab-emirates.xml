@@ -55,8 +55,7 @@
                     </div>
                     <div type="timeline">
                         <head>Establishment of the American Embassy in the United Arab Emirates,
-                                <date when="1974">1974.</date>
-                        </head>
+                                <date when="1974">1974</date>.</head>
                         <p>The United States Embassy in <placeName xml:id="abu-dhabi">Abu
                                 Dhabi</placeName> was established on June 24, 1974, when the first
                             American Ambassador in residence, <ref

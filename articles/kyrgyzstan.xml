@@ -41,16 +41,15 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1991">1991.</date>
-                    </head>
+                    <head>Establishment of Diplomatic Relations, <date when="1991"
+                        >1991</date>.</head>
                     <p>Diplomatic relations were established on December 25, 1991, when President
                             <persName>George H.W. Bush</persName> announced the decision in an
                         address to the nation regarding the dissolution of the Soviet Union.</p>
                 </div>
                 <div type="timeline">
                     <head>Establishment of the American Embassy in Bishkek, <date when="2004"
-                            >2004.</date>
-                    </head>
+                            >2004</date>.</head>
                     <p>The American Embassy in <placeName key="bishkek">Bishkek</placeName> was
                         established on February 1, 1992, with <ref
                             target="/departmenthistory/people/mcwilliams-edmund">Edmund

@@ -72,8 +72,8 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations, <date when="1972">1972.</date>
-                    </head>
+                    <head>Establishment of Diplomatic Relations, <date when="1972"
+                        >1972</date>.</head>
                     <p>Tonga became an independent and sovereign nation within the British
                         Commonwealth on June 4, 1970. On October 4, 1972, the United States
                         accredited its Ambassador to New Zealand, Fiji, and Western Samoa, Kenneth
@@ -83,8 +83,7 @@
                         1973.</p>
                 </div>
                 <div type="timeline">
-                    <head>Change from Wellington to Suva, <date when="1979">1979.</date>
-                    </head>
+                    <head>Change from Wellington to Suva, <date when="1979">1979</date>.</head>
                     <p>Beginning in 1979, the U.S. Ambassador to Fiji has also been accredited to
                         Tonga, resident in Suva. On April 11, 1979, <ref
                             target="/departmenthistory/people/condon-john-peter">John P.

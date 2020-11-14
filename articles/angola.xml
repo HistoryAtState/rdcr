@@ -66,8 +66,8 @@
             <div type="section" xml:id="diplomatic_relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>U.S. Liaison Office Established at Luanda, <date when="1992">1992.</date>
-                    </head>
+                    <head>U.S. Liaison Office Established at Luanda, <date when="1992"
+                        >1992</date>.</head>
                     <p>The U.S. Liaison Office in <placeName key="luanda">Luanda</placeName> was
                         opened <date when="1992-01-10">January 10, 1992</date>, with <ref
                             target="/departmenthistory/people/millington-jeffrey">Jeffrey
@@ -75,8 +75,7 @@
                 </div>
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and the American Embassy in Angola,
-                            <date when="1994">1994.</date>
-                    </head>
+                            <date when="1994">1994</date>.</head>
                     <p>Diplomatic relations were established on July 14, 1994, when American
                         Ambassador <ref target="/departmenthistory/people/dejarnette-edmund-t"
                             >Edmund T. De Jarnette</ref> presented his credentials to Angolan
