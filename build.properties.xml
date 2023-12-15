@@ -4,6 +4,7 @@
         <name>rdcr</name>
         <url>http://history.state.gov/ns/data/rdcr</url>
         <title>Recognitions, Diplomatic, and Consular Relations (data)</title>
-        <version>0.4</version>
+        <!-- VERSION SET AUTOMATICALLY DO NOT CHANGE -->
+        <!-- <version>0.4.0</version> -->
     </app>
 </root>
