@@ -19,11 +19,8 @@
             <div type="section" xml:id="summary">
                 <head>Summary</head>
                 <p>The United States has maintained uninterrupted relations with <placeName key="sc"
-                        >Seychelles</placeName> since it’s independence from Great Britain in 1976.
-                    Since 1996, however, with the closing of the U.S. Embassy and an Air Force
-                    Tracking Station, the U.S. Government no longer maintains an official presence
-                    within Seychelles. At present, diplomatic and consular relations with Seychelles
-                    are conducted through the U.S. Embassy in Mauritius.</p>
+                        >Seychelles</placeName> since its independence from Great Britain in <date
+                        when="1976">1976</date>.</p>
                 <figure>
                     <graphic url="seychelles-flag.jpg"/>
                     <head>Modern Flag of Seychelles</head>
@@ -34,8 +31,8 @@
                 <div type="timeline">
                     <head>U.S. Recognition of the Seychelles’ Independence, <date when="1976"
                             >1976</date>.</head>
-                    <p>The United States recognized the <placeName>Seychelles</placeName> on June
-                        29, 1976, when representatives of the two states signed an agreement
+                    <p>The United States recognized the <placeName key="sc">Seychelles</placeName>
+                        on June 29, 1976, when representatives of the two states signed an agreement
                         relating to the establishment, operation, and maintenance of a tracking and
                         telemetry facility on the island of <placeName key="mahe">Mahe</placeName>.
                         The agreement was signed at the capital, <placeName key="victoria"
@@ -46,13 +43,24 @@
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
-                    <head>Establishment of Diplomatic Relations and the American Embassy in
-                        Mauritius, <date when="1976">1976</date>.</head>
-                    <p>Diplomatic relations were established on July 1, 1976, when the American
+                    <head>Establishment of Diplomatic Relations and the U.S. Embassy in Seychelles,
+                            <date when="1976">1976</date>.</head>
+                    <p>Diplomatic relations were established on July 1, 1976, when the U.S.
                         consulate at <placeName key="victoria">Victoria</placeName> was elevated to
                         Embassy status with <ref target="/departmenthistory/people/matson-gregory"
                             >Gregory Matson</ref> as Chargé d’Affaires <hi rend="italic">ad
                             interim</hi>.</p>
+                </div>
+                <div type="timeline">
+                    <head>Closure of the U.S. Embassy, <date when="1996">1996</date>.</head>
+                    <p>The U.S. Embassy closed on August 30, 1996, and relations were conducted
+                        through the U.S. Embassy in Mauritius.</p>
+                </div>
+                <div type="timeline">
+                    <head>Re-opening of the U.S. Embassy in Seychelles, <date when="2023"
+                            >2023</date>.</head>
+                    <p>The U.S. Embassy re-opened on July 1, 2023, with Jim Donegan as Chargé
+                        d’Affaires <hi rend="italic">ad interim</hi>.</p>
                 </div>
             </div>
             <div type="appendix">
