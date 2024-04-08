@@ -26,7 +26,7 @@ Source data for [A Guide to the United States' History of Recognition, Diplomati
 
 ## Release
 
-Releases for this data package are automated. Any commit to the `master`` branch will trigger the release automation.
+Releases for this data package are automated. Any commit to the `master` branch will trigger the release automation.
 
 All commit message must conform to [Conventional Commit Messages](https://www.conventionalcommits.org/en/v1.0.0/) to determine semantic versioning of releases, please adhere to these conventions, like so:
 
