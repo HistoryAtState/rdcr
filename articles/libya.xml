@@ -51,8 +51,8 @@
                         concluded without Algerian supervision.</p>
                 </div>
                 <div type="timeline">
-                    <head>Tripoli/Libya under Ottoman and Italian Control, <date when="1835"
-                            to="1947">1835-1947</date>.</head>
+                    <head>Tripoli/Libya under Ottoman and Italian Control, <date to="1947"
+                            when="1835">1835-1947</date>.</head>
                     <p>Tripolitan authority to conduct international relations ended when the
                         Ottoman Empire chose to reassert its formerly nominal suzerainty over its
                         Libyan provinces in 1835. The Ottoman Empire formally ceded Libya to Italy
@@ -73,7 +73,7 @@
             <div type="section" xml:id="consular-relations">
                 <head>Consular Relations</head>
                 <div type="timeline">
-                    <head>Consulate at Tripoli and Italian Libya, <date when="1799-04-05"
+                    <head>Consulate at Tripoli and Italian Libya, <date from="1799-04-05"
                             to="1949-07-01">1799-1949</date> (with interruptions).</head>
                     <p>
                         <persName>James Leander Cathcart</persName> arrived in Tripoli to assume his
@@ -120,8 +120,7 @@
                 </div>
                 <div type="timeline">
                     <head>Legation in Libya was raised to Embassy status, <date when="1954-11-16"
-                            >1954</date>
-                    </head>
+                            >1954</date>.</head>
                     <p>
                         <ref target="/departmenthistory/people/gatch-john-newton-jr">
                             <persName>John N. Gatch, Jr.</persName>
@@ -162,8 +161,7 @@
                 </div>
                 <div type="timeline">
                     <head>Suspension of U.S. Embassy Tripoli Operations, <date when="2011-02-25"
-                            >2011</date>
-                    </head>
+                            >2011</date>.</head>
                     <p>United States relations with Libya deteriorated sharply when Mu’ammar
                         al-Qadhafi tried to suppress an uprising against his regime in 2011. On
                         February 25, 2011, the United States suspended Embassy operations in
