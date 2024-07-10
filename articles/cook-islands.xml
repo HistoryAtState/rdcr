@@ -38,16 +38,19 @@
                 <head>Diplomatic Relations</head>
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations, 2023</head>
-                    <p>On September 25, 2023, Secretary of State Antony J. Blinken and Prime
-                        Minister of the Cook Islands Mark Brown signed a joint statement
-                        commemorating the establishment of diplomatic relations between the United
-                        States and the Cook Islands.</p>
+                    <p>On September 25, 2023, Secretary of State <ref
+                            target="/departmenthistory/people/blinken-anthony">Antony J.
+                            Blinken</ref> and Prime Minister of the Cook Islands Mark Brown signed a
+                        joint statement commemorating the establishment of diplomatic relations
+                        between the United States and the Cook Islands.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Information: <ref target="https://www.state.gov/countries-areas/cook-islands/">Cook Islands</ref></bibl>
+                    <bibl>Department of State Country Information: <ref
+                            target="https://www.state.gov/countries-areas/cook-islands/">Cook
+                            Islands</ref></bibl>
                 </listBibl>
             </div>
         </body>
