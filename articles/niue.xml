@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States’ History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Niue</title>
+                <title type="short">Niue</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2024</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Laura Kolar, 2024</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>Niue is a self-governing state in free association with New Zealand, a
+                    constitutional arrangement established in 1974. On September 25, 2023, President
+                    Joe Biden announced the establishment of diplomatic relations with Niue. </p>
+            </div>
+            <figure>
+                <graphic url="niue-flag.jpg"/>
+                <head>Modern Flag of Niue</head>
+            </figure>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of the Niue, 2023.</head>
+                    <p>The United States recognized Niue as a sovereign and independent state on
+                        September 25, 2023.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, 2023.</head>
+                    <p>On September 25, 2023, Secretary of State <ref
+                            target="/departmenthistory/people/blinken-antony">Antony J.
+                            Blinken</ref> and Premier Dalton Tagelagi signed a joint statement
+                        commemorating the establishment of diplomatic relations between the United
+                        States and Niue. </p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Information: <ref
+                            target="https://www.state.gov/countries-areas/niue/">Niue</ref></bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

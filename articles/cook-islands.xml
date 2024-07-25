@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">A Guide to the United States’ History of Recognition,
+                    Diplomatic, and Consular Relations, by Country, since 1776: Cook Islands</title>
+                <title type="short">Cook Islands</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2024</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Laura Kolar, June 2024</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>The Cook Islands is a self-governing state in free association with New Zealand,
+                    a constitutional arrangement established in 1965. On September 25, 2023,
+                    President Joe Biden announced the establishment of diplomatic relations with the
+                    Cook Islands.</p>
+            </div>
+            <figure>
+                <graphic url="cook-islands-flag.jpg"/>
+                <head>Modern Flag of Cook Islands</head>
+            </figure>
+            <div type="section" xml:id="recognition">
+                <head>Recognition</head>
+                <div type="timeline">
+                    <head>U.S. Recognition of the Cook Islands, 2023.</head>
+                    <p>The United States recognized the Cook Islands as a sovereign and independent
+                        state on September 25, 2023.</p>
+                </div>
+            </div>
+            <div type="section" xml:id="diplomatic_relations">
+                <head>Diplomatic Relations</head>
+                <div type="timeline">
+                    <head>Establishment of Diplomatic Relations, 2023.</head>
+                    <p>On September 25, 2023, Secretary of State <ref
+                            target="/departmenthistory/people/blinken-antony">Antony J.
+                            Blinken</ref> and Prime Minister Mark Brown signed a joint statement
+                        commemorating the establishment of diplomatic relations between the United
+                        States and the Cook Islands.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <head>Resources</head>
+                <listBibl>
+                    <bibl>Department of State Country Information: <ref
+                            target="https://www.state.gov/countries-areas/cook-islands/">Cook
+                            Islands</ref></bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
