@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo" commit-id="c16f8a1a8bb601f44c4cac18b73bc95bd14929e5" commit-time="1704398180">
+    <description>Recognition, Diplomatic, and Consular Relations (data)</description>
+    <author>Office of the Historian</author>
+    <website>https://history.state.gov</website>
+    <status/>
+    <license/>
+    <copyright/>
+    <type>application</type>
+    <target>rdcr</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <permissions xmlns:repo="http://exist-db.org/xquery/repo" password="" user="hsg" group="hsg" mode="rw-rw-r--"/>
+</meta>
