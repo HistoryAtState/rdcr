@@ -24,6 +24,8 @@ Source data for [A Guide to the United States' History of Recognition, Diplomati
     ant -Dapp.version=X.X.X
     ```
 
+    During a release the property `-Drelease=true` must be set for proper processing of template files.
+
 ## Release
 
 Releases for this data package are automated. Any commit to the `master` branch will trigger the release automation.
