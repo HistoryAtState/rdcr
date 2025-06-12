@@ -15,10 +15,10 @@ jobs:
        matrix:
         # 7.0.0-SNAPSHOT and 6.2.1 created
          exist-version: [latest, release]
-         java-version: [11, 17]
+         java-version: [11, 21]
          exclude:
            - exist-version: release
-             java-version: 17
+             java-version: 21
            - exist-version: latest
              java-version: 11
 
@@ -42,7 +42,7 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: ${{ matrix.java-version }}
-      - run: ant
+      - run: ant -Dapp.version=1.0.0-SNAPSHOT
 
       # Install
       - name: Start exist-ci containers
@@ -59,6 +59,12 @@ jobs:
       # Lint commit messages
       - name: lint commit message
         uses: wagoid/commitlint-github-action@v6
+
+  lastmod:
+    uses: HistoryAtState/ci-actions/.github/workflows/last-mod.yml@v1
+    if: ${{ github.event_name == 'push' && github.ref != 'refs/heads/master' }}
+    needs: build
+    secrets: inherit
 
   release:
     name: Release
