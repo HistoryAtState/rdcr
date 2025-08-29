@@ -1,4 +1,3 @@
-<?xml-stylesheet?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -82,9 +81,7 @@
                     <bibl>Bevans, Charles I. <hi rend="italic"> Treaties and Other International
                             Agreements of the United States of America, 1776-1949.</hi> Volume 10,
                         Nepal-Peru. Department of State Publication 8642, August 1972.</bibl>
-                    <bibl>Department of State Country Fact Sheet: <ref
-                            target="https://www.state.gov/u-s-relations-with-oman/">Oman</ref>
-                    </bibl>
+                    <!--<bibl>Department of State Country Fact Sheet: <ref target="https://www.state.gov/u-s-relations-with-oman/">Oman</ref></bibl>-->
                     <bibl>Department of State Country Information: <ref
                             target="https://www.state.gov/countries-areas/oman/">Oman</ref>
                     </bibl>

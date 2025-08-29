@@ -79,9 +79,7 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref
-                            target="https://www.state.gov/u-s-relations-with-mali/">Mali</ref>
-                    </bibl>
+                    <!--<bibl>Department of State Country Fact Sheet: <ref target="https://www.state.gov/u-s-relations-with-mali/">Mali</ref></bibl>-->
                     <bibl>Department of State Country Information: <ref
                             target="https://www.state.gov/countries-areas/mali/">Mali</ref>
                     </bibl>

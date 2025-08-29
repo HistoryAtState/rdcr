@@ -1,4 +1,3 @@
-<?xml-stylesheet?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -178,7 +177,7 @@
                 <head>Key Diplomatic Events</head>
                 <div type="timeline">
                     <head>Bremen, Lübeck, and Hamburg Join the North German Confederation, <date
-                            when="1867" to="1868">1867-68</date>.</head>
+                            to="1868" when="1867">1867-68</date>.</head>
                     <p>Following the Austro-Prussian War of 1866, several German states joined to
                         form the North German Confederation, with the King of Prussia acting as head
                         of the union. All three Hanseatic Republics joined the North German

@@ -243,9 +243,7 @@
                     <bibl>Library of Congress Study: <ref
                             target="http://memory.loc.gov/frd/cs/yutoc.html">Yugoslavia</ref>
                     </bibl>
-                    <bibl>Department of State Country Fact Sheets: <ref
-                            target="https://www.state.gov/u-s-relations-with-serbia/">Serbia</ref>
-                    </bibl>
+                    <!--<bibl>Department of State Country Fact Sheets: <ref target="https://www.state.gov/u-s-relations-with-serbia/">Serbia</ref></bibl>-->
                     <bibl>
                         <ref target="http://memory.loc.gov/ammem/collections/diplomacy/">Frontline
                             Diplomacy</ref>: The Foreign Affairs Oral History Collection of the

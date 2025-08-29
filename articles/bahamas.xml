@@ -43,19 +43,16 @@
                 <div type="timeline">
                     <head>Establishment of Diplomatic Relations and the U.S. Embassy in Nassau,
                             <date when="1973">1973</date>.</head>
-                    <p>Diplomatic relations and the U.S. Embassy in Nassau were established July
-                        10, 1973, with <ref
-                            target="/departmenthistory/people/spear-moncrieff-johnston">Moncrieff J.
-                            Spear</ref> as Chargé d’Affaires <hi rend="italic">ad interim</hi>.</p>
+                    <p>Diplomatic relations and the U.S. Embassy in Nassau were established July 10,
+                        1973, with <ref target="/departmenthistory/people/spear-moncrieff-johnston"
+                            >Moncrieff J. Spear</ref> as Chargé d’Affaires <hi rend="italic">ad
+                            interim</hi>.</p>
                 </div>
             </div>
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref
-                            target="https://www.state.gov/u-s-relations-with-the-bahamas/">The
-                            Bahamas</ref>
-                    </bibl>
+                    <!--<bibl>Department of State Country Fact Sheet: <ref target="https://www.state.gov/u-s-relations-with-the-bahamas/">The Bahamas</ref></bibl>-->
                     <bibl>Department of State Country Information: <ref
                             target="https://www.state.gov/countries-areas/bahamas/">The
                             Bahamas</ref>

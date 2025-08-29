@@ -51,8 +51,7 @@
                 <div type="timeline">
                     <head>Accreditation of American Ambassador to Cape Verde, <date when="1976"
                             >1976</date>.</head>
-                    <p>Ambassador <ref
-                            target="/departmenthistory/people/wells-melissa-foelsch"
+                    <p>Ambassador <ref target="/departmenthistory/people/wells-melissa-foelsch"
                             >Melissa F. Wells</ref> presented her credentials to the government of
                         Cape Verde on November 18, 1976. Wells also was accredited to Guinea-Bissau
                         and was resident at Bissau.</p>
@@ -69,10 +68,7 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref
-                            target="https://www.state.gov/u-s-relations-with-cabo-verde/">Cabo
-                            Verde</ref>
-                    </bibl>
+                    <!--<bibl>Department of State Country Fact Sheet: <ref target="https://www.state.gov/u-s-relations-with-cabo-verde/">Cabo Verde</ref></bibl>-->
                     <bibl>Department of State Country Information: <ref
                             target="https://www.state.gov/countries-areas/cabo-verde/">Cabo
                             Verde</ref>
