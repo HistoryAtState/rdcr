@@ -125,8 +125,8 @@
                         until May 6, 1927.</p>
                 </div>
                 <div type="timeline">
-                    <head>Establishment of Hungarian Legation in the United States, <date when="1922"
-                            >1922</date>.</head>
+                    <head>Establishment of Hungarian Legation in the United States, <date
+                            when="1922">1922</date>.</head>
                     <p>Count <persName>Laszlo Szechenyi</persName> presented his credentials as
                         Hungary’s first Minister to the United States on January 11, 1922. He served
                         until March 31, 1933.</p>
@@ -209,7 +209,7 @@
                         <head>Key Diplomatic Events</head>
                         <div type="timeline">
                             <head>The United States and Hungarian Independence, <date when="1849"
-                                >1849</date>.</head>
+                                    >1849</date>.</head>
                             <p>On April 13, 1849, the Hungarian Diet (legislature) proclaimed a
                                 republic. The next day it elected <persName>Louis Kossuth</persName>
                                 as its president. On June 18, Secretary of State <ref
@@ -233,7 +233,7 @@
                         </div>
                         <div type="timeline">
                             <head>The United States and Hungarian Coronation Regalia, <date
-                                when="1978">1978</date>.</head>
+                                    when="1978">1978</date>.</head>
                             <p>After the end of World War II, Hungarian soldiers guarding the
                                 country’s coronation regalia transferred the Crown of St. Stephen to
                                 U.S. military forces in Austria. The Crown was transferred to the
@@ -244,7 +244,7 @@
                         </div>
                         <div type="timeline">
                             <head>Hugarian Refugees and the United States, <date when="1949"
-                                >1949</date>.</head>
+                                    >1949</date>.</head>
                             <p>After the Revolution of 1956, the United States offered asylum to
                                 over 32,000 Hungarian refugees. Cardinal <persName>Jozsef
                                     Mindszenty</persName>, who had been imprisoned by the Communist
@@ -260,10 +260,7 @@
                                     11363 (March 2007).</bibl>
                                 <bibl>Langer, William L. <hi rend="italic">An Encyclopedia of World
                                         History</hi>. Boston: Houghton Mifflin Company, 1968.</bibl>
-                                <bibl>Department of State Country Fact Sheet: <ref
-                                        target="https://www.state.gov/u-s-relations-with-hungary/"
-                                        >Hungary</ref>
-                                </bibl>
+                                <!--<bibl>Department of State Country Fact Sheet: <ref target="https://www.state.gov/u-s-relations-with-hungary/">Hungary</ref></bibl>-->
                                 <bibl>Department of State Country Information: <ref
                                         target="https://www.state.gov/countries-areas/hungary/"
                                         >Hungary</ref>

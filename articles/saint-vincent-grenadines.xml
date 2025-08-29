@@ -48,9 +48,10 @@
             <div type="section" xml:id="consular_presence">
                 <head>Consular Presence</head>
                 <div type="timeline">
-                    <p>The United States maintains no official presence in St. Vincent. The Ambassador
-                        and Embassy officers are resident in <placeName>Barbados</placeName> and
-                        frequently travel to St. Vincent.</p>
+                    <p>The United States maintains no official presence in St. Vincent. The
+                        Ambassador and Embassy officers are resident in
+                            <placeName>Barbados</placeName> and frequently travel to St.
+                        Vincent.</p>
                 </div>
             </div>
             <div type="section" xml:id="diplomatic_relations">
@@ -84,10 +85,7 @@
                 <div type="appendix">
                     <head>Resources</head>
                     <listBibl>
-                        <bibl>Department of State Country Fact Sheet: <ref
-                                target="https://www.state.gov/u-s-relations-with-saint-vincent-and-the-grenadines/"
-                                >Saint Vincent and the Grenadines</ref>
-                        </bibl>
+                        <!--<bibl>Department of State Country Fact Sheet: <ref target="https://www.state.gov/u-s-relations-with-saint-vincent-and-the-grenadines/">Saint Vincent and the Grenadines</ref></bibl>-->
                         <bibl>Department of State Country Information: <ref
                                 target="https://www.state.gov/countries-areas/saint-vincent-and-the-grenadines/"
                                 >Saint Vincent and the Grenadines</ref>

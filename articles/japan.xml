@@ -143,9 +143,7 @@
             <div type="appendix" xml:id="resources">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref
-                            target="https://www.state.gov/u-s-relations-with-japan/">Japan</ref>
-                    </bibl>
+                    <!--<bibl>Department of State Country Fact Sheet: <ref target="https://www.state.gov/u-s-relations-with-japan/">Japan</ref></bibl>-->
                     <bibl>Department of State Country Information: <ref
                             target="https://www.state.gov/countries-areas/japan/">Japan</ref>
                     </bibl>

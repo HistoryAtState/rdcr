@@ -1,4 +1,3 @@
-<?xml-stylesheet?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -20,9 +19,9 @@
             <div type="section" xml:id="summary">
                 <head>Summary</head>
                 <p>The United States and <placeName key="np">Nepal</placeName> have enjoyed friendly
-                    relations since the United States first recognized Nepal in 1947. Since 1951, the
-                    United States has provided Nepal with economic aid. In recent years, U.S. aid to
-                    Nepal is geared toward economic development and ensuring the viability of
+                    relations since the United States first recognized Nepal in 1947. Since 1951,
+                    the United States has provided Nepal with economic aid. In recent years, U.S.
+                    aid to Nepal is geared toward economic development and ensuring the viability of
                     Nepal’s democratic institutions following the abolition of the Nepalese
                     monarchy, the creation of a representative government, and the end of a 10 year
                     Maoist insurgency in 2006.</p>
@@ -58,7 +57,7 @@
                 </div>
                 <div type="timeline">
                     <head>Establishment of the U.S. Embassy in Nepal, <date when="1959"
-                            >1959</date>.</head>
+                        >1959</date>.</head>
                     <p>The U.S. Embassy at <placeName key="kathmandu">Kathmandu</placeName> was
                         established on August 6, 1959, with <ref
                             target="/departmenthistory/people/heck-louis-douglas">L. Douglas
@@ -68,9 +67,7 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref
-                            target="https://www.state.gov/u-s-relations-with-nepal/">Nepal</ref>
-                    </bibl>
+                    <!--<bibl>Department of State Country Fact Sheet: <ref target="https://www.state.gov/u-s-relations-with-nepal/">Nepal</ref></bibl>-->
                     <bibl>Department of State Country Information: <ref
                             target="https://www.state.gov/countries-areas/nepal/">Nepal</ref>
                     </bibl>

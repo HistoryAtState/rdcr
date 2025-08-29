@@ -1,4 +1,3 @@
-<?xml-stylesheet?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -65,9 +64,7 @@
             <div type="appendix">
                 <head>Resources</head>
                 <listBibl>
-                    <bibl>Department of State Country Fact Sheet: <ref
-                            target="https://www.state.gov/u-s-relations-with-burma/">Burma</ref>
-                    </bibl>
+                    <!--<bibl>Department of State Country Fact Sheet: <ref target="https://www.state.gov/u-s-relations-with-burma/">Burma</ref></bibl>-->
                     <bibl>Department of State Country Information: <ref
                             target="https://www.state.gov/countries-areas/burma/">Burma</ref>
                     </bibl>
