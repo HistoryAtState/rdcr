@@ -1,0 +1,19 @@
+articles.xconf
+  s_301c0f53682c90::t_cd83258eba0f14 7,15-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "baefe780942a8427a93619cd4a43ad4af89465cb",
+  "prompts": {},
+  "sessions": {
+    "s_301c0f53682c90": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b0549825-9c58-4674-ac97-c7e8a68fb3ff",
+        "model": "grok-4.7"
+      },
+      "human_author": "duncdrum <d.paterson@me.com>"
+    }
+  }
+}
