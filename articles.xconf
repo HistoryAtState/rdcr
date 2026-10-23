@@ -91,6 +91,11 @@
                 <field analyzer="cased" name="hsg-fulltext-cased" store="no"/>
                 <field analyzer="punct" name="hsg-fulltext-punct" store="no"/>
                 <field analyzer="literal" name="hsg-fulltext-literal" store="no"/>
+                <vector-field name="hsg-passages" dimension="384" similarity="cosine" embedding="local" model="all-MiniLM-L6-v2"
+                    chunk="tokens" chunk-overlap="16"
+                    chunk-units="node()"
+                    chunk-context="normalize-space((.//tei:head)[1])"
+                    quantize="int8"/>
                 <vector-field name="hsg-embedding"
                     dimension="384" similarity="cosine"
                     embedding="local" model="all-MiniLM-L6-v2"/>
