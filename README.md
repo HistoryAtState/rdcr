@@ -39,3 +39,5 @@ All commit message must conform to [Conventional Commit Messages](https://www.co
 | `perf(pencil): remove graphiteWidth option`<br/><br/>`BREAKING CHANGE: The graphiteWidth option has been removed.`<br/>`The default graphite width of 10mm is always used for performance reasons.` | ~~Major~~ Breaking Release |
 
 When opening PRs commit messages are checked using commitlint.
+
+
