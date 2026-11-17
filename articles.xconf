@@ -4,7 +4,7 @@
         <!-- Disable the legacy full text index -->
         <fulltext default="none" attributes="false"/>
         <!-- Lucene index configuration -->
-        <lucene>
+        <lucene vector-store="db">
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
             <text qname="tei:div"/>
             <text qname="tei:body">
@@ -12,6 +12,9 @@
                 <facet dimension="hsg-category" expression="'countries'"/>
                 <facet dimension="hsg-publication" expression="'countries-articles'"/>
                 <field name="hsg-fulltext"/>
+                <vector-field name="hsg-embedding"
+                    dimension="384" similarity="cosine"
+                    embedding="local" model="all-MiniLM-L6-v2"/>
                 <field name="hsg-url" expression="'/countries/' || util:document-name(.) =&gt; substring-before('.xml')"/>
                 <!-- end required facets and fields -->
             </text>
